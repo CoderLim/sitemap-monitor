@@ -16,6 +16,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Needed so the job can rebase onto commits made while it ran
+          # (e.g. dashboard writing data/.last_run.json via Contents API).
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,15 +38,30 @@ jobs:
 
       - name: Commit snapshots, reports and anomalies
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/*.json data/.last_run.json data/.anomalies.json reports/*.json || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "chore: update sitemap snapshots and reports"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update sitemap snapshots and reports"
+
+          # Dashboard may have pushed data/.last_run.json after this job checked out.
+          branch="${GITHUB_REF_NAME:-main}"
+          for attempt in 1 2 3 4 5; do
+            if git push origin "HEAD:${branch}"; then
+              echo "Push succeeded on attempt ${attempt}"
+              exit 0
+            fi
+            echo "Push rejected (attempt ${attempt}); rebasing onto origin/${branch}..."
+            git fetch origin "${branch}"
+            git rebase "origin/${branch}"
+            sleep $((attempt * 2))
+          done
+          echo "Failed to push after retries"
+          exit 1
 
       - name: Fail job if monitor failed
         if: steps.run.outcome == 'failure'

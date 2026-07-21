@@ -108,18 +108,8 @@ app.post("/api/run", async (c) => {
   const repo = c.env.GITHUB_REPO;
   const workflow = c.env.WORKFLOW_FILE || "monitor.yml";
   const branch = c.env.GITHUB_BRANCH || "main";
-  const res = await githubFetch(
-    c.env,
-    `/repos/${repo}/actions/workflows/${workflow}/dispatches`,
-    {
-      method: "POST",
-      body: JSON.stringify({ ref: branch }),
-    },
-  );
-  if (!res.ok && res.status !== 204) {
-    const text = await res.text();
-    return c.json({ detail: text || "failed to dispatch workflow" }, 502);
-  }
+  // Write queued status BEFORE dispatch so the Action checkout is more likely
+  // to already include this commit (reduces push race with Contents API).
   const status = {
     status: "queued",
     started_at: new Date().toISOString(),
@@ -132,6 +122,18 @@ app.post("/api/run", async (c) => {
     JSON.stringify(status, null, 2) + "\n",
     "chore: queue monitor run via dashboard",
   );
+  const res = await githubFetch(
+    c.env,
+    `/repos/${repo}/actions/workflows/${workflow}/dispatches`,
+    {
+      method: "POST",
+      body: JSON.stringify({ ref: branch }),
+    },
+  );
+  if (!res.ok && res.status !== 204) {
+    const text = await res.text();
+    return c.json({ detail: text || "failed to dispatch workflow" }, 502);
+  }
   return c.json(status);
 });
 
