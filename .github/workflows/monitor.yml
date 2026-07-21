@@ -1,0 +1,41 @@
+name: sitemap-monitor
+
+on:
+  schedule:
+    # 每天北京时间 00:00（UTC 前一天 16:00）
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install package
+        run: pip install .
+
+      - name: Run monitor
+        run: sitemap-monitor run
+
+      - name: Commit snapshots, reports and anomalies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/.last_run.json data/.anomalies.json reports/*.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update sitemap snapshots and reports"
+            git push
+          fi

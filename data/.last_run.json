@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "started_at": null,
+  "finished_at": "2026-07-21T09:31:02.947274+00:00",
+  "exit_code": 0,
+  "message": "Monitor run finished",
+  "site_results": [
+    {
+      "site_id": "poki",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "crazygames",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "gamepix",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    }
+  ],
+  "run_id": null
+}

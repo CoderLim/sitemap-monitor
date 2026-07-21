@@ -1,0 +1,21 @@
+{
+  "name": "sitemap-monitor-worker",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "hono": "^4.6.12",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241205.0",
+    "@types/js-yaml": "^4.0.9",
+    "typescript": "~5.7.2",
+    "wrangler": "^3.99.0"
+  }
+}

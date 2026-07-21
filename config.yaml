@@ -1,0 +1,21 @@
+interval: 1d
+user_agent: sitemap-monitor/0.1
+timeout_seconds: 30
+sites:
+- id: poki
+  enabled: true
+  sitemap_url: https://poki.com/en/sitemaps/games.xml
+- id: crazygames
+  enabled: true
+  sitemap_url: https://www.crazygames.com/en/sitemap
+- id: gamepix
+  enabled: true
+  sitemap_urls:
+  - https://www.gamepix.com/sitemaps/games-1.xml
+  - https://www.gamepix.com/sitemaps/games-2.xml
+  - https://www.gamepix.com/sitemaps/games-3.xml
+  - https://www.gamepix.com/sitemaps/games-4.xml
+  - https://www.gamepix.com/sitemaps/games-5.xml
+  - https://www.gamepix.com/sitemaps/games-6.xml
+  - https://www.gamepix.com/sitemaps/games-7.xml
+  - https://www.gamepix.com/sitemaps/games-8.xml
