@@ -1,16 +1,18 @@
 {
   "status": "completed",
-  "started_at": "2026-07-21T16:04:15.278421+00:00",
-  "finished_at": "2026-07-21T16:04:23.748847+00:00",
+  "started_at": "2026-07-21T17:24:35.819580+00:00",
+  "finished_at": "2026-07-21T17:24:43.900253+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "cuboy"
+      ],
       "error": null
     },
     {

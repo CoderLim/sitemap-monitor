@@ -3,6 +3,16 @@
   "date": "2026-07-21",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/cuboy-adventure",
+      "keywords": [
+        "cuboy",
+        "adventure"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cuboy"
+  ]
 }
