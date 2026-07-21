@@ -1,6 +1,74 @@
 {
-  "status": "queued",
-  "started_at": "2026-07-21T16:03:59.478Z",
-  "message": "GitHub Actions workflow_dispatch accepted",
+  "status": "completed",
+  "started_at": "2026-07-21T16:04:15.278421+00:00",
+  "finished_at": "2026-07-21T16:04:23.748847+00:00",
+  "exit_code": 0,
+  "message": "Monitor run finished",
+  "site_results": [
+    {
+      "site_id": "poki",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "crazygames",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "gamepix",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "lagged",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "kizi",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "y8",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "miniplay",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    },
+    {
+      "site_id": "playhop",
+      "is_baseline": false,
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
+      "error": null
+    }
+  ],
   "run_id": null
 }
