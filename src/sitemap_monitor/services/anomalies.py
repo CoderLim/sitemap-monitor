@@ -11,7 +11,7 @@ from typing import Any
 from sitemap_monitor.config import AppConfig, load_config
 from sitemap_monitor.fetch import HttpxTextClient, TextClient
 from sitemap_monitor.interval import interval_to_seconds
-from sitemap_monitor.parse import parse_sitemap_xml
+from sitemap_monitor.parse import parse_sitemap
 from sitemap_monitor.services.reports import latest_reports_by_site
 from sitemap_monitor.store import load_snapshot
 
@@ -192,7 +192,7 @@ def _sitemap_probe_anomalies(cfg: AppConfig, client: TextClient) -> list[Anomaly
         for url in site.sitemap_urls:
             try:
                 text = client.get_text(url)
-                parsed = parse_sitemap_xml(text)
+                parsed = parse_sitemap(text)
                 if not parsed.locs:
                     empty_count += 1
                     items.append(

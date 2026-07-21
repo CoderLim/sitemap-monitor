@@ -1,6 +1,8 @@
-"""Tests for sitemap XML parsing."""
+"""Tests for sitemap XML / text parsing."""
 
-from sitemap_monitor.parse import parse_sitemap_xml
+import pytest
+
+from sitemap_monitor.parse import parse_sitemap, parse_sitemap_text, parse_sitemap_xml
 
 
 URLSET = """<?xml version="1.0" encoding="UTF-8"?>
@@ -50,3 +52,30 @@ def test_parse_urlset_ignores_image_loc():
     """
     result = parse_sitemap_xml(xml)
     assert result.locs == ["https://www.gamepix.com/play/tentrix"]
+
+
+def test_parse_sitemap_text_one_url_per_line():
+    text = """# lagged-style sitemap
+https://lagged.com/en/g/retro-ninja
+https://lagged.com/en/g/tomb-runner
+
+http://example.com/plain
+"""
+    result = parse_sitemap_text(text)
+    assert result.kind == "urlset"
+    assert result.locs == [
+        "https://lagged.com/en/g/retro-ninja",
+        "https://lagged.com/en/g/tomb-runner",
+        "http://example.com/plain",
+    ]
+
+
+def test_parse_sitemap_dispatches_text_vs_xml():
+    text = "https://lagged.com/a\nhttps://lagged.com/b\n"
+    assert parse_sitemap(text).locs == ["https://lagged.com/a", "https://lagged.com/b"]
+    assert parse_sitemap(URLSET).kind == "urlset"
+
+
+def test_parse_sitemap_text_rejects_empty():
+    with pytest.raises(ValueError, match="empty or unsupported text sitemap"):
+        parse_sitemap_text("# only comments\n")

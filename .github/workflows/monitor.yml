@@ -25,7 +25,11 @@ jobs:
       - name: Install package
         run: pip install .
 
+      # Keep going so reports / .last_run.json / .anomalies.json still get committed
+      # when one site fails (Dashboard reads those files from the repo).
       - name: Run monitor
+        id: run
+        continue-on-error: true
         run: sitemap-monitor run
 
       - name: Commit snapshots, reports and anomalies
@@ -39,3 +43,9 @@ jobs:
             git commit -m "chore: update sitemap snapshots and reports"
             git push
           fi
+
+      - name: Fail job if monitor failed
+        if: steps.run.outcome == 'failure'
+        run: |
+          echo "Monitor run failed; artifacts were still committed for the dashboard."
+          exit 1

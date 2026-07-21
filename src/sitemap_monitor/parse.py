@@ -1,4 +1,4 @@
-"""Parse sitemap XML into location lists."""
+"""Parse sitemap XML / plain-text URL lists into location lists."""
 
 from __future__ import annotations
 
@@ -16,6 +16,28 @@ def _local_name(tag: str) -> str:
     if "}" in tag:
         return tag.rsplit("}", 1)[-1]
     return tag
+
+
+def parse_sitemap(text: str) -> SitemapParseResult:
+    """Parse XML sitemaps or newline-delimited text sitemaps (e.g. ``sitemap.txt``)."""
+    stripped = text.lstrip()
+    if not stripped.startswith("<"):
+        return parse_sitemap_text(text)
+    return parse_sitemap_xml(text)
+
+
+def parse_sitemap_text(text: str) -> SitemapParseResult:
+    """Parse a plain-text sitemap: one absolute URL per line (``#`` comments allowed)."""
+    locs: list[str] = []
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("http://") or line.startswith("https://"):
+            locs.append(line)
+    if not locs:
+        raise ValueError("empty or unsupported text sitemap")
+    return SitemapParseResult(kind="urlset", locs=locs)
 
 
 def parse_sitemap_xml(xml_text: str) -> SitemapParseResult:

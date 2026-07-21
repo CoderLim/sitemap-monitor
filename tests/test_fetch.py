@@ -80,6 +80,20 @@ def test_collect_urls_from_urlset_directly():
     ]
 
 
+def test_collect_urls_from_plain_text_sitemap():
+    client = FakeClient(
+        {
+            "https://lagged.com/sitemap.txt": (
+                "https://lagged.com/en/g/a\nhttps://lagged.com/en/g/b\n"
+            )
+        }
+    )
+    assert collect_urls("https://lagged.com/sitemap.txt", client) == [
+        "https://lagged.com/en/g/a",
+        "https://lagged.com/en/g/b",
+    ]
+
+
 def test_collect_urls_from_many_merges_and_dedupes():
     from sitemap_monitor.fetch import collect_urls_from_many
 

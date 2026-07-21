@@ -8,7 +8,7 @@ from typing import Protocol
 
 import httpx
 
-from sitemap_monitor.parse import parse_sitemap_xml
+from sitemap_monitor.parse import parse_sitemap
 
 _GZIP_MAGIC = b"\x1f\x8b"
 
@@ -39,7 +39,7 @@ class HttpxTextClient:
     def get_text(self, url: str) -> str:
         headers = {
             "User-Agent": self._user_agent,
-            "Accept": "application/xml,text/xml,application/gzip,*/*;q=0.8",
+            "Accept": "application/xml,text/xml,text/plain,application/gzip,*/*;q=0.8",
         }
         with httpx.Client(timeout=self._timeout, follow_redirects=True) as client:
             response = client.get(url, headers=headers)
@@ -80,7 +80,7 @@ def collect_urls(
         return []
     visited.add(sitemap_url)
 
-    parsed = parse_sitemap_xml(client.get_text(sitemap_url))
+    parsed = parse_sitemap(client.get_text(sitemap_url))
     if parsed.kind == "urlset":
         return list(parsed.locs)
 
