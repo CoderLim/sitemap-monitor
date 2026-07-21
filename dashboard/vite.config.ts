@@ -52,6 +52,11 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
+    // Embed the resolved token into the production bundle so the deployed
+    // dashboard authenticates against the Worker (dev uses the proxy above).
+    define: {
+      "import.meta.env.VITE_DASHBOARD_TOKEN": JSON.stringify(dashboardToken),
+    },
     server: {
       port: 5173,
       proxy: {

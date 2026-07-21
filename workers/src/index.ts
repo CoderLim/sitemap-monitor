@@ -28,6 +28,10 @@ type AppConfig = {
 
 const app = new Hono<{ Bindings: Env }>();
 
+app.onError((err, c) => {
+  return c.json({ detail: err instanceof Error ? err.message : String(err) }, 500);
+});
+
 app.use("*", cors());
 
 app.use("/api/*", async (c, next) => {
@@ -286,10 +290,21 @@ async function githubFetch(env: Env, path: string, init: RequestInit = {}) {
   headers.set("Authorization", `Bearer ${env.GITHUB_TOKEN}`);
   headers.set("Accept", "application/vnd.github+json");
   headers.set("X-GitHub-Api-Version", "2022-11-28");
+  // GitHub API rejects requests without a User-Agent (403).
+  headers.set("User-Agent", "sitemap-monitor-worker");
   if (init.body && !headers.has("Content-Type")) {
     headers.set("Content-Type", "application/json");
   }
-  return fetch(`https://api.github.com${path}`, { ...init, headers });
+  const url = `https://api.github.com${path}`;
+  // Never serve GitHub responses from Cloudflare's edge cache.
+  const options: RequestInit = { ...init, headers, cf: { cacheTtl: 0 } };
+  let res = await fetch(url, options);
+  // Retry once on transient secondary-rate-limit 403/429 from shared Worker IPs.
+  if ((res.status === 403 || res.status === 429) && (init.method || "GET") === "GET") {
+    await new Promise((r) => setTimeout(r, 400));
+    res = await fetch(url, options);
+  }
+  return res;
 }
 
 async function readGithubFile(env: Env, path: string): Promise<string | null> {

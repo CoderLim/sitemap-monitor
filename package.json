@@ -1,0 +1,15 @@
+{
+  "name": "sitemap-monitor",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dashboard:dev": "npm --prefix dashboard run dev",
+    "dashboard:build": "npm --prefix dashboard run build",
+    "cf:build": "npm --prefix dashboard run build",
+    "cf:deploy": "npm run cf:build && npm --prefix workers run deploy",
+    "cf:deploy:worker": "npm --prefix workers run deploy",
+    "cf:dev": "npm --prefix workers run dev",
+    "cf:secrets": "npm --prefix workers run secrets",
+    "cf:whoami": "npm --prefix workers exec -- wrangler whoami"
+  }
+}

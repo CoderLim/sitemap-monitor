@@ -5,8 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
+    "check": "tsc --noEmit",
     "deploy": "wrangler deploy",
-    "check": "tsc --noEmit"
+    "deploy:full": "npm --prefix ../dashboard run build && wrangler deploy",
+    "secrets": "node ./scripts/put-secrets.mjs",
+    "whoami": "wrangler whoami",
+    "tail": "wrangler tail"
   },
   "dependencies": {
     "hono": "^4.6.12",

@@ -112,17 +112,31 @@ Worker Secret 可设 `ACCESS_PASSWORD` 或 `DASHBOARD_TOKEN`（二选一），`G
 
 ### 2. 构建前端并部署 Worker
 
+根目录 `package.json` 已封装常用脚本（会先 `dashboard` 构建再 `wrangler deploy`；构建时自动从 `ACCESS_PASSWORD` / `../link-master/.env.local` 注入前端 token）：
+
 ```bash
-cd dashboard && npm install && npm run build
-cd ../workers
-npm install
-# 编辑 wrangler.toml 里的 GITHUB_REPO
-npx wrangler secret put ACCESS_PASSWORD   # same as link-master
-npx wrangler secret put GITHUB_TOKEN      # same PAT as link-master
-# optional alias:
-# npx wrangler secret put DASHBOARD_TOKEN
-npx wrangler deploy
+# 首次：安装依赖
+npm --prefix dashboard install
+npm --prefix workers install
+
+# 编辑 workers/wrangler.toml 里的 GITHUB_REPO
+# 写入 Worker Secrets（读 env 或 ../link-master/.env.local）
+npm run cf:secrets
+
+# 构建 Dashboard + 部署 Worker
+npm run cf:deploy
 ```
+
+常用脚本：
+
+| 命令 | 作用 |
+|------|------|
+| `npm run cf:deploy` | 构建前端 + 部署 Worker |
+| `npm run cf:deploy:worker` | 仅部署 Worker（不重建前端） |
+| `npm run cf:build` | 仅构建 `dashboard/dist` |
+| `npm run cf:secrets` | 写入 `GITHUB_TOKEN` / `ACCESS_PASSWORD` |
+| `npm run cf:dev` | 本地 `wrangler dev` |
+| `npm run cf:whoami` | 查看当前 Cloudflare 登录账号 |
 
 `workers/wrangler.toml` 会挂载 `dashboard/dist` 为静态资源，`/api/*` 由 Worker 处理。
 

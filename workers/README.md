@@ -5,9 +5,14 @@
 ## Secrets（与 link-master 共用）
 
 ```bash
-npx wrangler secret put ACCESS_PASSWORD   # 同 link-master 管理密码
-npx wrangler secret put GITHUB_TOKEN      # 同 link-master 的 GitHub PAT
-# 可选：npx wrangler secret put DASHBOARD_TOKEN
+# 推荐：从仓库根目录一键写入（读 env 或 ../link-master/.env.local）
+npm run cf:secrets
+
+# 或在本目录：
+npm run secrets
+# 等价于手动：
+# npx wrangler secret put ACCESS_PASSWORD
+# npx wrangler secret put GITHUB_TOKEN
 ```
 
 Vars 在 [`wrangler.toml`](wrangler.toml)：`GITHUB_REPO`、`GITHUB_BRANCH`、`WORKFLOW_FILE`。
@@ -15,6 +20,11 @@ Vars 在 [`wrangler.toml`](wrangler.toml)：`GITHUB_REPO`、`GITHUB_BRANCH`、`W
 ## Deploy
 
 ```bash
-cd ../dashboard && npm run build
-cd ../workers && npm install && npx wrangler deploy
+# 仓库根目录（推荐）
+npm run cf:deploy
+
+# 或在本目录：构建前端 + 部署
+npm run deploy:full
+# 仅部署 Worker
+npm run deploy
 ```
