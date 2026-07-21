@@ -19,3 +19,21 @@ sites:
   - https://www.gamepix.com/sitemaps/games-6.xml
   - https://www.gamepix.com/sitemaps/games-7.xml
   - https://www.gamepix.com/sitemaps/games-8.xml
+- id: lagged
+  enabled: true
+  sitemap_url: https://lagged.com/sitemap.txt
+- id: kizi
+  enabled: true
+  sitemap_url: https://kizi.com/sitemaps/kizi/en/sitemap_games.xml.gz
+- id: y8
+  enabled: true
+  sitemap_url: https://img.y8.com/sitemaps/y8/en/sitemap2.xml.gz
+- id: miniplay
+  enabled: true
+  sitemap_url: https://www.miniplay.com/sitemap-games-3.xml
+- id: playhop
+  enabled: true
+  sitemap_urls:
+  - https://playhop.com/sitemaps/sitemap.apps0.xml
+  - https://playhop.com/sitemaps/sitemap.apps1.xml
+  - https://playhop.com/sitemaps/sitemap.apps2.xml

@@ -1,6 +1,23 @@
 """Tests for sitemap fetching with index recursion."""
 
-from sitemap_monitor.fetch import collect_urls
+import gzip
+
+from sitemap_monitor.fetch import collect_urls, decode_sitemap_bytes
+
+
+def test_decode_sitemap_bytes_plain():
+    assert decode_sitemap_bytes("https://x.com/sitemap.xml", b"<urlset/>") == "<urlset/>"
+
+
+def test_decode_sitemap_bytes_gzip():
+    raw = b"<urlset><url><loc>https://x.com/a</loc></url></urlset>"
+    packed = gzip.compress(raw)
+    assert decode_sitemap_bytes("https://x.com/sitemap.xml.gz", packed) == raw.decode()
+
+
+def test_decode_sitemap_bytes_gzip_without_gz_suffix():
+    raw = b"<urlset/>"
+    assert decode_sitemap_bytes("https://x.com/sitemap.xml", gzip.compress(raw)) == "<urlset/>"
 
 
 class FakeClient:

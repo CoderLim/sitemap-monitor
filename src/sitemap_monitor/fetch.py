@@ -2,12 +2,27 @@
 
 from __future__ import annotations
 
+import gzip
 import subprocess
 from typing import Protocol
 
 import httpx
 
 from sitemap_monitor.parse import parse_sitemap_xml
+
+_GZIP_MAGIC = b"\x1f\x8b"
+
+
+def decode_sitemap_bytes(url: str, data: bytes) -> str:
+    """Decode raw sitemap bytes, transparently gunzipping gzip payloads.
+
+    Detection relies on the gzip magic bytes so it works whether the URL ends
+    in .gz or not, and never double-decompresses content httpx already inflated.
+    """
+    del url  # kept for signature stability / future content-type hints
+    if data[:2] == _GZIP_MAGIC:
+        data = gzip.decompress(data)
+    return data.decode("utf-8", "replace")
 
 
 class TextClient(Protocol):
@@ -24,16 +39,16 @@ class HttpxTextClient:
     def get_text(self, url: str) -> str:
         headers = {
             "User-Agent": self._user_agent,
-            "Accept": "application/xml,text/xml,*/*;q=0.8",
+            "Accept": "application/xml,text/xml,application/gzip,*/*;q=0.8",
         }
         with httpx.Client(timeout=self._timeout, follow_redirects=True) as client:
             response = client.get(url, headers=headers)
             if response.status_code == 403:
-                return self._curl_get(url)
+                return decode_sitemap_bytes(url, self._curl_get(url))
             response.raise_for_status()
-            return response.text
+            return decode_sitemap_bytes(url, response.content)
 
-    def _curl_get(self, url: str) -> str:
+    def _curl_get(self, url: str) -> bytes:
         result = subprocess.run(
             [
                 "curl",
@@ -46,10 +61,9 @@ class HttpxTextClient:
             ],
             check=False,
             capture_output=True,
-            text=True,
         )
         if result.returncode != 0:
-            detail = (result.stderr or result.stdout or "curl failed").strip()
+            detail = (result.stderr.decode("utf-8", "replace") or "curl failed").strip()
             raise RuntimeError(f"curl fetch failed for {url}: {detail}")
         return result.stdout
 

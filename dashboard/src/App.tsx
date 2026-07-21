@@ -10,6 +10,8 @@ import {
 
 type Tab = "keywords" | "sites" | "run" | "anomalies";
 
+const ALL_SITES = "__all__";
+
 const emptySite = (): Site => ({
   id: "",
   enabled: true,
@@ -33,11 +35,17 @@ export default function App() {
   const [config, setConfig] = useState<ConfigPayload | null>(null);
   const [dates, setDates] = useState<string[]>([]);
   const [date, setDate] = useState("");
-  const [siteId, setSiteId] = useState("");
-  const [report, setReport] = useState<ReportDetail | null>(null);
+  const [siteId, setSiteId] = useState(ALL_SITES);
+  const [reports, setReports] = useState<ReportDetail[]>([]);
   const [run, setRun] = useState<RunStatus | null>(null);
   const [anomalies, setAnomalies] = useState<Anomaly[]>([]);
   const [busy, setBusy] = useState(false);
+  const [notice, setNotice] = useState<string | null>(null);
+
+  const flash = useCallback((message: string) => {
+    setNotice(message);
+    window.setTimeout(() => setNotice(null), 3000);
+  }, []);
 
   const wrap = useCallback(async (fn: () => Promise<void>) => {
     setError(null);
@@ -60,23 +68,32 @@ export default function App() {
     setRun(status);
     setAnomalies(anomalyRes.anomalies);
     if (!date && dateRes.dates[0]) setDate(dateRes.dates[0]);
-    if (!siteId && sites.sites[0]) setSiteId(sites.sites[0].id);
-  }, [date, siteId]);
+  }, [date]);
 
   useEffect(() => {
     void wrap(refreshCore);
   }, [wrap, refreshCore]);
 
   useEffect(() => {
-    if (!date || !siteId) {
-      setReport(null);
+    if (!date) {
+      setReports([]);
       return;
     }
     void wrap(async () => {
-      try {
-        setReport(await api.getReport(date, siteId));
-      } catch {
-        setReport(null);
+      if (siteId === ALL_SITES) {
+        const { reports: summaries } = await api.listReports(date);
+        const details = await Promise.all(
+          summaries.map((s) =>
+            api.getReport(date, s.site_id).catch(() => null),
+          ),
+        );
+        setReports(details.filter((d): d is ReportDetail => d !== null));
+      } else {
+        try {
+          setReports([await api.getReport(date, siteId)]);
+        } catch {
+          setReports([]);
+        }
       }
     });
   }, [date, siteId, wrap]);
@@ -92,23 +109,33 @@ export default function App() {
   const siteOptions = useMemo(() => config?.sites.map((s) => s.id) || [], [config]);
 
   const keywordRows = useMemo(() => {
-    if (!report) return [];
-    const urlsByKeyword = new Map<string, string[]>();
-    for (const row of report.new_urls) {
-      for (const kw of row.keywords) {
-        const list = urlsByKeyword.get(kw) || [];
-        if (!list.includes(row.url)) list.push(row.url);
-        urlsByKeyword.set(kw, list);
+    const rows: { keyword: string; site: string; urls: string[] }[] = [];
+    for (const report of reports) {
+      const urlsByKeyword = new Map<string, string[]>();
+      for (const row of report.new_urls) {
+        for (const kw of row.keywords) {
+          const list = urlsByKeyword.get(kw) || [];
+          if (!list.includes(row.url)) list.push(row.url);
+          urlsByKeyword.set(kw, list);
+        }
+      }
+      const ordered = report.new_keywords.length
+        ? report.new_keywords
+        : [...urlsByKeyword.keys()];
+      for (const keyword of ordered) {
+        rows.push({
+          keyword,
+          site: report.site_id,
+          urls: urlsByKeyword.get(keyword) || [],
+        });
       }
     }
-    const ordered = report.new_keywords.length
-      ? report.new_keywords
-      : [...urlsByKeyword.keys()];
-    return ordered.map((keyword) => ({
-      keyword,
-      urls: urlsByKeyword.get(keyword) || [],
-    }));
-  }, [report]);
+    return rows;
+  }, [reports]);
+
+  const totalKeywords = keywordRows.length;
+  const showSiteColumn = siteId === ALL_SITES;
+  const hasReports = reports.length > 0;
 
   const onSaveSites = async (event: FormEvent) => {
     event.preventDefault();
@@ -117,6 +144,7 @@ export default function App() {
     await wrap(async () => {
       const saved = await api.putSites(config);
       setConfig(saved);
+      flash("配置已保存到 config.yaml");
     });
     setBusy(false);
   };
@@ -126,6 +154,7 @@ export default function App() {
     await wrap(async () => {
       const status = await api.triggerRun();
       setRun(status);
+      flash("已开始抓取");
     });
     setBusy(false);
   };
@@ -135,6 +164,7 @@ export default function App() {
     await wrap(async () => {
       const res = await api.clearAnomalies();
       setAnomalies(res.anomalies);
+      flash("异常日志已清空");
     });
     setBusy(false);
   };
@@ -153,6 +183,7 @@ export default function App() {
       </header>
 
       {error ? <p className="error-banner">{error}</p> : null}
+      {notice ? <p className="notice-banner">{notice}</p> : null}
 
       <nav className="tabs" aria-label="主导航">
         {(
@@ -178,13 +209,11 @@ export default function App() {
         <section className="panel">
           <div className="panel-head">
             <h2>按日新增词</h2>
-            {report ? (
+            {hasReports ? (
               <div className="meta-bar">
                 <span className="stat">
-                  关键词 <strong>{report.is_baseline ? 0 : report.new_keywords.length}</strong>
+                  关键词 <strong>{totalKeywords}</strong>
                 </span>
-                {report.is_baseline ? <span className="stat">baseline</span> : null}
-                {report.error ? <span className="status-pill failed">error</span> : null}
               </div>
             ) : null}
           </div>
@@ -204,6 +233,7 @@ export default function App() {
             <label>
               站点
               <select value={siteId} onChange={(e) => setSiteId(e.target.value)}>
+                <option value={ALL_SITES}>全部</option>
                 {siteOptions.map((id) => (
                   <option key={id} value={id}>
                     {id}
@@ -213,8 +243,8 @@ export default function App() {
             </label>
           </div>
 
-          {!report ? (
-            <p className="empty">该日该站暂无报告。</p>
+          {!hasReports ? (
+            <p className="empty">该日暂无报告。</p>
           ) : (
             <>
               <h3>关键词明细</h3>
@@ -226,15 +256,21 @@ export default function App() {
                     <thead>
                       <tr>
                         <th>关键词</th>
+                        {showSiteColumn ? <th>站点</th> : null}
                         <th>对应 URL</th>
                       </tr>
                     </thead>
                     <tbody>
                       {keywordRows.map((row) => (
-                        <tr key={row.keyword}>
+                        <tr key={`${row.site}-${row.keyword}`}>
                           <td>
                             <span className="chip">{row.keyword}</span>
                           </td>
+                          {showSiteColumn ? (
+                            <td>
+                              <span className="mono muted">{row.site}</span>
+                            </td>
+                          ) : null}
                           <td>
                             {row.urls.length === 0 ? (
                               <span className="muted">—</span>
