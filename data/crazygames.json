@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-21T09:30:41.848085+00:00",
+  "fetched_at": "2026-07-21T13:38:39.604229+00:00",
   "baseline": false,
   "urls": [
     {
@@ -35764,18 +35764,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/play-and-upgrade",
-      "keywords": [
-        "play",
-        "and",
-        "upgrade"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
-      "keywords": []
-    },
-    {
       "url": "https://www.crazygames.com/t/battle-royale",
       "keywords": [
         "battle",
@@ -36096,6 +36084,18 @@
       "keywords": [
         "sorting"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade",
+      "keywords": [
+        "play",
+        "and",
+        "upgrade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
+      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/shark",
