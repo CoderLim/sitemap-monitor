@@ -1,38 +1,6 @@
 {
-  "status": "completed",
-  "started_at": "2026-07-21T13:38:39.602407+00:00",
-  "finished_at": "2026-07-21T13:38:41.443390+00:00",
-  "exit_code": 0,
-  "message": "Monitor run finished",
-  "site_results": [
-    {
-      "site_id": "poki",
-      "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
-      "error": null
-    },
-    {
-      "site_id": "crazygames",
-      "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
-      "error": null
-    },
-    {
-      "site_id": "gamepix",
-      "is_baseline": false,
-      "new_url_count": 14,
-      "new_keyword_count": 3,
-      "new_keywords": [
-        "danny",
-        "crizy",
-        "octopus"
-      ],
-      "error": null
-    }
-  ],
+  "status": "queued",
+  "started_at": "2026-07-21T14:57:13.863Z",
+  "message": "GitHub Actions workflow_dispatch accepted",
   "run_id": null
 }
