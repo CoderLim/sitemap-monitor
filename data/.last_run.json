@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": null,
-  "finished_at": "2026-07-21T09:31:02.947274+00:00",
+  "started_at": "2026-07-21T13:38:39.602407+00:00",
+  "finished_at": "2026-07-21T13:38:41.443390+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -24,9 +24,13 @@
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 14,
+      "new_keyword_count": 3,
+      "new_keywords": [
+        "danny",
+        "crizy",
+        "octopus"
+      ],
       "error": null
     }
   ],

@@ -3,6 +3,125 @@
   "date": "2026-07-21",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/what-that-picture",
+      "keywords": [
+        "what",
+        "that",
+        "picture"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/put-number-puzzle",
+      "keywords": [
+        "put",
+        "number",
+        "puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mushrooms-jigsaw-block-blitz",
+      "keywords": [
+        "mushrooms",
+        "jigsaw",
+        "block",
+        "blitz"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-pop-adventure",
+      "keywords": [
+        "bubble",
+        "pop",
+        "adventure"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wings-of-the-past",
+      "keywords": [
+        "wings",
+        "of",
+        "the",
+        "past"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kitty-kuro-lab-escape",
+      "keywords": [
+        "kitty",
+        "kuro",
+        "lab",
+        "escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dangerous-danny",
+      "keywords": [
+        "dangerous",
+        "danny"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/santa-s-little-helper",
+      "keywords": [
+        "santa",
+        "little",
+        "helper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/christmas-puzzle-2",
+      "keywords": [
+        "christmas",
+        "puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crizy-balls",
+      "keywords": [
+        "crizy",
+        "balls"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ultimate-kids-true-color",
+      "keywords": [
+        "ultimate",
+        "kids",
+        "true",
+        "color"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/santa-steps",
+      "keywords": [
+        "santa",
+        "steps"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dress-up-outfit-match",
+      "keywords": [
+        "dress",
+        "up",
+        "outfit",
+        "match"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/go-octopus-find-pearl",
+      "keywords": [
+        "go",
+        "octopus",
+        "find",
+        "pearl"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "danny",
+    "crizy",
+    "octopus"
+  ]
 }
