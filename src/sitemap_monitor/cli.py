@@ -171,6 +171,17 @@ def build_parser() -> argparse.ArgumentParser:
         default=Path("."),
         help="Repository root containing config.yaml / data / reports",
     )
+
+    repair = sub.add_parser(
+        "repair-keywords",
+        help="Re-extract phrase keywords from URLs in data/ and reports/",
+    )
+    repair.add_argument(
+        "--root",
+        type=Path,
+        default=Path("."),
+        help="Repository root containing data/ and reports/",
+    )
     return parser
 
 
@@ -226,6 +237,14 @@ def main(argv: list[str] | None = None) -> int:
         ws_root = args.root if args.root.is_absolute() else root / args.root
         app = create_app(Workspace.from_root(ws_root))
         uvicorn.run(app, host=args.host, port=args.port, log_level="info")
+        return 0
+
+    if args.command == "repair-keywords":
+        from sitemap_monitor.services.repair_keywords import repair_all
+
+        ws_root = args.root if args.root.is_absolute() else root / args.root
+        snap_n, report_n = repair_all(root=ws_root)
+        print(f"done: {snap_n} snapshot(s), {report_n} report(s) updated")
         return 0
 
     parser.error(f"unknown command: {args.command}")
