@@ -49,3 +49,12 @@ def test_filters_numeric_only_slug():
     assert extract_keywords_from_url("https://example.com/post/a-12-hello") == [
         "a 12 hello"
     ]
+
+
+def test_strips_playhop_trailing_six_digit_id():
+    assert extract_keywords_from_url(
+        "https://playhop.com/app/car-destruction-king-342970"
+    ) == ["car destruction king"]
+    assert extract_keywords_from_url(
+        "https://playhop.com/app/supermarket-simulator-the-original-342994"
+    ) == ["supermarket simulator the original"]

@@ -8,12 +8,16 @@ from urllib.parse import unquote, urlparse
 _EXTENSIONS = {".html", ".htm", ".php", ".aspx", ".jsp", ".xml"}
 _SEP_RE = re.compile(r"[-_]+")
 _SPACE_RE = re.compile(r"\s+")
+# Playhop (and similar) append a stable numeric id: game-name-342970
+_TRAILING_ID_RE = re.compile(r"[-_]\d{6,}$")
 
 
 def extract_keywords_from_url(url: str) -> list[str]:
     """Return the last path slug as one phrase keyword (hyphens/underscores → spaces).
 
     Example: ``/play/dangerous-danny`` → ``["dangerous danny"]``.
+    Trailing 6+ digit ids are stripped: ``/app/car-destruction-king-342970``
+    → ``["car destruction king"]``.
     """
     path = unquote(urlparse(url).path or "")
     segments = [s for s in path.split("/") if s]
@@ -25,6 +29,8 @@ def extract_keywords_from_url(url: str) -> list[str]:
         if slug.endswith(ext):
             slug = slug[: -len(ext)]
             break
+
+    slug = _TRAILING_ID_RE.sub("", slug)
 
     phrase = _SPACE_RE.sub(" ", _SEP_RE.sub(" ", slug)).strip()
     if not phrase:
