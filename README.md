@@ -153,7 +153,7 @@ npm run cf:deploy
 
 1. 首次运行：baseline，不报新增
 2. 之后：相对上次快照算新增 URL/关键词
-3. 关键词：path 最后一段；过滤纯数字与长度 &lt; 2 的 token
+3. 关键词：path 最后一段整段 slug（`-`/`_` → 空格），如 `dangerous-danny` → `dangerous danny`；过滤纯数字与过短片段
 4. Gamepix 等站点若遇 Cloudflare 403，本地 CLI 会 curl 回退；Worker 探测 sitemap 用 `fetch`（可能仍被拦，以 Actions 抓取为准）
 
 ## 明确不做

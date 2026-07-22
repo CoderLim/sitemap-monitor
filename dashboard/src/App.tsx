@@ -29,6 +29,15 @@ function formatTime(iso: string): string {
   );
 }
 
+function LoadingBlock({ label = "加载中…" }: { label?: string }) {
+  return (
+    <div className="loading-block" role="status" aria-live="polite">
+      <span className="loading-spinner" aria-hidden="true" />
+      <span>{label}</span>
+    </div>
+  );
+}
+
 export default function App() {
   const [tab, setTab] = useState<Tab>("keywords");
   const [error, setError] = useState<string | null>(null);
@@ -40,7 +49,11 @@ export default function App() {
   const [run, setRun] = useState<RunStatus | null>(null);
   const [anomalies, setAnomalies] = useState<Anomaly[]>([]);
   const [busy, setBusy] = useState(false);
+  const [booting, setBooting] = useState(true);
+  const [reportsLoading, setReportsLoading] = useState(true);
+  const [refreshing, setRefreshing] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
+  const [copiedKeyword, setCopiedKeyword] = useState<string | null>(null);
 
   const flash = useCallback((message: string) => {
     setNotice(message);
@@ -71,33 +84,62 @@ export default function App() {
   }, [date]);
 
   useEffect(() => {
-    void wrap(refreshCore);
+    void wrap(async () => {
+      try {
+        await refreshCore();
+      } finally {
+        setBooting(false);
+      }
+    });
   }, [wrap, refreshCore]);
 
   useEffect(() => {
     if (!date) {
       setReports([]);
+      setReportsLoading(false);
       return;
     }
+    let cancelled = false;
+    setReportsLoading(true);
     void wrap(async () => {
-      if (siteId === ALL_SITES) {
-        const { reports: summaries } = await api.listReports(date);
-        const details = await Promise.all(
-          summaries.map((s) =>
-            api.getReport(date, s.site_id).catch(() => null),
-          ),
-        );
-        setReports(details.filter((d): d is ReportDetail => d !== null));
-      } else {
-        try {
-          setReports([await api.getReport(date, siteId)]);
-        } catch {
-          setReports([]);
+      try {
+        if (siteId === ALL_SITES) {
+          const { reports: summaries } = await api.listReports(date);
+          const details = await Promise.all(
+            summaries.map((s) =>
+              api.getReport(date, s.site_id).catch(() => null),
+            ),
+          );
+          if (!cancelled) {
+            setReports(details.filter((d): d is ReportDetail => d !== null));
+          }
+        } else {
+          try {
+            const detail = await api.getReport(date, siteId);
+            if (!cancelled) setReports([detail]);
+          } catch {
+            if (!cancelled) setReports([]);
+          }
         }
+      } finally {
+        if (!cancelled) setReportsLoading(false);
       }
     });
+    return () => {
+      cancelled = true;
+    };
   }, [date, siteId, wrap]);
 
+  const onRefresh = async () => {
+    setRefreshing(true);
+    await wrap(async () => {
+      try {
+        await refreshCore();
+      } finally {
+        setRefreshing(false);
+      }
+    });
+  };
   useEffect(() => {
     if (run?.status !== "running" && run?.status !== "queued") return;
     const id = window.setInterval(() => {
@@ -136,6 +178,48 @@ export default function App() {
   const totalKeywords = keywordRows.length;
   const showSiteColumn = siteId === ALL_SITES;
   const hasReports = reports.length > 0;
+
+  const copyText = useCallback(
+    async (text: string, okMessage: string) => {
+      try {
+        if (navigator.clipboard?.writeText) {
+          await navigator.clipboard.writeText(text);
+        } else {
+          const area = document.createElement("textarea");
+          area.value = text;
+          area.setAttribute("readonly", "");
+          area.style.position = "fixed";
+          area.style.left = "-9999px";
+          document.body.appendChild(area);
+          area.select();
+          const ok = document.execCommand("copy");
+          document.body.removeChild(area);
+          if (!ok) throw new Error("execCommand copy failed");
+        }
+        flash(okMessage);
+        return true;
+      } catch {
+        setError("复制失败，请检查浏览器剪贴板权限");
+        return false;
+      }
+    },
+    [flash],
+  );
+
+  const onCopyKeyword = async (keyword: string) => {
+    const ok = await copyText(keyword, `已复制：${keyword}`);
+    if (!ok) return;
+    setCopiedKeyword(keyword);
+    window.setTimeout(() => {
+      setCopiedKeyword((current) => (current === keyword ? null : current));
+    }, 1500);
+  };
+
+  const onCopyAllKeywords = async () => {
+    const unique = [...new Set(keywordRows.map((row) => row.keyword))];
+    if (unique.length === 0) return;
+    await copyText(unique.join("\n"), `已复制 ${unique.length} 个关键词`);
+  };
 
   const onSaveSites = async (event: FormEvent) => {
     event.preventDefault();
@@ -176,8 +260,13 @@ export default function App() {
           <h1 className="brand">Sitemap Dashboard</h1>
         </div>
         <div className="toolbar">
-          <button className="btn secondary" type="button" onClick={() => void wrap(refreshCore)}>
-            刷新数据
+          <button
+            className="btn secondary"
+            type="button"
+            disabled={booting || refreshing}
+            onClick={() => void onRefresh()}
+          >
+            {refreshing ? "刷新中…" : "刷新数据"}
           </button>
         </div>
       </header>
@@ -209,11 +298,20 @@ export default function App() {
         <section className="panel">
           <div className="panel-head">
             <h2>按日新增词</h2>
-            {hasReports ? (
+            {hasReports && !booting && !reportsLoading ? (
               <div className="meta-bar">
                 <span className="stat">
                   关键词 <strong>{totalKeywords}</strong>
                 </span>
+                {keywordRows.length > 0 ? (
+                  <button
+                    className="btn secondary"
+                    type="button"
+                    onClick={() => void onCopyAllKeywords()}
+                  >
+                    复制全部
+                  </button>
+                ) : null}
               </div>
             ) : null}
           </div>
@@ -243,7 +341,11 @@ export default function App() {
             </label>
           </div>
 
-          {!hasReports ? (
+          {!date && booting ? (
+            <LoadingBlock label="正在加载报告…" />
+          ) : booting || reportsLoading ? (
+            <LoadingBlock label="正在加载关键词…" />
+          ) : !hasReports ? (
             <p className="empty">该日暂无报告。</p>
           ) : (
             <>
@@ -264,7 +366,19 @@ export default function App() {
                       {keywordRows.map((row) => (
                         <tr key={`${row.site}-${row.keyword}`}>
                           <td>
-                            <span className="chip">{row.keyword}</span>
+                            <button
+                              type="button"
+                              className={`chip chip-copy${
+                                copiedKeyword === row.keyword ? " copied" : ""
+                              }`}
+                              title={
+                                copiedKeyword === row.keyword ? "已复制" : "点击复制"
+                              }
+                              aria-label={`复制 ${row.keyword}`}
+                              onClick={() => void onCopyKeyword(row.keyword)}
+                            >
+                              {row.keyword}
+                            </button>
                           </td>
                           {showSiteColumn ? (
                             <td>
@@ -298,7 +412,14 @@ export default function App() {
       ) : null}
 
       {tab === "sites" ? (
-        !config ? (
+        booting ? (
+          <section className="panel">
+            <div className="panel-head">
+              <h2>Sitemap 配置</h2>
+            </div>
+            <LoadingBlock label="正在加载站点配置…" />
+          </section>
+        ) : !config ? (
           <section className="panel">
             <div className="panel-head">
               <h2>Sitemap 配置</h2>
@@ -418,39 +539,47 @@ export default function App() {
         <section className="panel">
           <div className="panel-head">
             <h2>主动触发抓取</h2>
-            <span className={`status-pill ${run?.status || "idle"}`}>
-              {run?.status || "idle"}
-            </span>
+            {!booting ? (
+              <span className={`status-pill ${run?.status || "idle"}`}>
+                {run?.status || "idle"}
+              </span>
+            ) : null}
           </div>
-          <p className="muted" style={{ marginTop: 0 }}>
-            本地会在后台直接跑一轮 monitor；Cloudflare 部署时会排队 GitHub Action。
-          </p>
-          <div className="footer-actions" style={{ borderTop: "none", paddingTop: 0 }}>
-            <button className="btn" type="button" disabled={busy} onClick={() => void onRun()}>
-              立即抓取
-            </button>
-          </div>
-          <div className="run-grid" style={{ marginTop: "1.1rem" }}>
-            <div className="run-card">
-              <h3>时间线</h3>
-              <p className="mono muted" style={{ margin: 0, lineHeight: 1.7 }}>
-                started
-                <br />
-                <strong style={{ color: "var(--ink)" }}>{run?.started_at || "—"}</strong>
-                <br />
-                <br />
-                finished
-                <br />
-                <strong style={{ color: "var(--ink)" }}>{run?.finished_at || "—"}</strong>
+          {booting ? (
+            <LoadingBlock label="正在加载运行状态…" />
+          ) : (
+            <>
+              <p className="muted" style={{ marginTop: 0 }}>
+                本地会在后台直接跑一轮 monitor；Cloudflare 部署时会排队 GitHub Action。
               </p>
-            </div>
-            <div className="run-card">
-              <h3>消息</h3>
-              <p className="mono" style={{ margin: 0, lineHeight: 1.6 }}>
-                {run?.message || "尚无运行记录"}
-              </p>
-            </div>
-          </div>
+              <div className="footer-actions" style={{ borderTop: "none", paddingTop: 0 }}>
+                <button className="btn" type="button" disabled={busy} onClick={() => void onRun()}>
+                  立即抓取
+                </button>
+              </div>
+              <div className="run-grid" style={{ marginTop: "1.1rem" }}>
+                <div className="run-card">
+                  <h3>时间线</h3>
+                  <p className="mono muted" style={{ margin: 0, lineHeight: 1.7 }}>
+                    started
+                    <br />
+                    <strong style={{ color: "var(--ink)" }}>{run?.started_at || "—"}</strong>
+                    <br />
+                    <br />
+                    finished
+                    <br />
+                    <strong style={{ color: "var(--ink)" }}>{run?.finished_at || "—"}</strong>
+                  </p>
+                </div>
+                <div className="run-card">
+                  <h3>消息</h3>
+                  <p className="mono" style={{ margin: 0, lineHeight: 1.6 }}>
+                    {run?.message || "尚无运行记录"}
+                  </p>
+                </div>
+              </div>
+            </>
+          )}
         </section>
       ) : null}
 
@@ -458,21 +587,25 @@ export default function App() {
         <section className="panel">
           <div className="panel-head">
             <h2>异常中心</h2>
-            <div className="meta-bar">
-              <span className="stat">
-                当前 <strong>{anomalies.length}</strong>
-              </span>
-              <button
-                className="btn secondary"
-                type="button"
-                disabled={busy || anomalies.length === 0}
-                onClick={() => void onClearAnomalies()}
-              >
-                清空日志
-              </button>
-            </div>
+            {!booting ? (
+              <div className="meta-bar">
+                <span className="stat">
+                  当前 <strong>{anomalies.length}</strong>
+                </span>
+                <button
+                  className="btn secondary"
+                  type="button"
+                  disabled={busy || anomalies.length === 0}
+                  onClick={() => void onClearAnomalies()}
+                >
+                  清空日志
+                </button>
+              </div>
+            ) : null}
           </div>
-          {anomalies.length === 0 ? (
+          {booting ? (
+            <LoadingBlock label="正在加载异常日志…" />
+          ) : anomalies.length === 0 ? (
             <p className="empty" style={{ marginTop: "1rem" }}>
               暂无异常。
             </p>

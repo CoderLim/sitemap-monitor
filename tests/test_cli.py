@@ -66,7 +66,7 @@ def test_run_monitor_baseline_then_detects_new(tmp_path: Path):
     )
     assert second.exit_code == 0
     assert second.site_results[0].is_baseline is False
-    assert "ai" in second.site_results[0].new_keywords
+    assert second.site_results[0].new_keywords == ["ai seo tips"]
     assert any(reports_dir.glob("*-example.md"))
 
 

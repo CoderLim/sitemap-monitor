@@ -381,6 +381,26 @@ textarea {
   color: var(--signal-deep);
 }
 
+.chip-copy {
+  margin: 0;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+}
+
+.chip-copy:hover {
+  background: linear-gradient(180deg, rgba(17, 155, 108, 0.22), rgba(17, 155, 108, 0.12));
+  border-color: rgba(17, 155, 108, 0.4);
+}
+
+.chip-copy:active {
+  transform: translateY(1px);
+}
+
+.chip-copy.copied {
+  background: linear-gradient(180deg, rgba(17, 155, 108, 0.28), rgba(17, 155, 108, 0.16));
+  border-color: rgba(17, 155, 108, 0.5);
+}
+
 .url-list {
   margin: 0;
   padding: 0;
@@ -782,6 +802,39 @@ textarea {
   border-radius: 14px;
   border: 1px dashed var(--line);
   background: rgba(255, 255, 255, 0.35);
+}
+
+.loading-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+  margin: 0.35rem 0 0;
+  min-height: 7.5rem;
+  padding: 1.5rem 1rem;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.88rem;
+  border-radius: 14px;
+  border: 1px dashed var(--line);
+  background: rgba(255, 255, 255, 0.4);
+  animation: rise 0.35s ease both;
+}
+
+.loading-spinner {
+  width: 1.05rem;
+  height: 1.05rem;
+  flex-shrink: 0;
+  border: 2px solid var(--mist);
+  border-top-color: var(--signal);
+  border-radius: 50%;
+  animation: spin 0.65s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 @keyframes rise {
