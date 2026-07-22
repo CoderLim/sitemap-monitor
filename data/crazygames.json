@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-22T05:01:06.122571+00:00",
+  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25608,6 +25608,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/escape-from-vlogger-runaway",
+      "keywords": [
+        "escape from vlogger runaway"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flying-robot-transform-car-games",
       "keywords": [
         "flying robot transform car games"
@@ -25785,6 +25791,12 @@
       "url": "https://www.crazygames.com/game/grass-cutter-lxr",
       "keywords": [
         "grass cutter lxr"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/magnetarrow",
+      "keywords": [
+        "magnetarrow"
       ]
     },
     {

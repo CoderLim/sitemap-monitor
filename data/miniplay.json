@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-07-22T05:01:06.122571+00:00",
+  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/smash-everything-to-pieces",
+      "keywords": [
+        "smash everything to pieces"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/woolloop-color-puzzle",
+      "keywords": [
+        "woolloop color puzzle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hospital-surgeon-doctor-game",
+      "keywords": [
+        "hospital surgeon doctor game"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/road-rage",
+      "keywords": [
+        "road rage"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/football-players-path-simulator",
+      "keywords": [
+        "football players path simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ravenhaul",
+      "keywords": [
+        "ravenhaul"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/rally-race-pro-3-0",
       "keywords": [
