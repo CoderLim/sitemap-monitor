@@ -7,7 +7,7 @@
 - 多站点 sitemap（含 index 递归、多 URL 分片）
 - URL slug → 关键词；与 `data/` 快照 diff
 - 终端 + `reports/*.json`（按日，可进 git）
-- **Dashboard**：按日看新增词、管理 sitemap、手动触发、异常中心
+- **Dashboard**：按最近一天 / 一周 / 一个月看新增词、管理 sitemap、手动触发、异常中心
 - GitHub Actions 定时/手动跑 CLI 并回写仓库
 - Cloudflare Worker 提供与本地一致的 `/api/*`（PAT 仅存在服务端）
 
@@ -65,7 +65,7 @@ Worker Secret 可设 `ACCESS_PASSWORD` 或 `DASHBOARD_TOKEN`（二选一），`G
 
 | 页面 | 能力 |
 |------|------|
-| 新增关键词 | 按日期 + 站点查看 `new_keywords` / `new_urls` |
+| 新增关键词 | 按快捷范围 + 站点查看 `new_keywords` / `new_urls` |
 | Sitemap 管理 | 编辑 `config.yaml` 站点列表并保存 |
 | 触发抓取 | 后台执行 `run_monitor`，轮询 `/api/run/status` |
 | 异常 | 缺快照、体积过大、过旧、最近错误；可探测 sitemap 可用性 |
