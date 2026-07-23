@@ -119,12 +119,13 @@ export default function App() {
         const settled = await Promise.all(
           windowDates.map(async (d) => {
             try {
-              const { reports: summaries } = await api.listReports(
-                d,
-                siteId === ALL_SITES ? undefined : siteId,
-              );
+              const { reports: summaries } = await api.listReports(d);
+              const filtered =
+                siteId === ALL_SITES
+                  ? summaries
+                  : summaries.filter((s) => s.site_id === siteId);
               const details = await Promise.all(
-                summaries.map((s) =>
+                filtered.map((s) =>
                   api.getReport(d, s.site_id).then(
                     (detail) => ({ ok: true as const, detail }),
                     () => ({ ok: false as const }),
