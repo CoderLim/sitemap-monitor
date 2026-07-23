@@ -7,8 +7,9 @@ import {
   Site,
   api,
 } from "./api";
+import { chunkKeywords, googleTrendsUrl } from "./trends";
 
-type Tab = "keywords" | "sites" | "run" | "anomalies";
+type Tab = "keywords" | "trends" | "sites" | "run" | "anomalies";
 
 const ALL_SITES = "__all__";
 
@@ -179,6 +180,16 @@ export default function App() {
   const showSiteColumn = siteId === ALL_SITES;
   const hasReports = reports.length > 0;
 
+  const trendsGroups = useMemo(() => {
+    const unique = [...new Set(keywordRows.map((row) => row.keyword))];
+    return chunkKeywords(unique, 5).map((keywords, index) => ({
+      index: index + 1,
+      keywords,
+      url: googleTrendsUrl(keywords),
+      label: keywords.join(", "),
+    }));
+  }, [keywordRows]);
+
   const copyText = useCallback(
     async (text: string, okMessage: string) => {
       try {
@@ -278,6 +289,7 @@ export default function App() {
         {(
           [
             ["keywords", "新增关键词"],
+            ["trends", "Google Trends"],
             ["sites", "Sitemap 管理"],
             ["run", "触发抓取"],
             ["anomalies", "异常"],
@@ -407,6 +419,83 @@ export default function App() {
                 </div>
               )}
             </>
+          )}
+        </section>
+      ) : null}
+
+      {tab === "trends" ? (
+        <section className="panel">
+          <div className="panel-head">
+            <h2>Google Trends</h2>
+            {hasReports && !booting && !reportsLoading ? (
+              <div className="meta-bar">
+                <span className="stat">
+                  分组 <strong>{trendsGroups.length}</strong>
+                </span>
+                <span className="stat">
+                  关键词 <strong>{totalKeywords}</strong>
+                </span>
+              </div>
+            ) : null}
+          </div>
+
+          <div className="filters">
+            <label>
+              日期
+              <select value={date} onChange={(e) => setDate(e.target.value)}>
+                {dates.length === 0 ? <option value="">暂无报告</option> : null}
+                {dates.map((d) => (
+                  <option key={d} value={d}>
+                    {d}
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label>
+              站点
+              <select value={siteId} onChange={(e) => setSiteId(e.target.value)}>
+                <option value={ALL_SITES}>全部</option>
+                {siteOptions.map((id) => (
+                  <option key={id} value={id}>
+                    {id}
+                  </option>
+                ))}
+              </select>
+            </label>
+          </div>
+
+          {!date && booting ? (
+            <LoadingBlock label="正在加载报告…" />
+          ) : booting || reportsLoading ? (
+            <LoadingBlock label="正在加载关键词…" />
+          ) : !hasReports ? (
+            <p className="empty">该日暂无报告。</p>
+          ) : trendsGroups.length === 0 ? (
+            <p className="empty">无新增关键词，无法生成 Trends 链接。</p>
+          ) : (
+            <div className="trends-block">
+              <p className="muted trends-hint">
+                每 5 个关键词一组，点击打开 Trends 对比热度。
+              </p>
+              <ol className="trends-list">
+                {trendsGroups.map((group) => (
+                  <li key={group.index}>
+                    <a
+                      className="trends-link"
+                      href={group.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      title={group.label}
+                    >
+                      <span className="trends-index">
+                        第 {group.index} 组 · {group.keywords.length} 词
+                      </span>
+                      <span className="trends-preview mono">{group.label}</span>
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </div>
           )}
         </section>
       ) : null}
