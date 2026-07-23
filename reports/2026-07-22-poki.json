@@ -3,6 +3,22 @@
   "date": "2026-07-22",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/boomy-world",
+      "keywords": [
+        "boomy world"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/clean-house",
+      "keywords": [
+        "clean house"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "boomy world",
+    "clean house"
+  ]
 }

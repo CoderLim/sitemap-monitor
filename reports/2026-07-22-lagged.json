@@ -3,6 +3,29 @@
   "date": "2026-07-22",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/mine-shooter-online",
+      "keywords": [
+        "mine shooter online"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/football-marble-shooter",
+      "keywords": [
+        "football marble shooter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pirate-jigsaw-puzzle",
+      "keywords": [
+        "pirate jigsaw puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mine shooter online",
+    "football marble shooter",
+    "pirate jigsaw puzzle"
+  ]
 }

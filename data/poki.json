@@ -1,8 +1,32 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-07-22T05:01:06.122571+00:00",
+  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/boomy-world",
+      "keywords": [
+        "boomy world"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/clean-house",
+      "keywords": [
+        "clean house"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/city-cab-rush",
+      "keywords": [
+        "city cab rush"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/ball-guys",
+      "keywords": [
+        "ball guys"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/cuboy-adventure",
       "keywords": [
@@ -193,12 +217,6 @@
       "url": "https://poki.com/en/g/oozys-lab",
       "keywords": [
         "oozys lab"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/city-cab-rush",
-      "keywords": [
-        "city cab rush"
       ]
     },
     {
@@ -1477,12 +1495,6 @@
       "url": "https://poki.com/en/g/snow-plow",
       "keywords": [
         "snow plow"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/ball-guys",
-      "keywords": [
-        "ball guys"
       ]
     },
     {

@@ -5,35 +5,20 @@
   "is_baseline": false,
   "new_urls": [
     {
-      "url": "https://www.crazygames.com/game/sweetjong",
+      "url": "https://www.crazygames.com/game/escape-from-vlogger-runaway",
       "keywords": [
-        "sweetjong"
+        "escape from vlogger runaway"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-supercar-race-on-keyboard",
+      "url": "https://www.crazygames.com/game/magnetarrow",
       "keywords": [
-        "obby supercar race on keyboard"
+        "magnetarrow"
       ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/putt-day",
-      "keywords": [
-        "putt day"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/obstacle/6",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/ball/4",
-      "keywords": []
     }
   ],
   "new_keywords": [
-    "sweetjong",
-    "obby supercar race on keyboard",
-    "putt day"
+    "escape from vlogger runaway",
+    "magnetarrow"
   ]
 }
