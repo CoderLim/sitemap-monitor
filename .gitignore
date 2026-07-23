@@ -20,3 +20,5 @@ dev.vars
 workers/.wrangler/
 dashboard/.env
 dashboard/.env.local
+
+.worktrees/
