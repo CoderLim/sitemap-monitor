@@ -7,6 +7,13 @@ import {
   Site,
   api,
 } from "./api";
+import {
+  RANGE_OPTIONS,
+  buildKeywordRows,
+  datesInRange,
+  type KeywordRow,
+  type RangeKey,
+} from "./keywordRange";
 import { chunkKeywords, googleTrendsUrl } from "./trends";
 
 type Tab = "keywords" | "trends" | "sites" | "run" | "anomalies";
@@ -44,7 +51,8 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [config, setConfig] = useState<ConfigPayload | null>(null);
   const [dates, setDates] = useState<string[]>([]);
-  const [date, setDate] = useState("");
+  const [range, setRange] = useState<RangeKey>("1d");
+  const [partialLoadError, setPartialLoadError] = useState(false);
   const [siteId, setSiteId] = useState(ALL_SITES);
   const [reports, setReports] = useState<ReportDetail[]>([]);
   const [run, setRun] = useState<RunStatus | null>(null);
@@ -81,8 +89,7 @@ export default function App() {
     setDates(dateRes.dates);
     setRun(status);
     setAnomalies(anomalyRes.anomalies);
-    if (!date && dateRes.dates[0]) setDate(dateRes.dates[0]);
-  }, [date]);
+  }, []);
 
   useEffect(() => {
     void wrap(async () => {
@@ -95,41 +102,68 @@ export default function App() {
   }, [wrap, refreshCore]);
 
   useEffect(() => {
-    if (!date) {
+    const windowDates = datesInRange(dates, range);
+    if (windowDates.length === 0) {
       setReports([]);
+      setPartialLoadError(false);
       setReportsLoading(false);
       return;
     }
+
     let cancelled = false;
     setReportsLoading(true);
+    setPartialLoadError(false);
+
     void wrap(async () => {
       try {
-        if (siteId === ALL_SITES) {
-          const { reports: summaries } = await api.listReports(date);
-          const details = await Promise.all(
-            summaries.map((s) =>
-              api.getReport(date, s.site_id).catch(() => null),
-            ),
-          );
-          if (!cancelled) {
-            setReports(details.filter((d): d is ReportDetail => d !== null));
-          }
-        } else {
-          try {
-            const detail = await api.getReport(date, siteId);
-            if (!cancelled) setReports([detail]);
-          } catch {
-            if (!cancelled) setReports([]);
+        const settled = await Promise.all(
+          windowDates.map(async (d) => {
+            try {
+              if (siteId === ALL_SITES) {
+                const { reports: summaries } = await api.listReports(d);
+                const details = await Promise.all(
+                  summaries.map((s) =>
+                    api.getReport(d, s.site_id).then(
+                      (detail) => ({ ok: true as const, detail }),
+                      () => ({ ok: false as const }),
+                    ),
+                  ),
+                );
+                return details;
+              }
+              try {
+                const detail = await api.getReport(d, siteId);
+                return [{ ok: true as const, detail }];
+              } catch {
+                return [{ ok: false as const }];
+              }
+            } catch {
+              return [{ ok: false as const }];
+            }
+          }),
+        );
+
+        if (cancelled) return;
+
+        const next: ReportDetail[] = [];
+        let hadFailure = false;
+        for (const batch of settled) {
+          for (const item of batch) {
+            if (item.ok) next.push(item.detail);
+            else hadFailure = true;
           }
         }
+        setReports(next);
+        setPartialLoadError(hadFailure);
       } finally {
         if (!cancelled) setReportsLoading(false);
       }
     });
+
     return () => {
       cancelled = true;
     };
-  }, [date, siteId, wrap]);
+  }, [dates, range, siteId, wrap]);
 
   const onRefresh = async () => {
     setRefreshing(true);
@@ -151,34 +185,20 @@ export default function App() {
 
   const siteOptions = useMemo(() => config?.sites.map((s) => s.id) || [], [config]);
 
-  const keywordRows = useMemo(() => {
-    const rows: { keyword: string; site: string; urls: string[] }[] = [];
-    for (const report of reports) {
-      const urlsByKeyword = new Map<string, string[]>();
-      for (const row of report.new_urls) {
-        for (const kw of row.keywords) {
-          const list = urlsByKeyword.get(kw) || [];
-          if (!list.includes(row.url)) list.push(row.url);
-          urlsByKeyword.set(kw, list);
-        }
-      }
-      const ordered = report.new_keywords.length
-        ? report.new_keywords
-        : [...urlsByKeyword.keys()];
-      for (const keyword of ordered) {
-        rows.push({
-          keyword,
-          site: report.site_id,
-          urls: urlsByKeyword.get(keyword) || [],
-        });
-      }
-    }
-    return rows;
-  }, [reports]);
+  const keywordRows: KeywordRow[] = useMemo(
+    () => buildKeywordRows(reports),
+    [reports],
+  );
+
+  const windowDates = useMemo(
+    () => datesInRange(dates, range),
+    [dates, range],
+  );
+  const hasWindowDates = windowDates.length > 0;
+  const hasReports = reports.length > 0;
 
   const totalKeywords = keywordRows.length;
   const showSiteColumn = siteId === ALL_SITES;
-  const hasReports = reports.length > 0;
 
   const trendsGroups = useMemo(() => {
     const unique = [...new Set(keywordRows.map((row) => row.keyword))];
@@ -264,6 +284,38 @@ export default function App() {
     setBusy(false);
   };
 
+  const filterBar = (
+    <div className="filters">
+      <div className="filter-field">
+        <span className="filter-label">范围</span>
+        <div className="range-seg" role="group" aria-label="时间范围">
+          {RANGE_OPTIONS.map(({ key, label }) => (
+            <button
+              key={key}
+              type="button"
+              className={`range-seg-btn${range === key ? " active" : ""}`}
+              aria-pressed={range === key}
+              onClick={() => setRange(key)}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
+      </div>
+      <label>
+        站点
+        <select value={siteId} onChange={(e) => setSiteId(e.target.value)}>
+          <option value={ALL_SITES}>全部</option>
+          {siteOptions.map((id) => (
+            <option key={id} value={id}>
+              {id}
+            </option>
+          ))}
+        </select>
+      </label>
+    </div>
+  );
+
   return (
     <div className="app">
       <header className="hero">
@@ -309,7 +361,7 @@ export default function App() {
       {tab === "keywords" ? (
         <section className="panel">
           <div className="panel-head">
-            <h2>按日新增词</h2>
+            <h2>近期新增词</h2>
             {hasReports && !booting && !reportsLoading ? (
               <div className="meta-bar">
                 <span className="stat">
@@ -328,37 +380,15 @@ export default function App() {
             ) : null}
           </div>
 
-          <div className="filters">
-            <label>
-              日期
-              <select value={date} onChange={(e) => setDate(e.target.value)}>
-                {dates.length === 0 ? <option value="">暂无报告</option> : null}
-                {dates.map((d) => (
-                  <option key={d} value={d}>
-                    {d}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label>
-              站点
-              <select value={siteId} onChange={(e) => setSiteId(e.target.value)}>
-                <option value={ALL_SITES}>全部</option>
-                {siteOptions.map((id) => (
-                  <option key={id} value={id}>
-                    {id}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
+          {filterBar}
+          {partialLoadError ? (
+            <p className="notice-banner">部分日期加载失败，已显示其余结果。</p>
+          ) : null}
 
-          {!date && booting ? (
-            <LoadingBlock label="正在加载报告…" />
-          ) : booting || reportsLoading ? (
+          {booting || (hasWindowDates && reportsLoading) ? (
             <LoadingBlock label="正在加载关键词…" />
-          ) : !hasReports ? (
-            <p className="empty">该日暂无报告。</p>
+          ) : !hasWindowDates || !hasReports ? (
+            <p className="empty">该范围内暂无报告。</p>
           ) : (
             <>
               <h3>关键词明细</h3>
@@ -371,12 +401,13 @@ export default function App() {
                       <tr>
                         <th>关键词</th>
                         {showSiteColumn ? <th>站点</th> : null}
+                        <th>首次日期</th>
                         <th>对应 URL</th>
                       </tr>
                     </thead>
                     <tbody>
                       {keywordRows.map((row) => (
-                        <tr key={`${row.site}-${row.keyword}`}>
+                        <tr key={`${row.site}-${row.keyword}-${row.firstDate}`}>
                           <td>
                             <button
                               type="button"
@@ -397,6 +428,9 @@ export default function App() {
                               <span className="mono muted">{row.site}</span>
                             </td>
                           ) : null}
+                          <td>
+                            <span className="mono muted">{row.firstDate}</span>
+                          </td>
                           <td>
                             {row.urls.length === 0 ? (
                               <span className="muted">—</span>
@@ -439,37 +473,15 @@ export default function App() {
             ) : null}
           </div>
 
-          <div className="filters">
-            <label>
-              日期
-              <select value={date} onChange={(e) => setDate(e.target.value)}>
-                {dates.length === 0 ? <option value="">暂无报告</option> : null}
-                {dates.map((d) => (
-                  <option key={d} value={d}>
-                    {d}
-                  </option>
-                ))}
-              </select>
-            </label>
-            <label>
-              站点
-              <select value={siteId} onChange={(e) => setSiteId(e.target.value)}>
-                <option value={ALL_SITES}>全部</option>
-                {siteOptions.map((id) => (
-                  <option key={id} value={id}>
-                    {id}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
+          {filterBar}
+          {partialLoadError ? (
+            <p className="notice-banner">部分日期加载失败，已显示其余结果。</p>
+          ) : null}
 
-          {!date && booting ? (
-            <LoadingBlock label="正在加载报告…" />
-          ) : booting || reportsLoading ? (
+          {booting || (hasWindowDates && reportsLoading) ? (
             <LoadingBlock label="正在加载关键词…" />
-          ) : !hasReports ? (
-            <p className="empty">该日暂无报告。</p>
+          ) : !hasWindowDates || !hasReports ? (
+            <p className="empty">该范围内暂无报告。</p>
           ) : trendsGroups.length === 0 ? (
             <p className="empty">无新增关键词，无法生成 Trends 链接。</p>
           ) : (
