@@ -119,24 +119,19 @@ export default function App() {
         const settled = await Promise.all(
           windowDates.map(async (d) => {
             try {
-              if (siteId === ALL_SITES) {
-                const { reports: summaries } = await api.listReports(d);
-                const details = await Promise.all(
-                  summaries.map((s) =>
-                    api.getReport(d, s.site_id).then(
-                      (detail) => ({ ok: true as const, detail }),
-                      () => ({ ok: false as const }),
-                    ),
+              const { reports: summaries } = await api.listReports(
+                d,
+                siteId === ALL_SITES ? undefined : siteId,
+              );
+              const details = await Promise.all(
+                summaries.map((s) =>
+                  api.getReport(d, s.site_id).then(
+                    (detail) => ({ ok: true as const, detail }),
+                    () => ({ ok: false as const }),
                   ),
-                );
-                return details;
-              }
-              try {
-                const detail = await api.getReport(d, siteId);
-                return [{ ok: true as const, detail }];
-              } catch {
-                return [{ ok: false as const }];
-              }
+                ),
+              );
+              return details;
             } catch {
               return [{ ok: false as const }];
             }
@@ -387,8 +382,14 @@ export default function App() {
 
           {booting || (hasWindowDates && reportsLoading) ? (
             <LoadingBlock label="正在加载关键词…" />
-          ) : !hasWindowDates || !hasReports ? (
+          ) : !hasWindowDates ? (
             <p className="empty">该范围内暂无报告。</p>
+          ) : !hasReports ? (
+            <p className="empty">
+              {partialLoadError
+                ? "部分日期加载失败，暂无可用报告。"
+                : "该范围内暂无报告。"}
+            </p>
           ) : (
             <>
               <h3>关键词明细</h3>
@@ -480,8 +481,14 @@ export default function App() {
 
           {booting || (hasWindowDates && reportsLoading) ? (
             <LoadingBlock label="正在加载关键词…" />
-          ) : !hasWindowDates || !hasReports ? (
+          ) : !hasWindowDates ? (
             <p className="empty">该范围内暂无报告。</p>
+          ) : !hasReports ? (
+            <p className="empty">
+              {partialLoadError
+                ? "部分日期加载失败，暂无可用报告。"
+                : "该范围内暂无报告。"}
+            </p>
           ) : trendsGroups.length === 0 ? (
             <p className="empty">无新增关键词，无法生成 Trends 链接。</p>
           ) : (
