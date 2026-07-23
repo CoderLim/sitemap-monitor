@@ -1,0 +1,52 @@
+{
+  "site_id": "kizi",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/spelunking",
+      "keywords": [
+        "spelunking"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/mansion-story-match",
+      "keywords": [
+        "mansion story match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/archer-dungeon-hero",
+      "keywords": [
+        "archer dungeon hero"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/marble-sort",
+      "keywords": [
+        "marble sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cake-merge-2",
+      "keywords": [
+        "cake merge 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/tanks",
+      "keywords": [
+        "tanks"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "spelunking",
+    "mansion story match",
+    "archer dungeon hero",
+    "marble sort",
+    "cake merge 2",
+    "tanks"
+  ]
+}

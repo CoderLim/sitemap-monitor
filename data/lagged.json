@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
+  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65296,6 +65296,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/juggle-stars",
+      "keywords": [
+        "juggle stars"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/haaland-funny-face",
       "keywords": [
         "haaland funny face"
@@ -65323,6 +65329,12 @@
       "url": "https://lagged.com/en/g/haaaland-arrow-shooter",
       "keywords": [
         "haaaland arrow shooter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hospital-surgeon-doctor",
+      "keywords": [
+        "hospital surgeon doctor"
       ]
     },
     {

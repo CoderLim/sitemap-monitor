@@ -1,0 +1,57 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/knights-brides",
+      "keywords": [
+        "knights brides"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/base-defence",
+      "keywords": [
+        "base defence"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slurp",
+      "keywords": [
+        "slurp"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/need-for-sheep-idle-clicker",
+      "keywords": [
+        "need for sheep idle clicker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/help-me-tricky-puzzle-games-cje",
+      "keywords": [
+        "help me tricky puzzle games cje"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/build/4",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/cute/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/idle/9",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "knights brides",
+    "base defence",
+    "slurp",
+    "need for sheep idle clicker",
+    "help me tricky puzzle games cje"
+  ]
+}

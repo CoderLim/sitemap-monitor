@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/fashion-fix-studio",
+      "keywords": [
+        "fashion fix studio"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/chick-flix",
+      "keywords": [
+        "chick flix"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "fashion fix studio",
+    "chick flix"
+  ]
+}
