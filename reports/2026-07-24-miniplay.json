@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-07-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/pixel-world-online",
+      "keywords": [
+        "pixel world online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tag-online-bomb-3d",
+      "keywords": [
+        "tag online bomb 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/animal-hero",
+      "keywords": [
+        "animal hero"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lemmings-pico-8",
+      "keywords": [
+        "lemmings pico 8"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/downhill-mayhem",
+      "keywords": [
+        "downhill mayhem"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-5",
+      "keywords": [
+        "granny 5"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catjong-purrfect-empire",
+      "keywords": [
+        "catjong purrfect empire"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mate-in-chess",
+      "keywords": [
+        "mate in chess"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "pixel world online",
+    "tag online bomb 3d",
+    "animal hero",
+    "lemmings pico 8",
+    "downhill mayhem",
+    "granny 5",
+    "catjong purrfect empire",
+    "mate in chess"
+  ]
+}

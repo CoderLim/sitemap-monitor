@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
+  "fetched_at": "2026-07-24T17:40:26.542063+00:00",
   "baseline": false,
   "urls": [
     {
@@ -2439,6 +2439,12 @@
       "url": "https://www.crazygames.com/game/extreme-makeover",
       "keywords": [
         "extreme makeover"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/construct-a-bridge",
+      "keywords": [
+        "construct a bridge"
       ]
     },
     {
@@ -24672,6 +24678,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/tennis-bits",
+      "keywords": [
+        "tennis bits"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lucky-brainrot-blocks-online-ehx",
       "keywords": [
         "lucky brainrot blocks online ehx"
@@ -25374,6 +25386,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/all-out-nju",
+      "keywords": [
+        "all out nju"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/obby-fly-for-pets",
       "keywords": [
         "obby fly for pets"
@@ -25830,6 +25848,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/underdark-defense",
+      "keywords": [
+        "underdark defense"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/obby-supercar-race-on-keyboard",
       "keywords": [
         "obby supercar race on keyboard"
@@ -25872,6 +25896,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/color-block-joa",
+      "keywords": [
+        "color block joa"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/8-ball-merge",
       "keywords": [
         "8 ball merge"
@@ -25887,6 +25917,18 @@
       "url": "https://www.crazygames.com/game/sportia-football-cup",
       "keywords": [
         "sportia football cup"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/collect-brainrot-arena",
+      "keywords": [
+        "collect brainrot arena"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/deep-delve",
+      "keywords": [
+        "deep delve"
       ]
     },
     {
@@ -26255,6 +26297,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/2d/19",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/20",
       "keywords": []
     },
     {

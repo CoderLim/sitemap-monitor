@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
+  "fetched_at": "2026-07-24T17:40:26.542063+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65305,6 +65305,12 @@
       "url": "https://lagged.com/en/g/haaland-funny-face",
       "keywords": [
         "haaland funny face"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/trucktopolis-cooking-chaos",
+      "keywords": [
+        "trucktopolis cooking chaos"
       ]
     },
     {

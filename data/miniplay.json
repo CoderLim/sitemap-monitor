@@ -1,8 +1,62 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
+  "fetched_at": "2026-07-24T17:40:26.542063+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/pixel-world-online",
+      "keywords": [
+        "pixel world online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tag-online-bomb-3d",
+      "keywords": [
+        "tag online bomb 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/animal-hero",
+      "keywords": [
+        "animal hero"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lemmings-pico-8",
+      "keywords": [
+        "lemmings pico 8"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/downhill-mayhem",
+      "keywords": [
+        "downhill mayhem"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-5",
+      "keywords": [
+        "granny 5"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catjong-purrfect-empire",
+      "keywords": [
+        "catjong purrfect empire"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mate-in-chess",
+      "keywords": [
+        "mate in chess"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jd-ware-advance",
+      "keywords": [
+        "jd ware advance"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/camo-troll-tower",
       "keywords": [
@@ -31,12 +85,6 @@
       "url": "https://www.miniplay.com/game/im-a-monster",
       "keywords": [
         "im a monster"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/jd-ware-advance",
-      "keywords": [
-        "jd ware advance"
       ]
     },
     {
