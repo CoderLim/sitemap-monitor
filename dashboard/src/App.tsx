@@ -322,6 +322,13 @@ export default function App() {
     <div className="app">
       <header className="hero">
         <div className="hero-copy">
+          <img
+            className="brand-mark"
+            src="/logo.svg"
+            width={36}
+            height={36}
+            alt=""
+          />
           <h1 className="brand">Sitemap Dashboard</h1>
         </div>
         <div className="toolbar">
