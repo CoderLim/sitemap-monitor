@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/juggle-stars",
+      "keywords": [
+        "juggle stars"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hospital-surgeon-doctor",
+      "keywords": [
+        "hospital surgeon doctor"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "juggle stars",
+    "hospital surgeon doctor"
+  ]
+}

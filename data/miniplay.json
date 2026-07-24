@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
+  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/camo-troll-tower",
+      "keywords": [
+        "camo troll tower"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/toca-life-neighborhood",
+      "keywords": [
+        "toca life neighborhood"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/road-rage",
+      "keywords": [
+        "road rage"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-machinegg",
+      "keywords": [
+        "the machinegg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/im-a-monster",
+      "keywords": [
+        "im a monster"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jd-ware-advance",
+      "keywords": [
+        "jd ware advance"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/smash-everything-to-pieces",
       "keywords": [
@@ -19,12 +55,6 @@
       "url": "https://www.miniplay.com/game/hospital-surgeon-doctor-game",
       "keywords": [
         "hospital surgeon doctor game"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/road-rage",
-      "keywords": [
-        "road rage"
       ]
     },
     {
@@ -253,12 +283,6 @@
       "url": "https://www.miniplay.com/game/slice-to-meet-you",
       "keywords": [
         "slice to meet you"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/ball2048",
-      "keywords": [
-        "ball2048"
       ]
     },
     {
@@ -5959,12 +5983,6 @@
       "url": "https://www.miniplay.com/game/obby-click-and-grow",
       "keywords": [
         "obby click and grow"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/mafia-go-dice-master",
-      "keywords": [
-        "mafia go dice master"
       ]
     },
     {

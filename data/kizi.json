@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-07-22T17:24:02.887464+00:00",
+  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
   "baseline": false,
   "urls": [
     {
@@ -7886,12 +7886,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/governor-of-poker-poker-challenge",
-      "keywords": [
-        "governor of poker poker challenge"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/tripeaks-castle-solitaire",
       "keywords": [
         "tripeaks castle solitaire"
@@ -12650,12 +12644,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/governor-of-poker-3",
-      "keywords": [
-        "governor of poker 3"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/piano-tiles-3",
       "keywords": [
         "piano tiles 3"
@@ -13481,12 +13469,6 @@
       "url": "https://kizi.com/games/cake-master-shop",
       "keywords": [
         "cake master shop"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/governor-of-poker-25",
-      "keywords": [
-        "governor of poker 25"
       ]
     },
     {
@@ -35927,6 +35909,42 @@
       "url": "https://kizi.com/games/photo-block-journey",
       "keywords": [
         "photo block journey"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/spelunking",
+      "keywords": [
+        "spelunking"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/mansion-story-match",
+      "keywords": [
+        "mansion story match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/archer-dungeon-hero",
+      "keywords": [
+        "archer dungeon hero"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/marble-sort",
+      "keywords": [
+        "marble sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cake-merge-2",
+      "keywords": [
+        "cake merge 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/tanks",
+      "keywords": [
+        "tanks"
       ]
     }
   ]

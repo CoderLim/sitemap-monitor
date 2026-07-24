@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/camo-troll-tower",
+      "keywords": [
+        "camo troll tower"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/toca-life-neighborhood",
+      "keywords": [
+        "toca life neighborhood"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-machinegg",
+      "keywords": [
+        "the machinegg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/im-a-monster",
+      "keywords": [
+        "im a monster"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jd-ware-advance",
+      "keywords": [
+        "jd ware advance"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "camo troll tower",
+    "toca life neighborhood",
+    "the machinegg",
+    "im a monster",
+    "jd ware advance"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": "2026-07-22T17:24:02.884324+00:00",
-  "finished_at": "2026-07-22T17:24:11.240013+00:00",
+  "started_at": "2026-07-23T17:25:16.249182+00:00",
+  "finished_at": "2026-07-23T17:25:23.832626+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -11,48 +11,68 @@
       "new_url_count": 2,
       "new_keyword_count": 2,
       "new_keywords": [
-        "boomy world",
-        "clean house"
+        "fashion fix studio",
+        "chick flix"
       ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 2,
-      "new_keyword_count": 2,
+      "new_url_count": 8,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "escape from vlogger runaway",
-        "magnetarrow"
+        "knights brides",
+        "base defence",
+        "slurp",
+        "need for sheep idle clicker",
+        "help me tricky puzzle games cje"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 10,
+      "new_keyword_count": 10,
+      "new_keywords": [
+        "the greedy crow",
+        "astramatter",
+        "gravity sweeper",
+        "recoil brawler",
+        "wolfoo tangram",
+        "twist and roll",
+        "snakeunwind",
+        "mini car coin collector",
+        "wordquest hangman",
+        "food bounce"
+      ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 2,
+      "new_keyword_count": 2,
       "new_keywords": [
-        "mine shooter online",
-        "football marble shooter",
-        "pirate jigsaw puzzle"
+        "juggle stars",
+        "hospital surgeon doctor"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 6,
+      "new_keyword_count": 6,
+      "new_keywords": [
+        "spelunking",
+        "mansion story match",
+        "archer dungeon hero",
+        "marble sort",
+        "cake merge 2",
+        "tanks"
+      ],
       "error": null
     },
     {
@@ -66,24 +86,63 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 6,
-      "new_keyword_count": 6,
+      "new_url_count": 5,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "smash everything to pieces",
-        "woolloop color puzzle",
-        "hospital surgeon doctor game",
-        "road rage",
-        "football players path simulator",
-        "ravenhaul"
+        "camo troll tower",
+        "toca life neighborhood",
+        "the machinegg",
+        "im a monster",
+        "jd ware advance"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 39,
+      "new_keyword_count": 39,
+      "new_keywords": [
+        "three sevens slot machines",
+        "mango kliker",
+        "kuki kliker",
+        "particle physics sandbox",
+        "the illusion of choice battle of opinions",
+        "case drop",
+        "valyria tear",
+        "obby parkour online with friends",
+        "color liquids",
+        "izvne vyzhivanie",
+        "basement escape",
+        "dice merge it",
+        "obedinenie rangov 2",
+        "furry flip",
+        "orbit bloom",
+        "farm tycoon for obby",
+        "escape 1 back flip obby mode",
+        "my perfect farm idle tycoon",
+        "candy farm",
+        "mahjong tile match",
+        "brainrots merge",
+        "tg gifts super collection",
+        "console clicker 2d mining farm",
+        "your army massive battle",
+        "3 v riad zamok korolia",
+        "clean up the electronics store",
+        "kotost feed him",
+        "kub prygun",
+        "pairs of meme cats",
+        "robby ice cream manager",
+        "escape the alien prison",
+        "raduzhnye druzia spasatelnyi zabeg",
+        "drift city",
+        "find a football pair",
+        "hotpot flow",
+        "become a billionaire sprunki 3d online tycoon",
+        "samoliotnyi dash",
+        "goldie hamster",
+        "knights arena castle defense"
+      ],
       "error": null
     }
   ],

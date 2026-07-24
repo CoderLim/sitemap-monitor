@@ -1,0 +1,80 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-07-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/the-greedy-crow",
+      "keywords": [
+        "the greedy crow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/astramatter",
+      "keywords": [
+        "astramatter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gravity-sweeper",
+      "keywords": [
+        "gravity sweeper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/recoil-brawler",
+      "keywords": [
+        "recoil brawler"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wolfoo-tangram",
+      "keywords": [
+        "wolfoo tangram"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/twist-and-roll",
+      "keywords": [
+        "twist and roll"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snakeunwind",
+      "keywords": [
+        "snakeunwind"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mini-car-coin-collector",
+      "keywords": [
+        "mini car coin collector"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wordquest-hangman",
+      "keywords": [
+        "wordquest hangman"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/food-bounce",
+      "keywords": [
+        "food bounce"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "the greedy crow",
+    "astramatter",
+    "gravity sweeper",
+    "recoil brawler",
+    "wolfoo tangram",
+    "twist and roll",
+    "snakeunwind",
+    "mini car coin collector",
+    "wordquest hangman",
+    "food bounce"
+  ]
+}
