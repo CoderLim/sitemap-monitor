@@ -14,7 +14,11 @@ import {
   type KeywordRow,
   type RangeKey,
 } from "./keywordRange";
-import { chunkKeywords, googleTrendsUrl } from "./trends";
+import {
+  TRENDS_KEYWORD_CHUNK,
+  chunkKeywords,
+  googleTrendsUrl,
+} from "./trends";
 
 type Tab = "keywords" | "trends" | "sites" | "run" | "anomalies";
 
@@ -198,12 +202,14 @@ export default function App() {
 
   const trendsGroups = useMemo(() => {
     const unique = [...new Set(keywordRows.map((row) => row.keyword))];
-    return chunkKeywords(unique, 5).map((keywords, index) => ({
-      index: index + 1,
-      keywords,
-      url: googleTrendsUrl(keywords),
-      label: keywords.join(", "),
-    }));
+    return chunkKeywords(unique, TRENDS_KEYWORD_CHUNK).map(
+      (keywords, index) => ({
+        index: index + 1,
+        keywords,
+        url: googleTrendsUrl(keywords),
+        label: keywords.join(", "),
+      }),
+    );
   }, [keywordRows]);
 
   const copyText = useCallback(
@@ -495,7 +501,7 @@ export default function App() {
           ) : (
             <div className="trends-block">
               <p className="muted trends-hint">
-                每 5 个关键词一组，点击打开 Trends 对比热度。
+                每组固定对比 gpts + 4 个关键词，点击打开 Trends。
               </p>
               <ol className="trends-list">
                 {trendsGroups.map((group) => (
