@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-24T17:40:26.542063+00:00",
+  "fetched_at": "2026-07-25T17:02:02.204248+00:00",
   "baseline": false,
   "urls": [
     {
@@ -14244,6 +14244,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/blocops",
+      "keywords": [
+        "blocops"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/airborne-motocross",
       "keywords": [
         "airborne motocross"
@@ -26809,6 +26815,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/battle/9",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/battle/10",
       "keywords": []
     },
     {

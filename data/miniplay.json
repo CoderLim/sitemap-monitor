@@ -1,12 +1,18 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-07-24T17:40:26.542063+00:00",
+  "fetched_at": "2026-07-25T17:02:02.204248+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/pixel-world-online",
       "keywords": [
         "pixel world online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jump-for-brainrots",
+      "keywords": [
+        "jump for brainrots"
       ]
     },
     {

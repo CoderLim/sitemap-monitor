@@ -1,0 +1,514 @@
+{
+  "site_id": "playhop",
+  "date": "2026-07-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/number-fit-502192",
+      "keywords": [
+        "number fit"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fish-eat-fish-and-grow-evolution-520775",
+      "keywords": [
+        "fish eat fish and grow evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lumber-tycoon-520893",
+      "keywords": [
+        "lumber tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zhivoi-bloknot-522140",
+      "keywords": [
+        "zhivoi bloknot"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spell-master-crystal-defense-524551",
+      "keywords": [
+        "spell master crystal defense"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/star-bubble-shooter-529582",
+      "keywords": [
+        "star bubble shooter"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/piece-it-532427",
+      "keywords": [
+        "piece it"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chrono-blocks-534290",
+      "keywords": [
+        "chrono blocks"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/akiba-terminal-1978-534517",
+      "keywords": [
+        "akiba terminal 1978"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cursed-gift-535061",
+      "keywords": [
+        "cursed gift"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-dash-uprise-536169",
+      "keywords": [
+        "neon dash uprise"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/turbo-track-tycoon-536834",
+      "keywords": [
+        "turbo track tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brawl-clicker-star-hunt-537479",
+      "keywords": [
+        "brawl clicker star hunt"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/treasure-hunter-metal-detector-simulator-538829",
+      "keywords": [
+        "treasure hunter metal detector simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ugadai-detal-539113",
+      "keywords": [
+        "ugadai detal"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-blocks-block-puzzle-539721",
+      "keywords": [
+        "neon blocks block puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uefa-evrokubok-po-futbolu-2026-540077",
+      "keywords": [
+        "uefa evrokubok po futbolu 2026"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/keyboard-evolution-540402",
+      "keywords": [
+        "keyboard evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slepoi-khudozhnik-540747",
+      "keywords": [
+        "slepoi khudozhnik"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dinosaur-v2-540768",
+      "keywords": [
+        "dinosaur v2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/color-helix-smash-jump-540889",
+      "keywords": [
+        "color helix smash jump"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-boxing-escape-540954",
+      "keywords": [
+        "obby boxing escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lovkost-nog-540960",
+      "keywords": [
+        "lovkost nog"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tutello-frutello-italian-clicker-541000",
+      "keywords": [
+        "tutello frutello italian clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chameleon-hideout-541003",
+      "keywords": [
+        "chameleon hideout"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/v-teni-leviafana-naidi-otlichiia-na-dvukh-kartinkakh-541359",
+      "keywords": [
+        "v teni leviafana naidi otlichiia na dvukh kartinkakh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/korolevskaia-bitva-2d-542246",
+      "keywords": [
+        "korolevskaia bitva 2d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/squirrel-pathfinder-542268",
+      "keywords": [
+        "squirrel pathfinder"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cheremsha-kachok-542323",
+      "keywords": [
+        "cheremsha kachok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kofebum-542370",
+      "keywords": [
+        "kofebum"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/meow-2048-cats-542622",
+      "keywords": [
+        "meow 2048 cats"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mine-obby-1-dig-power-per-hit-543010",
+      "keywords": [
+        "mine obby 1 dig power per hit"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/avtoperekup-rynok-rossii-543166",
+      "keywords": [
+        "avtoperekup rynok rossii"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/k-pop-star-dress-up-543449",
+      "keywords": [
+        "k pop star dress up"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rhythm-arena-543641",
+      "keywords": [
+        "rhythm arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/russian-driver-zil-130-544142",
+      "keywords": [
+        "russian driver zil 130"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/klikni-cheremshu-544312",
+      "keywords": [
+        "klikni cheremshu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sell-lemons-online-1-tycoon-3d-obby-original-544632",
+      "keywords": [
+        "sell lemons online 1 tycoon 3d obby original"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/walls-545206",
+      "keywords": [
+        "walls"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ringway-545352",
+      "keywords": [
+        "ringway"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/at-the-lake-fishing-life-546020",
+      "keywords": [
+        "at the lake fishing life"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sudoku-japanese-wisdom-546157",
+      "keywords": [
+        "sudoku japanese wisdom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bump-the-balls-546286",
+      "keywords": [
+        "bump the balls"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mine-clicker-546400",
+      "keywords": [
+        "mine clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/break-the-frogs-spell-546481",
+      "keywords": [
+        "break the frogs spell"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/nolpki-duel-546537",
+      "keywords": [
+        "nolpki duel"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kitty-to-the-moon-546633",
+      "keywords": [
+        "kitty to the moon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hidden-object-world-cuisines-546730",
+      "keywords": [
+        "hidden object world cuisines"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shelf-sort-market-goods-puzzle-546860",
+      "keywords": [
+        "shelf sort market goods puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/style-queen-art-makeup-546947",
+      "keywords": [
+        "style queen art makeup"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/marble-merge-survivors-546990",
+      "keywords": [
+        "marble merge survivors"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arcane-kingdom-547194",
+      "keywords": [
+        "arcane kingdom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/world-cup-penalty-showdown-547355",
+      "keywords": [
+        "world cup penalty showdown"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/grave-night-547687",
+      "keywords": [
+        "grave night"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sudoku-deviatyi-riad-548285",
+      "keywords": [
+        "sudoku deviatyi riad"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-builders-548940",
+      "keywords": [
+        "merge builders"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/master-plitok-tri-v-riad-550251",
+      "keywords": [
+        "master plitok tri v riad"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/colored-hexagon-550357",
+      "keywords": [
+        "colored hexagon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/real-police-550565",
+      "keywords": [
+        "real police"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dont-look-back-551508",
+      "keywords": [
+        "dont look back"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/drilltank-pixel-breach-551595",
+      "keywords": [
+        "drilltank pixel breach"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ring-it-off-551910",
+      "keywords": [
+        "ring it off"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-break-the-wall-upgrade-hammer-3d-online-552111",
+      "keywords": [
+        "1 break the wall upgrade hammer 3d online"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cheremsha-crazy-trials-552233",
+      "keywords": [
+        "cheremsha crazy trials"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/legion-of-elements-552253",
+      "keywords": [
+        "legion of elements"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/schoolboy-and-granny-3-prison-break-552286",
+      "keywords": [
+        "schoolboy and granny 3 prison break"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/2048-zolotaia-plitka-552464",
+      "keywords": [
+        "2048 zolotaia plitka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-mow-the-grass-553192",
+      "keywords": [
+        "obby mow the grass"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/maze-cube-arrow-escape-553355",
+      "keywords": [
+        "maze cube arrow escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ghost-hunt-spirit-scanner-553418",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/planet-blast-rockets-553502",
+      "keywords": [
+        "planet blast rockets"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/yarn-weaving-duck-sort-555348",
+      "keywords": [
+        "yarn weaving duck sort"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "number fit",
+    "fish eat fish and grow evolution",
+    "lumber tycoon",
+    "zhivoi bloknot",
+    "spell master crystal defense",
+    "star bubble shooter",
+    "piece it",
+    "chrono blocks",
+    "akiba terminal 1978",
+    "cursed gift",
+    "neon dash uprise",
+    "turbo track tycoon",
+    "brawl clicker star hunt",
+    "treasure hunter metal detector simulator",
+    "ugadai detal",
+    "neon blocks block puzzle",
+    "uefa evrokubok po futbolu 2026",
+    "keyboard evolution",
+    "slepoi khudozhnik",
+    "dinosaur v2",
+    "color helix smash jump",
+    "obby boxing escape",
+    "lovkost nog",
+    "tutello frutello italian clicker",
+    "chameleon hideout",
+    "v teni leviafana naidi otlichiia na dvukh kartinkakh",
+    "korolevskaia bitva 2d",
+    "squirrel pathfinder",
+    "cheremsha kachok",
+    "kofebum",
+    "meow 2048 cats",
+    "mine obby 1 dig power per hit",
+    "avtoperekup rynok rossii",
+    "k pop star dress up",
+    "rhythm arena",
+    "russian driver zil 130",
+    "klikni cheremshu",
+    "sell lemons online 1 tycoon 3d obby original",
+    "walls",
+    "ringway",
+    "at the lake fishing life",
+    "sudoku japanese wisdom",
+    "bump the balls",
+    "mine clicker",
+    "break the frogs spell",
+    "nolpki duel",
+    "kitty to the moon",
+    "hidden object world cuisines",
+    "shelf sort market goods puzzle",
+    "style queen art makeup",
+    "marble merge survivors",
+    "arcane kingdom",
+    "world cup penalty showdown",
+    "grave night",
+    "sudoku deviatyi riad",
+    "merge builders",
+    "master plitok tri v riad",
+    "colored hexagon",
+    "real police",
+    "dont look back",
+    "drilltank pixel breach",
+    "ring it off",
+    "1 break the wall upgrade hammer 3d online",
+    "cheremsha crazy trials",
+    "legion of elements",
+    "schoolboy and granny 3 prison break",
+    "2048 zolotaia plitka",
+    "obby mow the grass",
+    "maze cube arrow escape",
+    "ghost hunt spirit scanner",
+    "planet blast rockets",
+    "yarn weaving duck sort"
+  ]
+}
