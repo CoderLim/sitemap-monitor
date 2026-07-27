@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-07-26T17:05:42.523909+00:00",
+  "fetched_at": "2026-07-27T17:45:15.704875+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/fashion-dress-up-star",
+      "keywords": [
+        "fashion dress up star"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/dino-simulator",
+      "keywords": [
+        "dino simulator"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/moms-diary-cooking-games",
+      "keywords": [
+        "moms diary cooking games"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/bubbleshooter-x-basketball-3d",
       "keywords": [
@@ -274,12 +292,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/fashion-dress-up-star",
-      "keywords": [
-        "fashion dress up star"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/samurai-sam",
       "keywords": [
         "samurai sam"
@@ -325,12 +337,6 @@
       "url": "https://poki.com/en/g/smash-room",
       "keywords": [
         "smash room"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/dino-simulator",
-      "keywords": [
-        "dino simulator"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-07-26T17:05:42.523909+00:00",
+  "fetched_at": "2026-07-27T17:45:15.704875+00:00",
   "baseline": false,
   "urls": [
     {
@@ -3136,27 +3136,9 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/circles",
-      "keywords": [
-        "circles"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/fruit-pop",
-      "keywords": [
-        "fruit pop"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/gold-mine-strike-christmas",
       "keywords": [
         "gold mine strike christmas"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/frosty-donuts",
-      "keywords": [
-        "frosty donuts"
       ]
     },
     {
@@ -3876,12 +3858,6 @@
     {
       "url": "https://kizi.com/games/1943",
       "keywords": []
-    },
-    {
-      "url": "https://kizi.com/games/dont-get-pinned",
-      "keywords": [
-        "dont get pinned"
-      ]
     },
     {
       "url": "https://kizi.com/games/jumping-ball",
@@ -7958,12 +7934,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/tap-tap-parking",
-      "keywords": [
-        "tap tap parking"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/mahjong-classic",
       "keywords": [
         "mahjong classic"
@@ -10229,12 +10199,6 @@
       "url": "https://kizi.com/games/box-tower",
       "keywords": [
         "box tower"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/books-tower",
-      "keywords": [
-        "books tower"
       ]
     },
     {
@@ -14606,12 +14570,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/shadoworld-adventure",
-      "keywords": [
-        "shadoworld adventure"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/car-defender",
       "keywords": [
         "car defender"
@@ -17951,12 +17909,6 @@
       "url": "https://kizi.com/games/running-bot",
       "keywords": [
         "running bot"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/knife-attack",
-      "keywords": [
-        "knife attack"
       ]
     },
     {
@@ -22118,12 +22070,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/snowball-destroyer",
-      "keywords": [
-        "snowball destroyer"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/santa-parkour",
       "keywords": [
         "santa parkour"
@@ -22331,12 +22277,6 @@
       "url": "https://kizi.com/games/smileyworld-match",
       "keywords": [
         "smileyworld match"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/break-your-brain",
-      "keywords": [
-        "break your brain"
       ]
     },
     {
@@ -24878,12 +24818,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/simulator-truck-driver",
-      "keywords": [
-        "simulator truck driver"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/football-kick-3d",
       "keywords": [
         "football kick 3d"
@@ -25640,12 +25574,6 @@
       ]
     },
     {
-      "url": "https://kizi.com/games/merge-gangster-heist-iv",
-      "keywords": [
-        "merge gangster heist iv"
-      ]
-    },
-    {
       "url": "https://kizi.com/games/pinball-brick-mania",
       "keywords": [
         "pinball brick mania"
@@ -25697,12 +25625,6 @@
       "url": "https://kizi.com/games/e30-drift-simulator",
       "keywords": [
         "e30 drift simulator"
-      ]
-    },
-    {
-      "url": "https://kizi.com/games/super-snappy-collapse",
-      "keywords": [
-        "super snappy collapse"
       ]
     },
     {
@@ -35945,6 +35867,30 @@
       "url": "https://kizi.com/games/tanks",
       "keywords": [
         "tanks"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hidden-object-time-travel",
+      "keywords": [
+        "hidden object time travel"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/triple-shelf-match",
+      "keywords": [
+        "triple shelf match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/offroad-crash-climber-4x4",
+      "keywords": [
+        "offroad crash climber 4x4"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/dig-and-flow-save-water",
+      "keywords": [
+        "dig and flow save water"
       ]
     }
   ]

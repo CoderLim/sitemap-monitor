@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-07-26T17:05:42.523909+00:00",
+  "fetched_at": "2026-07-27T17:45:15.704875+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65344,6 +65344,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/supermarket-empire",
+      "keywords": [
+        "supermarket empire"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/be-like-a-lucky-block",
+      "keywords": [
+        "be like a lucky block"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/balloon-shooter-archery",
       "keywords": [
         "balloon shooter archery"
@@ -65398,6 +65410,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/wool-rush",
+      "keywords": [
+        "wool rush"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/football-marble-shooter",
       "keywords": [
         "football marble shooter"
@@ -65437,6 +65455,12 @@
       "url": "https://lagged.com/en/g/pirate-jigsaw-puzzle",
       "keywords": [
         "pirate jigsaw puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/funny-alien-jigsaw",
+      "keywords": [
+        "funny alien jigsaw"
       ]
     },
     {
