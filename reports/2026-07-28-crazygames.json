@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/train-miner",
+      "keywords": [
+        "train miner"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/case-simulator-cars",
+      "keywords": [
+        "case simulator cars"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kds---idle-rpg",
+      "keywords": [
+        "kds idle rpg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hexa-fill-puzzle",
+      "keywords": [
+        "hexa fill puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wood-hexa-factory",
+      "keywords": [
+        "wood hexa factory"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/million-clicks",
+      "keywords": [
+        "million clicks"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "train miner",
+    "case simulator cars",
+    "kds idle rpg",
+    "hexa fill puzzle",
+    "wood hexa factory",
+    "million clicks"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-27T17:45:15.704875+00:00",
+  "fetched_at": "2026-07-28T17:37:39.235513+00:00",
   "baseline": false,
   "urls": [
     {
@@ -4431,12 +4431,6 @@
       "url": "https://www.crazygames.com/game/army-of-silverite",
       "keywords": [
         "army of silverite"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/holographic-trends",
-      "keywords": [
-        "holographic trends"
       ]
     },
     {
@@ -16824,12 +16818,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/mix-rave",
-      "keywords": [
-        "mix rave"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/cubic-shop",
       "keywords": [
         "cubic shop"
@@ -25482,6 +25470,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/train-miner",
+      "keywords": [
+        "train miner"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/hordeloop",
       "keywords": [
         "hordeloop"
@@ -25617,6 +25611,18 @@
       "url": "https://www.crazygames.com/game/droll-world-cup-zze",
       "keywords": [
         "droll world cup zze"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/case-simulator-cars",
+      "keywords": [
+        "case simulator cars"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kds---idle-rpg",
+      "keywords": [
+        "kds idle rpg"
       ]
     },
     {
@@ -25920,6 +25926,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hexa-fill-puzzle",
+      "keywords": [
+        "hexa fill puzzle"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/color-block-joa",
       "keywords": [
         "color block joa"
@@ -25941,6 +25953,12 @@
       "url": "https://www.crazygames.com/game/monster-merge-battle-3d",
       "keywords": [
         "monster merge battle 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wood-hexa-factory",
+      "keywords": [
+        "wood hexa factory"
       ]
     },
     {
@@ -25971,6 +25989,12 @@
       "url": "https://www.crazygames.com/game/feed-the-alien",
       "keywords": [
         "feed the alien"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/million-clicks",
+      "keywords": [
+        "million clicks"
       ]
     },
     {
@@ -28094,6 +28118,16 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/t/play-and-upgrade",
+      "keywords": [
+        "play and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/battle-royale",
       "keywords": [
         "battle royale"
@@ -28404,16 +28438,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/play-and-upgrade",
-      "keywords": [
-        "play and upgrade"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
-      "keywords": []
-    },
-    {
       "url": "https://www.crazygames.com/t/shark",
       "keywords": [
         "shark"
@@ -28423,12 +28447,6 @@
       "url": "https://www.crazygames.com/t/fishing",
       "keywords": [
         "fishing"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/hair",
-      "keywords": [
-        "hair"
       ]
     },
     {
@@ -28483,6 +28501,12 @@
       "url": "https://www.crazygames.com/t/adrenaline",
       "keywords": [
         "adrenaline"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/hair",
+      "keywords": [
+        "hair"
       ]
     },
     {

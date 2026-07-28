@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-07-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/lord-ragdoll",
+      "keywords": [
+        "lord ragdoll"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/slingshot-chicken",
+      "keywords": [
+        "slingshot chicken"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cubby-puppy-jigsaw",
+      "keywords": [
+        "cubby puppy jigsaw"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-the-presidents",
+      "keywords": [
+        "merge the presidents"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "lord ragdoll",
+    "slingshot chicken",
+    "cubby puppy jigsaw",
+    "merge the presidents"
+  ]
+}
