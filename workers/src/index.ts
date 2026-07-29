@@ -34,6 +34,11 @@ app.onError((err, c) => {
 
 app.use("*", cors());
 
+app.get("/api/client-config", (c) => {
+  const token = (c.env.DASHBOARD_TOKEN || c.env.ACCESS_PASSWORD || "").trim();
+  return c.json({ dashboard_token: token });
+});
+
 app.use("/api/*", async (c, next) => {
   const token = (c.env.DASHBOARD_TOKEN || c.env.ACCESS_PASSWORD || "").trim();
   if (token) {

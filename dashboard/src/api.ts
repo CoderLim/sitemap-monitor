@@ -46,10 +46,28 @@ export type RunStatus = {
   run_id?: string | null;
 };
 
-function authHeaders(): HeadersInit {
-  // Set at build/dev time via VITE_DASHBOARD_TOKEN (never enter token in the UI).
-  // Local `npm run dev` can instead inject DASHBOARD_TOKEN via the Vite proxy.
-  const token = import.meta.env.VITE_DASHBOARD_TOKEN?.trim() || "";
+let cachedRuntimeToken: string | undefined;
+
+async function resolveAuthToken(): Promise<string> {
+  const fromBuild = import.meta.env.VITE_DASHBOARD_TOKEN?.trim() || "";
+  if (fromBuild) return fromBuild;
+  if (cachedRuntimeToken !== undefined) return cachedRuntimeToken;
+  try {
+    const res = await fetch("/api/client-config");
+    if (res.ok) {
+      const data = (await res.json()) as { dashboard_token?: string };
+      cachedRuntimeToken = (data.dashboard_token || "").trim();
+    } else {
+      cachedRuntimeToken = "";
+    }
+  } catch {
+    cachedRuntimeToken = "";
+  }
+  return cachedRuntimeToken;
+}
+
+async function authHeaders(): Promise<HeadersInit> {
+  const token = await resolveAuthToken();
   return token ? { Authorization: `Bearer ${token}` } : {};
 }
 
@@ -60,7 +78,7 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
       ...init,
       headers: {
         "Content-Type": "application/json",
-        ...authHeaders(),
+        ...(await authHeaders()),
         ...(init?.headers || {}),
       },
     });

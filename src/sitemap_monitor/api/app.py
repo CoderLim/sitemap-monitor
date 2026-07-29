@@ -71,6 +71,11 @@ def create_app(workspace: Workspace | None = None) -> FastAPI:
         if authorization != expected:
             raise HTTPException(status_code=401, detail="unauthorized")
 
+    @app.get("/api/client-config")
+    def client_config() -> dict[str, str]:
+        token = dashboard_access_token()
+        return {"dashboard_token": token or ""}
+
     @app.get("/api/health")
     def health(_: None = Depends(require_auth)) -> dict[str, str]:
         return {"status": "ok", "mode": "local"}

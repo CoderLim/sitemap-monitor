@@ -59,3 +59,5 @@ def test_api_requires_access_password_when_set(tmp_path, monkeypatch):
     ok = client.get("/api/health", headers={"Authorization": "Bearer shared-secret"})
     assert ok.status_code == 200
     assert ok.json()["status"] == "ok"
+    cfg = client.get("/api/client-config").json()
+    assert cfg["dashboard_token"] == "shared-secret"
