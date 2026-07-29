@@ -25,3 +25,42 @@ export function googleTrendsUrl(keywords: string[]): string {
     .join(",");
   return `https://trends.google.com/trends/explore?date=&q=${q}`;
 }
+
+/** Open one browser tab per URL from a single click (user-gesture) handler. */
+export function openUrlsInNewTabs(urls: string[]): number {
+  if (urls.length === 0) return 0;
+
+  const stamp = `${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
+  const isMac = /Mac|iPhone|iPad|iPod/.test(navigator.platform);
+  let opened = 0;
+
+  for (const [index, url] of urls.entries()) {
+    const windowName = `sm_trends_${stamp}_${index}`;
+    // Do not pass "noopener" here — it makes window.open return null even on
+    // success, which would trigger the fallback and open each link twice.
+    const tab = window.open(url, windowName);
+    if (tab) {
+      tab.opener = null;
+      opened += 1;
+      continue;
+    }
+
+    const link = document.createElement("a");
+    link.href = url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    document.body.appendChild(link);
+    link.dispatchEvent(
+      new MouseEvent("click", {
+        view: window,
+        bubbles: true,
+        cancelable: true,
+        ...(isMac ? { metaKey: true } : { ctrlKey: true }),
+      }),
+    );
+    document.body.removeChild(link);
+    opened += 1;
+  }
+
+  return opened;
+}

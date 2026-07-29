@@ -238,6 +238,13 @@ button {
   margin-bottom: 1.1rem;
 }
 
+.panel-head-leading {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  align-items: center;
+}
+
 .panel h2 {
   margin: 0;
   font-family: var(--font-display);
@@ -484,6 +491,12 @@ textarea {
 .trends-hint {
   margin: 0 0 0.7rem;
   font-size: 0.88rem;
+}
+
+.trends-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .trends-list {

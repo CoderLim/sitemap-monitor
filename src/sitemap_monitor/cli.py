@@ -34,7 +34,12 @@ class RunResult:
 
 
 def _repo_root() -> Path:
-    return Path.cwd()
+    """Return repo root (directory containing config.yaml), walking up from cwd."""
+    cur = Path.cwd().resolve()
+    for candidate in (cur, *cur.parents):
+        if (candidate / "config.yaml").is_file():
+            return candidate
+    return cur
 
 
 def run_monitor(

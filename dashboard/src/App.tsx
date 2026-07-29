@@ -18,6 +18,7 @@ import {
   TRENDS_KEYWORD_CHUNK,
   chunkKeywords,
   googleTrendsUrl,
+  openUrlsInNewTabs,
 } from "./trends";
 
 type Tab = "keywords" | "trends" | "sites" | "run" | "anomalies";
@@ -67,6 +68,7 @@ export default function App() {
   const [refreshing, setRefreshing] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
   const [copiedKeyword, setCopiedKeyword] = useState<string | null>(null);
+  const [trendsNextIndex, setTrendsNextIndex] = useState(0);
 
   const flash = useCallback((message: string) => {
     setNotice(message);
@@ -211,6 +213,42 @@ export default function App() {
       }),
     );
   }, [keywordRows]);
+
+  useEffect(() => {
+    setTrendsNextIndex(0);
+  }, [trendsGroups]);
+
+  const openTrendsLinks = useCallback(
+    (count: number) => {
+      if (trendsNextIndex >= trendsGroups.length) return;
+      const batch = trendsGroups.slice(
+        trendsNextIndex,
+        trendsNextIndex + count,
+      );
+      const opened = openUrlsInNewTabs(batch.map((group) => group.url));
+      if (opened === 0) {
+        flash("未能打开标签页，请在浏览器中允许本站弹窗后重试");
+        return;
+      }
+      if (opened < batch.length) {
+        flash(
+          `已打开 ${opened}/${batch.length} 个标签页，请在浏览器中允许本站弹窗后重试`,
+        );
+      }
+      setTrendsNextIndex((prev) =>
+        Math.min(prev + opened, trendsGroups.length),
+      );
+    },
+    [trendsGroups, trendsNextIndex, flash],
+  );
+
+  const trendsRemaining = Math.max(0, trendsGroups.length - trendsNextIndex);
+  const trendsRangeLabel = (count: number) => {
+    if (trendsRemaining === 0) return "已全部打开";
+    const start = trendsNextIndex + 1;
+    const end = Math.min(trendsNextIndex + count, trendsGroups.length);
+    return start === end ? String(start) : `${start}–${end}`;
+  };
 
   const copyText = useCallback(
     async (text: string, okMessage: string) => {
@@ -475,7 +513,32 @@ export default function App() {
       {tab === "trends" ? (
         <section className="panel">
           <div className="panel-head">
-            <h2>Google Trends</h2>
+            <div className="panel-head-leading">
+              <h2>Google Trends</h2>
+              {hasReports &&
+              !booting &&
+              !reportsLoading &&
+              trendsGroups.length > 0 ? (
+                <div className="trends-actions">
+                  <button
+                    className="btn secondary"
+                    type="button"
+                    disabled={trendsRemaining === 0}
+                    onClick={() => openTrendsLinks(1)}
+                  >
+                    打开1个链接（{trendsRangeLabel(1)}）
+                  </button>
+                  <button
+                    className="btn secondary"
+                    type="button"
+                    disabled={trendsRemaining === 0}
+                    onClick={() => openTrendsLinks(5)}
+                  >
+                    打开5个链接（{trendsRangeLabel(5)}）
+                  </button>
+                </div>
+              ) : null}
+            </div>
             {hasReports && !booting && !reportsLoading ? (
               <div className="meta-bar">
                 <span className="stat">
@@ -508,7 +571,7 @@ export default function App() {
           ) : (
             <div className="trends-block">
               <p className="muted trends-hint">
-                每组固定对比 gpts + 4 个关键词，点击打开 Trends。
+                每组固定对比 gpts + 4 个关键词。批量打开会按序号往后挪。
               </p>
               <ol className="trends-list">
                 {trendsGroups.map((group) => (
