@@ -119,7 +119,7 @@ Worker Secret 可设 `ACCESS_PASSWORD` 或 `DASHBOARD_TOKEN`（二选一），`G
 npm --prefix dashboard install
 npm --prefix workers install
 
-# 编辑 workers/wrangler.toml 里的 GITHUB_REPO
+# 编辑 wrangler.toml 里的 GITHUB_REPO
 # 写入 Worker Secrets（读 env 或 ../link-master/.env.local）
 npm run cf:secrets
 
@@ -138,7 +138,7 @@ npm run cf:deploy
 | `npm run cf:dev` | 本地 `wrangler dev` |
 | `npm run cf:whoami` | 查看当前 Cloudflare 登录账号 |
 
-`workers/wrangler.toml` 会挂载 `dashboard/dist` 为静态资源，`/api/*` 由 Worker 处理。
+`wrangler.toml` 会挂载 `dashboard/dist` 为静态资源，`/api/*` 由 Worker 处理。
 
 ### 3. Token 职责
 

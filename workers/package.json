@@ -4,13 +4,13 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "wrangler dev",
+    "dev": "wrangler dev --config ../wrangler.toml",
     "check": "tsc --noEmit",
-    "deploy": "wrangler deploy",
-    "deploy:full": "npm --prefix ../dashboard run build && wrangler deploy",
+    "deploy": "wrangler deploy --config ../wrangler.toml",
+    "deploy:full": "npm --prefix ../dashboard run build && wrangler deploy --config ../wrangler.toml",
     "secrets": "node ./scripts/put-secrets.mjs",
     "whoami": "wrangler whoami",
-    "tail": "wrangler tail"
+    "tail": "wrangler tail --config ../wrangler.toml"
   },
   "dependencies": {
     "hono": "^4.6.12",

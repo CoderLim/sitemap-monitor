@@ -15,7 +15,7 @@ npm run secrets
 # npx wrangler secret put GITHUB_TOKEN
 ```
 
-Vars 在 [`wrangler.toml`](wrangler.toml)：`GITHUB_REPO`、`GITHUB_BRANCH`、`WORKFLOW_FILE`。
+Vars 在仓库根目录 [`wrangler.toml`](/wrangler.toml)：`GITHUB_REPO`、`GITHUB_BRANCH`、`WORKFLOW_FILE`。
 
 ## Deploy
 

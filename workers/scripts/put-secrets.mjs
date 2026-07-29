@@ -62,7 +62,7 @@ function putSecret(name, value) {
     input: value,
     encoding: "utf8",
     stdio: ["pipe", "inherit", "inherit"],
-    cwd: resolve(root, "workers"),
+    cwd: root,
   });
   if (result.status !== 0) {
     process.exit(result.status || 1);

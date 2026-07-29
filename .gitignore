@@ -14,6 +14,7 @@ reports/*.md
 dashboard/node_modules/
 dashboard/dist/
 workers/node_modules/
+node_modules/
 .DS_Store
 .wrangler/
 dev.vars

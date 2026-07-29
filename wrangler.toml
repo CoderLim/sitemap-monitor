@@ -1,5 +1,5 @@
 name = "sitemap-monitor-api"
-main = "src/index.ts"
+main = "workers/src/index.ts"
 compatibility_date = "2024-12-01"
 
 [vars]
@@ -7,12 +7,12 @@ GITHUB_REPO = "CoderLim/sitemap-monitor"
 GITHUB_BRANCH = "main"
 WORKFLOW_FILE = "monitor.yml"
 
-# Secrets (set with wrangler secret put):
+# Secrets (set with wrangler secret put or npm run cf:secrets):
 #   ACCESS_PASSWORD   # preferred — same as link-master
 #   DASHBOARD_TOKEN   # optional alias
 #   GITHUB_TOKEN      # same PAT as link-master
 
 [assets]
-directory = "../dashboard/dist"
+directory = "dashboard/dist"
 binding = "ASSETS"
 not_found_handling = "single-page-application"
