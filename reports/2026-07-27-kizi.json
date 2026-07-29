@@ -1,0 +1,38 @@
+{
+  "site_id": "kizi",
+  "date": "2026-07-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/hidden-object-time-travel",
+      "keywords": [
+        "hidden object time travel"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/triple-shelf-match",
+      "keywords": [
+        "triple shelf match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/offroad-crash-climber-4x4",
+      "keywords": [
+        "offroad crash climber 4x4"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/dig-and-flow-save-water",
+      "keywords": [
+        "dig and flow save water"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hidden object time travel",
+    "triple shelf match",
+    "offroad crash climber 4x4",
+    "dig and flow save water"
+  ]
+}

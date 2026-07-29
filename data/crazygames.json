@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-23T17:25:16.252258+00:00",
+  "fetched_at": "2026-07-28T17:37:39.235513+00:00",
   "baseline": false,
   "urls": [
     {
@@ -2442,6 +2442,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/construct-a-bridge",
+      "keywords": [
+        "construct a bridge"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/tetris-with-physics",
       "keywords": [
         "tetris with physics"
@@ -4425,12 +4431,6 @@
       "url": "https://www.crazygames.com/game/army-of-silverite",
       "keywords": [
         "army of silverite"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/holographic-trends",
-      "keywords": [
-        "holographic trends"
       ]
     },
     {
@@ -12402,12 +12402,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/wheelstars",
-      "keywords": [
-        "wheelstars"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/monster-trainer-catching-game",
       "keywords": [
         "monster trainer catching game"
@@ -14235,6 +14229,12 @@
       "url": "https://www.crazygames.com/game/icolorcoin-sort-puzzle",
       "keywords": [
         "icolorcoin sort puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blocops",
+      "keywords": [
+        "blocops"
       ]
     },
     {
@@ -16815,12 +16815,6 @@
       "url": "https://www.crazygames.com/game/cyberpunk-corporation",
       "keywords": [
         "cyberpunk corporation"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/mix-rave",
-      "keywords": [
-        "mix rave"
       ]
     },
     {
@@ -23208,6 +23202,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/card-billionaire-idle-tycoon",
+      "keywords": [
+        "card billionaire idle tycoon"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/smash-badminton",
       "keywords": [
         "smash badminton"
@@ -24672,6 +24672,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/tennis-bits",
+      "keywords": [
+        "tennis bits"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lucky-brainrot-blocks-online-ehx",
       "keywords": [
         "lucky brainrot blocks online ehx"
@@ -25260,6 +25266,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/stealth-room-3d-escape-puzzle",
+      "keywords": [
+        "stealth room 3d escape puzzle"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/my-petal-haven",
       "keywords": [
         "my petal haven"
@@ -25374,6 +25386,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/all-out-nju",
+      "keywords": [
+        "all out nju"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/obby-fly-for-pets",
       "keywords": [
         "obby fly for pets"
@@ -25449,6 +25467,12 @@
       "url": "https://www.crazygames.com/game/dye-hard",
       "keywords": [
         "dye hard"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/train-miner",
+      "keywords": [
+        "train miner"
       ]
     },
     {
@@ -25590,6 +25614,18 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/case-simulator-cars",
+      "keywords": [
+        "case simulator cars"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kds---idle-rpg",
+      "keywords": [
+        "kds idle rpg"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/farm-mayhem-merge",
       "keywords": [
         "farm mayhem merge"
@@ -25641,6 +25677,12 @@
       "url": "https://www.crazygames.com/game/divine-clash",
       "keywords": [
         "divine clash"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/maldives-hidden-objects",
+      "keywords": [
+        "maldives hidden objects"
       ]
     },
     {
@@ -25725,6 +25767,12 @@
       "url": "https://www.crazygames.com/game/reckon-days-tou",
       "keywords": [
         "reckon days tou"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-and-play-hxl",
+      "keywords": [
+        "merge and play hxl"
       ]
     },
     {
@@ -25830,6 +25878,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/underdark-defense",
+      "keywords": [
+        "underdark defense"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/obby-supercar-race-on-keyboard",
       "keywords": [
         "obby supercar race on keyboard"
@@ -25872,6 +25926,18 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hexa-fill-puzzle",
+      "keywords": [
+        "hexa fill puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/color-block-joa",
+      "keywords": [
+        "color block joa"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/8-ball-merge",
       "keywords": [
         "8 ball merge"
@@ -25884,15 +25950,51 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/monster-merge-battle-3d",
+      "keywords": [
+        "monster merge battle 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wood-hexa-factory",
+      "keywords": [
+        "wood hexa factory"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/sportia-football-cup",
       "keywords": [
         "sportia football cup"
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/collect-brainrot-arena",
+      "keywords": [
+        "collect brainrot arena"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/deep-delve",
+      "keywords": [
+        "deep delve"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/international-cup-football-2026",
       "keywords": [
         "international cup football 2026"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/feed-the-alien",
+      "keywords": [
+        "feed the alien"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/million-clicks",
+      "keywords": [
+        "million clicks"
       ]
     },
     {
@@ -26255,6 +26357,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/2d/19",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/20",
       "keywords": []
     },
     {
@@ -26763,6 +26869,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/battle/9",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/battle/10",
       "keywords": []
     },
     {
@@ -28008,6 +28118,16 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/t/play-and-upgrade",
+      "keywords": [
+        "play and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/battle-royale",
       "keywords": [
         "battle royale"
@@ -28318,16 +28438,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/play-and-upgrade",
-      "keywords": [
-        "play and upgrade"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
-      "keywords": []
-    },
-    {
       "url": "https://www.crazygames.com/t/shark",
       "keywords": [
         "shark"
@@ -28337,12 +28447,6 @@
       "url": "https://www.crazygames.com/t/fishing",
       "keywords": [
         "fishing"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/hair",
-      "keywords": [
-        "hair"
       ]
     },
     {
@@ -28397,6 +28501,12 @@
       "url": "https://www.crazygames.com/t/adrenaline",
       "keywords": [
         "adrenaline"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/hair",
+      "keywords": [
+        "hair"
       ]
     },
     {

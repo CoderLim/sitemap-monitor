@@ -1,0 +1,451 @@
+{
+  "site_id": "playhop",
+  "date": "2026-07-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/akulionok-dlia-tebia-494230",
+      "keywords": [
+        "akulionok dlia tebia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/make-me-beautiful-502089",
+      "keywords": [
+        "make me beautiful"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sweet-raccoon-match-3-507871",
+      "keywords": [
+        "sweet raccoon match 3"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/swipegame-512747",
+      "keywords": [
+        "swipegame"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-witcher-in-steps-521550",
+      "keywords": [
+        "the witcher in steps"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lumigrip-526181",
+      "keywords": [
+        "lumigrip"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zero-hour-529290",
+      "keywords": [
+        "zero hour"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/soediniai-zhele-golovolomka-531164",
+      "keywords": [
+        "soediniai zhele golovolomka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ascend-theory-pocket-cultivator-533571",
+      "keywords": [
+        "ascend theory pocket cultivator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/2048-anekdotov-534504",
+      "keywords": [
+        "2048 anekdotov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brain-age-test-535065",
+      "keywords": [
+        "brain age test"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/raskraska-kartiny-535739",
+      "keywords": [
+        "raskraska kartiny"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/atom-fusion-535820",
+      "keywords": [
+        "atom fusion"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dont-tap-red-535934",
+      "keywords": [
+        "dont tap red"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/stat-monstrom-536525",
+      "keywords": [
+        "stat monstrom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gipervolna-536549",
+      "keywords": [
+        "gipervolna"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tentacle-snatch-537294",
+      "keywords": [
+        "tentacle snatch"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bakteriiatd-537326",
+      "keywords": [
+        "bakteriiatd"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/catdoku-537423",
+      "keywords": [
+        "catdoku"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slovograd-537578",
+      "keywords": [
+        "slovograd"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/number-maze-puzzle-538245",
+      "keywords": [
+        "number maze puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neuron-539163",
+      "keywords": [
+        "neuron"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/robbie-connect-memes-539470",
+      "keywords": [
+        "robbie connect memes"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sudoku-zen-540220",
+      "keywords": [
+        "sudoku zen"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gravi-smaily-540567",
+      "keywords": [
+        "gravi smaily"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pobeg-gorod-mertvykh-540640",
+      "keywords": [
+        "pobeg gorod mertvykh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evoliutsiia-robotov-540781",
+      "keywords": [
+        "evoliutsiia robotov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/igry-ponti-biliard-sliianie-541671",
+      "keywords": [
+        "igry ponti biliard sliianie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spasi-labu-541702",
+      "keywords": [
+        "spasi labu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dark-farm-541952",
+      "keywords": [
+        "dark farm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sistema-vyzhivanie-541990",
+      "keywords": [
+        "sistema vyzhivanie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bus-collapse-542705",
+      "keywords": [
+        "bus collapse"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/solve-the-cube-arrows-544130",
+      "keywords": [
+        "solve the cube arrows"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/many-bricks-breaker-545494",
+      "keywords": [
+        "many bricks breaker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ruble-2048-merge-coins-545646",
+      "keywords": [
+        "ruble 2048 merge coins"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/video-card-clicker-sticky-evolution-545825",
+      "keywords": [
+        "video card clicker sticky evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/doxx-click-545876",
+      "keywords": [
+        "doxx click"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/moonlight-shelf-sort-546019",
+      "keywords": [
+        "moonlight shelf sort"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/battle-shooter-546472",
+      "keywords": [
+        "battle shooter"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dive-master-pro-546479",
+      "keywords": [
+        "dive master pro"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/caliber-546903",
+      "keywords": [
+        "caliber"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cross-sums-547223",
+      "keywords": [
+        "cross sums"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/royal-games-547235",
+      "keywords": [
+        "royal games"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flappykva-547508",
+      "keywords": [
+        "flappykva"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gopnik-simulator-arena-547813",
+      "keywords": [
+        "gopnik simulator arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tiles-sweet-animals-547936",
+      "keywords": [
+        "tiles sweet animals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-puzzle-line-blast-548156",
+      "keywords": [
+        "block puzzle line blast"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/funny-piggies-550211",
+      "keywords": [
+        "funny piggies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/snarrow-550857",
+      "keywords": [
+        "snarrow"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/snow-shooting-range-550998",
+      "keywords": [
+        "snow shooting range"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pikselnyi-shuter-multipleer-551263",
+      "keywords": [
+        "pikselnyi shuter multipleer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/meme-evolution-collect-all-memes-552190",
+      "keywords": [
+        "meme evolution collect all memes"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/soediniai-kotikov-soberi-zolotogo-kota-552466",
+      "keywords": [
+        "soediniai kotikov soberi zolotogo kota"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shape-evolution-2048-number-merge-552568",
+      "keywords": [
+        "shape evolution 2048 number merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spring-cats-color-by-number-552766",
+      "keywords": [
+        "spring cats color by number"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kotokafe-merzh-i-remont-552773",
+      "keywords": [
+        "kotokafe merzh i remont"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sauna-for-99-nights-552826",
+      "keywords": [
+        "sauna for 99 nights"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ne-spalis-s-podikom-simuliator-552865",
+      "keywords": [
+        "ne spalis s podikom simuliator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sokrovishcha-okeana-552882",
+      "keywords": [
+        "sokrovishcha okeana"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/99-nights-in-prison-adventure-552920",
+      "keywords": [
+        "99 nights in prison adventure"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-combine-the-animal-552924",
+      "keywords": [
+        "mahjong combine the animal"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-age-of-airplanes-clicker-552985",
+      "keywords": [
+        "the age of airplanes clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rob-catch-and-capture-a-pet-555288",
+      "keywords": [
+        "rob catch and capture a pet"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "akulionok dlia tebia",
+    "make me beautiful",
+    "sweet raccoon match 3",
+    "swipegame",
+    "the witcher in steps",
+    "lumigrip",
+    "zero hour",
+    "soediniai zhele golovolomka",
+    "ascend theory pocket cultivator",
+    "2048 anekdotov",
+    "brain age test",
+    "raskraska kartiny",
+    "atom fusion",
+    "dont tap red",
+    "stat monstrom",
+    "gipervolna",
+    "tentacle snatch",
+    "bakteriiatd",
+    "catdoku",
+    "slovograd",
+    "number maze puzzle",
+    "neuron",
+    "robbie connect memes",
+    "sudoku zen",
+    "gravi smaily",
+    "pobeg gorod mertvykh",
+    "evoliutsiia robotov",
+    "igry ponti biliard sliianie",
+    "spasi labu",
+    "dark farm",
+    "sistema vyzhivanie",
+    "bus collapse",
+    "solve the cube arrows",
+    "many bricks breaker",
+    "ruble 2048 merge coins",
+    "video card clicker sticky evolution",
+    "doxx click",
+    "moonlight shelf sort",
+    "battle shooter",
+    "dive master pro",
+    "caliber",
+    "cross sums",
+    "royal games",
+    "flappykva",
+    "gopnik simulator arena",
+    "tiles sweet animals",
+    "block puzzle line blast",
+    "funny piggies",
+    "snarrow",
+    "snow shooting range",
+    "pikselnyi shuter multipleer",
+    "meme evolution collect all memes",
+    "soediniai kotikov soberi zolotogo kota",
+    "shape evolution 2048 number merge",
+    "spring cats color by number",
+    "kotokafe merzh i remont",
+    "sauna for 99 nights",
+    "ne spalis s podikom simuliator",
+    "sokrovishcha okeana",
+    "99 nights in prison adventure",
+    "mahjong combine the animal",
+    "the age of airplanes clicker",
+    "rob catch and capture a pet"
+  ]
+}

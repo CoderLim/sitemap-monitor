@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-07-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/supermarket-empire",
+      "keywords": [
+        "supermarket empire"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/be-like-a-lucky-block",
+      "keywords": [
+        "be like a lucky block"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/wool-rush",
+      "keywords": [
+        "wool rush"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/funny-alien-jigsaw",
+      "keywords": [
+        "funny alien jigsaw"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "supermarket empire",
+    "be like a lucky block",
+    "wool rush",
+    "funny alien jigsaw"
+  ]
+}

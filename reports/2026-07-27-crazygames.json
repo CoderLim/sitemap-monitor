@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/card-billionaire-idle-tycoon",
+      "keywords": [
+        "card billionaire idle tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stealth-room-3d-escape-puzzle",
+      "keywords": [
+        "stealth room 3d escape puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/maldives-hidden-objects",
+      "keywords": [
+        "maldives hidden objects"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-and-play-hxl",
+      "keywords": [
+        "merge and play hxl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/monster-merge-battle-3d",
+      "keywords": [
+        "monster merge battle 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/feed-the-alien",
+      "keywords": [
+        "feed the alien"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "card billionaire idle tycoon",
+    "stealth room 3d escape puzzle",
+    "maldives hidden objects",
+    "merge and play hxl",
+    "monster merge battle 3d",
+    "feed the alien"
+  ]
+}

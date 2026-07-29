@@ -1,0 +1,21 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/blocops",
+      "keywords": [
+        "blocops"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/battle/10",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "blocops"
+  ]
+}

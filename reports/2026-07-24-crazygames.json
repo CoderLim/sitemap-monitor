@@ -1,0 +1,63 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/construct-a-bridge",
+      "keywords": [
+        "construct a bridge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tennis-bits",
+      "keywords": [
+        "tennis bits"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/all-out-nju",
+      "keywords": [
+        "all out nju"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/underdark-defense",
+      "keywords": [
+        "underdark defense"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/color-block-joa",
+      "keywords": [
+        "color block joa"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/collect-brainrot-arena",
+      "keywords": [
+        "collect brainrot arena"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/deep-delve",
+      "keywords": [
+        "deep delve"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/20",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "construct a bridge",
+    "tennis bits",
+    "all out nju",
+    "underdark defense",
+    "color block joa",
+    "collect brainrot arena",
+    "deep delve"
+  ]
+}
