@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-07-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/hotline-miami",
+      "keywords": [
+        "hotline miami"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/raft",
+      "keywords": [
+        "raft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/night-shift-survival-horror",
+      "keywords": [
+        "night shift survival horror"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/paint-hide-and-seek",
+      "keywords": [
+        "paint hide and seek"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ducky-sokoban-dx",
+      "keywords": [
+        "ducky sokoban dx"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mole-kingdom-defense",
+      "keywords": [
+        "mole kingdom defense"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/backyard-dig-hole-3d-simulator",
+      "keywords": [
+        "backyard dig hole 3d simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hotline miami",
+    "raft",
+    "night shift survival horror",
+    "paint hide and seek",
+    "ducky sokoban dx",
+    "mole kingdom defense",
+    "backyard dig hole 3d simulator"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-28T17:37:39.235513+00:00",
+  "fetched_at": "2026-07-29T17:18:16.652437+00:00",
   "baseline": false,
   "urls": [
     {
@@ -21522,6 +21522,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/merge-haven-fzh",
+      "keywords": [
+        "merge haven fzh"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/void-siege-jze",
       "keywords": [
         "void siege jze"
@@ -25956,9 +25962,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/draw-one-line-drawing-puzzle",
+      "keywords": [
+        "draw one line drawing puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/count-and-bounce-bls",
+      "keywords": [
+        "count and bounce bls"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/wood-hexa-factory",
       "keywords": [
         "wood hexa factory"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-dairy-tycoon",
+      "keywords": [
+        "idle dairy tycoon"
       ]
     },
     {
@@ -25986,9 +26010,21 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/yarnglen",
+      "keywords": [
+        "yarnglen"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/feed-the-alien",
       "keywords": [
         "feed the alien"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dogs-out",
+      "keywords": [
+        "dogs out"
       ]
     },
     {
@@ -26257,6 +26293,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/39",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/40",
       "keywords": []
     },
     {
@@ -28823,6 +28863,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/clicker/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/clicker/7",
       "keywords": []
     },
     {

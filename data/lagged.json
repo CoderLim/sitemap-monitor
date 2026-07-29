@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-07-28T17:37:39.235513+00:00",
+  "fetched_at": "2026-07-29T17:18:16.652437+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65065,6 +65065,12 @@
       "url": "https://lagged.com/en/g/bomb-the-bridge-2026",
       "keywords": [
         "bomb the bridge 2026"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/web-shot-spider-superhero",
+      "keywords": [
+        "web shot spider superhero"
       ]
     },
     {

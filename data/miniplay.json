@@ -1,8 +1,62 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-07-28T17:37:39.235513+00:00",
+  "fetched_at": "2026-07-29T17:18:16.652437+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/hotline-miami",
+      "keywords": [
+        "hotline miami"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/raft",
+      "keywords": [
+        "raft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/night-shift-survival-horror",
+      "keywords": [
+        "night shift survival horror"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tank-stars",
+      "keywords": [
+        "tank stars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/paint-hide-and-seek",
+      "keywords": [
+        "paint hide and seek"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ducky-sokoban-dx",
+      "keywords": [
+        "ducky sokoban dx"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sonic-mania-plus",
+      "keywords": [
+        "sonic mania plus"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mole-kingdom-defense",
+      "keywords": [
+        "mole kingdom defense"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/backyard-dig-hole-3d-simulator",
+      "keywords": [
+        "backyard dig hole 3d simulator"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/pixel-world-online",
       "keywords": [
@@ -151,12 +205,6 @@
       "url": "https://www.miniplay.com/game/mini-world-cup-2026",
       "keywords": [
         "mini world cup 2026"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/sonic-mania-plus",
-      "keywords": [
-        "sonic mania plus"
       ]
     },
     {
@@ -35087,12 +35135,6 @@
       "url": "https://www.miniplay.com/game/police-real-chase-car-simulator",
       "keywords": [
         "police real chase car simulator"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/tank-stars",
-      "keywords": [
-        "tank stars"
       ]
     },
     {
