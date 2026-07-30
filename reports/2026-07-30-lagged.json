@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-07-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/stick-clicker",
+      "keywords": [
+        "stick clicker"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/extreme-motorcycle-simulator",
+      "keywords": [
+        "extreme motorcycle simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "stick clicker",
+    "extreme motorcycle simulator"
+  ]
+}

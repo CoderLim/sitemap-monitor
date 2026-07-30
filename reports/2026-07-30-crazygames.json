@@ -1,0 +1,59 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/holographic-trends",
+      "keywords": [
+        "holographic trends"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/digging-simulator-hole-craft",
+      "keywords": [
+        "digging simulator hole craft"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/road-rage-hva",
+      "keywords": [
+        "road rage hva"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dungeon-descent-jrx",
+      "keywords": [
+        "dungeon descent jrx"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/railway-bridge",
+      "keywords": [
+        "railway bridge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/demolition-inc",
+      "keywords": [
+        "demolition inc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/robshoot",
+      "keywords": [
+        "robshoot"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "holographic trends",
+    "digging simulator hole craft",
+    "road rage hva",
+    "dungeon descent jrx",
+    "railway bridge",
+    "demolition inc",
+    "robshoot"
+  ]
+}

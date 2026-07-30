@@ -1,0 +1,38 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-07-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/snaking-io",
+      "keywords": [
+        "snaking io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tabs",
+      "keywords": [
+        "tabs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fears-to-fathom",
+      "keywords": [
+        "fears to fathom"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cuphead",
+      "keywords": [
+        "cuphead"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "snaking io",
+    "tabs",
+    "fears to fathom",
+    "cuphead"
+  ]
+}

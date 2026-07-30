@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-07-29T17:18:16.652437+00:00",
+  "fetched_at": "2026-07-30T17:38:20.308392+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65440,6 +65440,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/stick-clicker",
+      "keywords": [
+        "stick clicker"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/champions-fc",
       "keywords": [
         "champions fc"
@@ -65491,6 +65497,12 @@
       "url": "https://lagged.com/en/g/merge-the-presidents",
       "keywords": [
         "merge the presidents"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/extreme-motorcycle-simulator",
+      "keywords": [
+        "extreme motorcycle simulator"
       ]
     },
     {

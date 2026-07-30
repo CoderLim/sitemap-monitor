@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-07-29T17:18:16.652437+00:00",
+  "fetched_at": "2026-07-30T17:38:20.308392+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/goods-master",
+      "keywords": [
+        "goods master"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/noob-archer-2",
+      "keywords": [
+        "noob archer 2"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/fashion-fix-studio",
+      "keywords": [
+        "fashion fix studio"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/20f8",
       "keywords": [
@@ -61,12 +79,6 @@
       "url": "https://poki.com/en/g/scary-teacher-hide-seek-games",
       "keywords": [
         "scary teacher hide seek games"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/fashion-fix-studio",
-      "keywords": [
-        "fashion fix studio"
       ]
     },
     {
@@ -187,12 +199,6 @@
       "url": "https://poki.com/en/g/stickman-merge",
       "keywords": [
         "stickman merge"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/noob-archer-2",
-      "keywords": [
-        "noob archer 2"
       ]
     },
     {
