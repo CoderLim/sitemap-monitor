@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-07-30T17:38:20.308392+00:00",
+  "fetched_at": "2026-07-31T17:41:43.841023+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/perfect-shape",
+      "keywords": [
+        "perfect shape"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/flip-pounce",
+      "keywords": [
+        "flip pounce"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/goalheads-io",
+      "keywords": [
+        "goalheads io"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/goods-master",
       "keywords": [
@@ -268,12 +286,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/goalheads-io",
-      "keywords": [
-        "goalheads io"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/fight-and-loot",
       "keywords": [
         "fight and loot"
@@ -499,12 +511,6 @@
       "url": "https://poki.com/en/g/draft-wars",
       "keywords": [
         "draft wars"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/leaf-vacuum-simulator",
-      "keywords": [
-        "leaf vacuum simulator"
       ]
     },
     {
@@ -5311,12 +5317,6 @@
       "url": "https://poki.com/en/g/jetpack-joyride",
       "keywords": [
         "jetpack joyride"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/stick-veterans",
-      "keywords": [
-        "stick veterans"
       ]
     },
     {

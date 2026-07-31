@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-07-30T17:38:20.308392+00:00",
+  "fetched_at": "2026-07-31T17:41:43.841023+00:00",
   "baseline": false,
   "urls": [
     {
@@ -21780,6 +21780,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/swat-cats",
+      "keywords": [
+        "swat cats"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/tzared-kqa",
       "keywords": [
         "tzared kqa"
@@ -24228,6 +24234,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/obby-memes-grow-fruits",
+      "keywords": [
+        "obby memes grow fruits"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/blast-miner",
       "keywords": [
         "blast miner"
@@ -25284,12 +25296,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/god-simulator-abz",
-      "keywords": [
-        "god simulator abz"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/slide-out",
       "keywords": [
         "slide out"
@@ -25497,6 +25503,12 @@
       "url": "https://www.crazygames.com/game/escape-from-vlogger-runaway",
       "keywords": [
         "escape from vlogger runaway"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hexa-stack",
+      "keywords": [
+        "hexa stack"
       ]
     },
     {
@@ -25800,6 +25812,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/splotcho",
+      "keywords": [
+        "splotcho"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/color-block-joa",
       "keywords": [
         "color block joa"
@@ -25827,6 +25845,12 @@
       "url": "https://www.crazygames.com/game/draw-one-line-drawing-puzzle",
       "keywords": [
         "draw one line drawing puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tape-escape",
+      "keywords": [
+        "tape escape"
       ]
     },
     {
@@ -25869,6 +25893,12 @@
       "url": "https://www.crazygames.com/game/international-cup-football-2026",
       "keywords": [
         "international cup football 2026"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/goblin-gold-rush",
+      "keywords": [
+        "goblin gold rush"
       ]
     },
     {
@@ -26173,6 +26203,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/39",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/40",
       "keywords": []
     },
     {

@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-07-31",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/swat-cats",
+      "keywords": [
+        "swat cats"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-memes-grow-fruits",
+      "keywords": [
+        "obby memes grow fruits"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hexa-stack",
+      "keywords": [
+        "hexa stack"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/splotcho",
+      "keywords": [
+        "splotcho"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tape-escape",
+      "keywords": [
+        "tape escape"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/goblin-gold-rush",
+      "keywords": [
+        "goblin gold rush"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/40",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "swat cats",
+    "obby memes grow fruits",
+    "hexa stack",
+    "splotcho",
+    "tape escape",
+    "goblin gold rush"
+  ]
+}
