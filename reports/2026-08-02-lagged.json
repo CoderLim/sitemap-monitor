@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/queen-rescue",
+      "keywords": [
+        "queen rescue"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/park-my-car-games-parking-mania",
+      "keywords": [
+        "park my car games parking mania"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/color-snake-out-master",
+      "keywords": [
+        "color snake out master"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/brick-block-jam",
+      "keywords": [
+        "brick block jam"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "queen rescue",
+    "park my car games parking mania",
+    "color snake out master",
+    "brick block jam"
+  ]
+}
