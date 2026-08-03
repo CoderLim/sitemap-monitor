@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/bfdi-branches",
+      "keywords": [
+        "bfdi branches"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-chameleon-paint-hide",
+      "keywords": [
+        "obby chameleon paint hide"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/vegamix-2-wild-west",
+      "keywords": [
+        "vegamix 2 wild west"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tennis-masters-2026",
+      "keywords": [
+        "tennis masters 2026"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/monopoly-sudoku",
+      "keywords": [
+        "monopoly sudoku"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/flying-robot-transform",
+      "keywords": [
+        "flying robot transform"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/homeless-survival-online",
+      "keywords": [
+        "homeless survival online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/prismroll-3d",
+      "keywords": [
+        "prismroll 3d"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bfdi branches",
+    "obby chameleon paint hide",
+    "vegamix 2 wild west",
+    "tennis masters 2026",
+    "monopoly sudoku",
+    "flying robot transform",
+    "homeless survival online",
+    "prismroll 3d"
+  ]
+}

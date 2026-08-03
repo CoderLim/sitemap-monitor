@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-08-02T17:03:08.609818+00:00",
+  "fetched_at": "2026-08-03T17:53:35.166210+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/tiny-baker-ocean-jelly-cake",
+      "keywords": [
+        "tiny baker ocean jelly cake"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/snow-yeet",
+      "keywords": [
+        "snow yeet"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/robo-cleaner-simulator",
+      "keywords": [
+        "robo cleaner simulator"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/perfect-shape",
       "keywords": [
@@ -301,12 +319,6 @@
       "url": "https://poki.com/en/g/oozys-lab",
       "keywords": [
         "oozys lab"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/snow-yeet",
-      "keywords": [
-        "snow yeet"
       ]
     },
     {

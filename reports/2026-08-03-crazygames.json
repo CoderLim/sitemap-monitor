@@ -1,8 +1,9 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-03T17:53:35.166210+00:00",
-  "baseline": false,
-  "urls": [
+  "date": "2026-08-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
     {
       "url": "https://localhost:3000/",
       "keywords": []
@@ -28879,5 +28880,8 @@
       "url": "https://about.dev-crazygames.be/",
       "keywords": []
     }
+  ],
+  "new_keywords": [
+    "ric1"
   ]
 }
