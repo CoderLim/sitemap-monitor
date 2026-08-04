@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-03T17:53:35.166210+00:00",
+  "fetched_at": "2026-08-04T17:51:11.398945+00:00",
   "baseline": false,
   "urls": [
     {
@@ -12516,12 +12516,6 @@
       ]
     },
     {
-      "url": "http://localhost:3000/game/the-undisputables-online-multiplayer",
-      "keywords": [
-        "the undisputables online multiplayer"
-      ]
-    },
-    {
       "url": "http://localhost:3000/game/fruit-factory-idle",
       "keywords": [
         "fruit factory idle"
@@ -24888,6 +24882,12 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/block-city-invasion",
+      "keywords": [
+        "block city invasion"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/dream-hospital-tycoon-doctor",
       "keywords": [
         "dream hospital tycoon doctor"
@@ -25902,6 +25902,12 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/prismroll-3d-jsl",
+      "keywords": [
+        "prismroll 3d jsl"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/robshoot",
       "keywords": [
         "robshoot"
@@ -25914,27 +25920,39 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/ironhold-pixel-kingdoms",
+      "keywords": [
+        "ironhold pixel kingdoms"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/survive-ish-spl",
+      "keywords": [
+        "survive ish spl"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/party-tycoon",
+      "keywords": [
+        "party tycoon"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/feed-the-alien",
       "keywords": [
         "feed the alien"
       ]
     },
     {
+      "url": "http://localhost:3000/game/pixel-aquarium-tycoon",
+      "keywords": [
+        "pixel aquarium tycoon"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/dogs-out",
       "keywords": [
         "dogs out"
-      ]
-    },
-    {
-      "url": "http://localhost:3000/game/million-clicks",
-      "keywords": [
-        "million clicks"
-      ]
-    },
-    {
-      "url": "http://localhost:3000/game/ric1",
-      "keywords": [
-        "ric1"
       ]
     },
     {
@@ -28591,6 +28609,10 @@
     },
     {
       "url": "http://localhost:3000/c/sim/7",
+      "keywords": []
+    },
+    {
+      "url": "http://localhost:3000/c/sim/8",
       "keywords": []
     },
     {

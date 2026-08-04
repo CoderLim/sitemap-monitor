@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-03T17:53:35.166210+00:00",
+  "fetched_at": "2026-08-04T17:51:11.398945+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65452,6 +65452,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/toss-the-guy",
+      "keywords": [
+        "toss the guy"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/stick-clicker",
       "keywords": [
         "stick clicker"
@@ -65545,6 +65551,12 @@
       "url": "https://lagged.com/en/g/extreme-motorcycle-simulator",
       "keywords": [
         "extreme motorcycle simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/card-clash-battle-arena",
+      "keywords": [
+        "card clash battle arena"
       ]
     },
     {

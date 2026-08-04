@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/toss-the-guy",
+      "keywords": [
+        "toss the guy"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/card-clash-battle-arena",
+      "keywords": [
+        "card clash battle arena"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "toss the guy",
+    "card clash battle arena"
+  ]
+}

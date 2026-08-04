@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "http://localhost:3000/game/block-city-invasion",
+      "keywords": [
+        "block city invasion"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/prismroll-3d-jsl",
+      "keywords": [
+        "prismroll 3d jsl"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/ironhold-pixel-kingdoms",
+      "keywords": [
+        "ironhold pixel kingdoms"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/survive-ish-spl",
+      "keywords": [
+        "survive ish spl"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/party-tycoon",
+      "keywords": [
+        "party tycoon"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/pixel-aquarium-tycoon",
+      "keywords": [
+        "pixel aquarium tycoon"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/c/sim/8",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "block city invasion",
+    "prismroll 3d jsl",
+    "ironhold pixel kingdoms",
+    "survive ish spl",
+    "party tycoon",
+    "pixel aquarium tycoon"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/paperio-2",
+      "keywords": [
+        "paperio 2"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/family-life-simulator",
+      "keywords": [
+        "family life simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "paperio 2",
+    "family life simulator"
+  ]
+}
