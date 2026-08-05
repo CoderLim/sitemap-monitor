@@ -1,0 +1,60 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "http://localhost:3000/game/warfare-1942-riz",
+      "keywords": [
+        "warfare 1942 riz"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/idle-retro-arcade-jwq",
+      "keywords": [
+        "idle retro arcade jwq"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/plunder-2d---online-pirate-battle-brp",
+      "keywords": [
+        "plunder 2d online pirate battle brp"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/breakstoneball",
+      "keywords": [
+        "breakstoneball"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/ultimate-football-cup",
+      "keywords": [
+        "ultimate football cup"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/lucky-block-rush-fight-brainrots",
+      "keywords": [
+        "lucky block rush fight brainrots"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/t/ball/4",
+      "keywords": []
+    },
+    {
+      "url": "http://localhost:3000/c/clicker/7",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "warfare 1942 riz",
+    "idle retro arcade jwq",
+    "plunder 2d online pirate battle brp",
+    "breakstoneball",
+    "ultimate football cup",
+    "lucky block rush fight brainrots"
+  ]
+}

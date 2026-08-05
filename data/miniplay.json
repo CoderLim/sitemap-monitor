@@ -1,8 +1,86 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-04T17:51:11.398945+00:00",
+  "fetched_at": "2026-08-05T17:42:33.864679+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/christmas-massacre",
+      "keywords": [
+        "christmas massacre"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bonko",
+      "keywords": [
+        "bonko"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/world-football-champions",
+      "keywords": [
+        "world football champions"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tnt-sandbox",
+      "keywords": [
+        "tnt sandbox"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/five-nights-at-epsteins",
+      "keywords": [
+        "five nights at epsteins"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/gorilla-tag",
+      "keywords": [
+        "gorilla tag"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/celeste",
+      "keywords": [
+        "celeste"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/re-run",
+      "keywords": [
+        "re run"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/chameleon-hideout",
+      "keywords": [
+        "chameleon hideout"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bad-cat-prankster-moms-return",
+      "keywords": [
+        "bad cat prankster moms return"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hill-sprint",
+      "keywords": [
+        "hill sprint"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/inn-over-your-head",
+      "keywords": [
+        "inn over your head"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wood-hexa-factory",
+      "keywords": [
+        "wood hexa factory"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/bfdi-branches",
       "keywords": [

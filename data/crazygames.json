@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-04T17:51:11.398945+00:00",
+  "fetched_at": "2026-08-05T17:42:33.864679+00:00",
   "baseline": false,
   "urls": [
     {
@@ -14130,12 +14130,6 @@
       ]
     },
     {
-      "url": "http://localhost:3000/game/blocops",
-      "keywords": [
-        "blocops"
-      ]
-    },
-    {
       "url": "http://localhost:3000/game/airborne-motocross",
       "keywords": [
         "airborne motocross"
@@ -20160,12 +20154,6 @@
       ]
     },
     {
-      "url": "http://localhost:3000/game/cubes-2048-royale",
-      "keywords": [
-        "cubes 2048 royale"
-      ]
-    },
-    {
       "url": "http://localhost:3000/game/yokai-slayer",
       "keywords": [
         "yokai slayer"
@@ -25614,6 +25602,12 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/warfare-1942-riz",
+      "keywords": [
+        "warfare 1942 riz"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/jigmerge",
       "keywords": [
         "jigmerge"
@@ -25692,6 +25686,12 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/idle-retro-arcade-jwq",
+      "keywords": [
+        "idle retro arcade jwq"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/waddle-s-quest",
       "keywords": [
         "waddle s quest"
@@ -25713,6 +25713,12 @@
       "url": "http://localhost:3000/game/grass-cutter-lxr",
       "keywords": [
         "grass cutter lxr"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/plunder-2d---online-pirate-battle-brp",
+      "keywords": [
+        "plunder 2d online pirate battle brp"
       ]
     },
     {
@@ -25770,6 +25776,12 @@
       ]
     },
     {
+      "url": "http://localhost:3000/game/breakstoneball",
+      "keywords": [
+        "breakstoneball"
+      ]
+    },
+    {
       "url": "http://localhost:3000/game/unmatched-ego-2",
       "keywords": [
         "unmatched ego 2"
@@ -25797,6 +25809,12 @@
       "url": "http://localhost:3000/game/hexa-fill-puzzle",
       "keywords": [
         "hexa fill puzzle"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/ultimate-football-cup",
+      "keywords": [
+        "ultimate football cup"
       ]
     },
     {
@@ -25947,6 +25965,12 @@
       "url": "http://localhost:3000/game/pixel-aquarium-tycoon",
       "keywords": [
         "pixel aquarium tycoon"
+      ]
+    },
+    {
+      "url": "http://localhost:3000/game/lucky-block-rush-fight-brainrots",
+      "keywords": [
+        "lucky block rush fight brainrots"
       ]
     },
     {
@@ -27406,6 +27430,10 @@
       "keywords": []
     },
     {
+      "url": "http://localhost:3000/t/ball/4",
+      "keywords": []
+    },
+    {
       "url": "http://localhost:3000/t/henry-stickmin",
       "keywords": [
         "henry stickmin"
@@ -28781,6 +28809,10 @@
     },
     {
       "url": "http://localhost:3000/c/clicker/6",
+      "keywords": []
+    },
+    {
+      "url": "http://localhost:3000/c/clicker/7",
       "keywords": []
     },
     {

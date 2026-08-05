@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/kick-the-buddy",
+      "keywords": [
+        "kick the buddy"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/knife-merge",
+      "keywords": [
+        "knife merge"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "kick the buddy",
+    "knife merge"
+  ]
+}
