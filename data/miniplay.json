@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-05T17:42:33.864679+00:00",
+  "fetched_at": "2026-08-07T16:56:34.235624+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/goalheads-io",
+      "keywords": [
+        "goalheads io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/witchy-sisters",
+      "keywords": [
+        "witchy sisters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/smash-and-break",
+      "keywords": [
+        "smash and break"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tennis-masters-2026",
+      "keywords": [
+        "tennis masters 2026"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mine-blogger-simulator-3d",
+      "keywords": [
+        "mine blogger simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/yarn-art-loop",
+      "keywords": [
+        "yarn art loop"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/christmas-massacre",
       "keywords": [
@@ -37,6 +73,12 @@
       "url": "https://www.miniplay.com/game/gorilla-tag",
       "keywords": [
         "gorilla tag"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/arrow-escape-master",
+      "keywords": [
+        "arrow escape master"
       ]
     },
     {
@@ -97,12 +139,6 @@
       "url": "https://www.miniplay.com/game/vegamix-2-wild-west",
       "keywords": [
         "vegamix 2 wild west"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/tennis-masters-2026",
-      "keywords": [
-        "tennis masters 2026"
       ]
     },
     {

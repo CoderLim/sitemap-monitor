@@ -1,0 +1,784 @@
+{
+  "site_id": "playhop",
+  "date": "2026-08-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/arena-shinobi-battle-281043",
+      "keywords": [
+        "arena shinobi battle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bit-liner-342177",
+      "keywords": [
+        "bit liner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/roblocraft-zombie-attack-358358",
+      "keywords": [
+        "roblocraft zombie attack"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/455742",
+      "keywords": []
+    },
+    {
+      "url": "https://playhop.com/app/palkovil-doroga-domoi-480494",
+      "keywords": [
+        "palkovil doroga domoi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/unscrew-factory-513119",
+      "keywords": [
+        "unscrew factory"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arrow-maker-517646",
+      "keywords": [
+        "arrow maker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dual-blocks-522307",
+      "keywords": [
+        "dual blocks"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neofarm-farming-simulator-522716",
+      "keywords": [
+        "neofarm farming simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/noobik-grow-up-527946",
+      "keywords": [
+        "noobik grow up"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/match-3-candy-dush-534190",
+      "keywords": [
+        "match 3 candy dush"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/field-master-534868",
+      "keywords": [
+        "field master"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-connect-tile-match-puzzle-535275",
+      "keywords": [
+        "mahjong connect tile match puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/2048-lines-535709",
+      "keywords": [
+        "2048 lines"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/auto-repair-shop-clicker-the-path-to-success-535740",
+      "keywords": [
+        "auto repair shop clicker the path to success"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/protect-the-buns-from-capybaras-539018",
+      "keywords": [
+        "protect the buns from capybaras"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mem-pryzhok-539522",
+      "keywords": [
+        "mem pryzhok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/crazy-warp-539600",
+      "keywords": [
+        "crazy warp"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/digger-3d-upgrade-your-pickaxe-540433",
+      "keywords": [
+        "digger 3d upgrade your pickaxe"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/top-hop-540703",
+      "keywords": [
+        "top hop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cyber-zone-540707",
+      "keywords": [
+        "cyber zone"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/koty-nindzia-protiv-sobak-politseiskikh-540764",
+      "keywords": [
+        "koty nindzia protiv sobak politseiskikh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tanks-retro-battle-541103",
+      "keywords": [
+        "tanks retro battle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gravity-541142",
+      "keywords": [
+        "gravity"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/loot-miner-cyber-wasteland-541623",
+      "keywords": [
+        "loot miner cyber wasteland"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/collect-all-capybaras-541667",
+      "keywords": [
+        "collect all capybaras"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/realm-rivals-542697",
+      "keywords": [
+        "realm rivals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/memo-wonders-of-the-world-543111",
+      "keywords": [
+        "memo wonders of the world"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/capy-runner-3d-543218",
+      "keywords": [
+        "capy runner 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tsvetnye-provoda-543376",
+      "keywords": [
+        "tsvetnye provoda"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/waifu-mosaic-543835",
+      "keywords": [
+        "waifu mosaic"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kotenok-liubit-ptichek-544092",
+      "keywords": [
+        "kotenok liubit ptichek"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/buble-starses-cases-544341",
+      "keywords": [
+        "buble starses cases"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sniper-area-shooting-games-544462",
+      "keywords": [
+        "sniper area shooting games"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/2048-clicker-with-boosters-544794",
+      "keywords": [
+        "2048 clicker with boosters"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/conquerors-of-worlds-space-strategy-545289",
+      "keywords": [
+        "conquerors of worlds space strategy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-cars-defense-545380",
+      "keywords": [
+        "merge cars defense"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/plastilinovyi-bespredel-545426",
+      "keywords": [
+        "plastilinovyi bespredel"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/infinite-animal-ball-race-3d-545908",
+      "keywords": [
+        "infinite animal ball race 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-and-slash-546001",
+      "keywords": [
+        "merge and slash"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/noob-run-become-admin-546185",
+      "keywords": [
+        "noob run become admin"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cozy-puzzles-daily-collection-546653",
+      "keywords": [
+        "cozy puzzles daily collection"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/throw-the-knife-547045",
+      "keywords": [
+        "throw the knife"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ten-v-stenakh-548083",
+      "keywords": [
+        "ten v stenakh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/skanvordy-na-kazhdyi-den-548232",
+      "keywords": [
+        "skanvordy na kazhdyi den"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zigzag-drift-548591",
+      "keywords": [
+        "zigzag drift"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zviozdnyi-rubezh-kosmicheskaia-oborona-548618",
+      "keywords": [
+        "zviozdnyi rubezh kosmicheskaia oborona"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-td-548742",
+      "keywords": [
+        "neon td"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-stronger-drill-deeper-mine-548823",
+      "keywords": [
+        "obby stronger drill deeper mine"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zona-pokosa-550371",
+      "keywords": [
+        "zona pokosa"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fool-550514",
+      "keywords": [
+        "fool"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-big-motti-550739",
+      "keywords": [
+        "the big motti"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/royal-backgammon-online-pvp-551419",
+      "keywords": [
+        "royal backgammon online pvp"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/forest-firefighter-inferno-551629",
+      "keywords": [
+        "forest firefighter inferno"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/time-train-hidden-object-adventure-551642",
+      "keywords": [
+        "time train hidden object adventure"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/capysudoku-551706",
+      "keywords": [
+        "capysudoku"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/driver-trucker-551772",
+      "keywords": [
+        "driver trucker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hacker-clicker-build-your-network-551780",
+      "keywords": [
+        "hacker clicker build your network"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/african-princesses-style-island-551830",
+      "keywords": [
+        "african princesses style island"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/last-stand-551846",
+      "keywords": [
+        "last stand"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fluffy-surprise-551979",
+      "keywords": [
+        "fluffy surprise"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/broken-heart-detective-552018",
+      "keywords": [
+        "broken heart detective"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ladybug-doctor-dentist-games-552238",
+      "keywords": [
+        "ladybug doctor dentist games"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brawl-ragdolls-test-weapons-552261",
+      "keywords": [
+        "brawl ragdolls test weapons"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/screw-puzzle-color-sorting-552524",
+      "keywords": [
+        "screw puzzle color sorting"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/steel-frontier-turret-merge-552694",
+      "keywords": [
+        "steel frontier turret merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/deer-cannibal-vs-granny-battle-for-babkogrenyevsk-552774",
+      "keywords": [
+        "deer cannibal vs granny battle for babkogrenyevsk"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flowers-color-by-number-552863",
+      "keywords": [
+        "flowers color by number"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/morskoi-boi-stalnoi-front-552883",
+      "keywords": [
+        "morskoi boi stalnoi front"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/blocks-mania-552890",
+      "keywords": [
+        "blocks mania"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/jim-jungle-hero-553008",
+      "keywords": [
+        "jim jungle hero"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/soccer-aiming-simulator-in-3d-553112",
+      "keywords": [
+        "soccer aiming simulator in 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chat-love-story-553127",
+      "keywords": [
+        "chat love story"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bubble-magic-forest-553154",
+      "keywords": [
+        "bubble magic forest"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slide-puzzle-nature-553229",
+      "keywords": [
+        "slide puzzle nature"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/a-simple-fishing-simulator-553324",
+      "keywords": [
+        "a simple fishing simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/prism-hexa-553400",
+      "keywords": [
+        "prism hexa"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-balls-sports-arena-553836",
+      "keywords": [
+        "merge balls sports arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/balls-ascension-554024",
+      "keywords": [
+        "balls ascension"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/final-chempionata-mira-2026-554580",
+      "keywords": [
+        "final chempionata mira 2026"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/magic-pet-match-3-554716",
+      "keywords": [
+        "magic pet match 3"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zmeika-stan-chempionom-554879",
+      "keywords": [
+        "zmeika stan chempionom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/island-cleaner-simulator-554946",
+      "keywords": [
+        "island cleaner simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poumnichai-555031",
+      "keywords": [
+        "poumnichai"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/orbit-drift-poslednii-naslednik-555223",
+      "keywords": [
+        "orbit drift poslednii naslednik"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/words-and-bubbles-555322",
+      "keywords": [
+        "words and bubbles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/stick-ninja-rescue-555343",
+      "keywords": [
+        "stick ninja rescue"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/durak-path-of-the-champion-555352",
+      "keywords": [
+        "durak path of the champion"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wonder-gardens-collect-the-fruits-555442",
+      "keywords": [
+        "wonder gardens collect the fruits"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/naidi-konfetu-novogodnie-tainiki-555923",
+      "keywords": [
+        "naidi konfetu novogodnie tainiki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruits-for-memory-556104",
+      "keywords": [
+        "fruits for memory"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arrow-figures-556107",
+      "keywords": [
+        "arrow figures"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fnaf-merge-battles-defeat-animatronic-enemies-556161",
+      "keywords": [
+        "fnaf merge battles defeat animatronic enemies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rob-1-iq-blow-up-the-brain-556406",
+      "keywords": [
+        "rob 1 iq blow up the brain"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/find-animals-556464",
+      "keywords": [
+        "find animals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/frozen-kingdom-run-556528",
+      "keywords": [
+        "frozen kingdom run"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vyzhit-protiv-tolpy-556943",
+      "keywords": [
+        "vyzhit protiv tolpy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/master-parkinga-556957",
+      "keywords": [
+        "master parkinga"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/happy-cauldron-make-obsidian-557004",
+      "keywords": [
+        "happy cauldron make obsidian"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/animal-hospital-playground-558006",
+      "keywords": [
+        "animal hospital playground"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/play-as-granny-4-558349",
+      "keywords": [
+        "play as granny 4"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/upgrade-keyboard-559445",
+      "keywords": [
+        "upgrade keyboard"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mecha-chameleon-clicker-559909",
+      "keywords": [
+        "mecha chameleon clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-elementals-castle-defense-560336",
+      "keywords": [
+        "merge elementals castle defense"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vitrina-vremeni-560412",
+      "keywords": [
+        "vitrina vremeni"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tanki-za-natsiiu-2-560678",
+      "keywords": [
+        "tanki za natsiiu 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/micro-city-parking-560990",
+      "keywords": [
+        "micro city parking"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dinoclick-egg-mystery-561046",
+      "keywords": [
+        "dinoclick egg mystery"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/remove-tape-save-pig-562542",
+      "keywords": [
+        "remove tape save pig"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/water-sort-challenging-bottles-562948",
+      "keywords": [
+        "water sort challenging bottles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/water-sort-jam-colorful-place-563331",
+      "keywords": [
+        "water sort jam colorful place"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "arena shinobi battle",
+    "bit liner",
+    "roblocraft zombie attack",
+    "palkovil doroga domoi",
+    "unscrew factory",
+    "arrow maker",
+    "dual blocks",
+    "neofarm farming simulator",
+    "noobik grow up",
+    "match 3 candy dush",
+    "field master",
+    "mahjong connect tile match puzzle",
+    "2048 lines",
+    "auto repair shop clicker the path to success",
+    "protect the buns from capybaras",
+    "mem pryzhok",
+    "crazy warp",
+    "digger 3d upgrade your pickaxe",
+    "top hop",
+    "cyber zone",
+    "koty nindzia protiv sobak politseiskikh",
+    "tanks retro battle",
+    "gravity",
+    "loot miner cyber wasteland",
+    "collect all capybaras",
+    "realm rivals",
+    "memo wonders of the world",
+    "capy runner 3d",
+    "tsvetnye provoda",
+    "waifu mosaic",
+    "kotenok liubit ptichek",
+    "buble starses cases",
+    "sniper area shooting games",
+    "2048 clicker with boosters",
+    "conquerors of worlds space strategy",
+    "merge cars defense",
+    "plastilinovyi bespredel",
+    "infinite animal ball race 3d",
+    "merge and slash",
+    "noob run become admin",
+    "cozy puzzles daily collection",
+    "throw the knife",
+    "ten v stenakh",
+    "skanvordy na kazhdyi den",
+    "zigzag drift",
+    "zviozdnyi rubezh kosmicheskaia oborona",
+    "neon td",
+    "obby stronger drill deeper mine",
+    "zona pokosa",
+    "fool",
+    "the big motti",
+    "royal backgammon online pvp",
+    "forest firefighter inferno",
+    "time train hidden object adventure",
+    "capysudoku",
+    "driver trucker",
+    "hacker clicker build your network",
+    "african princesses style island",
+    "last stand",
+    "fluffy surprise",
+    "broken heart detective",
+    "ladybug doctor dentist games",
+    "brawl ragdolls test weapons",
+    "screw puzzle color sorting",
+    "steel frontier turret merge",
+    "deer cannibal vs granny battle for babkogrenyevsk",
+    "flowers color by number",
+    "morskoi boi stalnoi front",
+    "blocks mania",
+    "jim jungle hero",
+    "soccer aiming simulator in 3d",
+    "chat love story",
+    "bubble magic forest",
+    "slide puzzle nature",
+    "a simple fishing simulator",
+    "prism hexa",
+    "merge balls sports arena",
+    "balls ascension",
+    "final chempionata mira 2026",
+    "magic pet match 3",
+    "zmeika stan chempionom",
+    "island cleaner simulator",
+    "poumnichai",
+    "orbit drift poslednii naslednik",
+    "words and bubbles",
+    "stick ninja rescue",
+    "durak path of the champion",
+    "wonder gardens collect the fruits",
+    "naidi konfetu novogodnie tainiki",
+    "fruits for memory",
+    "arrow figures",
+    "fnaf merge battles defeat animatronic enemies",
+    "rob 1 iq blow up the brain",
+    "find animals",
+    "frozen kingdom run",
+    "vyzhit protiv tolpy",
+    "master parkinga",
+    "happy cauldron make obsidian",
+    "animal hospital playground",
+    "play as granny 4",
+    "upgrade keyboard",
+    "mecha chameleon clicker",
+    "merge elementals castle defense",
+    "vitrina vremeni",
+    "tanki za natsiiu 2",
+    "micro city parking",
+    "dinoclick egg mystery",
+    "remove tape save pig",
+    "water sort challenging bottles",
+    "water sort jam colorful place"
+  ]
+}

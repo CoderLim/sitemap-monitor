@@ -1,8 +1,9 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-07T16:56:34.235624+00:00",
-  "baseline": false,
-  "urls": [
+  "date": "2026-08-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
     {
       "url": "https://www.crazygames.com/",
       "keywords": []
@@ -29063,5 +29064,30 @@
       "url": "https://about.crazygames.com/",
       "keywords": []
     }
+  ],
+  "new_keywords": [
+    "turbo dismounting",
+    "blocops",
+    "cubes 2048 royale",
+    "obby with friends online",
+    "thousand suns",
+    "revoxel shooter",
+    "heroes vs monsters idle rpg",
+    "pokiball",
+    "catapult king 2 0 71",
+    "aquadome defense",
+    "metro runner iuq",
+    "lowpoly digger",
+    "labyrinth puzzles",
+    "deja vu same level",
+    "merge idle war",
+    "mine idle clicker",
+    "merge a mansion",
+    "blocky dead waves",
+    "salvage corps fuz",
+    "voxel hole black hole game",
+    "ink rivals",
+    "my perfect clinic",
+    "night of the living dread nhc"
   ]
 }

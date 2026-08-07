@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/goalheads-io",
+      "keywords": [
+        "goalheads io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/witchy-sisters",
+      "keywords": [
+        "witchy sisters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/smash-and-break",
+      "keywords": [
+        "smash and break"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mine-blogger-simulator-3d",
+      "keywords": [
+        "mine blogger simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/yarn-art-loop",
+      "keywords": [
+        "yarn art loop"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/arrow-escape-master",
+      "keywords": [
+        "arrow escape master"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "goalheads io",
+    "witchy sisters",
+    "smash and break",
+    "mine blogger simulator 3d",
+    "yarn art loop",
+    "arrow escape master"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/crowd-rush",
+      "keywords": [
+        "crowd rush"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/harvest-loop",
+      "keywords": [
+        "harvest loop"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/marble-boom",
+      "keywords": [
+        "marble boom"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "crowd rush",
+    "harvest loop",
+    "marble boom"
+  ]
+}
