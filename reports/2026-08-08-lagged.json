@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/panda-restaurant",
+      "keywords": [
+        "panda restaurant"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/offroad-crash-climber-4x4",
+      "keywords": [
+        "offroad crash climber 4x4"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/farm-vs-zombies",
+      "keywords": [
+        "farm vs zombies"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bubble-sort-garden",
+      "keywords": [
+        "bubble sort garden"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "panda restaurant",
+    "offroad crash climber 4x4",
+    "farm vs zombies",
+    "bubble sort garden"
+  ]
+}

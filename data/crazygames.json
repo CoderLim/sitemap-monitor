@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-07T16:56:34.235624+00:00",
+  "fetched_at": "2026-08-08T16:37:01.411024+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25582,12 +25582,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/pokiball",
-      "keywords": [
-        "pokiball"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/harbor-tycoon-fcb",
       "keywords": [
         "harbor tycoon fcb"
@@ -25978,6 +25972,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/candy-merge",
+      "keywords": [
+        "candy merge"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/international-cup-football-2026",
       "keywords": [
         "international cup football 2026"
@@ -26032,6 +26032,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/star-digger",
+      "keywords": [
+        "star digger"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/merge-idle-war",
       "keywords": [
         "merge idle war"
@@ -26083,6 +26089,30 @@
       "url": "https://www.crazygames.com/game/voxel-hole-black-hole-game",
       "keywords": [
         "voxel hole black hole game"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/animal-one-line",
+      "keywords": [
+        "animal one line"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/loop-farm",
+      "keywords": [
+        "loop farm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pixel-cup-26",
+      "keywords": [
+        "pixel cup 26"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cube-drop-2048-3d-ibo",
+      "keywords": [
+        "cube drop 2048 3d ibo"
       ]
     },
     {
@@ -26402,6 +26432,10 @@
       "keywords": [
         "space"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/space/2",
+      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/2d",
@@ -27952,6 +27986,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/incremental/8",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/educational",
       "keywords": [
         "educational"
@@ -28273,6 +28311,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/merge/4",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/merge/5",
       "keywords": []
     },
     {
@@ -28875,6 +28917,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/puzzle/11",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/puzzle/12",
       "keywords": []
     },
     {

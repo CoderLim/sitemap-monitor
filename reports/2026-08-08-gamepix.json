@@ -1,0 +1,129 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-08-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/starvore",
+      "keywords": [
+        "starvore"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/heroes-beware",
+      "keywords": [
+        "heroes beware"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/plinko-rng",
+      "keywords": [
+        "plinko rng"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dig-flow",
+      "keywords": [
+        "dig flow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/voltrun",
+      "keywords": [
+        "voltrun"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/one-line-dinner",
+      "keywords": [
+        "one line dinner"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/country-connections",
+      "keywords": [
+        "country connections"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/idle-forge",
+      "keywords": [
+        "idle forge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cribbage",
+      "keywords": [
+        "cribbage"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kitty-cairn",
+      "keywords": [
+        "kitty cairn"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/scale-the-depths",
+      "keywords": [
+        "scale the depths"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obbloxgun-io-3d-fps-shooter",
+      "keywords": [
+        "obbloxgun io 3d fps shooter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/boomerang-bash",
+      "keywords": [
+        "boomerang bash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grass-flip",
+      "keywords": [
+        "grass flip"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/supermarket-management-simulator",
+      "keywords": [
+        "supermarket management simulator"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nova-escape",
+      "keywords": [
+        "nova escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shape-survivors",
+      "keywords": [
+        "shape survivors"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "starvore",
+    "heroes beware",
+    "plinko rng",
+    "dig flow",
+    "voltrun",
+    "one line dinner",
+    "country connections",
+    "idle forge",
+    "cribbage",
+    "kitty cairn",
+    "scale the depths",
+    "obbloxgun io 3d fps shooter",
+    "boomerang bash",
+    "grass flip",
+    "supermarket management simulator",
+    "nova escape",
+    "shape survivors"
+  ]
+}

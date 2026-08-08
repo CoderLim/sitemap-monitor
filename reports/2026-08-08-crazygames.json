@@ -1,0 +1,68 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/candy-merge",
+      "keywords": [
+        "candy merge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/star-digger",
+      "keywords": [
+        "star digger"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/animal-one-line",
+      "keywords": [
+        "animal one line"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/loop-farm",
+      "keywords": [
+        "loop farm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pixel-cup-26",
+      "keywords": [
+        "pixel cup 26"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cube-drop-2048-3d-ibo",
+      "keywords": [
+        "cube drop 2048 3d ibo"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/space/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/incremental/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/merge/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/puzzle/12",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "candy merge",
+    "star digger",
+    "animal one line",
+    "loop farm",
+    "pixel cup 26",
+    "cube drop 2048 3d ibo"
+  ]
+}
