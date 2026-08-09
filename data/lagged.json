@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-08T16:37:01.411024+00:00",
+  "fetched_at": "2026-08-09T16:38:50.234733+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65539,6 +65539,18 @@
       "url": "https://lagged.com/en/g/farm-vs-zombies",
       "keywords": [
         "farm vs zombies"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bubbits",
+      "keywords": [
+        "bubbits"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/woolloop-color-puzzle",
+      "keywords": [
+        "woolloop color puzzle"
       ]
     },
     {
