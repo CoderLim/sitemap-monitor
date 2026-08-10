@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-09T16:38:50.234733+00:00",
+  "fetched_at": "2026-08-10T16:55:59.131466+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65560,6 +65560,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/glass-merge",
+      "keywords": [
+        "glass merge"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/hospital-surgeon-doctor",
       "keywords": [
         "hospital surgeon doctor"
@@ -65596,6 +65602,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/snake-sorting-puzzle",
+      "keywords": [
+        "snake sorting puzzle"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/bubble-sort-garden",
       "keywords": [
         "bubble sort garden"
@@ -65617,6 +65629,12 @@
       "url": "https://lagged.com/en/g/onu-live",
       "keywords": [
         "onu live"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/scarab-puzzle",
+      "keywords": [
+        "scarab puzzle"
       ]
     },
     {

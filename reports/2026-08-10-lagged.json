@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/glass-merge",
+      "keywords": [
+        "glass merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/snake-sorting-puzzle",
+      "keywords": [
+        "snake sorting puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/scarab-puzzle",
+      "keywords": [
+        "scarab puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "glass merge",
+    "snake sorting puzzle",
+    "scarab puzzle"
+  ]
+}

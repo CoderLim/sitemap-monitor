@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-09T16:38:50.234733+00:00",
+  "fetched_at": "2026-08-10T16:55:59.131466+00:00",
   "baseline": false,
   "urls": [
     {
@@ -13978,12 +13978,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/ninja-parkour-multiplayer",
-      "keywords": [
-        "ninja parkour multiplayer"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/necro-sludge",
       "keywords": [
         "necro sludge"
@@ -14827,12 +14821,6 @@
       "url": "https://www.crazygames.com/game/pool-hustlers",
       "keywords": [
         "pool hustlers"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/escape-from-prison-multiplayer",
-      "keywords": [
-        "escape from prison multiplayer"
       ]
     },
     {
@@ -21784,12 +21772,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/swat-cats",
-      "keywords": [
-        "swat cats"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/tzared-kqa",
       "keywords": [
         "tzared kqa"
@@ -25852,6 +25834,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/swat-squad-tactics",
+      "keywords": [
+        "swat squad tactics"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/help-me-tricky-puzzle-games-cje",
       "keywords": [
         "help me tricky puzzle games cje"
@@ -26032,6 +26020,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/brainrot-factory-tycoon",
+      "keywords": [
+        "brainrot factory tycoon"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/star-digger",
       "keywords": [
         "star digger"
@@ -26047,6 +26041,12 @@
       "url": "https://www.crazygames.com/game/mine-idle-clicker",
       "keywords": [
         "mine idle clicker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-climb-slide-minecarts",
+      "keywords": [
+        "obby climb slide minecarts"
       ]
     },
     {
@@ -26098,6 +26098,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/click-bait-rhythm-roguelite-osu",
+      "keywords": [
+        "click bait rhythm roguelite osu"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/loop-farm",
       "keywords": [
         "loop farm"
@@ -26137,6 +26143,18 @@
       "url": "https://www.crazygames.com/game/night-of-the-living-dread-nhc",
       "keywords": [
         "night of the living dread nhc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/knife-tower",
+      "keywords": [
+        "knife tower"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/reel-quest",
+      "keywords": [
+        "reel quest"
       ]
     },
     {
@@ -28779,6 +28797,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/arcade/11",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/arcade/12",
       "keywords": []
     },
     {

@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/swat-squad-tactics",
+      "keywords": [
+        "swat squad tactics"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/brainrot-factory-tycoon",
+      "keywords": [
+        "brainrot factory tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-climb-slide-minecarts",
+      "keywords": [
+        "obby climb slide minecarts"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/click-bait-rhythm-roguelite-osu",
+      "keywords": [
+        "click bait rhythm roguelite osu"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/knife-tower",
+      "keywords": [
+        "knife tower"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/reel-quest",
+      "keywords": [
+        "reel quest"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/arcade/12",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "swat squad tactics",
+    "brainrot factory tycoon",
+    "obby climb slide minecarts",
+    "click bait rhythm roguelite osu",
+    "knife tower",
+    "reel quest"
+  ]
+}
