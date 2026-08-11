@@ -1,8 +1,32 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-10T16:55:59.131466+00:00",
+  "fetched_at": "2026-08-11T16:59:44.588656+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/soccer-real",
+      "keywords": [
+        "soccer real"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fishers-fear-2-retribution",
+      "keywords": [
+        "fishers fear 2 retribution"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hexbound",
+      "keywords": [
+        "hexbound"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/arrows-picture-puzzle",
+      "keywords": [
+        "arrows picture puzzle"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/goalheads-io",
       "keywords": [

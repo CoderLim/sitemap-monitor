@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-10T16:55:59.131466+00:00",
+  "fetched_at": "2026-08-11T16:59:44.588656+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65620,6 +65620,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/find-the-odd-one-out",
+      "keywords": [
+        "find the odd one out"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/card-clash-battle-arena",
       "keywords": [
         "card clash battle arena"
@@ -65635,6 +65641,12 @@
       "url": "https://lagged.com/en/g/scarab-puzzle",
       "keywords": [
         "scarab puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ducks-escape",
+      "keywords": [
+        "ducks escape"
       ]
     },
     {
