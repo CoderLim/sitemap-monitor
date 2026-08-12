@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/dragon-the-dragon",
+      "keywords": [
+        "dragon the dragon"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/color-shapes",
+      "keywords": [
+        "color shapes"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/build-your-island",
+      "keywords": [
+        "build your island"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dragon the dragon",
+    "color shapes",
+    "build your island"
+  ]
+}

@@ -1,8 +1,50 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-08-11T16:59:44.588656+00:00",
+  "fetched_at": "2026-08-12T16:58:55.279116+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/dragon-the-dragon",
+      "keywords": [
+        "dragon the dragon"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/kick-the-buddy",
+      "keywords": [
+        "kick the buddy"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/slime-keyboard-escape",
+      "keywords": [
+        "slime keyboard escape"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/travel-merge",
+      "keywords": [
+        "travel merge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/color-shapes",
+      "keywords": [
+        "color shapes"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/build-your-island",
+      "keywords": [
+        "build your island"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/sandbox-of-elements",
+      "keywords": [
+        "sandbox of elements"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/tiny-baker-ocean-jelly-cake",
       "keywords": [
@@ -31,12 +73,6 @@
       "url": "https://poki.com/en/g/tiny-game-shop-tycoon",
       "keywords": [
         "tiny game shop tycoon"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/kick-the-buddy",
-      "keywords": [
-        "kick the buddy"
       ]
     },
     {
@@ -127,12 +163,6 @@
       "url": "https://poki.com/en/g/carnado-boat-racing",
       "keywords": [
         "carnado boat racing"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/slime-keyboard-escape",
-      "keywords": [
-        "slime keyboard escape"
       ]
     },
     {
@@ -268,12 +298,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/sandbox-of-elements",
-      "keywords": [
-        "sandbox of elements"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/dogs-life",
       "keywords": [
         "dogs life"
@@ -319,12 +343,6 @@
       "url": "https://poki.com/en/g/mad-skills-rallycross",
       "keywords": [
         "mad skills rallycross"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/travel-merge",
-      "keywords": [
-        "travel merge"
       ]
     },
     {
@@ -8383,12 +8401,6 @@
       "url": "https://poki.com/en/g/rocket-clash-3d",
       "keywords": [
         "rocket clash 3d"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/cats",
-      "keywords": [
-        "cats"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-11T16:59:44.588656+00:00",
+  "fetched_at": "2026-08-12T16:58:55.279116+00:00",
   "baseline": false,
   "urls": [
     {
@@ -9964,12 +9964,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/tile-craft-3d",
-      "keywords": [
-        "tile craft 3d"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/mecha-run",
       "keywords": [
         "mecha run"
@@ -13975,6 +13969,12 @@
       "url": "https://www.crazygames.com/game/zombie-hunter-rro",
       "keywords": [
         "zombie hunter rro"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/ninja-parkour-multiplayer",
+      "keywords": [
+        "ninja parkour multiplayer"
       ]
     },
     {
@@ -25114,6 +25114,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/sandwich-rush-serve-and-grow",
+      "keywords": [
+        "sandwich rush serve and grow"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lucky-blocks-for-brainrots",
       "keywords": [
         "lucky blocks for brainrots"
@@ -25690,6 +25696,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/beauty-salon",
+      "keywords": [
+        "beauty salon"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/road-rage-hva",
       "keywords": [
         "road rage hva"
@@ -26098,6 +26110,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/classroom-io",
+      "keywords": [
+        "classroom io"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/merge-a-mansion",
       "keywords": [
         "merge a mansion"
@@ -26164,6 +26182,18 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/world-conquest",
+      "keywords": [
+        "world conquest"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/crab-cove-pixel-puzzle",
+      "keywords": [
+        "crab cove pixel puzzle"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lucky-block-rush-fight-brainrots",
       "keywords": [
         "lucky block rush fight brainrots"
@@ -26209,6 +26239,12 @@
       "url": "https://www.crazygames.com/game/dogs-out",
       "keywords": [
         "dogs out"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lumen-vne",
+      "keywords": [
+        "lumen vne"
       ]
     },
     {

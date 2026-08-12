@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/white-room-killhouse",
+      "keywords": [
+        "white room killhouse"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/funny-merges-grow-a-flower",
+      "keywords": [
+        "funny merges grow a flower"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/incredible-hero-monster-battle",
+      "keywords": [
+        "incredible hero monster battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/toca-hidden-stars",
+      "keywords": [
+        "toca hidden stars"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "white room killhouse",
+    "funny merges grow a flower",
+    "incredible hero monster battle",
+    "toca hidden stars"
+  ]
+}

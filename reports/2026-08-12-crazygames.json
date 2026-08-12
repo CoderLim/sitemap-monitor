@@ -1,0 +1,59 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/ninja-parkour-multiplayer",
+      "keywords": [
+        "ninja parkour multiplayer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sandwich-rush-serve-and-grow",
+      "keywords": [
+        "sandwich rush serve and grow"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/beauty-salon",
+      "keywords": [
+        "beauty salon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/classroom-io",
+      "keywords": [
+        "classroom io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/world-conquest",
+      "keywords": [
+        "world conquest"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/crab-cove-pixel-puzzle",
+      "keywords": [
+        "crab cove pixel puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lumen-vne",
+      "keywords": [
+        "lumen vne"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "ninja parkour multiplayer",
+    "sandwich rush serve and grow",
+    "beauty salon",
+    "classroom io",
+    "world conquest",
+    "crab cove pixel puzzle",
+    "lumen vne"
+  ]
+}
