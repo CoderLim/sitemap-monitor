@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/helicopter-flight-simulator",
+      "keywords": [
+        "helicopter flight simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/deadroll-ont",
+      "keywords": [
+        "deadroll ont"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/claw-master",
+      "keywords": [
+        "claw master"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/thermal-overwatch-byf",
+      "keywords": [
+        "thermal overwatch byf"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cozy-kitchen",
+      "keywords": [
+        "cozy kitchen"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/jelly-slam",
+      "keywords": [
+        "jelly slam"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "helicopter flight simulator",
+    "deadroll ont",
+    "claw master",
+    "thermal overwatch byf",
+    "cozy kitchen",
+    "jelly slam"
+  ]
+}

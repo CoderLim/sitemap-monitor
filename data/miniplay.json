@@ -1,8 +1,32 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-12T16:58:55.279116+00:00",
+  "fetched_at": "2026-08-13T16:58:38.448759+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/stardew-valley",
+      "keywords": [
+        "stardew valley"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/capybara-mart",
+      "keywords": [
+        "capybara mart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/worldguessr",
+      "keywords": [
+        "worldguessr"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/meccha-chameleon",
+      "keywords": [
+        "meccha chameleon"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/sniper-for-brainrot",
       "keywords": [
@@ -439,12 +463,6 @@
       "url": "https://www.miniplay.com/game/mario-in-animatronic-horror",
       "keywords": [
         "mario in animatronic horror"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/meccha-chameleon",
-      "keywords": [
-        "meccha chameleon"
       ]
     },
     {

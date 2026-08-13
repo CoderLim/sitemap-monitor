@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/patty-on-wheels",
+      "keywords": [
+        "patty on wheels"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/tornado67",
+      "keywords": [
+        "tornado67"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "patty on wheels",
+    "tornado67"
+  ]
+}

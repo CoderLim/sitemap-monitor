@@ -1,0 +1,31 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/stardew-valley",
+      "keywords": [
+        "stardew valley"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/capybara-mart",
+      "keywords": [
+        "capybara mart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/worldguessr",
+      "keywords": [
+        "worldguessr"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "stardew valley",
+    "capybara mart",
+    "worldguessr"
+  ]
+}

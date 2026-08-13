@@ -1,0 +1,66 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-08-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/football-club-tycoon",
+      "keywords": [
+        "football club tycoon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bullseye",
+      "keywords": [
+        "bullseye"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jelly-jam",
+      "keywords": [
+        "jelly jam"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cozy-sort-theme-collect",
+      "keywords": [
+        "cozy sort theme collect"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/santa-wood-cutter-2",
+      "keywords": [
+        "santa wood cutter 2"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/skyslime-adventures",
+      "keywords": [
+        "skyslime adventures"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/coils",
+      "keywords": [
+        "coils"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bolt-sort",
+      "keywords": [
+        "bolt sort"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "football club tycoon",
+    "bullseye",
+    "jelly jam",
+    "cozy sort theme collect",
+    "santa wood cutter 2",
+    "skyslime adventures",
+    "coils",
+    "bolt sort"
+  ]
+}
