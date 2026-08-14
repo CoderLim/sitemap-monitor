@@ -1,0 +1,465 @@
+{
+  "site_id": "playhop",
+  "date": "2026-08-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/age-of-arcane-turn-based-rpg-457146",
+      "keywords": [
+        "age of arcane turn based rpg"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/strike-fighters-477589",
+      "keywords": [
+        "strike fighters"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/check-your-reaction-time-503784",
+      "keywords": [
+        "check your reaction time"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cut-the-rope-2-511180",
+      "keywords": [
+        "cut the rope 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/privedenie-i-pryzhki-517492",
+      "keywords": [
+        "privedenie i pryzhki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kliker-tiuning-master-521751",
+      "keywords": [
+        "kliker tiuning master"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/connect-the-parts-garage-523907",
+      "keywords": [
+        "connect the parts garage"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/octa-blast-2048-525605",
+      "keywords": [
+        "octa blast 2048"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-cars-idle-tycoon-534234",
+      "keywords": [
+        "merge cars idle tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/drop-rush-538242",
+      "keywords": [
+        "drop rush"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/astral-survival-539546",
+      "keywords": [
+        "astral survival"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tanchiki-i-zombaki-539779",
+      "keywords": [
+        "tanchiki i zombaki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dungeon-of-souls-541240",
+      "keywords": [
+        "dungeon of souls"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slime-island-541922",
+      "keywords": [
+        "slime island"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spider-solitaire-premium-542189",
+      "keywords": [
+        "spider solitaire premium"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kurort-mechty-542216",
+      "keywords": [
+        "kurort mechty"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-brainrots-evolution-542837",
+      "keywords": [
+        "merge brainrots evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/klin-lovets-542871",
+      "keywords": [
+        "klin lovets"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dollar-po-kursu-543313",
+      "keywords": [
+        "dollar po kursu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/word-pizza-crossword-games-543692",
+      "keywords": [
+        "word pizza crossword games"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spinner-battle-elemental-arena-543940",
+      "keywords": [
+        "spinner battle elemental arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/geopulse-544211",
+      "keywords": [
+        "geopulse"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kotomatika-545802",
+      "keywords": [
+        "kotomatika"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/malenkaia-cherepakha-546278",
+      "keywords": [
+        "malenkaia cherepakha"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/geometriia-volna-slozhneishee-ispytanie-546690",
+      "keywords": [
+        "geometriia volna slozhneishee ispytanie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-sbora-dikoi-cheremshi-546977",
+      "keywords": [
+        "simuliator sbora dikoi cheremshi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wengallbi-cars-online-547723",
+      "keywords": [
+        "wengallbi cars online"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kubo-boom-547871",
+      "keywords": [
+        "kubo boom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vampires-kiss-time-paradox-548139",
+      "keywords": [
+        "vampires kiss time paradox"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/close-the-numbers-548199",
+      "keywords": [
+        "close the numbers"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/animal-hospital-548315",
+      "keywords": [
+        "animal hospital"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/igra-na-pamiat-s-memami-550365",
+      "keywords": [
+        "igra na pamiat s memami"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/synergrid-551306",
+      "keywords": [
+        "synergrid"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hunting-chameleons-551551",
+      "keywords": [
+        "hunting chameleons"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/yarn-puzzle-in-3d-551633",
+      "keywords": [
+        "yarn puzzle in 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/jump-rope-owl-552177",
+      "keywords": [
+        "jump rope owl"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/klondike-solitaire-2026-552296",
+      "keywords": [
+        "klondike solitaire 2026"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slime-keyboard-1-speed-per-second-552493",
+      "keywords": [
+        "slime keyboard 1 speed per second"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evoliutsiia-kosmicheskikh-monstrov-552604",
+      "keywords": [
+        "evoliutsiia kosmicheskikh monstrov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/idle-gem-miner-552624",
+      "keywords": [
+        "idle gem miner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kosmicheskii-ryvok-552661",
+      "keywords": [
+        "kosmicheskii ryvok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/labyrinths-2026-553009",
+      "keywords": [
+        "labyrinths 2026"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/burit-553017",
+      "keywords": [
+        "burit"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/logika-553128",
+      "keywords": [
+        "logika"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/puzyrki-spokoinaia-igra-553131",
+      "keywords": [
+        "puzyrki spokoinaia igra"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/plants-vs-zombies-crossbreeding-553412",
+      "keywords": [
+        "plants vs zombies crossbreeding"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/firefly-grove-553485",
+      "keywords": [
+        "firefly grove"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wolf-and-eggs-554301",
+      "keywords": [
+        "wolf and eggs"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/paper-alchemy-elements-and-orders-554810",
+      "keywords": [
+        "paper alchemy elements and orders"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-rivals-555697",
+      "keywords": [
+        "block rivals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/surround-the-wasp-555906",
+      "keywords": [
+        "surround the wasp"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-dozhdia-remeik-556299",
+      "keywords": [
+        "simuliator dozhdia remeik"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fnaf-animatroniki-556653",
+      "keywords": [
+        "fnaf animatroniki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vacuum-cleaner-survival-556771",
+      "keywords": [
+        "vacuum cleaner survival"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-mine-per-click-557072",
+      "keywords": [
+        "1 mine per click"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/whisker-clues-logic-grid-557968",
+      "keywords": [
+        "whisker clues logic grid"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arkanoid-clock-stopwatch-timer-558647",
+      "keywords": [
+        "arkanoid clock stopwatch timer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gonki-na-vyzhivanie-558792",
+      "keywords": [
+        "gonki na vyzhivanie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/genshin-final-fantasy-impact-idle-rpg-558827",
+      "keywords": [
+        "genshin final fantasy impact idle rpg"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/50-50-idealnyi-razrez-558868",
+      "keywords": [
+        "50 50 idealnyi razrez"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/podarki-kollektsiia-559030",
+      "keywords": [
+        "podarki kollektsiia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ramp-car-police-chase-559104",
+      "keywords": [
+        "ramp car police chase"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cube-trap-561398",
+      "keywords": [
+        "cube trap"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/anomalies-at-the-animal-hospital-561826",
+      "keywords": [
+        "anomalies at the animal hospital"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/juice-screw-and-pour-water-565054",
+      "keywords": [
+        "juice screw and pour water"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "age of arcane turn based rpg",
+    "strike fighters",
+    "check your reaction time",
+    "cut the rope 2",
+    "privedenie i pryzhki",
+    "kliker tiuning master",
+    "connect the parts garage",
+    "octa blast 2048",
+    "merge cars idle tycoon",
+    "drop rush",
+    "astral survival",
+    "tanchiki i zombaki",
+    "dungeon of souls",
+    "slime island",
+    "spider solitaire premium",
+    "kurort mechty",
+    "merge brainrots evolution",
+    "klin lovets",
+    "dollar po kursu",
+    "word pizza crossword games",
+    "spinner battle elemental arena",
+    "geopulse",
+    "kotomatika",
+    "malenkaia cherepakha",
+    "geometriia volna slozhneishee ispytanie",
+    "simuliator sbora dikoi cheremshi",
+    "wengallbi cars online",
+    "kubo boom",
+    "vampires kiss time paradox",
+    "close the numbers",
+    "animal hospital",
+    "igra na pamiat s memami",
+    "synergrid",
+    "hunting chameleons",
+    "yarn puzzle in 3d",
+    "jump rope owl",
+    "klondike solitaire 2026",
+    "slime keyboard 1 speed per second",
+    "evoliutsiia kosmicheskikh monstrov",
+    "idle gem miner",
+    "kosmicheskii ryvok",
+    "labyrinths 2026",
+    "burit",
+    "logika",
+    "puzyrki spokoinaia igra",
+    "plants vs zombies crossbreeding",
+    "firefly grove",
+    "wolf and eggs",
+    "paper alchemy elements and orders",
+    "block rivals",
+    "surround the wasp",
+    "simuliator dozhdia remeik",
+    "fnaf animatroniki",
+    "vacuum cleaner survival",
+    "1 mine per click",
+    "whisker clues logic grid",
+    "arkanoid clock stopwatch timer",
+    "gonki na vyzhivanie",
+    "genshin final fantasy impact idle rpg",
+    "50 50 idealnyi razrez",
+    "podarki kollektsiia",
+    "ramp car police chase",
+    "cube trap",
+    "anomalies at the animal hospital",
+    "juice screw and pour water"
+  ]
+}

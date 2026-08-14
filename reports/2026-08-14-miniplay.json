@@ -1,0 +1,24 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/animal-hospital-online",
+      "keywords": [
+        "animal hospital online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/build-a-bridge-for-brainrots",
+      "keywords": [
+        "build a bridge for brainrots"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "animal hospital online",
+    "build a bridge for brainrots"
+  ]
+}

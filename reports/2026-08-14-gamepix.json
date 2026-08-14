@@ -1,0 +1,122 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-08-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/thousand-suns",
+      "keywords": [
+        "thousand suns"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/countrydraft",
+      "keywords": [
+        "countrydraft"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ninja-rooftops",
+      "keywords": [
+        "ninja rooftops"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnet-shift",
+      "keywords": [
+        "magnet shift"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/golden-vault-plinko",
+      "keywords": [
+        "golden vault plinko"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/solitaire-8-collection",
+      "keywords": [
+        "solitaire 8 collection"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wolfoo-birthday-pixel-art",
+      "keywords": [
+        "wolfoo birthday pixel art"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dangerous-turn",
+      "keywords": [
+        "dangerous turn"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/street-fist",
+      "keywords": [
+        "street fist"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/color-war",
+      "keywords": [
+        "color war"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/block-spark",
+      "keywords": [
+        "block spark"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bug-burrow-wars",
+      "keywords": [
+        "bug burrow wars"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/trivia-quest-royal",
+      "keywords": [
+        "trivia quest royal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/endless-golf-tour",
+      "keywords": [
+        "endless golf tour"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ram-rush",
+      "keywords": [
+        "ram rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/broken-horn",
+      "keywords": [
+        "broken horn"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "thousand suns",
+    "countrydraft",
+    "ninja rooftops",
+    "magnet shift",
+    "golden vault plinko",
+    "solitaire 8 collection",
+    "wolfoo birthday pixel art",
+    "dangerous turn",
+    "street fist",
+    "color war",
+    "block spark",
+    "bug burrow wars",
+    "trivia quest royal",
+    "endless golf tour",
+    "ram rush",
+    "broken horn"
+  ]
+}

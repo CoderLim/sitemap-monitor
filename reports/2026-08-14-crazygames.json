@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/airplane-manager",
+      "keywords": [
+        "airplane manager"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/456-challenge-surval-master",
+      "keywords": [
+        "456 challenge surval master"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hexxagon",
+      "keywords": [
+        "hexxagon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/forge-heat-glow",
+      "keywords": [
+        "forge heat glow"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/realistic-racing",
+      "keywords": [
+        "realistic racing"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/trash-vacuum-idle-clicker",
+      "keywords": [
+        "trash vacuum idle clicker"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "airplane manager",
+    "456 challenge surval master",
+    "hexxagon",
+    "forge heat glow",
+    "realistic racing",
+    "trash vacuum idle clicker"
+  ]
+}
