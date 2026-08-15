@@ -1,0 +1,71 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/quizmasters",
+      "keywords": [
+        "quizmasters"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/godslayer-idle-jln",
+      "keywords": [
+        "godslayer idle jln"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/johnny-vs-zombies",
+      "keywords": [
+        "johnny vs zombies"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/paint-to-hide",
+      "keywords": [
+        "paint to hide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/one-shot-clear",
+      "keywords": [
+        "one shot clear"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/garden-slide",
+      "keywords": [
+        "garden slide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/swing-sword-for-brainrots",
+      "keywords": [
+        "swing sword for brainrots"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/41",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mouse/31",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/zombie/4",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "quizmasters",
+    "godslayer idle jln",
+    "johnny vs zombies",
+    "paint to hide",
+    "one shot clear",
+    "garden slide",
+    "swing sword for brainrots"
+  ]
+}

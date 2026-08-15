@@ -1,0 +1,38 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/keyboard-wars",
+      "keywords": [
+        "keyboard wars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pumped-bmx-flow",
+      "keywords": [
+        "pumped bmx flow"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/thread-fever",
+      "keywords": [
+        "thread fever"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/backgammon-online-3d",
+      "keywords": [
+        "backgammon online 3d"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "keyboard wars",
+    "pumped bmx flow",
+    "thread fever",
+    "backgammon online 3d"
+  ]
+}

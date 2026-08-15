@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-14T16:56:37.026728+00:00",
+  "fetched_at": "2026-08-15T16:27:58.430966+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25936,6 +25936,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/quizmasters",
+      "keywords": [
+        "quizmasters"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lowpoly-digger",
       "keywords": [
         "lowpoly digger"
@@ -26116,6 +26122,18 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/godslayer-idle-jln",
+      "keywords": [
+        "godslayer idle jln"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/johnny-vs-zombies",
+      "keywords": [
+        "johnny vs zombies"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/obby-climb-slide-minecarts",
       "keywords": [
         "obby climb slide minecarts"
@@ -26173,6 +26191,18 @@
       "url": "https://www.crazygames.com/game/voxel-hole-black-hole-game",
       "keywords": [
         "voxel hole black hole game"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/paint-to-hide",
+      "keywords": [
+        "paint to hide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/one-shot-clear",
+      "keywords": [
+        "one shot clear"
       ]
     },
     {
@@ -26248,6 +26278,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/garden-slide",
+      "keywords": [
+        "garden slide"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/stop-time-next-vs-eggs",
       "keywords": [
         "stop time next vs eggs"
@@ -26275,6 +26311,12 @@
       "url": "https://www.crazygames.com/game/realistic-racing",
       "keywords": [
         "realistic racing"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/swing-sword-for-brainrots",
+      "keywords": [
+        "swing sword for brainrots"
       ]
     },
     {
@@ -26577,6 +26619,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/40",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/41",
       "keywords": []
     },
     {
@@ -27332,6 +27378,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/mouse/31",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/build",
       "keywords": [
         "build"
@@ -27819,6 +27869,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/zombie/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/zombie/4",
       "keywords": []
     },
     {

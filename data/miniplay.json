@@ -1,12 +1,36 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-14T16:56:37.026728+00:00",
+  "fetched_at": "2026-08-15T16:27:58.430966+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/animal-hospital-online",
       "keywords": [
         "animal hospital online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/keyboard-wars",
+      "keywords": [
+        "keyboard wars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pumped-bmx-flow",
+      "keywords": [
+        "pumped bmx flow"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/thread-fever",
+      "keywords": [
+        "thread fever"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/backgammon-online-3d",
+      "keywords": [
+        "backgammon online 3d"
       ]
     },
     {
