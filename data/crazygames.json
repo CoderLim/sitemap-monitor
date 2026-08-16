@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-15T16:27:58.430966+00:00",
+  "fetched_at": "2026-08-16T16:28:47.176155+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25318,6 +25318,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/gif-game",
+      "keywords": [
+        "gif game"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/heroes-vs-monsters-idle-rpg",
       "keywords": [
         "heroes vs monsters idle rpg"
@@ -25609,6 +25615,12 @@
       "url": "https://www.crazygames.com/game/robby-cross-the-road-for-brainrot",
       "keywords": [
         "robby cross the road for brainrot"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/neon-surge-wrr",
+      "keywords": [
+        "neon surge wrr"
       ]
     },
     {
@@ -26050,6 +26062,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/jewel-coloring-crystal-sorting",
+      "keywords": [
+        "jewel coloring crystal sorting"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/prismroll-3d-jsl",
       "keywords": [
         "prismroll 3d jsl"
@@ -26278,6 +26296,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/wild-horse-simulator-racing-games",
+      "keywords": [
+        "wild horse simulator racing games"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/garden-slide",
       "keywords": [
         "garden slide"
@@ -26347,6 +26371,12 @@
       "url": "https://www.crazygames.com/game/trash-vacuum-idle-clicker",
       "keywords": [
         "trash vacuum idle clicker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/patchwork-farm",
+      "keywords": [
+        "patchwork farm"
       ]
     },
     {
@@ -27075,6 +27105,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/3d/24",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/3d/25",
       "keywords": []
     },
     {

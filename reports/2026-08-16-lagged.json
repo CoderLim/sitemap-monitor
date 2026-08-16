@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/fall-boys-coloring-book",
+      "keywords": [
+        "fall boys coloring book"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/find-my-shoes",
+      "keywords": [
+        "find my shoes"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bridge-run",
+      "keywords": [
+        "bridge run"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/clash-of-skulls",
+      "keywords": [
+        "clash of skulls"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/imposter-duck-online",
+      "keywords": [
+        "imposter duck online"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "fall boys coloring book",
+    "find my shoes",
+    "bridge run",
+    "clash of skulls",
+    "imposter duck online"
+  ]
+}
