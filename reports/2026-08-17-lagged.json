@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-17",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/robby-escape-the-rooms",
+      "keywords": [
+        "robby escape the rooms"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/combat-guardian-under-attack",
+      "keywords": [
+        "combat guardian under attack"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/classic-corners",
+      "keywords": [
+        "classic corners"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "robby escape the rooms",
+    "combat guardian under attack",
+    "classic corners"
+  ]
+}

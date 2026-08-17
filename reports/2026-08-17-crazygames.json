@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-17",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/retro-video-shop-simulator",
+      "keywords": [
+        "retro video shop simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/potion-merge",
+      "keywords": [
+        "potion merge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/police-vs-thief-1-2-players",
+      "keywords": [
+        "police vs thief 1 2 players"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cozy-fishing-gye",
+      "keywords": [
+        "cozy fishing gye"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/keyboard-obby",
+      "keywords": [
+        "keyboard obby"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sniper-for-brainrot",
+      "keywords": [
+        "sniper for brainrot"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "retro video shop simulator",
+    "potion merge",
+    "police vs thief 1 2 players",
+    "cozy fishing gye",
+    "keyboard obby",
+    "sniper for brainrot"
+  ]
+}
