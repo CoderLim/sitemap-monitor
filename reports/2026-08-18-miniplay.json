@@ -1,0 +1,38 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/case-simulator-cars",
+      "keywords": [
+        "case simulator cars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/escape-from-chunga-changa",
+      "keywords": [
+        "escape from chunga changa"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/police-chase-cops-vs-criminals",
+      "keywords": [
+        "police chase cops vs criminals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/color-screw-rescue-puzzle",
+      "keywords": [
+        "color screw rescue puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "case simulator cars",
+    "escape from chunga changa",
+    "police chase cops vs criminals",
+    "color screw rescue puzzle"
+  ]
+}

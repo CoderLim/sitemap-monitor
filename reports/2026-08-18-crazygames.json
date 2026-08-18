@@ -1,0 +1,59 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/archer-ragdoll-masters",
+      "keywords": [
+        "archer ragdoll masters"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/armored-robot",
+      "keywords": [
+        "armored robot"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/brawl-squad",
+      "keywords": [
+        "brawl squad"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dinosaur-park-jurassic-dino-world",
+      "keywords": [
+        "dinosaur park jurassic dino world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stickman-chameleon",
+      "keywords": [
+        "stickman chameleon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/smash-and-break",
+      "keywords": [
+        "smash and break"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cabin-crew-tycoon-ebb",
+      "keywords": [
+        "cabin crew tycoon ebb"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "archer ragdoll masters",
+    "armored robot",
+    "brawl squad",
+    "dinosaur park jurassic dino world",
+    "stickman chameleon",
+    "smash and break",
+    "cabin crew tycoon ebb"
+  ]
+}

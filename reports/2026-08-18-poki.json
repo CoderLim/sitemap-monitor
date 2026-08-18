@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/dino-merge",
+      "keywords": [
+        "dino merge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/little-farm-world",
+      "keywords": [
+        "little farm world"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dino merge",
+    "little farm world"
+  ]
+}

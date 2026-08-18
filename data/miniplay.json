@@ -1,8 +1,38 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-17T16:30:56.925477+00:00",
+  "fetched_at": "2026-08-18T16:34:48.206695+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/worldguessr",
+      "keywords": [
+        "worldguessr"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/case-simulator-cars",
+      "keywords": [
+        "case simulator cars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/escape-from-chunga-changa",
+      "keywords": [
+        "escape from chunga changa"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/police-chase-cops-vs-criminals",
+      "keywords": [
+        "police chase cops vs criminals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/color-screw-rescue-puzzle",
+      "keywords": [
+        "color screw rescue puzzle"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/animal-hospital-online",
       "keywords": [
@@ -55,12 +85,6 @@
       "url": "https://www.miniplay.com/game/capybara-mart",
       "keywords": [
         "capybara mart"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/worldguessr",
-      "keywords": [
-        "worldguessr"
       ]
     },
     {
