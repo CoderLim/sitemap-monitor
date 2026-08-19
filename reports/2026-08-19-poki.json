@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/snow-train-odyssey",
+      "keywords": [
+        "snow train odyssey"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/tiny-sticker-town",
+      "keywords": [
+        "tiny sticker town"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "snow train odyssey",
+    "tiny sticker town"
+  ]
+}

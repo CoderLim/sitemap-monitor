@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-18T16:34:48.206695+00:00",
+  "fetched_at": "2026-08-19T16:34:20.126156+00:00",
   "baseline": false,
   "urls": [
     {
@@ -7906,12 +7906,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/blubble-io",
-      "keywords": [
-        "blubble io"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/save-the-hostages",
       "keywords": [
         "save the hostages"
@@ -8803,12 +8797,6 @@
       "url": "https://www.crazygames.com/game/idle-molecules",
       "keywords": [
         "idle molecules"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/idle-coffee-business-xmi",
-      "keywords": [
-        "idle coffee business xmi"
       ]
     },
     {
@@ -24064,6 +24052,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/crazy-bike-simulator",
+      "keywords": [
+        "crazy bike simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/energy-evolution",
       "keywords": [
         "energy evolution"
@@ -25984,6 +25978,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/railway-empire",
+      "keywords": [
+        "railway empire"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/draw-one-line-drawing-puzzle",
       "keywords": [
         "draw one line drawing puzzle"
@@ -26374,6 +26374,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/sky-raft-survival",
+      "keywords": [
+        "sky raft survival"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/realistic-racing",
       "keywords": [
         "realistic racing"
@@ -26428,15 +26434,33 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/obby-stronger-drill-deeper-mine",
+      "keywords": [
+        "obby stronger drill deeper mine"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/patchwork-farm",
       "keywords": [
         "patchwork farm"
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/build-drive-jnh",
+      "keywords": [
+        "build drive jnh"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/keyboard-obby",
       "keywords": [
         "keyboard obby"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/starsmith-idle",
+      "keywords": [
+        "starsmith idle"
       ]
     },
     {
@@ -27213,6 +27237,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/obstacle/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/obstacle/6",
       "keywords": []
     },
     {
@@ -28462,6 +28490,10 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/t/controller/2",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/tank",
       "keywords": [
         "tank"
@@ -29167,6 +29199,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/driving/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/driving/6",
       "keywords": []
     },
     {

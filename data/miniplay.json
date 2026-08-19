@@ -1,8 +1,26 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-18T16:34:48.206695+00:00",
+  "fetched_at": "2026-08-19T16:34:20.126156+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/strike-fighters",
+      "keywords": [
+        "strike fighters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/up-hero",
+      "keywords": [
+        "up hero"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snake-attack-shooter",
+      "keywords": [
+        "snake attack shooter"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/worldguessr",
       "keywords": [
@@ -535,12 +553,6 @@
       "url": "https://www.miniplay.com/game/mini-world-cup-2026",
       "keywords": [
         "mini world cup 2026"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/up-hero",
-      "keywords": [
-        "up hero"
       ]
     },
     {
@@ -1507,12 +1519,6 @@
       "url": "https://www.miniplay.com/game/trivia-nation",
       "keywords": [
         "trivia nation"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/snake-attack-shooter",
-      "keywords": [
-        "snake attack shooter"
       ]
     },
     {

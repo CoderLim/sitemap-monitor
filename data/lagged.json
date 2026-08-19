@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-18T16:34:48.206695+00:00",
+  "fetched_at": "2026-08-19T16:34:20.126156+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65665,6 +65665,12 @@
       "url": "https://lagged.com/en/g/fall-boys-coloring-book",
       "keywords": [
         "fall boys coloring book"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-rpg-slasher-blade-loot",
+      "keywords": [
+        "obby rpg slasher blade loot"
       ]
     },
     {

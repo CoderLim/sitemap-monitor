@@ -1,0 +1,64 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/crazy-bike-simulator",
+      "keywords": [
+        "crazy bike simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/railway-empire",
+      "keywords": [
+        "railway empire"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sky-raft-survival",
+      "keywords": [
+        "sky raft survival"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-stronger-drill-deeper-mine",
+      "keywords": [
+        "obby stronger drill deeper mine"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/build-drive-jnh",
+      "keywords": [
+        "build drive jnh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/starsmith-idle",
+      "keywords": [
+        "starsmith idle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/obstacle/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/controller/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/driving/6",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "crazy bike simulator",
+    "railway empire",
+    "sky raft survival",
+    "obby stronger drill deeper mine",
+    "build drive jnh",
+    "starsmith idle"
+  ]
+}
