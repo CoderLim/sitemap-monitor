@@ -1,0 +1,38 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/1-brick-escape",
+      "keywords": [
+        "1 brick escape"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/car-parking-driving-game",
+      "keywords": [
+        "car parking driving game"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/forest-nothing",
+      "keywords": [
+        "forest nothing"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-bank-simulator-money-game",
+      "keywords": [
+        "idle bank simulator money game"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 brick escape",
+    "car parking driving game",
+    "forest nothing",
+    "idle bank simulator money game"
+  ]
+}

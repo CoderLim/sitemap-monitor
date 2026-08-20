@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-19T16:34:20.126156+00:00",
+  "fetched_at": "2026-08-20T16:38:08.666623+00:00",
   "baseline": false,
   "urls": [
     {
@@ -1147,12 +1147,6 @@
       "url": "https://www.crazygames.com/game/pinturillo",
       "keywords": [
         "pinturillo"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/alien-invasion-tower-defense",
-      "keywords": [
-        "alien invasion tower defense"
       ]
     },
     {
@@ -10390,12 +10384,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/heist-master",
-      "keywords": [
-        "heist master"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/agents-io",
       "keywords": [
         "agents io"
@@ -12898,12 +12886,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/dancing-dreamer",
-      "keywords": [
-        "dancing dreamer"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/jetpack-jump",
       "keywords": [
         "jetpack jump"
@@ -15325,12 +15307,6 @@
       "url": "https://www.crazygames.com/game/blogger-clicker",
       "keywords": [
         "blogger clicker"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/the-final-riddle",
-      "keywords": [
-        "the final riddle"
       ]
     },
     {
@@ -18082,12 +18058,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/pokey-ball",
-      "keywords": [
-        "pokey ball"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/cut-in-half-please",
       "keywords": [
         "cut in half please"
@@ -19399,12 +19369,6 @@
       "url": "https://www.crazygames.com/game/space-hex-war-merge-shooter",
       "keywords": [
         "space hex war merge shooter"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/big-battle-mini",
-      "keywords": [
-        "big battle mini"
       ]
     },
     {
@@ -26284,6 +26248,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/1-brick-escape",
+      "keywords": [
+        "1 brick escape"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/cube-drop-2048-3d-ibo",
       "keywords": [
         "cube drop 2048 3d ibo"
@@ -26323,6 +26293,12 @@
       "url": "https://www.crazygames.com/game/forge-heat-glow",
       "keywords": [
         "forge heat glow"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/car-parking-driving-game",
+      "keywords": [
+        "car parking driving game"
       ]
     },
     {
@@ -26410,6 +26386,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/forest-nothing",
+      "keywords": [
+        "forest nothing"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/cozy-fishing-gye",
       "keywords": [
         "cozy fishing gye"
@@ -26419,6 +26401,12 @@
       "url": "https://www.crazygames.com/game/jelly-slam",
       "keywords": [
         "jelly slam"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-bank-simulator-money-game",
+      "keywords": [
+        "idle bank simulator money game"
       ]
     },
     {
@@ -27237,10 +27225,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/obstacle/5",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/obstacle/6",
       "keywords": []
     },
     {
