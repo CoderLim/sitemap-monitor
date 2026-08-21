@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/poppy-playtime-remake",
+      "keywords": [
+        "poppy playtime remake"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/deform-your-car",
+      "keywords": [
+        "deform your car"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "poppy playtime remake",
+    "deform your car"
+  ]
+}
