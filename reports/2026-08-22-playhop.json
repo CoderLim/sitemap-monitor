@@ -1,0 +1,584 @@
+{
+  "site_id": "playhop",
+  "date": "2026-08-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/bacteria-402032",
+      "keywords": [
+        "bacteria"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-karery-kibersportsmena-495428",
+      "keywords": [
+        "simuliator karery kibersportsmena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/apple-514508",
+      "keywords": [
+        "apple"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/futbolnyi-kliker-515911",
+      "keywords": [
+        "futbolnyi kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pineapple-bum-survivor-529072",
+      "keywords": [
+        "pineapple bum survivor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/krylia-lugov-533529",
+      "keywords": [
+        "krylia lugov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/laba-pervyi-kontakt-535143",
+      "keywords": [
+        "laba pervyi kontakt"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hero-runner-540459",
+      "keywords": [
+        "hero runner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/noch-u-maiaka-540599",
+      "keywords": [
+        "noch u maiaka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/magnetic-orbit-543446",
+      "keywords": [
+        "magnetic orbit"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/color-trap-543514",
+      "keywords": [
+        "color trap"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-1-power-for-punch-543782",
+      "keywords": [
+        "obby 1 power for punch"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/khotpot-master-kulinarnaia-sortirovka-543923",
+      "keywords": [
+        "khotpot master kulinarnaia sortirovka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/aifon-kliker-simuliator-perekupa-545388",
+      "keywords": [
+        "aifon kliker simuliator perekupa"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flappy-mango-545583",
+      "keywords": [
+        "flappy mango"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/color-sort-545726",
+      "keywords": [
+        "color sort"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/popugainyi-kliker-546457",
+      "keywords": [
+        "popugainyi kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gecko-out-547274",
+      "keywords": [
+        "gecko out"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slideways-548322",
+      "keywords": [
+        "slideways"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tourist-merge-550754",
+      "keywords": [
+        "tourist merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/aptekar-551500",
+      "keywords": [
+        "aptekar"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/auto-puzzle-stream-552066",
+      "keywords": [
+        "auto puzzle stream"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slingpuck-552169",
+      "keywords": [
+        "slingpuck"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evoliutsiia-tsvetov-552463",
+      "keywords": [
+        "evoliutsiia tsvetov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wild-west-reaction-test-552656",
+      "keywords": [
+        "wild west reaction test"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ataka-fudkortnits-zashchita-fudkorta-552970",
+      "keywords": [
+        "ataka fudkortnits zashchita fudkorta"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/two-moves-552982",
+      "keywords": [
+        "two moves"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/juicy-fruits-color-by-number-553059",
+      "keywords": [
+        "juicy fruits color by number"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poslednii-put-553250",
+      "keywords": [
+        "poslednii put"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flyx-553282",
+      "keywords": [
+        "flyx"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brainrot-box-champion-553493",
+      "keywords": [
+        "brainrot box champion"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/banana-tower-553796",
+      "keywords": [
+        "banana tower"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/blokboi-razbei-vse-bloki-554033",
+      "keywords": [
+        "blokboi razbei vse bloki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mega-griadki-ferma-mutatsii-554346",
+      "keywords": [
+        "mega griadki ferma mutatsii"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-three-challenges-554419",
+      "keywords": [
+        "obby three challenges"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/piksel-krash-554588",
+      "keywords": [
+        "piksel krash"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rift-shards-554604",
+      "keywords": [
+        "rift shards"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brush-duel-555052",
+      "keywords": [
+        "brush duel"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/miloe-nastroenie-kliker-tianok-555308",
+      "keywords": [
+        "miloe nastroenie kliker tianok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sand-pop-555368",
+      "keywords": [
+        "sand pop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sudoku-block-mania-555409",
+      "keywords": [
+        "sudoku block mania"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/owl-escape-555462",
+      "keywords": [
+        "owl escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-prism-between-us-555502",
+      "keywords": [
+        "the prism between us"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/asmr-water-bottle-555514",
+      "keywords": [
+        "asmr water bottle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-energy-station-555585",
+      "keywords": [
+        "neon energy station"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lander-555800",
+      "keywords": [
+        "lander"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cute-dogs-color-by-number-555903",
+      "keywords": [
+        "cute dogs color by number"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/solitaire-klondike-2027-555990",
+      "keywords": [
+        "solitaire klondike 2027"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tsvetnye-kolby-556387",
+      "keywords": [
+        "tsvetnye kolby"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-ultimate-556541",
+      "keywords": [
+        "mahjong ultimate"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shikkaku-neon-puzzle-556660",
+      "keywords": [
+        "shikkaku neon puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pochtovyi-potok-556842",
+      "keywords": [
+        "pochtovyi potok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/triplt-67-urovnei-bezumiia-558238",
+      "keywords": [
+        "triplt 67 urovnei bezumiia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/roots-558289",
+      "keywords": [
+        "roots"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fluffy-friends-makeover-559006",
+      "keywords": [
+        "fluffy friends makeover"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/floodice-559558",
+      "keywords": [
+        "floodice"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arena-sluchaia-duel-560339",
+      "keywords": [
+        "arena sluchaia duel"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bubble-gun-conveyor-with-balls-560772",
+      "keywords": [
+        "bubble gun conveyor with balls"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/runninja-560998",
+      "keywords": [
+        "runninja"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pixel-tales-561035",
+      "keywords": [
+        "pixel tales"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/launch-all-rockets-561119",
+      "keywords": [
+        "launch all rockets"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/99-nights-in-space-adventure-561159",
+      "keywords": [
+        "99 nights in space adventure"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/samurai-sem-561369",
+      "keywords": [
+        "samurai sem"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/monstroplanetians-merge-collection-561439",
+      "keywords": [
+        "monstroplanetians merge collection"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fabrika-breinrota-561470",
+      "keywords": [
+        "fabrika breinrota"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gpu-evolution-561633",
+      "keywords": [
+        "gpu evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dino-park-jurassic-empire-561645",
+      "keywords": [
+        "dino park jurassic empire"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/football-561728",
+      "keywords": [
+        "football"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/linearium-color-paths-563016",
+      "keywords": [
+        "linearium color paths"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-kurera-563230",
+      "keywords": [
+        "simuliator kurera"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chameleon-hide-and-seek-563486",
+      "keywords": [
+        "chameleon hide and seek"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/color-flasks-563632",
+      "keywords": [
+        "color flasks"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-triple-match-tile-puzzle-563747",
+      "keywords": [
+        "fruit triple match tile puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-fruit-party-563788",
+      "keywords": [
+        "merge fruit party"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cubo-master-564129",
+      "keywords": [
+        "cubo master"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cat-cafe-combo-564371",
+      "keywords": [
+        "cat cafe combo"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arkadnyi-bonus-564409",
+      "keywords": [
+        "arkadnyi bonus"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/burger-kliker-evoliutsiia-edy-564756",
+      "keywords": [
+        "burger kliker evoliutsiia edy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cube-and-the-world-of-traps-564826",
+      "keywords": [
+        "cube and the world of traps"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/noob-the-destroyer-564886",
+      "keywords": [
+        "noob the destroyer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brainrot-obby-lucky-block-565932",
+      "keywords": [
+        "brainrot obby lucky block"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/magical-resort-theo-morini-570696",
+      "keywords": [
+        "magical resort theo morini"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bacteria",
+    "simuliator karery kibersportsmena",
+    "apple",
+    "futbolnyi kliker",
+    "pineapple bum survivor",
+    "krylia lugov",
+    "laba pervyi kontakt",
+    "hero runner",
+    "noch u maiaka",
+    "magnetic orbit",
+    "color trap",
+    "obby 1 power for punch",
+    "khotpot master kulinarnaia sortirovka",
+    "aifon kliker simuliator perekupa",
+    "flappy mango",
+    "color sort",
+    "popugainyi kliker",
+    "gecko out",
+    "slideways",
+    "tourist merge",
+    "aptekar",
+    "auto puzzle stream",
+    "slingpuck",
+    "evoliutsiia tsvetov",
+    "wild west reaction test",
+    "ataka fudkortnits zashchita fudkorta",
+    "two moves",
+    "juicy fruits color by number",
+    "poslednii put",
+    "flyx",
+    "brainrot box champion",
+    "banana tower",
+    "blokboi razbei vse bloki",
+    "mega griadki ferma mutatsii",
+    "obby three challenges",
+    "piksel krash",
+    "rift shards",
+    "brush duel",
+    "miloe nastroenie kliker tianok",
+    "sand pop",
+    "sudoku block mania",
+    "owl escape",
+    "the prism between us",
+    "asmr water bottle",
+    "neon energy station",
+    "lander",
+    "cute dogs color by number",
+    "solitaire klondike 2027",
+    "tsvetnye kolby",
+    "mahjong ultimate",
+    "shikkaku neon puzzle",
+    "pochtovyi potok",
+    "triplt 67 urovnei bezumiia",
+    "roots",
+    "fluffy friends makeover",
+    "floodice",
+    "arena sluchaia duel",
+    "bubble gun conveyor with balls",
+    "runninja",
+    "pixel tales",
+    "launch all rockets",
+    "99 nights in space adventure",
+    "samurai sem",
+    "monstroplanetians merge collection",
+    "fabrika breinrota",
+    "gpu evolution",
+    "dino park jurassic empire",
+    "football",
+    "linearium color paths",
+    "simuliator kurera",
+    "chameleon hide and seek",
+    "color flasks",
+    "fruit triple match tile puzzle",
+    "merge fruit party",
+    "cubo master",
+    "cat cafe combo",
+    "arkadnyi bonus",
+    "burger kliker evoliutsiia edy",
+    "cube and the world of traps",
+    "noob the destroyer",
+    "brainrot obby lucky block",
+    "magical resort theo morini"
+  ]
+}

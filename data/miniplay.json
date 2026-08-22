@@ -1,8 +1,50 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-21T16:37:51.616380+00:00",
+  "fetched_at": "2026-08-22T16:27:45.133385+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-speed-asrm-keyboard-escape",
+      "keywords": [
+        "1 speed asrm keyboard escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/animal-hospital-online",
+      "keywords": [
+        "animal hospital online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/aircraft-launch-and-upgrade",
+      "keywords": [
+        "aircraft launch and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/forest-firefighter-inferno",
+      "keywords": [
+        "forest firefighter inferno"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/military-strike",
+      "keywords": [
+        "military strike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bubble-shooter-pirate-treasures",
+      "keywords": [
+        "bubble shooter pirate treasures"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lava-arena",
+      "keywords": [
+        "lava arena"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/peon-es",
       "keywords": [
@@ -55,12 +97,6 @@
       "url": "https://www.miniplay.com/game/color-screw-rescue-puzzle",
       "keywords": [
         "color screw rescue puzzle"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/animal-hospital-online",
-      "keywords": [
-        "animal hospital online"
       ]
     },
     {
@@ -41420,15 +41456,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/ballfrog",
-      "keywords": [
-        "ballfrog"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/awesome-run-2",
       "keywords": [
         "awesome run 2"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ballfrog",
+      "keywords": [
+        "ballfrog"
       ]
     },
     {
@@ -54302,15 +54338,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/hexa-puzzle-deluxe",
-      "keywords": [
-        "hexa puzzle deluxe"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/klondike",
       "keywords": [
         "klondike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hexa-puzzle-deluxe",
+      "keywords": [
+        "hexa puzzle deluxe"
       ]
     },
     {

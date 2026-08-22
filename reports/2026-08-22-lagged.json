@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/duo-summerbombs507",
+      "keywords": [
+        "duo summerbombs507"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hex-mine-3d",
+      "keywords": [
+        "hex mine 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/floor-plan",
+      "keywords": [
+        "floor plan"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pudge-fat-evolution-clicker",
+      "keywords": [
+        "pudge fat evolution clicker"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-army-base",
+      "keywords": [
+        "my army base"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "duo summerbombs507",
+    "hex mine 3d",
+    "floor plan",
+    "pudge fat evolution clicker",
+    "my army base"
+  ]
+}

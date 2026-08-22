@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-speed-asrm-keyboard-escape",
+      "keywords": [
+        "1 speed asrm keyboard escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/aircraft-launch-and-upgrade",
+      "keywords": [
+        "aircraft launch and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/forest-firefighter-inferno",
+      "keywords": [
+        "forest firefighter inferno"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/military-strike",
+      "keywords": [
+        "military strike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bubble-shooter-pirate-treasures",
+      "keywords": [
+        "bubble shooter pirate treasures"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lava-arena",
+      "keywords": [
+        "lava arena"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 speed asrm keyboard escape",
+    "aircraft launch and upgrade",
+    "forest firefighter inferno",
+    "military strike",
+    "bubble shooter pirate treasures",
+    "lava arena"
+  ]
+}
