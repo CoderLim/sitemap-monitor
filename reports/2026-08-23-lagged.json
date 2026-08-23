@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/cook-soups-3-in-a-bowl",
+      "keywords": [
+        "cook soups 3 in a bowl"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/the-sort-agency",
+      "keywords": [
+        "the sort agency"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/slime-yum",
+      "keywords": [
+        "slime yum"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/jigsaw-live-photo",
+      "keywords": [
+        "jigsaw live photo"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/detective-x-find-hidden-object",
+      "keywords": [
+        "detective x find hidden object"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/astro-leap",
+      "keywords": [
+        "astro leap"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cook soups 3 in a bowl",
+    "the sort agency",
+    "slime yum",
+    "jigsaw live photo",
+    "detective x find hidden object",
+    "astro leap"
+  ]
+}
