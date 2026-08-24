@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-23T16:29:06.863646+00:00",
+  "fetched_at": "2026-08-24T16:40:20.328628+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65740,6 +65740,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/hifi-snake-groovedriven-arcade-challenge",
+      "keywords": [
+        "hifi snake groovedriven arcade challenge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/skate-1-speed",
+      "keywords": [
+        "skate 1 speed"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/ducks-escape",
       "keywords": [
         "ducks escape"
@@ -65854,6 +65866,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/craftmart",
+      "keywords": [
+        "craftmart"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/my-army-base",
       "keywords": [
         "my army base"
@@ -65875,6 +65893,12 @@
       "url": "https://lagged.com/en/g/box-monster-unbox-and-dress-up",
       "keywords": [
         "box monster unbox and dress up"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-keyboard-escape",
+      "keywords": [
+        "obby keyboard escape"
       ]
     },
     {

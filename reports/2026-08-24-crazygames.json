@@ -1,0 +1,42 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/web-shot-spider-superhero",
+      "keywords": [
+        "web shot spider superhero"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/falafel-master",
+      "keywords": [
+        "falafel master"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blombo-io",
+      "keywords": [
+        "blombo io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/clean-the-supermarket",
+      "keywords": [
+        "clean the supermarket"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/io/3",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "web shot spider superhero",
+    "falafel master",
+    "blombo io",
+    "clean the supermarket"
+  ]
+}

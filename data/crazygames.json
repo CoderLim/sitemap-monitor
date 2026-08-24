@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-23T16:29:06.863646+00:00",
+  "fetched_at": "2026-08-24T16:40:20.328628+00:00",
   "baseline": false,
   "urls": [
     {
@@ -243,12 +243,6 @@
       "url": "https://www.crazygames.com/tags",
       "keywords": [
         "tags"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/street-fighter-2",
-      "keywords": [
-        "street fighter 2"
       ]
     },
     {
@@ -25882,6 +25876,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/web-shot-spider-superhero",
+      "keywords": [
+        "web shot spider superhero"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/hexa-fill-puzzle",
       "keywords": [
         "hexa fill puzzle"
@@ -26446,6 +26446,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/falafel-master",
+      "keywords": [
+        "falafel master"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/build-drive-jnh",
       "keywords": [
         "build drive jnh"
@@ -26476,114 +26482,22 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/blombo-io",
+      "keywords": [
+        "blombo io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/clean-the-supermarket",
+      "keywords": [
+        "clean the supermarket"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/sniper-for-brainrot",
       "keywords": [
         "sniper for brainrot"
       ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual",
-      "keywords": [
-        "casual"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/3",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/4",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/5",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/6",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/7",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/8",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/9",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/10",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/11",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/12",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/13",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/14",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/15",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/16",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/casual/17",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/retro-1",
-      "keywords": [
-        "retro 1"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/flash",
-      "keywords": [
-        "flash"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/flash/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/flash/3",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/fighting",
-      "keywords": [
-        "fighting"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/fighting/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/fighting/3",
-      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/mobile",
@@ -26890,6 +26804,76 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/casual",
+      "keywords": [
+        "casual"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/4",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/7",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/9",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/10",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/11",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/12",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/13",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/14",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/15",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/16",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/17",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/relaxing",
       "keywords": [
         "relaxing"
@@ -27027,6 +27011,20 @@
     },
     {
       "url": "https://www.crazygames.com/t/cartoon/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/flash",
+      "keywords": [
+        "flash"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/flash/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/flash/3",
       "keywords": []
     },
     {
@@ -27509,6 +27507,20 @@
     },
     {
       "url": "https://www.crazygames.com/t/mouse/31",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/fighting",
+      "keywords": [
+        "fighting"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/fighting/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/fighting/3",
       "keywords": []
     },
     {
@@ -28440,6 +28452,12 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/retro-1",
+      "keywords": [
+        "retro 1"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/t/hunting",
       "keywords": [
         "hunting"
@@ -29042,56 +29060,6 @@
       "keywords": []
     },
     {
-      "url": "https://www.crazygames.com/c/action",
-      "keywords": [
-        "action"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/3",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/4",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/5",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/6",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/7",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/8",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/9",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/10",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/11",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/action/12",
-      "keywords": []
-    },
-    {
       "url": "https://www.crazygames.com/c/arcade",
       "keywords": [
         "arcade"
@@ -29173,6 +29141,56 @@
     },
     {
       "url": "https://www.crazygames.com/c/sim/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action",
+      "keywords": [
+        "action"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/4",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/7",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/9",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/10",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/11",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/12",
       "keywords": []
     },
     {
@@ -29369,6 +29387,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/io/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/io/3",
       "keywords": []
     },
     {

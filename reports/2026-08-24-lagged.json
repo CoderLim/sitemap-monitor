@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/hifi-snake-groovedriven-arcade-challenge",
+      "keywords": [
+        "hifi snake groovedriven arcade challenge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/skate-1-speed",
+      "keywords": [
+        "skate 1 speed"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/craftmart",
+      "keywords": [
+        "craftmart"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-keyboard-escape",
+      "keywords": [
+        "obby keyboard escape"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hifi snake groovedriven arcade challenge",
+    "skate 1 speed",
+    "craftmart",
+    "obby keyboard escape"
+  ]
+}
