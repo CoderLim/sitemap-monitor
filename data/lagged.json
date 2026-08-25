@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-24T16:40:20.328628+00:00",
+  "fetched_at": "2026-08-25T16:40:07.113955+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65788,6 +65788,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/block-crush",
+      "keywords": [
+        "block crush"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/poppy-playtime-remake",
       "keywords": [
         "poppy playtime remake"
@@ -65899,6 +65905,18 @@
       "url": "https://lagged.com/en/g/obby-keyboard-escape",
       "keywords": [
         "obby keyboard escape"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/crazy-aunty-slap-and-punch",
+      "keywords": [
+        "crazy aunty slap and punch"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/stacky-lce-cream-theif-runner",
+      "keywords": [
+        "stacky lce cream theif runner"
       ]
     },
     {

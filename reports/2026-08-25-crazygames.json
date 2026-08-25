@@ -1,0 +1,24 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/galaxy-merge-starships-wars",
+      "keywords": [
+        "galaxy merge starships wars"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/paint-seek-online-ewo",
+      "keywords": [
+        "paint seek online ewo"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "galaxy merge starships wars",
+    "paint seek online ewo"
+  ]
+}

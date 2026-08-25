@@ -1,0 +1,94 @@
+{
+  "site_id": "kizi",
+  "date": "2026-08-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/park-fever",
+      "keywords": [
+        "park fever"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/slithoria",
+      "keywords": [
+        "slithoria"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/order-of-operation-challenge",
+      "keywords": [
+        "order of operation challenge"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/office-golf",
+      "keywords": [
+        "office golf"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/arrow-legend",
+      "keywords": [
+        "arrow legend"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/everything-is-in-place-rare-finds",
+      "keywords": [
+        "everything is in place rare finds"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/grand-fruit-connect",
+      "keywords": [
+        "grand fruit connect"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/screwloose-cats-tail-rescue",
+      "keywords": [
+        "screwloose cats tail rescue"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/crystal-circuit",
+      "keywords": [
+        "crystal circuit"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/fishing-dog",
+      "keywords": [
+        "fishing dog"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/web-shot-spider-superhero",
+      "keywords": [
+        "web shot spider superhero"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/crazy-aunty-slap-punch",
+      "keywords": [
+        "crazy aunty slap punch"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "park fever",
+    "slithoria",
+    "order of operation challenge",
+    "office golf",
+    "arrow legend",
+    "everything is in place rare finds",
+    "grand fruit connect",
+    "screwloose cats tail rescue",
+    "crystal circuit",
+    "fishing dog",
+    "web shot spider superhero",
+    "crazy aunty slap punch"
+  ]
+}

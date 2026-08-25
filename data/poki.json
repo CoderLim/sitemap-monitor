@@ -1,8 +1,14 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-08-24T16:40:20.328628+00:00",
+  "fetched_at": "2026-08-25T16:40:07.113955+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/robot-police-iron-panther",
+      "keywords": [
+        "robot police iron panther"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/boomy-world",
       "keywords": [
