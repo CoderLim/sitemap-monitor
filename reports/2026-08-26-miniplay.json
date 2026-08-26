@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-08-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/asmr-keyboard-tower",
+      "keywords": [
+        "asmr keyboard tower"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-weapon-evolution",
+      "keywords": [
+        "1 weapon evolution"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/supermarket-simulator-store-manager",
+      "keywords": [
+        "supermarket simulator store manager"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/office-golf",
+      "keywords": [
+        "office golf"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/screwloose-cats-tail-rescue",
+      "keywords": [
+        "screwloose cats tail rescue"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/geometry-wave-kiras-trials",
+      "keywords": [
+        "geometry wave kiras trials"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "asmr keyboard tower",
+    "1 weapon evolution",
+    "supermarket simulator store manager",
+    "office golf",
+    "screwloose cats tail rescue",
+    "geometry wave kiras trials"
+  ]
+}

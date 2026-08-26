@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-25T16:40:07.113955+00:00",
+  "fetched_at": "2026-08-26T16:49:58.726553+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25678,6 +25678,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/cop-simulator-my-prison-3d",
+      "keywords": [
+        "cop simulator my prison 3d"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/lumina-escape-rqn",
       "keywords": [
         "lumina escape rqn"
@@ -26422,6 +26428,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/my-clothing-store-simulator-3d",
+      "keywords": [
+        "my clothing store simulator 3d"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/jelly-slam",
       "keywords": [
         "jelly slam"
@@ -26455,6 +26467,12 @@
       "url": "https://www.crazygames.com/game/patchwork-farm",
       "keywords": [
         "patchwork farm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dino-realms-ets",
+      "keywords": [
+        "dino realms ets"
       ]
     },
     {
@@ -26500,6 +26518,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/table-rush",
+      "keywords": [
+        "table rush"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/clean-the-supermarket",
       "keywords": [
         "clean the supermarket"
@@ -26509,6 +26533,18 @@
       "url": "https://www.crazygames.com/game/sniper-for-brainrot",
       "keywords": [
         "sniper for brainrot"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/miner-dig-it-all",
+      "keywords": [
+        "miner dig it all"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wrecking-beam-jln",
+      "keywords": [
+        "wrecking beam jln"
       ]
     },
     {
@@ -28616,6 +28652,10 @@
       "keywords": [
         "police"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/police/2",
+      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/airplane",
