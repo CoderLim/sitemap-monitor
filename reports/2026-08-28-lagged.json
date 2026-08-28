@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-08-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/shinobi-chronicles",
+      "keywords": [
+        "shinobi chronicles"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/beespuzzle",
+      "keywords": [
+        "beespuzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/escape-cave-for-brainrot",
+      "keywords": [
+        "escape cave for brainrot"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "shinobi chronicles",
+    "beespuzzle",
+    "escape cave for brainrot"
+  ]
+}

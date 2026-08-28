@@ -1,0 +1,38 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/age-of-arcane-turn-based-rpg-bqj",
+      "keywords": [
+        "age of arcane turn based rpg bqj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hex-bois",
+      "keywords": [
+        "hex bois"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mirage-survivors",
+      "keywords": [
+        "mirage survivors"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/crazy-chameleon",
+      "keywords": [
+        "crazy chameleon"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "age of arcane turn based rpg bqj",
+    "hex bois",
+    "mirage survivors",
+    "crazy chameleon"
+  ]
+}

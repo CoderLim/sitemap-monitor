@@ -1,6 +1,6 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-26T16:49:58.726553+00:00",
+  "fetched_at": "2026-08-28T00:47:18.924879+00:00",
   "baseline": false,
   "urls": [
     {
@@ -2416,15 +2416,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
-      "keywords": [
-        "penalty europe champions edition multiplayer"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
       "keywords": [
         "mine obby 3d minigame world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
+      "keywords": [
+        "penalty europe champions edition multiplayer"
       ]
     },
     {

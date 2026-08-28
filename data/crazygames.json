@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-26T16:49:58.726553+00:00",
+  "fetched_at": "2026-08-28T00:47:18.924879+00:00",
   "baseline": false,
   "urls": [
     {
@@ -4699,12 +4699,6 @@
       "url": "https://www.crazygames.com/game/sniper",
       "keywords": [
         "sniper"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/voxiom-io",
-      "keywords": [
-        "voxiom io"
       ]
     },
     {
@@ -24142,6 +24136,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/age-of-arcane-turn-based-rpg-bqj",
+      "keywords": [
+        "age of arcane turn based rpg bqj"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/cubidle",
       "keywords": [
         "cubidle"
@@ -25444,6 +25444,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hex-bois",
+      "keywords": [
+        "hex bois"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/supercity-3d",
       "keywords": [
         "supercity 3d"
@@ -26374,6 +26380,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/mirage-survivors",
+      "keywords": [
+        "mirage survivors"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/knife-tower",
       "keywords": [
         "knife tower"
@@ -26539,6 +26551,12 @@
       "url": "https://www.crazygames.com/game/miner-dig-it-all",
       "keywords": [
         "miner dig it all"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/crazy-chameleon",
+      "keywords": [
+        "crazy chameleon"
       ]
     },
     {

@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-08-26T16:49:58.726553+00:00",
+  "fetched_at": "2026-08-28T00:47:18.924879+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/backrooms-recovery",
+      "keywords": [
+        "backrooms recovery"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/brainrot-miner",
+      "keywords": [
+        "brainrot miner"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/family-life-simulator",
       "keywords": [
@@ -391,12 +403,6 @@
       "url": "https://poki.com/en/g/jelly-well",
       "keywords": [
         "jelly well"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/backrooms-recovery",
-      "keywords": [
-        "backrooms recovery"
       ]
     },
     {
