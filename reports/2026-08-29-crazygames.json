@@ -3,50 +3,6 @@
   "date": "2026-08-29",
   "error": null,
   "is_baseline": false,
-  "new_urls": [
-    {
-      "url": "https://www.crazygames.com/game/voxiom-io",
-      "keywords": [
-        "voxiom io"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/word-search-puzzle-game",
-      "keywords": [
-        "word search puzzle game"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/mechangelion---robot-fighting",
-      "keywords": [
-        "mechangelion robot fighting"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/hidden-object-detective-story",
-      "keywords": [
-        "hidden object detective story"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/road-to-glory-sxx",
-      "keywords": [
-        "road to glory sxx"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/flag-painter",
-      "keywords": [
-        "flag painter"
-      ]
-    }
-  ],
-  "new_keywords": [
-    "voxiom io",
-    "word search puzzle game",
-    "mechangelion robot fighting",
-    "hidden object detective story",
-    "road to glory sxx",
-    "flag painter"
-  ]
+  "new_urls": [],
+  "new_keywords": []
 }
