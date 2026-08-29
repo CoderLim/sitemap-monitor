@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-28T00:47:18.924879+00:00",
+  "fetched_at": "2026-08-29T00:28:00.585829+00:00",
   "baseline": false,
   "urls": [
     {
@@ -4699,6 +4699,12 @@
       "url": "https://www.crazygames.com/game/sniper",
       "keywords": [
         "sniper"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/voxiom-io",
+      "keywords": [
+        "voxiom io"
       ]
     },
     {
@@ -15808,12 +15814,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/herochero-enemy-slayer",
-      "keywords": [
-        "herochero enemy slayer"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/super-sucker-3d",
       "keywords": [
         "super sucker 3d"
@@ -23086,6 +23086,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/word-search-puzzle-game",
+      "keywords": [
+        "word search puzzle game"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/human-clicker-grow-organs",
       "keywords": [
         "human clicker grow organs"
@@ -23371,6 +23377,12 @@
       "url": "https://www.crazygames.com/game/supermarket-manager",
       "keywords": [
         "supermarket manager"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mechangelion---robot-fighting",
+      "keywords": [
+        "mechangelion robot fighting"
       ]
     },
     {
@@ -26560,9 +26572,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hidden-object-detective-story",
+      "keywords": [
+        "hidden object detective story"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/road-to-glory-sxx",
+      "keywords": [
+        "road to glory sxx"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/wrecking-beam-jln",
       "keywords": [
         "wrecking beam jln"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/flag-painter",
+      "keywords": [
+        "flag painter"
       ]
     },
     {
@@ -27443,10 +27473,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/tower-defense/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/tower-defense/3",
       "keywords": []
     },
     {

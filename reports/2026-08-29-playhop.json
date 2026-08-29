@@ -1,0 +1,486 @@
+{
+  "site_id": "playhop",
+  "date": "2026-08-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/perfect-latte-261192",
+      "keywords": [
+        "perfect latte"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arrow-labyrinth-puzzle-369100",
+      "keywords": [
+        "arrow labyrinth puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/destroy-grandma-401702",
+      "keywords": [
+        "destroy grandma"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/orbital-defense-435927",
+      "keywords": [
+        "orbital defense"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/infinite-kart-racer-476059",
+      "keywords": [
+        "infinite kart racer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/stick-ninja-481452",
+      "keywords": [
+        "stick ninja"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/babl-shuter-magicheskii-les-490634",
+      "keywords": [
+        "babl shuter magicheskii les"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-zoo-merge-animals-500536",
+      "keywords": [
+        "merge zoo merge animals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/guess-the-flower-514777",
+      "keywords": [
+        "guess the flower"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bravl-kviz-arena-522437",
+      "keywords": [
+        "bravl kviz arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evo-evolution-530822",
+      "keywords": [
+        "evo evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shadow-fight-2-532160",
+      "keywords": [
+        "shadow fight 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/light-up-all-539655",
+      "keywords": [
+        "light up all"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/move-letters-540107",
+      "keywords": [
+        "move letters"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-last-minibus-540229",
+      "keywords": [
+        "the last minibus"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/robby-master-of-summoning-540732",
+      "keywords": [
+        "robby master of summoning"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ptichka-beskonechnye-polioty-541813",
+      "keywords": [
+        "ptichka beskonechnye polioty"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/perekup-biznes-s-nulia-543169",
+      "keywords": [
+        "perekup biznes s nulia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/backrooms-catch-the-salmon-543269",
+      "keywords": [
+        "backrooms catch the salmon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/panic-in-the-jar-543613",
+      "keywords": [
+        "panic in the jar"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dragonandcaves-543639",
+      "keywords": [
+        "dragonandcaves"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kamen-nozhnitsy-bumaga-dlia-dvukh-ruk-543711",
+      "keywords": [
+        "kamen nozhnitsy bumaga dlia dvukh ruk"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/johnny-vs-zombies-546788",
+      "keywords": [
+        "johnny vs zombies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/idealnye-drugie-546808",
+      "keywords": [
+        "idealnye drugie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-perekupa-ot-vedra-do-tesly-547159",
+      "keywords": [
+        "simuliator perekupa ot vedra do tesly"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vyzhivshii-millioner-547576",
+      "keywords": [
+        "vyzhivshii millioner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/car-empire-548916",
+      "keywords": [
+        "car empire"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kaplia-zhizni-550352",
+      "keywords": [
+        "kaplia zhizni"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sticker-boom-550522",
+      "keywords": [
+        "sticker boom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/anime-kliker-na-pereodevanie-552571",
+      "keywords": [
+        "anime kliker na pereodevanie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dorky-jock-552740",
+      "keywords": [
+        "dorky jock"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/99-night-in-the-store-553165",
+      "keywords": [
+        "99 night in the store"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/benzina-net-553861",
+      "keywords": [
+        "benzina net"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/garden-hidden-object-game-554036",
+      "keywords": [
+        "garden hidden object game"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/isekai-in-japan-554338",
+      "keywords": [
+        "isekai in japan"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/car-clicker-554487",
+      "keywords": [
+        "car clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-chop-554831",
+      "keywords": [
+        "block chop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poisk-khameleona-555656",
+      "keywords": [
+        "poisk khameleona"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/beam-555670",
+      "keywords": [
+        "beam"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/containers-in-port-556171",
+      "keywords": [
+        "containers in port"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/invincible-superhero-merge-556520",
+      "keywords": [
+        "invincible superhero merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kalsonini-kliker-557297",
+      "keywords": [
+        "kalsonini kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sliianie-zakrutok-558336",
+      "keywords": [
+        "sliianie zakrutok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-trio-magic-meadows-558584",
+      "keywords": [
+        "mahjong trio magic meadows"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/catscase-558667",
+      "keywords": [
+        "catscase"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/voxel-destruct-558685",
+      "keywords": [
+        "voxel destruct"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-programmista-558780",
+      "keywords": [
+        "simuliator programmista"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bezumnyi-pitstsaiolo-558784",
+      "keywords": [
+        "bezumnyi pitstsaiolo"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/stick-guy-archer-558939",
+      "keywords": [
+        "stick guy archer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/doroga-na-sever-559119",
+      "keywords": [
+        "doroga na sever"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/find-the-odd-559304",
+      "keywords": [
+        "find the odd"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cheese-escape-560712",
+      "keywords": [
+        "cheese escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-feast-561001",
+      "keywords": [
+        "fruit feast"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dig-deep-mine-simulator-561345",
+      "keywords": [
+        "dig deep mine simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tideheart-563246",
+      "keywords": [
+        "tideheart"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-flight-564475",
+      "keywords": [
+        "neon flight"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-farm-harvest-2d-565175",
+      "keywords": [
+        "merge farm harvest 2d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cat-blocks-number-logic-puzzle-565351",
+      "keywords": [
+        "cat blocks number logic puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sausages-for-two-565619",
+      "keywords": [
+        "sausages for two"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/skulboi-khardkor-566025",
+      "keywords": [
+        "skulboi khardkor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/going-ball-original-566100",
+      "keywords": [
+        "going ball original"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/youre-the-boss-566643",
+      "keywords": [
+        "youre the boss"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uspokoin-mir-pazlov-566918",
+      "keywords": [
+        "uspokoin mir pazlov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/milaia-anime-ruletka-566956",
+      "keywords": [
+        "milaia anime ruletka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pogonia-ot-kopov-567019",
+      "keywords": [
+        "pogonia ot kopov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evoliutsiia-mersedes-kliker-567130",
+      "keywords": [
+        "evoliutsiia mersedes kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/asmr-diamond-sort-571262",
+      "keywords": [
+        "asmr diamond sort"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/magic-makeup-salon-beauty-brew-574993",
+      "keywords": [
+        "magic makeup salon beauty brew"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "perfect latte",
+    "arrow labyrinth puzzle",
+    "destroy grandma",
+    "orbital defense",
+    "infinite kart racer",
+    "stick ninja",
+    "babl shuter magicheskii les",
+    "merge zoo merge animals",
+    "guess the flower",
+    "bravl kviz arena",
+    "evo evolution",
+    "shadow fight 2",
+    "light up all",
+    "move letters",
+    "the last minibus",
+    "robby master of summoning",
+    "ptichka beskonechnye polioty",
+    "perekup biznes s nulia",
+    "backrooms catch the salmon",
+    "panic in the jar",
+    "dragonandcaves",
+    "kamen nozhnitsy bumaga dlia dvukh ruk",
+    "johnny vs zombies",
+    "idealnye drugie",
+    "simuliator perekupa ot vedra do tesly",
+    "vyzhivshii millioner",
+    "car empire",
+    "kaplia zhizni",
+    "sticker boom",
+    "anime kliker na pereodevanie",
+    "dorky jock",
+    "99 night in the store",
+    "benzina net",
+    "garden hidden object game",
+    "isekai in japan",
+    "car clicker",
+    "block chop",
+    "poisk khameleona",
+    "beam",
+    "containers in port",
+    "invincible superhero merge",
+    "kalsonini kliker",
+    "sliianie zakrutok",
+    "mahjong trio magic meadows",
+    "catscase",
+    "voxel destruct",
+    "simuliator programmista",
+    "bezumnyi pitstsaiolo",
+    "stick guy archer",
+    "doroga na sever",
+    "find the odd",
+    "cheese escape",
+    "fruit feast",
+    "dig deep mine simulator",
+    "tideheart",
+    "neon flight",
+    "merge farm harvest 2d",
+    "cat blocks number logic puzzle",
+    "sausages for two",
+    "skulboi khardkor",
+    "going ball original",
+    "youre the boss",
+    "uspokoin mir pazlov",
+    "milaia anime ruletka",
+    "pogonia ot kopov",
+    "evoliutsiia mersedes kliker",
+    "asmr diamond sort",
+    "magic makeup salon beauty brew"
+  ]
+}
