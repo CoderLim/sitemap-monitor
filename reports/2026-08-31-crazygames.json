@@ -1,0 +1,53 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-08-31",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/cricket-smash-3d",
+      "keywords": [
+        "cricket smash 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dress-up-3d",
+      "keywords": [
+        "dress up 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/paint-or-seek",
+      "keywords": [
+        "paint or seek"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pixel-survivor-ppr",
+      "keywords": [
+        "pixel survivor ppr"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-1-laser-to-break-walls-pks",
+      "keywords": [
+        "obby 1 laser to break walls pks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/obstacle/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/pixel/6",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "cricket smash 3d",
+    "dress up 3d",
+    "paint or seek",
+    "pixel survivor ppr",
+    "obby 1 laser to break walls pks"
+  ]
+}

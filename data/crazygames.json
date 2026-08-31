@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-30T19:09:26.370514+00:00",
+  "fetched_at": "2026-08-31T21:22:38.772573+00:00",
   "baseline": false,
   "urls": [
     {
@@ -24196,6 +24196,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/cricket-smash-3d",
+      "keywords": [
+        "cricket smash 3d"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/blast-miner",
       "keywords": [
         "blast miner"
@@ -25780,6 +25786,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/dress-up-3d",
+      "keywords": [
+        "dress up 3d"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/grass-cutter-lxr",
       "keywords": [
         "grass cutter lxr"
@@ -26572,6 +26584,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/paint-or-seek",
+      "keywords": [
+        "paint or seek"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/hidden-object-detective-story",
       "keywords": [
         "hidden object detective story"
@@ -26593,6 +26611,18 @@
       "url": "https://www.crazygames.com/game/flag-painter",
       "keywords": [
         "flag painter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pixel-survivor-ppr",
+      "keywords": [
+        "pixel survivor ppr"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-1-laser-to-break-walls-pks",
+      "keywords": [
+        "obby 1 laser to break walls pks"
       ]
     },
     {
@@ -27331,6 +27361,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/obstacle/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/obstacle/6",
       "keywords": []
     },
     {
@@ -28189,6 +28223,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/pixel/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/pixel/6",
       "keywords": []
     },
     {

@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-08-31",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/beauty-superstar",
+      "keywords": [
+        "beauty superstar"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/sword-legends",
+      "keywords": [
+        "sword legends"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "beauty superstar",
+    "sword legends"
+  ]
+}

@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-08-30T19:09:26.370514+00:00",
+  "fetched_at": "2026-08-31T21:22:38.772573+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/chick-flix",
+      "keywords": [
+        "chick flix"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/beauty-superstar",
+      "keywords": [
+        "beauty superstar"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/cuboy-adventure",
       "keywords": [
@@ -316,12 +328,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/chick-flix",
-      "keywords": [
-        "chick flix"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/city-cab-rush",
       "keywords": [
         "city cab rush"
@@ -436,9 +442,9 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/pull-a-sword",
+      "url": "https://poki.com/en/g/sword-legends",
       "keywords": [
-        "pull a sword"
+        "sword legends"
       ]
     },
     {
