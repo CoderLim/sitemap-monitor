@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-08-31T21:22:38.772573+00:00",
+  "fetched_at": "2026-09-01T19:16:30.284865+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65902,6 +65902,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/sushi-puzzle",
+      "keywords": [
+        "sushi puzzle"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/rocketcar-cup",
       "keywords": [
         "rocketcar cup"
@@ -66010,6 +66016,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/police-bus-simulation",
+      "keywords": [
+        "police bus simulation"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mine-blade-online-kitpvp",
+      "keywords": [
+        "mine blade online kitpvp"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/crazy-aunty-slap-and-punch",
       "keywords": [
         "crazy aunty slap and punch"
@@ -66022,9 +66040,21 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/laser-connect",
+      "keywords": [
+        "laser connect"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/escape-cave-for-brainrot",
       "keywords": [
         "escape cave for brainrot"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/flower-collection",
+      "keywords": [
+        "flower collection"
       ]
     },
     {

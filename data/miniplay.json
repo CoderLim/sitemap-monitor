@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-08-31T21:22:38.772573+00:00",
+  "fetched_at": "2026-09-01T19:16:30.284865+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/real-war-not-fake",
+      "keywords": [
+        "real war not fake"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/spinner-battle-elemental-arena",
+      "keywords": [
+        "spinner battle elemental arena"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lockpicks-11",
+      "keywords": [
+        "lockpicks 11"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rider-rush",
+      "keywords": [
+        "rider rush"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/2048-ball-arena",
+      "keywords": [
+        "2048 ball arena"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-death-run",
+      "keywords": [
+        "obby death run"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/asmr-keyboard-tower",
       "keywords": [

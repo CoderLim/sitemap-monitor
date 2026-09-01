@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/sushi-puzzle",
+      "keywords": [
+        "sushi puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/police-bus-simulation",
+      "keywords": [
+        "police bus simulation"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mine-blade-online-kitpvp",
+      "keywords": [
+        "mine blade online kitpvp"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/laser-connect",
+      "keywords": [
+        "laser connect"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/flower-collection",
+      "keywords": [
+        "flower collection"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "sushi puzzle",
+    "police bus simulation",
+    "mine blade online kitpvp",
+    "laser connect",
+    "flower collection"
+  ]
+}

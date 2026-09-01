@@ -1,0 +1,66 @@
+{
+  "site_id": "kizi",
+  "date": "2026-09-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/snake-duel",
+      "keywords": [
+        "snake duel"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/candy-flow-factory",
+      "keywords": [
+        "candy flow factory"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/mystic-word-quests",
+      "keywords": [
+        "mystic word quests"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/mahjong-match-line",
+      "keywords": [
+        "mahjong match line"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cookie-land-2-sweet-hearts",
+      "keywords": [
+        "cookie land 2 sweet hearts"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/drone-wars",
+      "keywords": [
+        "drone wars"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/falafel-master",
+      "keywords": [
+        "falafel master"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/archer-vs-monsters",
+      "keywords": [
+        "archer vs monsters"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "snake duel",
+    "candy flow factory",
+    "mystic word quests",
+    "mahjong match line",
+    "cookie land 2 sweet hearts",
+    "drone wars",
+    "falafel master",
+    "archer vs monsters"
+  ]
+}

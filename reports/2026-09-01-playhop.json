@@ -1,0 +1,604 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/v-poiskakh-vremeni-437831",
+      "keywords": [
+        "v poiskakh vremeni"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mecha-dragons-the-profit-race-444446",
+      "keywords": [
+        "mecha dragons the profit race"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/undertale-rejuvenation-459224",
+      "keywords": [
+        "undertale rejuvenation"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-nineties-survival-simulator-486922",
+      "keywords": [
+        "the nineties survival simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/my-store-sort-and-match-490611",
+      "keywords": [
+        "my store sort and match"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-evoliutsii-pk-501144",
+      "keywords": [
+        "simuliator evoliutsii pk"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ot-zhiguli-do-lamby-kliker-prokachai-tachku-506808",
+      "keywords": [
+        "ot zhiguli do lamby kliker prokachai tachku"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arena-frenzy-509572",
+      "keywords": [
+        "arena frenzy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pixel-frost-523445",
+      "keywords": [
+        "pixel frost"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/filvordy-vasiliia-ivanovicha-527169",
+      "keywords": [
+        "filvordy vasiliia ivanovicha"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mogila-onlain-529267",
+      "keywords": [
+        "mogila onlain"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kliker-neftianoi-magnat-530234",
+      "keywords": [
+        "kliker neftianoi magnat"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pryg-skok-obbi-531976",
+      "keywords": [
+        "pryg skok obbi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/nochnoi-kormilets-532157",
+      "keywords": [
+        "nochnoi kormilets"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tetra-dark-535101",
+      "keywords": [
+        "tetra dark"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/reaction-for-shooters-537503",
+      "keywords": [
+        "reaction for shooters"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/yatzy-duel-538032",
+      "keywords": [
+        "yatzy duel"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/simuliator-flirta-538644",
+      "keywords": [
+        "simuliator flirta"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arrow-rescue-540175",
+      "keywords": [
+        "arrow rescue"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-charms-540263",
+      "keywords": [
+        "merge charms"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/danys-bricks-540560",
+      "keywords": [
+        "danys bricks"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/banana-mayhem-541005",
+      "keywords": [
+        "banana mayhem"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tile-tales-renovate-and-design-541169",
+      "keywords": [
+        "tile tales renovate and design"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pull-the-nails-wood-puzzle-541934",
+      "keywords": [
+        "pull the nails wood puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cow-evolution-tycoon-541981",
+      "keywords": [
+        "cow evolution tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/clicker-memes-collection-542805",
+      "keywords": [
+        "clicker memes collection"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/overheat-544191",
+      "keywords": [
+        "overheat"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cozy-couples-dacha-545016",
+      "keywords": [
+        "cozy couples dacha"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kitchen-tycoon-545697",
+      "keywords": [
+        "kitchen tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/survive-the-cold-547407",
+      "keywords": [
+        "survive the cold"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cosmic-communalka-548126",
+      "keywords": [
+        "cosmic communalka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shkolnaia-istoriia-548592",
+      "keywords": [
+        "shkolnaia istoriia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/potion-lab-potion-sort-puzzle-550339",
+      "keywords": [
+        "potion lab potion sort puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kati-kubik-2026-550616",
+      "keywords": [
+        "kati kubik 2026"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cosmocats-550652",
+      "keywords": [
+        "cosmocats"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/penguin-learns-to-fly-550988",
+      "keywords": [
+        "penguin learns to fly"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-orbit-552741",
+      "keywords": [
+        "fruit orbit"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/it-tycoon-developer-simulator-2-552756",
+      "keywords": [
+        "it tycoon developer simulator 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-wave-rider-552795",
+      "keywords": [
+        "neon wave rider"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/russian-driver-uaz-hunter-553426",
+      "keywords": [
+        "russian driver uaz hunter"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-arsenal-horde-rush-553512",
+      "keywords": [
+        "merge arsenal horde rush"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/domovoys-shop-553831",
+      "keywords": [
+        "domovoys shop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neotiles-554448",
+      "keywords": [
+        "neotiles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/battle-of-the-magicians-become-stronger-554596",
+      "keywords": [
+        "battle of the magicians become stronger"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/road-to-success-555065",
+      "keywords": [
+        "road to success"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/klubok-555066",
+      "keywords": [
+        "klubok"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flappy-space-invaders-555316",
+      "keywords": [
+        "flappy space invaders"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/taxi-simulator-555664",
+      "keywords": [
+        "taxi simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/throw-nikita-556423",
+      "keywords": [
+        "throw nikita"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ladder-rush-558023",
+      "keywords": [
+        "ladder rush"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bez-paniki-558147",
+      "keywords": [
+        "bez paniki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/minesweeper-with-tips-558482",
+      "keywords": [
+        "minesweeper with tips"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/a-hole-without-a-bottom-battle-royale-559497",
+      "keywords": [
+        "a hole without a bottom battle royale"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/defeat-brainrot-clicker-559822",
+      "keywords": [
+        "defeat brainrot clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mutabox-brainrot-chaos-559918",
+      "keywords": [
+        "mutabox brainrot chaos"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/banana-67-clicker-560018",
+      "keywords": [
+        "banana 67 clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mountain-road-560118",
+      "keywords": [
+        "mountain road"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/skanvord-marafon-560143",
+      "keywords": [
+        "skanvord marafon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-nature-560296",
+      "keywords": [
+        "merge nature"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wave-god-multiplayer-560582",
+      "keywords": [
+        "wave god multiplayer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/futbolnyi-kliker-561602",
+      "keywords": [
+        "futbolnyi kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cursed-manor-escape-562315",
+      "keywords": [
+        "cursed manor escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/basketball-dont-drop-the-ball-562692",
+      "keywords": [
+        "basketball dont drop the ball"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/this-way-deer-from-99-nights-563161",
+      "keywords": [
+        "this way deer from 99 nights"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sweet-shop-merge-2d-565113",
+      "keywords": [
+        "sweet shop merge 2d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/nightfall-bastion-zombie-565303",
+      "keywords": [
+        "nightfall bastion zombie"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/monster-high-color-by-number-566392",
+      "keywords": [
+        "monster high color by number"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/super-magnet-ball-567216",
+      "keywords": [
+        "super magnet ball"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/beep-melody-567268",
+      "keywords": [
+        "beep melody"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mining-express-567410",
+      "keywords": [
+        "mining express"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evony-classic-568221",
+      "keywords": [
+        "evony classic"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ultra-breinrot-vyzhivanie-3d-568224",
+      "keywords": [
+        "ultra breinrot vyzhivanie 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/domashnii-perepolokh-sumasshedshie-sosedi-569108",
+      "keywords": [
+        "domashnii perepolokh sumasshedshie sosedi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tap-arrows-super-cat-569205",
+      "keywords": [
+        "tap arrows super cat"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rusty-crates-569715",
+      "keywords": [
+        "rusty crates"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kosynka-4-korolia-569901",
+      "keywords": [
+        "kosynka 4 korolia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uiutnye-polki-sortirovka-569923",
+      "keywords": [
+        "uiutnye polki sortirovka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sky-stack-570551",
+      "keywords": [
+        "sky stack"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kliker-tresni-porodu-570845",
+      "keywords": [
+        "kliker tresni porodu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/breinroty-sbezhali-571876",
+      "keywords": [
+        "breinroty sbezhali"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-backrooms-hunt-571914",
+      "keywords": [
+        "obby backrooms hunt"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/honey-apiary-572515",
+      "keywords": [
+        "honey apiary"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kitty-tangle-573200",
+      "keywords": [
+        "kitty tangle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fire-zone-shoot-and-win-579238",
+      "keywords": [
+        "fire zone shoot and win"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-match-colorful-trees-591929",
+      "keywords": [
+        "fruit match colorful trees"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "v poiskakh vremeni",
+    "mecha dragons the profit race",
+    "undertale rejuvenation",
+    "the nineties survival simulator",
+    "my store sort and match",
+    "simuliator evoliutsii pk",
+    "ot zhiguli do lamby kliker prokachai tachku",
+    "arena frenzy",
+    "pixel frost",
+    "filvordy vasiliia ivanovicha",
+    "mogila onlain",
+    "kliker neftianoi magnat",
+    "pryg skok obbi",
+    "nochnoi kormilets",
+    "tetra dark",
+    "reaction for shooters",
+    "yatzy duel",
+    "simuliator flirta",
+    "arrow rescue",
+    "merge charms",
+    "danys bricks",
+    "banana mayhem",
+    "tile tales renovate and design",
+    "pull the nails wood puzzle",
+    "cow evolution tycoon",
+    "clicker memes collection",
+    "overheat",
+    "cozy couples dacha",
+    "kitchen tycoon",
+    "survive the cold",
+    "cosmic communalka",
+    "shkolnaia istoriia",
+    "potion lab potion sort puzzle",
+    "kati kubik 2026",
+    "cosmocats",
+    "penguin learns to fly",
+    "fruit orbit",
+    "it tycoon developer simulator 2",
+    "neon wave rider",
+    "russian driver uaz hunter",
+    "merge arsenal horde rush",
+    "domovoys shop",
+    "neotiles",
+    "battle of the magicians become stronger",
+    "road to success",
+    "klubok",
+    "flappy space invaders",
+    "taxi simulator",
+    "throw nikita",
+    "ladder rush",
+    "bez paniki",
+    "minesweeper with tips",
+    "a hole without a bottom battle royale",
+    "defeat brainrot clicker",
+    "mutabox brainrot chaos",
+    "banana 67 clicker",
+    "mountain road",
+    "skanvord marafon",
+    "merge nature",
+    "wave god multiplayer",
+    "cursed manor escape",
+    "basketball dont drop the ball",
+    "this way deer from 99 nights",
+    "sweet shop merge 2d",
+    "nightfall bastion zombie",
+    "monster high color by number",
+    "super magnet ball",
+    "beep melody",
+    "mining express",
+    "evony classic",
+    "ultra breinrot vyzhivanie 3d",
+    "domashnii perepolokh sumasshedshie sosedi",
+    "tap arrows super cat",
+    "rusty crates",
+    "kosynka 4 korolia",
+    "uiutnye polki sortirovka",
+    "sky stack",
+    "kliker tresni porodu",
+    "breinroty sbezhali",
+    "obby backrooms hunt",
+    "honey apiary",
+    "kitty tangle",
+    "fire zone shoot and win",
+    "fruit match colorful trees"
+  ]
+}

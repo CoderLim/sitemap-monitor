@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-08-31T21:22:38.772573+00:00",
+  "fetched_at": "2026-09-01T19:16:30.284865+00:00",
   "baseline": false,
   "urls": [
     {
@@ -22870,6 +22870,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/farland-farm-village",
+      "keywords": [
+        "farland farm village"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/heroes-tower-myz",
       "keywords": [
         "heroes tower myz"
@@ -23221,12 +23227,6 @@
       "url": "https://www.crazygames.com/game/gpu-tycoon-sim",
       "keywords": [
         "gpu tycoon sim"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/madness-online-dzk",
-      "keywords": [
-        "madness online dzk"
       ]
     },
     {
@@ -26470,6 +26470,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/roll-king",
+      "keywords": [
+        "roll king"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/jelly-slam",
       "keywords": [
         "jelly slam"
@@ -26599,6 +26605,12 @@
       "url": "https://www.crazygames.com/game/road-to-glory-sxx",
       "keywords": [
         "road to glory sxx"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mob-rush",
+      "keywords": [
+        "mob rush"
       ]
     },
     {
@@ -28137,10 +28149,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/zombie/3",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/zombie/4",
       "keywords": []
     },
     {

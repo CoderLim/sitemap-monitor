@@ -1,0 +1,31 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/farland-farm-village",
+      "keywords": [
+        "farland farm village"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/roll-king",
+      "keywords": [
+        "roll king"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mob-rush",
+      "keywords": [
+        "mob rush"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "farland farm village",
+    "roll king",
+    "mob rush"
+  ]
+}
