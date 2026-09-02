@@ -1,0 +1,402 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/candy-man-shooting",
+      "keywords": [
+        "candy man shooting"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rocket-defender",
+      "keywords": [
+        "rocket defender"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pumpkin-head-run",
+      "keywords": [
+        "pumpkin head run"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sky-blaster",
+      "keywords": [
+        "sky blaster"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/putot",
+      "keywords": [
+        "putot"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/space-havoc",
+      "keywords": [
+        "space havoc"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nebula-hopper",
+      "keywords": [
+        "nebula hopper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kaitochan-vs-ghosts",
+      "keywords": [
+        "kaitochan vs ghosts"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/warrior-way",
+      "keywords": [
+        "warrior way"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pinny-go-home",
+      "keywords": [
+        "pinny go home"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/astrotennis",
+      "keywords": [
+        "astrotennis"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/salvage-sons",
+      "keywords": [
+        "salvage sons"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cozy-puzzle-cats",
+      "keywords": [
+        "cozy puzzle cats"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-land",
+      "keywords": [
+        "merge land"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kitty-garden-tile-puzzle",
+      "keywords": [
+        "kitty garden tile puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neonfall-endless-city",
+      "keywords": [
+        "neonfall endless city"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hungry-whale",
+      "keywords": [
+        "hungry whale"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bolt-bird",
+      "keywords": [
+        "bolt bird"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rust-route",
+      "keywords": [
+        "rust route"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sprunky-game-mini-fun",
+      "keywords": [
+        "sprunky game mini fun"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sagbridge",
+      "keywords": [
+        "sagbridge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/war-of-tanks",
+      "keywords": [
+        "war of tanks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sorting-games-toy-sort",
+      "keywords": [
+        "sorting games toy sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tricky-prank-annoying-quest",
+      "keywords": [
+        "tricky prank annoying quest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/survival-war",
+      "keywords": [
+        "survival war"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/geometry-overlap",
+      "keywords": [
+        "geometry overlap"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/noob-vs-pro-drift-tag",
+      "keywords": [
+        "noob vs pro drift tag"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ski-rush",
+      "keywords": [
+        "ski rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/iron-bastion",
+      "keywords": [
+        "iron bastion"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stephen-karsch-shadow-mission",
+      "keywords": [
+        "stephen karsch shadow mission"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnetic-neon",
+      "keywords": [
+        "magnetic neon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tailoff-io-snake-dragon-arena",
+      "keywords": [
+        "tailoff io snake dragon arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sniper-corps",
+      "keywords": [
+        "sniper corps"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/super-grotto-escape",
+      "keywords": [
+        "super grotto escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zumbia-quest",
+      "keywords": [
+        "zumbia quest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cutback",
+      "keywords": [
+        "cutback"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chaos-arena",
+      "keywords": [
+        "chaos arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zumbo-mania",
+      "keywords": [
+        "zumbo mania"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sweet-swap",
+      "keywords": [
+        "sweet swap"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ocean-bubbles",
+      "keywords": [
+        "ocean bubbles"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rise-zombies",
+      "keywords": [
+        "rise zombies"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brookhaven-real-life",
+      "keywords": [
+        "brookhaven real life"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rally-championship-3",
+      "keywords": [
+        "rally championship 3"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/puzzle-journal",
+      "keywords": [
+        "puzzle journal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hotshift",
+      "keywords": [
+        "hotshift"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrow-out-puzzle-story",
+      "keywords": [
+        "arrow out puzzle story"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/exterminix",
+      "keywords": [
+        "exterminix"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-core-defense",
+      "keywords": [
+        "merge core defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ball-puzzle-builder",
+      "keywords": [
+        "ball puzzle builder"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/supercars-garage",
+      "keywords": [
+        "supercars garage"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/survive-ish",
+      "keywords": [
+        "survive ish"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/summer-juice-run",
+      "keywords": [
+        "summer juice run"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/glitchstride",
+      "keywords": [
+        "glitchstride"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bedroom-defense",
+      "keywords": [
+        "bedroom defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/raise-a-farm",
+      "keywords": [
+        "raise a farm"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/smash-rush",
+      "keywords": [
+        "smash rush"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "candy man shooting",
+    "rocket defender",
+    "pumpkin head run",
+    "sky blaster",
+    "putot",
+    "space havoc",
+    "nebula hopper",
+    "kaitochan vs ghosts",
+    "warrior way",
+    "pinny go home",
+    "astrotennis",
+    "salvage sons",
+    "cozy puzzle cats",
+    "merge land",
+    "kitty garden tile puzzle",
+    "neonfall endless city",
+    "hungry whale",
+    "bolt bird",
+    "rust route",
+    "sprunky game mini fun",
+    "sagbridge",
+    "war of tanks",
+    "sorting games toy sort",
+    "tricky prank annoying quest",
+    "survival war",
+    "geometry overlap",
+    "noob vs pro drift tag",
+    "ski rush",
+    "iron bastion",
+    "stephen karsch shadow mission",
+    "magnetic neon",
+    "tailoff io snake dragon arena",
+    "sniper corps",
+    "super grotto escape",
+    "zumbia quest",
+    "cutback",
+    "chaos arena",
+    "zumbo mania",
+    "sweet swap",
+    "ocean bubbles",
+    "rise zombies",
+    "brookhaven real life",
+    "rally championship 3",
+    "puzzle journal",
+    "hotshift",
+    "arrow out puzzle story",
+    "exterminix",
+    "merge core defense",
+    "ball puzzle builder",
+    "supercars garage",
+    "survive ish",
+    "summer juice run",
+    "glitchstride",
+    "bedroom defense",
+    "raise a farm",
+    "smash rush"
+  ]
+}

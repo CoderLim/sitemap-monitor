@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-01T19:16:30.284865+00:00",
+  "fetched_at": "2026-09-02T19:17:07.581724+00:00",
   "baseline": false,
   "urls": [
     {
@@ -225,6 +225,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/44",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/45",
       "keywords": []
     },
     {
@@ -9937,6 +9941,12 @@
       "url": "https://www.crazygames.com/game/hero-3-flying-robot",
       "keywords": [
         "hero 3 flying robot"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tile-craft-3d",
+      "keywords": [
+        "tile craft 3d"
       ]
     },
     {
@@ -24898,6 +24908,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/apochess-opa",
+      "keywords": [
+        "apochess opa"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/shadow-survivors",
       "keywords": [
         "shadow survivors"
@@ -26620,6 +26636,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/vacuum-io-ple",
+      "keywords": [
+        "vacuum io ple"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flag-painter",
       "keywords": [
         "flag painter"
@@ -26629,6 +26651,12 @@
       "url": "https://www.crazygames.com/game/pixel-survivor-ppr",
       "keywords": [
         "pixel survivor ppr"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tap-fighter",
+      "keywords": [
+        "tap fighter"
       ]
     },
     {
@@ -26801,6 +26829,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/41",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/42",
       "keywords": []
     },
     {

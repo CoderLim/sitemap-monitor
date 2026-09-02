@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/dress-up-3d",
+      "keywords": [
+        "dress up 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/never-by-color",
+      "keywords": [
+        "never by color"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dress up 3d",
+    "never by color"
+  ]
+}

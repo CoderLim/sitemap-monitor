@@ -1,0 +1,46 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/sitemap/games/45",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/game/tile-craft-3d",
+      "keywords": [
+        "tile craft 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/apochess-opa",
+      "keywords": [
+        "apochess opa"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/vacuum-io-ple",
+      "keywords": [
+        "vacuum io ple"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tap-fighter",
+      "keywords": [
+        "tap fighter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/42",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "tile craft 3d",
+    "apochess opa",
+    "vacuum io ple",
+    "tap fighter"
+  ]
+}
