@@ -1,0 +1,49 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/yeetcat",
+      "keywords": [
+        "yeetcat"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/unpacking-room---dream-decor",
+      "keywords": [
+        "unpacking room dream decor"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stealth-shooter",
+      "keywords": [
+        "stealth shooter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/escape-pickaxe-swing",
+      "keywords": [
+        "escape pickaxe swing"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/offline",
+      "keywords": [
+        "offline"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/ragdoll/2",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "yeetcat",
+    "unpacking room dream decor",
+    "stealth shooter",
+    "escape pickaxe swing",
+    "offline"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-02T19:17:07.581724+00:00",
+  "fetched_at": "2026-09-03T19:10:49.300924+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66031,6 +66031,12 @@
       "url": "https://lagged.com/en/g/mine-blade-online-kitpvp",
       "keywords": [
         "mine blade online kitpvp"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/country-battle-arena",
+      "keywords": [
+        "country battle arena"
       ]
     },
     {
