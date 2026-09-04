@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/ants--sugar",
+      "keywords": [
+        "ants sugar"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/delete-story-erase-puzzle-game",
+      "keywords": [
+        "delete story erase puzzle game"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "ants sugar",
+    "delete story erase puzzle game"
+  ]
+}

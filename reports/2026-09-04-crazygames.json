@@ -1,0 +1,42 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/tanks-1944-fvp",
+      "keywords": [
+        "tanks 1944 fvp"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-home-mania",
+      "keywords": [
+        "merge home mania"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/test-drive-car-parking",
+      "keywords": [
+        "test drive car parking"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bowmasters-archery-shooting",
+      "keywords": [
+        "bowmasters archery shooting"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/42",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "tanks 1944 fvp",
+    "merge home mania",
+    "test drive car parking",
+    "bowmasters archery shooting"
+  ]
+}

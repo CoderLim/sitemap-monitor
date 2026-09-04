@@ -1,0 +1,38 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/hero-making-tycoon",
+      "keywords": [
+        "hero making tycoon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/heroes-beware",
+      "keywords": [
+        "heroes beware"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/brush-duel",
+      "keywords": [
+        "brush duel"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-biggest-number",
+      "keywords": [
+        "the biggest number"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hero making tycoon",
+    "heroes beware",
+    "brush duel",
+    "the biggest number"
+  ]
+}

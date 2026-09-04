@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-03T19:10:49.300924+00:00",
+  "fetched_at": "2026-09-04T18:53:23.609891+00:00",
   "baseline": false,
   "urls": [
     {
@@ -19672,12 +19672,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/fill-the-heart",
-      "keywords": [
-        "fill the heart"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/street-racing-open-world",
       "keywords": [
         "street racing open world"
@@ -25378,6 +25372,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/tanks-1944-fvp",
+      "keywords": [
+        "tanks 1944 fvp"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/supercity-3d",
       "keywords": [
         "supercity 3d"
@@ -26536,6 +26536,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/merge-home-mania",
+      "keywords": [
+        "merge home mania"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/road-to-glory-sxx",
       "keywords": [
         "road to glory sxx"
@@ -26545,6 +26551,12 @@
       "url": "https://www.crazygames.com/game/mob-rush",
       "keywords": [
         "mob rush"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/test-drive-car-parking",
+      "keywords": [
+        "test drive car parking"
       ]
     },
     {
@@ -26581,6 +26593,12 @@
       "url": "https://www.crazygames.com/game/obby-1-laser-to-break-walls-pks",
       "keywords": [
         "obby 1 laser to break walls pks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bowmasters-archery-shooting",
+      "keywords": [
+        "bowmasters archery shooting"
       ]
     },
     {
@@ -26747,6 +26765,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/41",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/42",
       "keywords": []
     },
     {
