@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-04T18:53:23.609891+00:00",
+  "fetched_at": "2026-09-05T17:59:38.666077+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66043,6 +66043,30 @@
       "url": "https://lagged.com/en/g/ants--sugar",
       "keywords": [
         "ants sugar"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/gravity-blast",
+      "keywords": [
+        "gravity blast"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/connect-wooden-edition",
+      "keywords": [
+        "connect wooden edition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/color-dot-puzzle",
+      "keywords": [
+        "color dot puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/square-crusher",
+      "keywords": [
+        "square crusher"
       ]
     },
     {

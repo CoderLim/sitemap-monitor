@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/gravity-blast",
+      "keywords": [
+        "gravity blast"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/connect-wooden-edition",
+      "keywords": [
+        "connect wooden edition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/color-dot-puzzle",
+      "keywords": [
+        "color dot puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/square-crusher",
+      "keywords": [
+        "square crusher"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "gravity blast",
+    "connect wooden edition",
+    "color dot puzzle",
+    "square crusher"
+  ]
+}

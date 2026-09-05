@@ -1,0 +1,66 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/bug-ascent",
+      "keywords": [
+        "bug ascent"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soccer-jump",
+      "keywords": [
+        "soccer jump"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/2048-decks",
+      "keywords": [
+        "2048 decks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/memorya",
+      "keywords": [
+        "memorya"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/trickshoot-soccer",
+      "keywords": [
+        "trickshoot soccer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrows-out",
+      "keywords": [
+        "arrows out"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brainrot-labyrinth",
+      "keywords": [
+        "brainrot labyrinth"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/paws-claws-tic-tac-toe",
+      "keywords": [
+        "paws claws tic tac toe"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bug ascent",
+    "soccer jump",
+    "2048 decks",
+    "memorya",
+    "trickshoot soccer",
+    "arrows out",
+    "brainrot labyrinth",
+    "paws claws tic tac toe"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/paint-and-seek-online",
+      "keywords": [
+        "paint and seek online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/blocks-jungle",
+      "keywords": [
+        "blocks jungle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "paint and seek online",
+    "blocks jungle"
+  ]
+}
