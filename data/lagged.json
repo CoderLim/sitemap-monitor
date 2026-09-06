@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-05T17:59:38.666077+00:00",
+  "fetched_at": "2026-09-06T18:06:57.590757+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66067,6 +66067,30 @@
       "url": "https://lagged.com/en/g/square-crusher",
       "keywords": [
         "square crusher"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hand-daily",
+      "keywords": [
+        "hand daily"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/nova-starr-drops",
+      "keywords": [
+        "nova starr drops"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-terminator",
+      "keywords": [
+        "zombie terminator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-to-goal",
+      "keywords": [
+        "draw to goal"
       ]
     },
     {

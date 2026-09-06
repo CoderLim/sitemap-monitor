@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/hand-daily",
+      "keywords": [
+        "hand daily"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/nova-starr-drops",
+      "keywords": [
+        "nova starr drops"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-terminator",
+      "keywords": [
+        "zombie terminator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-to-goal",
+      "keywords": [
+        "draw to goal"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hand daily",
+    "nova starr drops",
+    "zombie terminator",
+    "draw to goal"
+  ]
+}
