@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-09-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/build-a-bud",
+      "keywords": [
+        "build a bud"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/dress-up-duck",
+      "keywords": [
+        "dress up duck"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "build a bud",
+    "dress up duck"
+  ]
+}

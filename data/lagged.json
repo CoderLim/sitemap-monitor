@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-06T18:06:57.590757+00:00",
+  "fetched_at": "2026-09-07T19:41:40.981553+00:00",
   "baseline": false,
   "urls": [
     {
@@ -65950,6 +65950,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/road-rage",
+      "keywords": [
+        "road rage"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/supermarket-guard",
+      "keywords": [
+        "supermarket guard"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/football-robots-vs-zombies-world-cup",
       "keywords": [
         "football robots vs zombies world cup"
@@ -66031,6 +66043,12 @@
       "url": "https://lagged.com/en/g/mine-blade-online-kitpvp",
       "keywords": [
         "mine blade online kitpvp"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-climb-and-jump-tower",
+      "keywords": [
+        "obby climb and jump tower"
       ]
     },
     {
@@ -66136,6 +66154,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/merge-restyle",
+      "keywords": [
+        "merge restyle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-the-bridge",
+      "keywords": [
+        "draw the bridge"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/stacky-lce-cream-theif-runner",
       "keywords": [
         "stacky lce cream theif runner"
@@ -66163,6 +66193,12 @@
       "url": "https://lagged.com/en/g/stick-duelist",
       "keywords": [
         "stick duelist"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monster-beats-maker",
+      "keywords": [
+        "monster beats maker"
       ]
     },
     {

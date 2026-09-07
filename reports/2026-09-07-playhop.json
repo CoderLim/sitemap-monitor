@@ -1,0 +1,952 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/r-e-p-c-o-bunker-231130",
+      "keywords": [
+        "r e p c o bunker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/261616",
+      "keywords": []
+    },
+    {
+      "url": "https://playhop.com/app/wild-birds-361964",
+      "keywords": [
+        "wild birds"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/classic-blackjack-405669",
+      "keywords": [
+        "classic blackjack"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/my-castle-458492",
+      "keywords": [
+        "my castle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/paddle-rush-464769",
+      "keywords": [
+        "paddle rush"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/smash-squad-465945",
+      "keywords": [
+        "smash squad"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zooquiz-200-animal-questions-475181",
+      "keywords": [
+        "zooquiz 200 animal questions"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/baroho-480675",
+      "keywords": [
+        "baroho"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/curling-3d-522392",
+      "keywords": [
+        "curling 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/orbitalnye-koltsa-523109",
+      "keywords": [
+        "orbitalnye koltsa"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gpu-clicker-nextgen-evolution-523664",
+      "keywords": [
+        "gpu clicker nextgen evolution"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/planet-miner-pixel-worlds-526114",
+      "keywords": [
+        "planet miner pixel worlds"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dotadle-guess-the-dota-2-hero-527836",
+      "keywords": [
+        "dotadle guess the dota 2 hero"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-the-tycoon-pump-oil-533653",
+      "keywords": [
+        "obby the tycoon pump oil"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-storm-538549",
+      "keywords": [
+        "block storm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/voxel-forge-540356",
+      "keywords": [
+        "voxel forge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/animal-out-541768",
+      "keywords": [
+        "animal out"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/element-craft-542840",
+      "keywords": [
+        "element craft"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lucky-brainrots-gather-them-all-543027",
+      "keywords": [
+        "lucky brainrots gather them all"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tap-survivor-543036",
+      "keywords": [
+        "tap survivor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-shift-544710",
+      "keywords": [
+        "neon shift"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pottery-studio-544768",
+      "keywords": [
+        "pottery studio"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/keipop-devochki-dobeisia-uspekha-546013",
+      "keywords": [
+        "keipop devochki dobeisia uspekha"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brawl-rush-number-arena-547309",
+      "keywords": [
+        "brawl rush number arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-dino-eggs-548562",
+      "keywords": [
+        "merge dino eggs"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zmeika-3d-548576",
+      "keywords": [
+        "zmeika 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/madzhong-domino-551016",
+      "keywords": [
+        "madzhong domino"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sladkie-kombinatsii-551691",
+      "keywords": [
+        "sladkie kombinatsii"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/echo-of-the-depths-552465",
+      "keywords": [
+        "echo of the depths"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zheleznyi-gorizont-553315",
+      "keywords": [
+        "zheleznyi gorizont"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/koty-po-mestam-553357",
+      "keywords": [
+        "koty po mestam"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pixel-color-quest-553641",
+      "keywords": [
+        "pixel color quest"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/meme-digger-1-power-every-second-554021",
+      "keywords": [
+        "meme digger 1 power every second"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/razruli-smenu-554055",
+      "keywords": [
+        "razruli smenu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dragon-flight-for-survival-554130",
+      "keywords": [
+        "dragon flight for survival"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/semantika-554222",
+      "keywords": [
+        "semantika"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/krestiki-noliki-khaos-554837",
+      "keywords": [
+        "krestiki noliki khaos"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/egg-destroyer-clicker-555072",
+      "keywords": [
+        "egg destroyer clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-match-three-555660",
+      "keywords": [
+        "mahjong match three"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/galakticheskoe-gospodstvo-khroniki-ugasaiushchego-solntsa-555721",
+      "keywords": [
+        "galakticheskoe gospodstvo khroniki ugasaiushchego solntsa"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kurochki-nesushki-555793",
+      "keywords": [
+        "kurochki nesushki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/knightly-tourney-lance-rhythm-556591",
+      "keywords": [
+        "knightly tourney lance rhythm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/raskraska-otkroi-shedevr-557937",
+      "keywords": [
+        "raskraska otkroi shedevr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-runner-ussr-558405",
+      "keywords": [
+        "block runner ussr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-luckypunch-brainrot-558446",
+      "keywords": [
+        "obby luckypunch brainrot"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/draw-path-to-finish-558761",
+      "keywords": [
+        "draw path to finish"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/padai-i-bogatei-559026",
+      "keywords": [
+        "padai i bogatei"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poisk-predmetov-spriatano-riadom-559169",
+      "keywords": [
+        "poisk predmetov spriatano riadom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/romantic-stories-hearts-and-love-559217",
+      "keywords": [
+        "romantic stories hearts and love"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spider-solitaire-constellations-559563",
+      "keywords": [
+        "spider solitaire constellations"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-speed-to-escape-from-the-wave-559711",
+      "keywords": [
+        "1 speed to escape from the wave"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-reactor-559781",
+      "keywords": [
+        "fruit reactor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/voiny-nochi-559912",
+      "keywords": [
+        "voiny nochi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/case-arena-561418",
+      "keywords": [
+        "case arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/this-is-not-my-customer-pickup-point-561606",
+      "keywords": [
+        "this is not my customer pickup point"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evoliutsiia-sliianie-zhizni-561727",
+      "keywords": [
+        "evoliutsiia sliianie zhizni"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cosmo-rangers-561890",
+      "keywords": [
+        "cosmo rangers"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lumen-562165",
+      "keywords": [
+        "lumen"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/jigsaw-solitaire-picture-puzzle-562409",
+      "keywords": [
+        "jigsaw solitaire picture puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/deviatki-onlain-563058",
+      "keywords": [
+        "deviatki onlain"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/khrap-onlain-563060",
+      "keywords": [
+        "khrap onlain"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/planet-in-hand-563147",
+      "keywords": [
+        "planet in hand"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-cakes-sweet-relax-563207",
+      "keywords": [
+        "merge cakes sweet relax"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/toplivnyi-magnat-563344",
+      "keywords": [
+        "toplivnyi magnat"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-pairs-zombieland-563393",
+      "keywords": [
+        "fruit pairs zombieland"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/beetwen-orbits-563513",
+      "keywords": [
+        "beetwen orbits"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kubicheskaia-kuznia-563841",
+      "keywords": [
+        "kubicheskaia kuznia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/put-the-animals-in-place-564108",
+      "keywords": [
+        "put the animals in place"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/street-car-racing-police-chase-564263",
+      "keywords": [
+        "street car racing police chase"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/solitaire-open-cell-564342",
+      "keywords": [
+        "solitaire open cell"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ostrov-dinozavrov-put-alfy-564393",
+      "keywords": [
+        "ostrov dinozavrov put alfy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/stellar-voyage-564607",
+      "keywords": [
+        "stellar voyage"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/polydash-neon-survival-564685",
+      "keywords": [
+        "polydash neon survival"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poimai-khameleona-564690",
+      "keywords": [
+        "poimai khameleona"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shapemaster-564761",
+      "keywords": [
+        "shapemaster"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-folk-valley-565194",
+      "keywords": [
+        "obby folk valley"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/preferans-onlain-565422",
+      "keywords": [
+        "preferans onlain"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lite-dungeon-565573",
+      "keywords": [
+        "lite dungeon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-build-a-garden-565611",
+      "keywords": [
+        "merge build a garden"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pobeg-iz-kalmara-2d-565747",
+      "keywords": [
+        "pobeg iz kalmara 2d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pyliuki-naidi-monstrikov-pod-pyliu-565933",
+      "keywords": [
+        "pyliuki naidi monstrikov pod pyliu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gribnoi-sumrak-566081",
+      "keywords": [
+        "gribnoi sumrak"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/art-of-dogeza-566260",
+      "keywords": [
+        "art of dogeza"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zmeika-obzhorka-566299",
+      "keywords": [
+        "zmeika obzhorka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uboinyi-futbol-superudar-566301",
+      "keywords": [
+        "uboinyi futbol superudar"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/premier-drop-case-simulator-566517",
+      "keywords": [
+        "premier drop case simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/znaesh-li-ty-geografiiu-566545",
+      "keywords": [
+        "znaesh li ty geografiiu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kolobok-from-dough-to-hero-566831",
+      "keywords": [
+        "kolobok from dough to hero"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/reseller-simulator-cases-and-deals-567344",
+      "keywords": [
+        "reseller simulator cases and deals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chetyre-v-riad-bitva-fishek-567525",
+      "keywords": [
+        "chetyre v riad bitva fishek"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zvezdnyi-ryvok-soberi-vse-zvezdy-567645",
+      "keywords": [
+        "zvezdnyi ryvok soberi vse zvezdy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/parcel-madness-parcel-sorting-569471",
+      "keywords": [
+        "parcel madness parcel sorting"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lumen-living-garden-569706",
+      "keywords": [
+        "lumen living garden"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kolobok-blast-570198",
+      "keywords": [
+        "kolobok blast"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lift-uzhasov-570810",
+      "keywords": [
+        "lift uzhasov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wooden-block-cubes-571356",
+      "keywords": [
+        "wooden block cubes"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kotiki-2048-uiutnyi-dom-571494",
+      "keywords": [
+        "kotiki 2048 uiutnyi dom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/untangle-cables-asmr-572061",
+      "keywords": [
+        "untangle cables asmr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/farm-idle-572389",
+      "keywords": [
+        "farm idle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lesoruby-572635",
+      "keywords": [
+        "lesoruby"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/esh-i-rasti-1-k-razmeru-572642",
+      "keywords": [
+        "esh i rasti 1 k razmeru"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sea-treasures-572654",
+      "keywords": [
+        "sea treasures"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/match-the-little-dinosaurs-572764",
+      "keywords": [
+        "match the little dinosaurs"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brainrot-clicker-573621",
+      "keywords": [
+        "brainrot clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uiutnaia-3d-ferma-573633",
+      "keywords": [
+        "uiutnaia 3d ferma"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slimax-573668",
+      "keywords": [
+        "slimax"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slova-iz-sssr-574467",
+      "keywords": [
+        "slova iz sssr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/golda-575990",
+      "keywords": [
+        "golda"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/market-imperiia-576402",
+      "keywords": [
+        "market imperiia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/build-your-puzzle-576644",
+      "keywords": [
+        "build your puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-the-balls-sports-relax-576741",
+      "keywords": [
+        "merge the balls sports relax"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/my-shiba-577540",
+      "keywords": [
+        "my shiba"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/people-playground-578851",
+      "keywords": [
+        "people playground"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hoop-fly-580108",
+      "keywords": [
+        "hoop fly"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kick-a-lucky-block-escape-waves-582596",
+      "keywords": [
+        "kick a lucky block escape waves"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/seasonal-clicker-summer-583811",
+      "keywords": [
+        "seasonal clicker summer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/goal-pipe-584290",
+      "keywords": [
+        "goal pipe"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruktovyi-bum-frukty-ot-malenkogo-k-bolshomu-584618",
+      "keywords": [
+        "fruktovyi bum frukty ot malenkogo k bolshomu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/office-company-tycoon-585345",
+      "keywords": [
+        "office company tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vzryvnaia-golovolomka-586166",
+      "keywords": [
+        "vzryvnaia golovolomka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/alkhimiia-sozdai-slovo-586590",
+      "keywords": [
+        "alkhimiia sozdai slovo"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/keyboard-escape-587133",
+      "keywords": [
+        "keyboard escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/animal-hospital-unlock-all-anomalies-587526",
+      "keywords": [
+        "animal hospital unlock all anomalies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gem-sort-587673",
+      "keywords": [
+        "gem sort"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bitva-krasok-zakhvat-territorii-587808",
+      "keywords": [
+        "bitva krasok zakhvat territorii"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ragdoll-punch-aura-farm-588191",
+      "keywords": [
+        "ragdoll punch aura farm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/prygai-prygai-588234",
+      "keywords": [
+        "prygai prygai"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/karta-dnia-taro-predskazanii-588841",
+      "keywords": [
+        "karta dnia taro predskazanii"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kurer-15-minut-ili-shtraf-589005",
+      "keywords": [
+        "kurer 15 minut ili shtraf"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arroway-589817",
+      "keywords": [
+        "arroway"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-double-jump-bike-escape-590168",
+      "keywords": [
+        "1 double jump bike escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tank-vs-zombies-590207",
+      "keywords": [
+        "tank vs zombies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-aura-ragdoll-arena-590650",
+      "keywords": [
+        "obby aura ragdoll arena"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uboinye-gonki-2d-593247",
+      "keywords": [
+        "uboinye gonki 2d"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "r e p c o bunker",
+    "wild birds",
+    "classic blackjack",
+    "my castle",
+    "paddle rush",
+    "smash squad",
+    "zooquiz 200 animal questions",
+    "baroho",
+    "curling 3d",
+    "orbitalnye koltsa",
+    "gpu clicker nextgen evolution",
+    "planet miner pixel worlds",
+    "dotadle guess the dota 2 hero",
+    "obby the tycoon pump oil",
+    "block storm",
+    "voxel forge",
+    "animal out",
+    "element craft",
+    "lucky brainrots gather them all",
+    "tap survivor",
+    "neon shift",
+    "pottery studio",
+    "keipop devochki dobeisia uspekha",
+    "brawl rush number arena",
+    "merge dino eggs",
+    "zmeika 3d",
+    "madzhong domino",
+    "sladkie kombinatsii",
+    "echo of the depths",
+    "zheleznyi gorizont",
+    "koty po mestam",
+    "pixel color quest",
+    "meme digger 1 power every second",
+    "razruli smenu",
+    "dragon flight for survival",
+    "semantika",
+    "krestiki noliki khaos",
+    "egg destroyer clicker",
+    "mahjong match three",
+    "galakticheskoe gospodstvo khroniki ugasaiushchego solntsa",
+    "kurochki nesushki",
+    "knightly tourney lance rhythm",
+    "raskraska otkroi shedevr",
+    "block runner ussr",
+    "obby luckypunch brainrot",
+    "draw path to finish",
+    "padai i bogatei",
+    "poisk predmetov spriatano riadom",
+    "romantic stories hearts and love",
+    "spider solitaire constellations",
+    "1 speed to escape from the wave",
+    "fruit reactor",
+    "voiny nochi",
+    "case arena",
+    "this is not my customer pickup point",
+    "evoliutsiia sliianie zhizni",
+    "cosmo rangers",
+    "lumen",
+    "jigsaw solitaire picture puzzle",
+    "deviatki onlain",
+    "khrap onlain",
+    "planet in hand",
+    "merge cakes sweet relax",
+    "toplivnyi magnat",
+    "fruit pairs zombieland",
+    "beetwen orbits",
+    "kubicheskaia kuznia",
+    "put the animals in place",
+    "street car racing police chase",
+    "solitaire open cell",
+    "ostrov dinozavrov put alfy",
+    "stellar voyage",
+    "polydash neon survival",
+    "poimai khameleona",
+    "shapemaster",
+    "obby folk valley",
+    "preferans onlain",
+    "lite dungeon",
+    "merge build a garden",
+    "pobeg iz kalmara 2d",
+    "pyliuki naidi monstrikov pod pyliu",
+    "gribnoi sumrak",
+    "art of dogeza",
+    "zmeika obzhorka",
+    "uboinyi futbol superudar",
+    "premier drop case simulator",
+    "znaesh li ty geografiiu",
+    "kolobok from dough to hero",
+    "reseller simulator cases and deals",
+    "chetyre v riad bitva fishek",
+    "zvezdnyi ryvok soberi vse zvezdy",
+    "parcel madness parcel sorting",
+    "lumen living garden",
+    "kolobok blast",
+    "lift uzhasov",
+    "wooden block cubes",
+    "kotiki 2048 uiutnyi dom",
+    "untangle cables asmr",
+    "farm idle",
+    "lesoruby",
+    "esh i rasti 1 k razmeru",
+    "sea treasures",
+    "match the little dinosaurs",
+    "brainrot clicker",
+    "uiutnaia 3d ferma",
+    "slimax",
+    "slova iz sssr",
+    "golda",
+    "market imperiia",
+    "build your puzzle",
+    "merge the balls sports relax",
+    "my shiba",
+    "people playground",
+    "hoop fly",
+    "kick a lucky block escape waves",
+    "seasonal clicker summer",
+    "goal pipe",
+    "fruktovyi bum frukty ot malenkogo k bolshomu",
+    "office company tycoon",
+    "vzryvnaia golovolomka",
+    "alkhimiia sozdai slovo",
+    "keyboard escape",
+    "animal hospital unlock all anomalies",
+    "gem sort",
+    "bitva krasok zakhvat territorii",
+    "ragdoll punch aura farm",
+    "prygai prygai",
+    "karta dnia taro predskazanii",
+    "kurer 15 minut ili shtraf",
+    "arroway",
+    "1 double jump bike escape",
+    "tank vs zombies",
+    "obby aura ragdoll arena",
+    "uboinye gonki 2d"
+  ]
+}

@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-06T18:06:57.590757+00:00",
+  "fetched_at": "2026-09-07T19:41:40.981553+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/build-a-bud",
+      "keywords": [
+        "build a bud"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/dress-up-duck",
+      "keywords": [
+        "dress up duck"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/hole-io",
+      "keywords": [
+        "hole io"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/tiny-sticker-town",
       "keywords": [
@@ -139,12 +157,6 @@
       "url": "https://poki.com/en/g/paperio-2",
       "keywords": [
         "paperio 2"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/hole-io",
-      "keywords": [
-        "hole io"
       ]
     },
     {
@@ -496,12 +508,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/fight-and-loot",
-      "keywords": [
-        "fight and loot"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/sea-of-sharks",
       "keywords": [
         "sea of sharks"
@@ -529,12 +535,6 @@
       "url": "https://poki.com/en/g/samurai-sam",
       "keywords": [
         "samurai sam"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/punch-master",
-      "keywords": [
-        "punch master"
       ]
     },
     {
@@ -571,12 +571,6 @@
       "url": "https://poki.com/en/g/battle-blast",
       "keywords": [
         "battle blast"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/superweird",
-      "keywords": [
-        "superweird"
       ]
     },
     {
@@ -700,12 +694,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/stickers-merge",
-      "keywords": [
-        "stickers merge"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/tiger-tank-2",
       "keywords": [
         "tiger tank 2"
@@ -715,12 +703,6 @@
       "url": "https://poki.com/en/g/annoying-teacher-punch-game",
       "keywords": [
         "annoying teacher punch game"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/adventure-miner",
-      "keywords": [
-        "adventure miner"
       ]
     },
     {
@@ -751,12 +733,6 @@
       "url": "https://poki.com/en/g/talking-tom-gold-run",
       "keywords": [
         "talking tom gold run"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/cozyville-find-hidden-objects",
-      "keywords": [
-        "cozyville find hidden objects"
       ]
     },
     {
@@ -1144,12 +1120,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/grass-knight",
-      "keywords": [
-        "grass knight"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/slime-dunk",
       "keywords": [
         "slime dunk"
@@ -1234,12 +1204,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/graveyard-shift",
-      "keywords": [
-        "graveyard shift"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/human-bullet-gun",
       "keywords": [
         "human bullet gun"
@@ -1291,12 +1255,6 @@
       "url": "https://poki.com/en/g/tictoc-nightlife-fashion",
       "keywords": [
         "tictoc nightlife fashion"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/bff-math-class",
-      "keywords": [
-        "bff math class"
       ]
     },
     {
@@ -1672,12 +1630,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/drills-merge-master",
-      "keywords": [
-        "drills merge master"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/meme-madness",
       "keywords": [
         "meme madness"
@@ -2020,12 +1972,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/duel-of-chance",
-      "keywords": [
-        "duel of chance"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/perfect-landing-plane-pilot",
       "keywords": [
         "perfect landing plane pilot"
@@ -2089,12 +2035,6 @@
       "url": "https://poki.com/en/g/sticker-book-puzzle",
       "keywords": [
         "sticker book puzzle"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/fruits-of-fury",
-      "keywords": [
-        "fruits of fury"
       ]
     },
     {
@@ -2512,12 +2452,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/disco-droids",
-      "keywords": [
-        "disco droids"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/fruitmates-adventure",
       "keywords": [
         "fruitmates adventure"
@@ -2902,12 +2836,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/steve-and-the-duck-shooter",
-      "keywords": [
-        "steve and the duck shooter"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/tiles-master",
       "keywords": [
         "tiles master"
@@ -3247,12 +3175,6 @@
       "url": "https://poki.com/en/g/blaze-drifter",
       "keywords": [
         "blaze drifter"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/wheat-clicker",
-      "keywords": [
-        "wheat clicker"
       ]
     },
     {
@@ -4204,12 +4126,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/cosmos-lines",
-      "keywords": [
-        "cosmos lines"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/shady-bears",
       "keywords": [
         "shady bears"
@@ -5020,12 +4936,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/cats-love-cake-2",
-      "keywords": [
-        "cats love cake 2"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/craftomation-1",
       "keywords": [
         "craftomation 1"
@@ -5218,12 +5128,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/fluffball",
-      "keywords": [
-        "fluffball"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/logic-master-1",
       "keywords": [
         "logic master 1"
@@ -5239,12 +5143,6 @@
       "url": "https://poki.com/en/g/temple-run-2-spooky-summit",
       "keywords": [
         "temple run 2 spooky summit"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/ledge-throw",
-      "keywords": [
-        "ledge throw"
       ]
     },
     {
@@ -5494,12 +5392,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/space-thing",
-      "keywords": [
-        "space thing"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/dadish-3",
       "keywords": [
         "dadish 3"
@@ -5614,12 +5506,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/idle-startup-tycoon",
-      "keywords": [
-        "idle startup tycoon"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/icy-purple-head-2",
       "keywords": [
         "icy purple head 2"
@@ -5635,12 +5521,6 @@
       "url": "https://poki.com/en/g/mad-cars-racing-and-crash",
       "keywords": [
         "mad cars racing and crash"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/slashz",
-      "keywords": [
-        "slashz"
       ]
     },
     {
@@ -6154,12 +6034,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/skywire-2-html5",
-      "keywords": [
-        "skywire 2 html5"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/spades",
       "keywords": [
         "spades"
@@ -6295,12 +6169,6 @@
       "url": "https://poki.com/en/g/pink",
       "keywords": [
         "pink"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/picnic-penguin",
-      "keywords": [
-        "picnic penguin"
       ]
     },
     {
@@ -6874,12 +6742,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/word-monsters",
-      "keywords": [
-        "word monsters"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/rowdy-city-wrestling",
       "keywords": [
         "rowdy city wrestling"
@@ -7018,12 +6880,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/dunkbrush",
-      "keywords": [
-        "dunkbrush"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/tiny-fishing",
       "keywords": [
         "tiny fishing"
@@ -7033,12 +6889,6 @@
       "url": "https://poki.com/en/g/11-11",
       "keywords": [
         "11 11"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/super-mx-the-champion",
-      "keywords": [
-        "super mx the champion"
       ]
     },
     {
@@ -7132,12 +6982,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/yummy-waffle-ice-cream",
-      "keywords": [
-        "yummy waffle ice cream"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/100-golf",
       "keywords": [
         "100 golf"
@@ -7153,12 +6997,6 @@
       "url": "https://poki.com/en/g/superbike-hero",
       "keywords": [
         "superbike hero"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/funny-eye-surgery",
-      "keywords": [
-        "funny eye surgery"
       ]
     },
     {
@@ -7252,12 +7090,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/string-theory-remastered",
-      "keywords": [
-        "string theory remastered"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/australian-patience",
       "keywords": [
         "australian patience"
@@ -7267,12 +7099,6 @@
       "url": "https://poki.com/en/g/lovely-fox",
       "keywords": [
         "lovely fox"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/solitaire-golf",
-      "keywords": [
-        "solitaire golf"
       ]
     },
     {
@@ -7708,12 +7534,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/funny-nose-surgery",
-      "keywords": [
-        "funny nose surgery"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/mafia-billiard-tricks",
       "keywords": [
         "mafia billiard tricks"
@@ -7852,12 +7672,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/circloo-2",
-      "keywords": [
-        "circloo 2"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/the-final-earth-2",
       "keywords": [
         "the final earth 2"
@@ -7891,12 +7705,6 @@
       "url": "https://poki.com/en/g/winter-clash-3d",
       "keywords": [
         "winter clash 3d"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/battle-golf",
-      "keywords": [
-        "battle golf"
       ]
     },
     {
@@ -7945,12 +7753,6 @@
       "url": "https://poki.com/en/g/the-impossible-quiz-2",
       "keywords": [
         "the impossible quiz 2"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/bow-mania",
-      "keywords": [
-        "bow mania"
       ]
     },
     {
@@ -8392,12 +8194,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/zombie-outbreak-arena",
-      "keywords": [
-        "zombie outbreak arena"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/color-crash",
       "keywords": [
         "color crash"
@@ -8657,12 +8453,6 @@
       "url": "https://poki.com/en/g/heads-arena-soccer-all-stars",
       "keywords": [
         "heads arena soccer all stars"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/truck-loader-5",
-      "keywords": [
-        "truck loader 5"
       ]
     },
     {

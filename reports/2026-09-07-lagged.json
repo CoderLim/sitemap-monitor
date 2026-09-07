@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/road-rage",
+      "keywords": [
+        "road rage"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/supermarket-guard",
+      "keywords": [
+        "supermarket guard"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-climb-and-jump-tower",
+      "keywords": [
+        "obby climb and jump tower"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-restyle",
+      "keywords": [
+        "merge restyle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-the-bridge",
+      "keywords": [
+        "draw the bridge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monster-beats-maker",
+      "keywords": [
+        "monster beats maker"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "road rage",
+    "supermarket guard",
+    "obby climb and jump tower",
+    "merge restyle",
+    "draw the bridge",
+    "monster beats maker"
+  ]
+}
