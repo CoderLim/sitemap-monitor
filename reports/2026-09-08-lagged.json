@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/block-party-obby-robby-mini-games",
+      "keywords": [
+        "block party obby robby mini games"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mahjong-tiles",
+      "keywords": [
+        "mahjong tiles"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/prison-break",
+      "keywords": [
+        "prison break"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "block party obby robby mini games",
+    "mahjong tiles",
+    "prison break"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/halloween-trickster",
+      "keywords": [
+        "halloween trickster"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/warspace-io",
+      "keywords": [
+        "warspace io"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lanelogic",
+      "keywords": [
+        "lanelogic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dinosaur-dig",
+      "keywords": [
+        "dinosaur dig"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wayfarer-s-return",
+      "keywords": [
+        "wayfarer s return"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/infini-golf",
+      "keywords": [
+        "infini golf"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "halloween trickster",
+    "warspace io",
+    "lanelogic",
+    "dinosaur dig",
+    "wayfarer s return",
+    "infini golf"
+  ]
+}

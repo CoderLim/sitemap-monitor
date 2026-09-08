@@ -1,8 +1,50 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-07T19:41:40.981553+00:00",
+  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/my-mini-mart",
+      "keywords": [
+        "my mini mart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-memerot-zoo-tycoon",
+      "keywords": [
+        "steal memerot zoo tycoon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-speed-monkey-escape",
+      "keywords": [
+        "1 speed monkey escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/voxmaxa",
+      "keywords": [
+        "voxmaxa"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/destroy-grandma",
+      "keywords": [
+        "destroy grandma"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cube-online-survival-with-friends",
+      "keywords": [
+        "cube online survival with friends"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/treasure-hunting-simulator",
+      "keywords": [
+        "treasure hunting simulator"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/paint-and-seek-online",
       "keywords": [
@@ -7399,12 +7441,6 @@
       "url": "https://www.miniplay.com/game/space-io",
       "keywords": [
         "space io"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/voxmaxa",
-      "keywords": [
-        "voxmaxa"
       ]
     },
     {

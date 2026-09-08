@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-07T19:41:40.981553+00:00",
+  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/little-steps-big-troubles",
+      "keywords": [
+        "little steps big troubles"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/talking-tom-drop-and-pop",
+      "keywords": [
+        "talking tom drop and pop"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/demolition-simulator",
+      "keywords": [
+        "demolition simulator"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/build-a-bud",
       "keywords": [
@@ -217,12 +235,6 @@
       "url": "https://poki.com/en/g/moms-diary-cooking-games",
       "keywords": [
         "moms diary cooking games"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/demolition-simulator",
-      "keywords": [
-        "demolition simulator"
       ]
     },
     {

@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/my-mini-mart",
+      "keywords": [
+        "my mini mart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-memerot-zoo-tycoon",
+      "keywords": [
+        "steal memerot zoo tycoon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-speed-monkey-escape",
+      "keywords": [
+        "1 speed monkey escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/destroy-grandma",
+      "keywords": [
+        "destroy grandma"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cube-online-survival-with-friends",
+      "keywords": [
+        "cube online survival with friends"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/treasure-hunting-simulator",
+      "keywords": [
+        "treasure hunting simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "my mini mart",
+    "steal memerot zoo tycoon",
+    "1 speed monkey escape",
+    "destroy grandma",
+    "cube online survival with friends",
+    "treasure hunting simulator"
+  ]
+}

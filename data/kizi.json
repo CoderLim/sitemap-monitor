@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-09-07T19:41:40.981553+00:00",
+  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36005,6 +36005,18 @@
       "url": "https://kizi.com/games/archer-vs-monsters",
       "keywords": [
         "archer vs monsters"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/grand-pet-connect",
+      "keywords": [
+        "grand pet connect"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/animals-jigsaw-puzzle",
+      "keywords": [
+        "animals jigsaw puzzle"
       ]
     }
   ]

@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/monster-island-fyy",
+      "keywords": [
+        "monster island fyy"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/color-screw-rescue-puzzle-nfb",
+      "keywords": [
+        "color screw rescue puzzle nfb"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/vox-heroes",
+      "keywords": [
+        "vox heroes"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/city-gas-station-simulator",
+      "keywords": [
+        "city gas station simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/splash-sliders",
+      "keywords": [
+        "splash sliders"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slime-horde-td",
+      "keywords": [
+        "slime horde td"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/tower-defense/3",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "monster island fyy",
+    "color screw rescue puzzle nfb",
+    "vox heroes",
+    "city gas station simulator",
+    "splash sliders",
+    "slime horde td"
+  ]
+}
