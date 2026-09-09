@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/paint-or-hunt",
+      "keywords": [
+        "paint or hunt"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-1-laser-to-break-walls",
+      "keywords": [
+        "obby 1 laser to break walls"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/300-heroes",
+      "keywords": [
+        "300 heroes"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/flip-spot",
+      "keywords": [
+        "flip spot"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crazy-vikings-life",
+      "keywords": [
+        "crazy vikings life"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/archer-vs-monsters",
+      "keywords": [
+        "archer vs monsters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/alchemist-master",
+      "keywords": [
+        "alchemist master"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "paint or hunt",
+    "obby 1 laser to break walls",
+    "300 heroes",
+    "flip spot",
+    "crazy vikings life",
+    "archer vs monsters",
+    "alchemist master"
+  ]
+}

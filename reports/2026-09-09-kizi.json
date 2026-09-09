@@ -1,0 +1,24 @@
+{
+  "site_id": "kizi",
+  "date": "2026-09-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/tropical-tiles-mahjong",
+      "keywords": [
+        "tropical tiles mahjong"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/flip-duel",
+      "keywords": [
+        "flip duel"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "tropical tiles mahjong",
+    "flip duel"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
+  "fetched_at": "2026-09-09T19:08:51.374400+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36017,6 +36017,18 @@
       "url": "https://kizi.com/games/animals-jigsaw-puzzle",
       "keywords": [
         "animals jigsaw puzzle"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/tropical-tiles-mahjong",
+      "keywords": [
+        "tropical tiles mahjong"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/flip-duel",
+      "keywords": [
+        "flip duel"
       ]
     }
   ]

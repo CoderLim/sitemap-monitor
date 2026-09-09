@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/1-girl-for-1-boy",
+      "keywords": [
+        "1 girl for 1 boy"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/commando-force-2",
+      "keywords": [
+        "commando force 2"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 girl for 1 boy",
+    "commando force 2"
+  ]
+}

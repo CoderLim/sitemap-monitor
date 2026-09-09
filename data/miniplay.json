@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
+  "fetched_at": "2026-09-09T19:08:51.374400+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/paint-or-hunt",
+      "keywords": [
+        "paint or hunt"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-1-laser-to-break-walls",
+      "keywords": [
+        "obby 1 laser to break walls"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/300-heroes",
+      "keywords": [
+        "300 heroes"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/flip-spot",
+      "keywords": [
+        "flip spot"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-speed-monkey-escape",
+      "keywords": [
+        "1 speed monkey escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crazy-vikings-life",
+      "keywords": [
+        "crazy vikings life"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/archer-vs-monsters",
+      "keywords": [
+        "archer vs monsters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/alchemist-master",
+      "keywords": [
+        "alchemist master"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/my-mini-mart",
       "keywords": [
@@ -13,12 +61,6 @@
       "url": "https://www.miniplay.com/game/steal-memerot-zoo-tycoon",
       "keywords": [
         "steal memerot zoo tycoon"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/1-speed-monkey-escape",
-      "keywords": [
-        "1 speed monkey escape"
       ]
     },
     {

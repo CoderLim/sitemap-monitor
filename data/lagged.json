@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-08T19:19:21.604783+00:00",
+  "fetched_at": "2026-09-09T19:08:51.374400+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66064,6 +66064,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/1-girl-for-1-boy",
+      "keywords": [
+        "1 girl for 1 boy"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/country-battle-arena",
       "keywords": [
         "country battle arena"
@@ -66217,6 +66223,12 @@
       "url": "https://lagged.com/en/g/monster-beats-maker",
       "keywords": [
         "monster beats maker"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/commando-force-2",
+      "keywords": [
+        "commando force 2"
       ]
     },
     {
