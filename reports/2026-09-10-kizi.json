@@ -1,0 +1,24 @@
+{
+  "site_id": "kizi",
+  "date": "2026-09-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/hexa-associations",
+      "keywords": [
+        "hexa associations"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/ocean-bubble-sort",
+      "keywords": [
+        "ocean bubble sort"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hexa associations",
+    "ocean bubble sort"
+  ]
+}

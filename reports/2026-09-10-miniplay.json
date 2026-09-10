@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/prismcraft",
+      "keywords": [
+        "prismcraft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sand-castle",
+      "keywords": [
+        "sand castle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/merge-land",
+      "keywords": [
+        "merge land"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hot-wheels-race-off-multiplayer",
+      "keywords": [
+        "hot wheels race off multiplayer"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pop-safari",
+      "keywords": [
+        "pop safari"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pac-fell",
+      "keywords": [
+        "pac fell"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "prismcraft",
+    "sand castle",
+    "merge land",
+    "hot wheels race off multiplayer",
+    "pop safari",
+    "pac fell"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/3-cushion-billards",
+      "keywords": [
+        "3 cushion billards"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/scientist-and-robot",
+      "keywords": [
+        "scientist and robot"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cmyk-puzzle",
+      "keywords": [
+        "cmyk puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-seventh-mark",
+      "keywords": [
+        "the seventh mark"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sweet-order-sort-it",
+      "keywords": [
+        "sweet order sort it"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slime-glutton",
+      "keywords": [
+        "slime glutton"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gold-rush-gulch",
+      "keywords": [
+        "gold rush gulch"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/runaway-sushi",
+      "keywords": [
+        "runaway sushi"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dicebound-survivors",
+      "keywords": [
+        "dicebound survivors"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/highway-rally",
+      "keywords": [
+        "highway rally"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/eco-tycoon",
+      "keywords": [
+        "eco tycoon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arcane-showdown",
+      "keywords": [
+        "arcane showdown"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ball-merge",
+      "keywords": [
+        "ball merge"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "3 cushion billards",
+    "scientist and robot",
+    "cmyk puzzle",
+    "the seventh mark",
+    "sweet order sort it",
+    "slime glutton",
+    "gold rush gulch",
+    "runaway sushi",
+    "dicebound survivors",
+    "highway rally",
+    "eco tycoon",
+    "arcane showdown",
+    "ball merge"
+  ]
+}
