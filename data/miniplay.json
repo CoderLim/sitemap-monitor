@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-10T19:00:52.745211+00:00",
+  "fetched_at": "2026-09-11T19:02:16.547601+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-speed-keyboard-lucky-escape",
+      "keywords": [
+        "1 speed keyboard lucky escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-an-egg",
+      "keywords": [
+        "steal an egg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/flip-duel",
+      "keywords": [
+        "flip duel"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/blockmine-online",
+      "keywords": [
+        "blockmine online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-and-verity",
+      "keywords": [
+        "granny and verity"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/more-sushi",
+      "keywords": [
+        "more sushi"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sudoku-online",
+      "keywords": [
+        "sudoku online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/miner-drilling",
+      "keywords": [
+        "miner drilling"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/prismcraft",
       "keywords": [

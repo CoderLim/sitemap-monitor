@@ -1,0 +1,80 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-11",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/island-siege",
+      "keywords": [
+        "island siege"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-vanguard-rogue-defense",
+      "keywords": [
+        "neon vanguard rogue defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cat-mouse-loop",
+      "keywords": [
+        "cat mouse loop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bunny-rush",
+      "keywords": [
+        "bunny rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/piecealive",
+      "keywords": [
+        "piecealive"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/clean-the-squishes-asmr-sorting-obby",
+      "keywords": [
+        "clean the squishes asmr sorting obby"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/monkey-rush",
+      "keywords": [
+        "monkey rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/factory-simulator",
+      "keywords": [
+        "factory simulator"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/timber-squirrel",
+      "keywords": [
+        "timber squirrel"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gunsmith-lab",
+      "keywords": [
+        "gunsmith lab"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "island siege",
+    "neon vanguard rogue defense",
+    "cat mouse loop",
+    "bunny rush",
+    "piecealive",
+    "clean the squishes asmr sorting obby",
+    "monkey rush",
+    "factory simulator",
+    "timber squirrel",
+    "gunsmith lab"
+  ]
+}

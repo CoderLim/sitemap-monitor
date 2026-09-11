@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-10T19:00:52.745211+00:00",
+  "fetched_at": "2026-09-11T19:02:16.547601+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66241,6 +66241,18 @@
       "url": "https://lagged.com/en/g/merge-champions",
       "keywords": [
         "merge champions"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/drop-it-event-puzzle",
+      "keywords": [
+        "drop it event puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monkeydoku",
+      "keywords": [
+        "monkeydoku"
       ]
     },
     {
