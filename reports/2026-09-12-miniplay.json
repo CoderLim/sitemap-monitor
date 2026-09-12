@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-to-flight-power-per-click",
+      "keywords": [
+        "1 to flight power per click"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-1-gun-evolution",
+      "keywords": [
+        "obby 1 gun evolution"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/kubz-io",
+      "keywords": [
+        "kubz io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/blombo-io",
+      "keywords": [
+        "blombo io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/noob-playground-sandbox-craft",
+      "keywords": [
+        "noob playground sandbox craft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/tropical-tiles-mahjong",
+      "keywords": [
+        "tropical tiles mahjong"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 to flight power per click",
+    "obby 1 gun evolution",
+    "kubz io",
+    "blombo io",
+    "noob playground sandbox craft",
+    "tropical tiles mahjong"
+  ]
+}

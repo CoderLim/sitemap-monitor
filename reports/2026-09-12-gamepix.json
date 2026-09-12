@@ -1,0 +1,94 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/hungertrails",
+      "keywords": [
+        "hungertrails"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grid-siege",
+      "keywords": [
+        "grid siege"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cyber-soccer",
+      "keywords": [
+        "cyber soccer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-dash",
+      "keywords": [
+        "echo dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/survivalist",
+      "keywords": [
+        "survivalist"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/drift-loop",
+      "keywords": [
+        "drift loop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fruit-cut-game",
+      "keywords": [
+        "fruit cut game"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gobble-arena",
+      "keywords": [
+        "gobble arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/music-beats-brainrot-meme",
+      "keywords": [
+        "music beats brainrot meme"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/match-3-forest-crew",
+      "keywords": [
+        "match 3 forest crew"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/puzzle-fit-the-pieces",
+      "keywords": [
+        "puzzle fit the pieces"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/flingrift",
+      "keywords": [
+        "flingrift"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hungertrails",
+    "grid siege",
+    "cyber soccer",
+    "echo dash",
+    "survivalist",
+    "drift loop",
+    "fruit cut game",
+    "gobble arena",
+    "music beats brainrot meme",
+    "match 3 forest crew",
+    "puzzle fit the pieces",
+    "flingrift"
+  ]
+}
