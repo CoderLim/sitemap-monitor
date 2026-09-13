@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-12T18:13:22.266311+00:00",
+  "fetched_at": "2026-09-13T18:37:16.658196+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66208,9 +66208,39 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/truck-slam",
+      "keywords": [
+        "truck slam"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ultimate-road-runner",
+      "keywords": [
+        "ultimate road runner"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obbytycoon-money-tycoon",
+      "keywords": [
+        "obbytycoon money tycoon"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/merge-restyle",
       "keywords": [
         "merge restyle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/candy-flow-factory",
+      "keywords": [
+        "candy flow factory"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/real-car-bmw-m4-drift",
+      "keywords": [
+        "real car bmw m4 drift"
       ]
     },
     {

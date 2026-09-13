@@ -1,0 +1,591 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/flagly-366146",
+      "keywords": [
+        "flagly"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-speed-wings-escape-523337",
+      "keywords": [
+        "1 speed wings escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/super-tiles-tile-puzzle-541846",
+      "keywords": [
+        "super tiles tile puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pravila-igry-v-shakhmaty-543087",
+      "keywords": [
+        "pravila igry v shakhmaty"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/patisserie-push-543197",
+      "keywords": [
+        "patisserie push"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/avatar-world-merge-path-to-the-stage-543375",
+      "keywords": [
+        "avatar world merge path to the stage"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kliker-chipsov-leis-546744",
+      "keywords": [
+        "kliker chipsov leis"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/moon-caravan-548794",
+      "keywords": [
+        "moon caravan"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/capy-link-548967",
+      "keywords": [
+        "capy link"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kranograd-bashnia-iz-blokov-549001",
+      "keywords": [
+        "kranograd bashnia iz blokov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/2048-galaxy-552567",
+      "keywords": [
+        "2048 galaxy"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/anime-girls-pixel-battle-554008",
+      "keywords": [
+        "anime girls pixel battle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/grim-hollow-survivors-554272",
+      "keywords": [
+        "grim hollow survivors"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/jelly-neighbors-merge-557620",
+      "keywords": [
+        "jelly neighbors merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/golod-bezdny-558725",
+      "keywords": [
+        "golod bezdny"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hero-vs-traps-559456",
+      "keywords": [
+        "hero vs traps"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/evolution-67-560766",
+      "keywords": [
+        "evolution 67"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/trinexa-number-cascade-562199",
+      "keywords": [
+        "trinexa number cascade"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/battl-keis-562513",
+      "keywords": [
+        "battl keis"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/veriu-ne-veriu-563126",
+      "keywords": [
+        "veriu ne veriu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/strelochki-madzhong-563861",
+      "keywords": [
+        "strelochki madzhong"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/server-empire-idle-mining-564057",
+      "keywords": [
+        "server empire idle mining"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/memorya-565353",
+      "keywords": [
+        "memorya"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brawl-arena-noobs-vs-brainrots-566367",
+      "keywords": [
+        "brawl arena noobs vs brainrots"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slozhi-kartinku-po-kusochkam-567178",
+      "keywords": [
+        "slozhi kartinku po kusochkam"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/carpet-puzzle-567399",
+      "keywords": [
+        "carpet puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/animal-mahjong-3d-567585",
+      "keywords": [
+        "animal mahjong 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/geometric-boom-568225",
+      "keywords": [
+        "geometric boom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/breinroty-protiv-slaimov-568517",
+      "keywords": [
+        "breinroty protiv slaimov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/5-nochei-s-tokhoi-568804",
+      "keywords": [
+        "5 nochei s tokhoi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/avtotaz-kliker-568867",
+      "keywords": [
+        "avtotaz kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chainwords-569154",
+      "keywords": [
+        "chainwords"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tomb-of-the-craft-569528",
+      "keywords": [
+        "tomb of the craft"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/meme-clicker-brainrot-merge-572255",
+      "keywords": [
+        "meme clicker brainrot merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/slova-iz-bukv-naidi-vse-572843",
+      "keywords": [
+        "slova iz bukv naidi vse"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/megaudar-razrushitel-sten-573261",
+      "keywords": [
+        "megaudar razrushitel sten"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mine-clicker-reach-the-diamond-576665",
+      "keywords": [
+        "mine clicker reach the diamond"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/memny-puzyr-577133",
+      "keywords": [
+        "memny puzyr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-fruity-mix-577550",
+      "keywords": [
+        "mahjong fruity mix"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/echo-clicker-time-workshop-578030",
+      "keywords": [
+        "echo clicker time workshop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-1-double-jump-582794",
+      "keywords": [
+        "obby 1 double jump"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dungeon-lord-clicker-583195",
+      "keywords": [
+        "dungeon lord clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-paint-my-keyboard-583932",
+      "keywords": [
+        "obby paint my keyboard"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/uiutnaia-masterskaia-584398",
+      "keywords": [
+        "uiutnaia masterskaia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/compacting-room-584932",
+      "keywords": [
+        "compacting room"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vyrubi-gromilu-585538",
+      "keywords": [
+        "vyrubi gromilu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pasians-as-585909",
+      "keywords": [
+        "pasians as"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/logic-bullet-588734",
+      "keywords": [
+        "logic bullet"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cosmoconveyor-588866",
+      "keywords": [
+        "cosmoconveyor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/neon-storm-space-588956",
+      "keywords": [
+        "neon storm space"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/boxelcraft-590322",
+      "keywords": [
+        "boxelcraft"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dash-dash-dodge-and-survive-590354",
+      "keywords": [
+        "dash dash dodge and survive"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/madzhong-atstek-590388",
+      "keywords": [
+        "madzhong atstek"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/matematicheskii-chellendzh-590887",
+      "keywords": [
+        "matematicheskii chellendzh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tower-block-2-590988",
+      "keywords": [
+        "tower block 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/upgrade-591163",
+      "keywords": [
+        "upgrade"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/anomaly-clinic-night-shift-591396",
+      "keywords": [
+        "anomaly clinic night shift"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/crash-test-destroy-cars-592032",
+      "keywords": [
+        "crash test destroy cars"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/crazy-granny-escape-592440",
+      "keywords": [
+        "crazy granny escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gde-ischezaiut-teni-2-593008",
+      "keywords": [
+        "gde ischezaiut teni 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pvz-fusion-collectibles-593132",
+      "keywords": [
+        "pvz fusion collectibles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/drill-drop-594529",
+      "keywords": [
+        "drill drop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/whose-phrase-is-this-guess-the-anime-character-594702",
+      "keywords": [
+        "whose phrase is this guess the anime character"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/morskoe-prikliuchenie-tri-v-riad-594802",
+      "keywords": [
+        "morskoe prikliuchenie tri v riad"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sinaps-594993",
+      "keywords": [
+        "sinaps"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cheat-and-dont-get-caught-595619",
+      "keywords": [
+        "cheat and dont get caught"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/steal-an-egg-raise-rare-animals-596125",
+      "keywords": [
+        "steal an egg raise rare animals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/merge-fleet-endless-voyage-596538",
+      "keywords": [
+        "merge fleet endless voyage"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lumen-596810",
+      "keywords": [
+        "lumen"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/quiet-bounce-597546",
+      "keywords": [
+        "quiet bounce"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/arrows-cozy-garden-597551",
+      "keywords": [
+        "arrows cozy garden"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/robot-city-delivery-597643",
+      "keywords": [
+        "robot city delivery"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kvartseliia-siianie-blokov-597900",
+      "keywords": [
+        "kvartseliia siianie blokov"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/robbie-slice-ragdoll-fruit-smash-598331",
+      "keywords": [
+        "robbie slice ragdoll fruit smash"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/steal-the-egg-merge-598362",
+      "keywords": [
+        "steal the egg merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/the-meow-crunch-cat-farm-598369",
+      "keywords": [
+        "the meow crunch cat farm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ball-roll-2048-598429",
+      "keywords": [
+        "ball roll 2048"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hospital-13-598569",
+      "keywords": [
+        "hospital 13"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/word-weaver-598915",
+      "keywords": [
+        "word weaver"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ninja-block-599390",
+      "keywords": [
+        "ninja block"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/kliker-tachka-na-prokachku-599738",
+      "keywords": [
+        "kliker tachka na prokachku"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bhop-go-strike-600010",
+      "keywords": [
+        "bhop go strike"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/city-drift-master-601901",
+      "keywords": [
+        "city drift master"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "flagly",
+    "1 speed wings escape",
+    "super tiles tile puzzle",
+    "pravila igry v shakhmaty",
+    "patisserie push",
+    "avatar world merge path to the stage",
+    "kliker chipsov leis",
+    "moon caravan",
+    "capy link",
+    "kranograd bashnia iz blokov",
+    "2048 galaxy",
+    "anime girls pixel battle",
+    "grim hollow survivors",
+    "jelly neighbors merge",
+    "golod bezdny",
+    "hero vs traps",
+    "evolution 67",
+    "trinexa number cascade",
+    "battl keis",
+    "veriu ne veriu",
+    "strelochki madzhong",
+    "server empire idle mining",
+    "memorya",
+    "brawl arena noobs vs brainrots",
+    "slozhi kartinku po kusochkam",
+    "carpet puzzle",
+    "animal mahjong 3d",
+    "geometric boom",
+    "breinroty protiv slaimov",
+    "5 nochei s tokhoi",
+    "avtotaz kliker",
+    "chainwords",
+    "tomb of the craft",
+    "meme clicker brainrot merge",
+    "slova iz bukv naidi vse",
+    "megaudar razrushitel sten",
+    "mine clicker reach the diamond",
+    "memny puzyr",
+    "mahjong fruity mix",
+    "echo clicker time workshop",
+    "obby 1 double jump",
+    "dungeon lord clicker",
+    "obby paint my keyboard",
+    "uiutnaia masterskaia",
+    "compacting room",
+    "vyrubi gromilu",
+    "pasians as",
+    "logic bullet",
+    "cosmoconveyor",
+    "neon storm space",
+    "boxelcraft",
+    "dash dash dodge and survive",
+    "madzhong atstek",
+    "matematicheskii chellendzh",
+    "tower block 2",
+    "upgrade",
+    "anomaly clinic night shift",
+    "crash test destroy cars",
+    "crazy granny escape",
+    "gde ischezaiut teni 2",
+    "pvz fusion collectibles",
+    "drill drop",
+    "whose phrase is this guess the anime character",
+    "morskoe prikliuchenie tri v riad",
+    "sinaps",
+    "cheat and dont get caught",
+    "steal an egg raise rare animals",
+    "merge fleet endless voyage",
+    "lumen",
+    "quiet bounce",
+    "arrows cozy garden",
+    "robot city delivery",
+    "kvartseliia siianie blokov",
+    "robbie slice ragdoll fruit smash",
+    "steal the egg merge",
+    "the meow crunch cat farm",
+    "ball roll 2048",
+    "hospital 13",
+    "word weaver",
+    "ninja block",
+    "kliker tachka na prokachku",
+    "bhop go strike",
+    "city drift master"
+  ]
+}
