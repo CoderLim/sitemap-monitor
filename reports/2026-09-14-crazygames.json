@@ -1,0 +1,42 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/sitemap/games/45",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/game/evolution-animals-1",
+      "keywords": [
+        "evolution animals 1"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hell-forge",
+      "keywords": [
+        "hell forge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-elementals-castle-defense",
+      "keywords": [
+        "merge elementals castle defense"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/alien-attack-zad",
+      "keywords": [
+        "alien attack zad"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "evolution animals 1",
+    "hell forge",
+    "merge elementals castle defense",
+    "alien attack zad"
+  ]
+}

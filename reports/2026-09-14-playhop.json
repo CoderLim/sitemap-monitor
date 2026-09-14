@@ -1,0 +1,815 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/t-rex-game-99579",
+      "keywords": [
+        "t rex game 99579"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pack-it-up-475013",
+      "keywords": [
+        "pack it up"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/garden-grows-496508",
+      "keywords": [
+        "garden grows"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tik-tak-block-party-512696",
+      "keywords": [
+        "tik tak block party"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/anime-aura-viktorina-po-anime-522088",
+      "keywords": [
+        "anime aura viktorina po anime"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ten-kurera-523856",
+      "keywords": [
+        "ten kurera"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/car-sandbox-crazy-descent-525751",
+      "keywords": [
+        "car sandbox crazy descent"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/core-break-527654",
+      "keywords": [
+        "core break"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mad-q-530604",
+      "keywords": [
+        "mad q"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zabeg-na-skorost-545588",
+      "keywords": [
+        "zabeg na skorost"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mining-craft-545699",
+      "keywords": [
+        "mining craft"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/samsa-catapult-546844",
+      "keywords": [
+        "samsa catapult"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zvero-mix-merge-547073",
+      "keywords": [
+        "zvero mix merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zhioltye-komnaty-pobeg-iz-bekrums-548973",
+      "keywords": [
+        "zhioltye komnaty pobeg iz bekrums"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-mosaic-551357",
+      "keywords": [
+        "block mosaic"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/treshkemp-551682",
+      "keywords": [
+        "treshkemp"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mega-lumo-adventure-552847",
+      "keywords": [
+        "mega lumo adventure"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/color-zones-552901",
+      "keywords": [
+        "color zones"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/doodle-hop-554399",
+      "keywords": [
+        "doodle hop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pickaxe-miner-555720",
+      "keywords": [
+        "pickaxe miner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/painter-2-555871",
+      "keywords": [
+        "painter 2"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/angry-bunnies-556191",
+      "keywords": [
+        "angry bunnies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/looksmaxxing-clicker-556667",
+      "keywords": [
+        "looksmaxxing clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/architect-of-shadows-559545",
+      "keywords": [
+        "architect of shadows"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chislolom-559639",
+      "keywords": [
+        "chislolom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mine-pickaxe-survival-3d-559862",
+      "keywords": [
+        "mine pickaxe survival 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/strangers-in-the-hood-560845",
+      "keywords": [
+        "strangers in the hood"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dedoku-detektivnoe-sudoku-560986",
+      "keywords": [
+        "dedoku detektivnoe sudoku"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/eco-farm-genetics-561981",
+      "keywords": [
+        "eco farm genetics"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/keisomaniia-sklad-udachi-562224",
+      "keywords": [
+        "keisomaniia sklad udachi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sprunki-amusement-park-563122",
+      "keywords": [
+        "sprunki amusement park"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/delta-particles-563514",
+      "keywords": [
+        "delta particles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chicken-invaders-563716",
+      "keywords": [
+        "chicken invaders"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/monstro-kombo-563787",
+      "keywords": [
+        "monstro kombo"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/build-a-burger-survival-564125",
+      "keywords": [
+        "build a burger survival"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/match-3-3d-564427",
+      "keywords": [
+        "match 3 3d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ascender-simulator-565247",
+      "keywords": [
+        "ascender simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ispytanie-na-dvoikh-565367",
+      "keywords": [
+        "ispytanie na dvoikh"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/clean-all-squishies-565405",
+      "keywords": [
+        "clean all squishies"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/odna-bashnia-565469",
+      "keywords": [
+        "odna bashnia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/geometri-volna-bezgranichnaia-volna-566193",
+      "keywords": [
+        "geometri volna bezgranichnaia volna"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/iron-thunder-tank-warfare-566204",
+      "keywords": [
+        "iron thunder tank warfare"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/capybaras-vs-zombies-merge-566497",
+      "keywords": [
+        "capybaras vs zombies merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mahjong-terem-566570",
+      "keywords": [
+        "mahjong terem"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-the-woodcutter-566646",
+      "keywords": [
+        "obby the woodcutter"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obediniai-kopeiki-i-rubli-566655",
+      "keywords": [
+        "obediniai kopeiki i rubli"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/noob-radiation-eliminator-567099",
+      "keywords": [
+        "noob radiation eliminator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pizzinini-playground-with-slicing-super-mod-567207",
+      "keywords": [
+        "pizzinini playground with slicing super mod"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fields-of-command-567736",
+      "keywords": [
+        "fields of command"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-skill-test-569199",
+      "keywords": [
+        "obby skill test"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/muravinaia-koloniia-569485",
+      "keywords": [
+        "muravinaia koloniia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/card-pao-pao-570212",
+      "keywords": [
+        "card pao pao"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/gravity-defied-moto-racing-skill-test-2d-570762",
+      "keywords": [
+        "gravity defied moto racing skill test 2d"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/alt-girl-clicker-572132",
+      "keywords": [
+        "alt girl clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/prokachai-moi-tachki-572534",
+      "keywords": [
+        "prokachai moi tachki"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/falling-pickaxe-reach-the-bottom-573658",
+      "keywords": [
+        "falling pickaxe reach the bottom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pirate-king-573914",
+      "keywords": [
+        "pirate king"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/detective-find-the-killer-575423",
+      "keywords": [
+        "detective find the killer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/crypto-millionaire-mining-and-trading-tycoon-576609",
+      "keywords": [
+        "crypto millionaire mining and trading tycoon"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flasks-potion-sort-576844",
+      "keywords": [
+        "flasks potion sort"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poslednii-v-ofise-577201",
+      "keywords": [
+        "poslednii v ofise"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sandlab-577479",
+      "keywords": [
+        "sandlab"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/super-memory-japan-memory-game-577535",
+      "keywords": [
+        "super memory japan memory game"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mystic-klondike-578409",
+      "keywords": [
+        "mystic klondike"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/luksmaksing-stan-chadom-580565",
+      "keywords": [
+        "luksmaksing stan chadom"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tap-arrows-reveal-animals-580797",
+      "keywords": [
+        "tap arrows reveal animals"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/akulavash-kliker-581802",
+      "keywords": [
+        "akulavash kliker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/egg-extreme-challenges-582101",
+      "keywords": [
+        "egg extreme challenges"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tsifro-akvarium-582728",
+      "keywords": [
+        "tsifro akvarium"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zvezdnyi-miner-583525",
+      "keywords": [
+        "zvezdnyi miner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/smash-everything-destruction-clicker-584089",
+      "keywords": [
+        "smash everything destruction clicker"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cyber-snake-584438",
+      "keywords": [
+        "cyber snake"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/rooftop-mail-584463",
+      "keywords": [
+        "rooftop mail"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/enchantment-lineage-584659",
+      "keywords": [
+        "enchantment lineage"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/labyrinth-depths-586948",
+      "keywords": [
+        "labyrinth depths"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chess-vs-computer-10-difficulty-levels-587511",
+      "keywords": [
+        "chess vs computer 10 difficulty levels"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/voprosomaniia-587666",
+      "keywords": [
+        "voprosomaniia"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/robloclicker-2-soberi-vse-dorogie-skiny-587997",
+      "keywords": [
+        "robloclicker 2 soberi vse dorogie skiny"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/price-hunter-589044",
+      "keywords": [
+        "price hunter"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/brainrot-spin-and-find-589121",
+      "keywords": [
+        "brainrot spin and find"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lazer-smazer-589257",
+      "keywords": [
+        "lazer smazer"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/cybernuts-589586",
+      "keywords": [
+        "cybernuts"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/spidermaster-hero-in-the-city-590313",
+      "keywords": [
+        "spidermaster hero in the city"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-speed-keyboard-lucky-escape-591339",
+      "keywords": [
+        "1 speed keyboard lucky escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/collect-all-the-leaves-592112",
+      "keywords": [
+        "collect all the leaves"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/beautiful-mahjong-592221",
+      "keywords": [
+        "beautiful mahjong"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/taran-arena-pogoni-592651",
+      "keywords": [
+        "taran arena pogoni"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/mushroom-farm-592690",
+      "keywords": [
+        "mushroom farm"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dumplings-who-will-you-get-592894",
+      "keywords": [
+        "dumplings who will you get"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sortirovka-tovarov-shkaf-592992",
+      "keywords": [
+        "sortirovka tovarov shkaf"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/upgrader-593004",
+      "keywords": [
+        "upgrader"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/worm-robot-battle-593511",
+      "keywords": [
+        "worm robot battle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/caps-and-spin-593545",
+      "keywords": [
+        "caps and spin"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vysotograd-593878",
+      "keywords": [
+        "vysotograd"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/needle-in-a-haystack-simulator-593909",
+      "keywords": [
+        "needle in a haystack simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/my-happy-hospital-594045",
+      "keywords": [
+        "my happy hospital"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ugadai-po-opisaniiu-594187",
+      "keywords": [
+        "ugadai po opisaniiu"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/matematika-bystryi-schiot-594227",
+      "keywords": [
+        "matematika bystryi schiot"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/dino-nest-dinosaur-merge-595266",
+      "keywords": [
+        "dino nest dinosaur merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/connect-balls-598255",
+      "keywords": [
+        "connect balls"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/lavka-kapi-598353",
+      "keywords": [
+        "lavka kapi"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zombie-race-apocalypse-madness-598479",
+      "keywords": [
+        "zombie race apocalypse madness"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/staryi-kinoteatr-599141",
+      "keywords": [
+        "staryi kinoteatr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/flappy-dash-ultra-599401",
+      "keywords": [
+        "flappy dash ultra"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tomb-mask-super-599474",
+      "keywords": [
+        "tomb mask super"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/1-web-swing-escape-599757",
+      "keywords": [
+        "1 web swing escape"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/guess-the-color-599992",
+      "keywords": [
+        "guess the color"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chm-menedzher-600347",
+      "keywords": [
+        "chm menedzher"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/fruit-mix-match-600479",
+      "keywords": [
+        "fruit mix match"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/peel-the-layers-take-it-apart-601292",
+      "keywords": [
+        "peel the layers take it apart"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poisk-predmetov-zamok-grafa-drakuly-601315",
+      "keywords": [
+        "poisk predmetov zamok grafa drakuly"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/naidi-otlichiia-glaz-almaz-602310",
+      "keywords": [
+        "naidi otlichiia glaz almaz"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/plague-corporation-602409",
+      "keywords": [
+        "plague corporation"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/solitaire-cats-and-castles-602624",
+      "keywords": [
+        "solitaire cats and castles"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/raskraska-po-nomeram-tsvetnye-figury-603282",
+      "keywords": [
+        "raskraska po nomeram tsvetnye figury"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "t rex game 99579",
+    "pack it up",
+    "garden grows",
+    "tik tak block party",
+    "anime aura viktorina po anime",
+    "ten kurera",
+    "car sandbox crazy descent",
+    "core break",
+    "mad q",
+    "zabeg na skorost",
+    "mining craft",
+    "samsa catapult",
+    "zvero mix merge",
+    "zhioltye komnaty pobeg iz bekrums",
+    "block mosaic",
+    "treshkemp",
+    "mega lumo adventure",
+    "color zones",
+    "doodle hop",
+    "pickaxe miner",
+    "painter 2",
+    "angry bunnies",
+    "looksmaxxing clicker",
+    "architect of shadows",
+    "chislolom",
+    "mine pickaxe survival 3d",
+    "strangers in the hood",
+    "dedoku detektivnoe sudoku",
+    "eco farm genetics",
+    "keisomaniia sklad udachi",
+    "sprunki amusement park",
+    "delta particles",
+    "chicken invaders",
+    "monstro kombo",
+    "build a burger survival",
+    "match 3 3d",
+    "ascender simulator",
+    "ispytanie na dvoikh",
+    "clean all squishies",
+    "odna bashnia",
+    "geometri volna bezgranichnaia volna",
+    "iron thunder tank warfare",
+    "capybaras vs zombies merge",
+    "mahjong terem",
+    "obby the woodcutter",
+    "obediniai kopeiki i rubli",
+    "noob radiation eliminator",
+    "pizzinini playground with slicing super mod",
+    "fields of command",
+    "obby skill test",
+    "muravinaia koloniia",
+    "card pao pao",
+    "gravity defied moto racing skill test 2d",
+    "alt girl clicker",
+    "prokachai moi tachki",
+    "falling pickaxe reach the bottom",
+    "pirate king",
+    "detective find the killer",
+    "crypto millionaire mining and trading tycoon",
+    "flasks potion sort",
+    "poslednii v ofise",
+    "sandlab",
+    "super memory japan memory game",
+    "mystic klondike",
+    "luksmaksing stan chadom",
+    "tap arrows reveal animals",
+    "akulavash kliker",
+    "egg extreme challenges",
+    "tsifro akvarium",
+    "zvezdnyi miner",
+    "smash everything destruction clicker",
+    "cyber snake",
+    "rooftop mail",
+    "enchantment lineage",
+    "labyrinth depths",
+    "chess vs computer 10 difficulty levels",
+    "voprosomaniia",
+    "robloclicker 2 soberi vse dorogie skiny",
+    "price hunter",
+    "brainrot spin and find",
+    "lazer smazer",
+    "cybernuts",
+    "spidermaster hero in the city",
+    "1 speed keyboard lucky escape",
+    "collect all the leaves",
+    "beautiful mahjong",
+    "taran arena pogoni",
+    "mushroom farm",
+    "dumplings who will you get",
+    "sortirovka tovarov shkaf",
+    "upgrader",
+    "worm robot battle",
+    "caps and spin",
+    "vysotograd",
+    "needle in a haystack simulator",
+    "my happy hospital",
+    "ugadai po opisaniiu",
+    "matematika bystryi schiot",
+    "dino nest dinosaur merge",
+    "connect balls",
+    "lavka kapi",
+    "zombie race apocalypse madness",
+    "staryi kinoteatr",
+    "flappy dash ultra",
+    "tomb mask super",
+    "1 web swing escape",
+    "guess the color",
+    "chm menedzher",
+    "fruit mix match",
+    "peel the layers take it apart",
+    "poisk predmetov zamok grafa drakuly",
+    "naidi otlichiia glaz almaz",
+    "plague corporation",
+    "solitaire cats and castles",
+    "raskraska po nomeram tsvetnye figury"
+  ]
+}

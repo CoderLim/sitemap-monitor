@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-13T18:37:16.658196+00:00",
+  "fetched_at": "2026-09-14T20:11:49.384330+00:00",
   "baseline": false,
   "urls": [
     {
@@ -225,6 +225,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/44",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/45",
       "keywords": []
     },
     {
@@ -26044,6 +26048,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/evolution-animals-1",
+      "keywords": [
+        "evolution animals 1"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/galaxy-merge-starships-wars",
       "keywords": [
         "galaxy merge starships wars"
@@ -26536,6 +26546,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hell-forge",
+      "keywords": [
+        "hell forge"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/escape-pickaxe-swing",
       "keywords": [
         "escape pickaxe swing"
@@ -26569,6 +26585,12 @@
       "url": "https://www.crazygames.com/game/road-to-glory-sxx",
       "keywords": [
         "road to glory sxx"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-elementals-castle-defense",
+      "keywords": [
+        "merge elementals castle defense"
       ]
     },
     {
@@ -26623,6 +26645,12 @@
       "url": "https://www.crazygames.com/game/obby-1-laser-to-break-walls-pks",
       "keywords": [
         "obby 1 laser to break walls pks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/alien-attack-zad",
+      "keywords": [
+        "alien attack zad"
       ]
     },
     {

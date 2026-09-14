@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/bouncy-arrow",
+      "keywords": [
+        "bouncy arrow"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pirates-cannon-a-mega-battle",
+      "keywords": [
+        "pirates cannon a mega battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/brookenhaven-real-life",
+      "keywords": [
+        "brookenhaven real life"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bouncy arrow",
+    "pirates cannon a mega battle",
+    "brookenhaven real life"
+  ]
+}

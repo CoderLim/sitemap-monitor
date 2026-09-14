@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-13T18:37:16.658196+00:00",
+  "fetched_at": "2026-09-14T20:11:49.384330+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/build-your-island",
+      "keywords": [
+        "build your island"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/aquaparkio",
+      "keywords": [
+        "aquaparkio"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/my-snack-bar",
+      "keywords": [
+        "my snack bar"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/supercars-city",
       "keywords": [
@@ -313,12 +331,6 @@
       "url": "https://poki.com/en/g/travel-merge",
       "keywords": [
         "travel merge"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/build-your-island",
-      "keywords": [
-        "build your island"
       ]
     },
     {
