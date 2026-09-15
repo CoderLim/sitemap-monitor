@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-14T20:11:49.384330+00:00",
+  "fetched_at": "2026-09-15T19:34:25.127088+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66094,6 +66094,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/red-pippy",
+      "keywords": [
+        "red pippy"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/gravity-blast",
       "keywords": [
         "gravity blast"
@@ -66145,6 +66151,12 @@
       "url": "https://lagged.com/en/g/pirates-cannon-a-mega-battle",
       "keywords": [
         "pirates cannon a mega battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dracula--frankenstein--co",
+      "keywords": [
+        "dracula frankenstein co"
       ]
     },
     {
@@ -66325,6 +66337,12 @@
       "url": "https://lagged.com/en/g/monkeydoku",
       "keywords": [
         "monkeydoku"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/witch-and-fire",
+      "keywords": [
+        "witch and fire"
       ]
     },
     {

@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/red-pippy",
+      "keywords": [
+        "red pippy"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dracula--frankenstein--co",
+      "keywords": [
+        "dracula frankenstein co"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/witch-and-fire",
+      "keywords": [
+        "witch and fire"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "red pippy",
+    "dracula frankenstein co",
+    "witch and fire"
+  ]
+}

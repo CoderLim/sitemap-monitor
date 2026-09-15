@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/dont-go-to-school-at-night",
+      "keywords": [
+        "dont go to school at night"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/baldi-balds-universe-mod",
+      "keywords": [
+        "baldi balds universe mod"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/speed-wilds",
+      "keywords": [
+        "speed wilds"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cooking-blast",
+      "keywords": [
+        "cooking blast"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/color-block-pairs",
+      "keywords": [
+        "color block pairs"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dont go to school at night",
+    "baldi balds universe mod",
+    "speed wilds",
+    "cooking blast",
+    "color block pairs"
+  ]
+}

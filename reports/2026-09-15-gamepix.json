@@ -1,0 +1,73 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/flipper-3",
+      "keywords": [
+        "flipper 3"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ultimate-basketball-quiz",
+      "keywords": [
+        "ultimate basketball quiz"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cloud-chicken",
+      "keywords": [
+        "cloud chicken"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/moonlight-ninja",
+      "keywords": [
+        "moonlight ninja"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mice-rush",
+      "keywords": [
+        "mice rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mystery-town",
+      "keywords": [
+        "mystery town"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/trap-the-convoy",
+      "keywords": [
+        "trap the convoy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fractal-combat",
+      "keywords": [
+        "fractal combat"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/elemental-challenge",
+      "keywords": [
+        "elemental challenge"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "flipper 3",
+    "ultimate basketball quiz",
+    "cloud chicken",
+    "moonlight ninja",
+    "mice rush",
+    "mystery town",
+    "trap the convoy",
+    "fractal combat",
+    "elemental challenge"
+  ]
+}

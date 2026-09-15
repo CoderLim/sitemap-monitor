@@ -1,8 +1,50 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-14T20:11:49.384330+00:00",
+  "fetched_at": "2026-09-15T19:34:25.127088+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/steal-an-egg",
+      "keywords": [
+        "steal an egg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dont-go-to-school-at-night",
+      "keywords": [
+        "dont go to school at night"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/baldi-balds-universe-mod",
+      "keywords": [
+        "baldi balds universe mod"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/speed-wilds",
+      "keywords": [
+        "speed wilds"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/era-evolution",
+      "keywords": [
+        "era evolution"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cooking-blast",
+      "keywords": [
+        "cooking blast"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/color-block-pairs",
+      "keywords": [
+        "color block pairs"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/1-to-flight-power-per-click",
       "keywords": [
@@ -25,12 +67,6 @@
       "url": "https://www.miniplay.com/game/blombo-io",
       "keywords": [
         "blombo io"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/steal-an-egg",
-      "keywords": [
-        "steal an egg"
       ]
     },
     {
@@ -21959,12 +21995,6 @@
       "url": "https://www.miniplay.com/game/downhill-racing",
       "keywords": [
         "downhill racing"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/era-evolution",
-      "keywords": [
-        "era evolution"
       ]
     },
     {

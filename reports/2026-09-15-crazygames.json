@@ -1,0 +1,31 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/rodha-2-fra",
+      "keywords": [
+        "rodha 2 fra"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/real-war-not-fake-sno",
+      "keywords": [
+        "real war not fake sno"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/project-gatherwood-gou",
+      "keywords": [
+        "project gatherwood gou"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "rodha 2 fra",
+    "real war not fake sno",
+    "project gatherwood gou"
+  ]
+}

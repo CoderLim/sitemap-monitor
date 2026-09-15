@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-09-14T20:11:49.384330+00:00",
+  "fetched_at": "2026-09-15T19:34:25.127088+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36041,6 +36041,54 @@
       "url": "https://kizi.com/games/ocean-bubble-sort",
       "keywords": [
         "ocean bubble sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/stickman-warrior-superhero-fight",
+      "keywords": [
+        "stickman warrior superhero fight"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cannon-smash-fest",
+      "keywords": [
+        "cannon smash fest"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/barbee-fashion-influencer",
+      "keywords": [
+        "barbee fashion influencer"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/shadows-of-the-forest-reign-of-triduja",
+      "keywords": [
+        "shadows of the forest reign of triduja"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/yarn-art-loop",
+      "keywords": [
+        "yarn art loop"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/bug-barrow-wars",
+      "keywords": [
+        "bug barrow wars"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/autumn-onet-connect",
+      "keywords": [
+        "autumn onet connect"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/acox",
+      "keywords": [
+        "acox"
       ]
     }
   ]
