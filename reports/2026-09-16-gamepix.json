@@ -1,0 +1,52 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-09-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/neon-void",
+      "keywords": [
+        "neon void"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/run-little-ship-cyberpunk",
+      "keywords": [
+        "run little ship cyberpunk"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ton-up-cricket-zombies-edition",
+      "keywords": [
+        "ton up cricket zombies edition"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cubes-match-3-quest",
+      "keywords": [
+        "cubes match 3 quest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnet-master-3d",
+      "keywords": [
+        "magnet master 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shadow-fit",
+      "keywords": [
+        "shadow fit"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "neon void",
+    "run little ship cyberpunk",
+    "ton up cricket zombies edition",
+    "cubes match 3 quest",
+    "magnet master 3d",
+    "shadow fit"
+  ]
+}

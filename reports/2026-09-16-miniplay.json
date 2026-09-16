@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/merge-a-nuke",
+      "keywords": [
+        "merge a nuke"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/evolution-animals-1",
+      "keywords": [
+        "evolution animals 1"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fifa-2000-major-league-soccer",
+      "keywords": [
+        "fifa 2000 major league soccer"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wheel-master-bike",
+      "keywords": [
+        "wheel master bike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-ragdoll-sandbox",
+      "keywords": [
+        "granny ragdoll sandbox"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/flip-or-fail",
+      "keywords": [
+        "flip or fail"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/biblox-online",
+      "keywords": [
+        "biblox online"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cozy-puzzle-cats",
+      "keywords": [
+        "cozy puzzle cats"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "merge a nuke",
+    "evolution animals 1",
+    "fifa 2000 major league soccer",
+    "wheel master bike",
+    "granny ragdoll sandbox",
+    "flip or fail",
+    "biblox online",
+    "cozy puzzle cats"
+  ]
+}
