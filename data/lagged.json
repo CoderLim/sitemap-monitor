@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-16T19:25:58.964142+00:00",
+  "fetched_at": "2026-09-17T19:36:53.362447+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66316,6 +66316,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/stick-maze",
+      "keywords": [
+        "stick maze"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/monster-beats-maker",
       "keywords": [
         "monster beats maker"
@@ -66358,9 +66364,21 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/jenga-online",
+      "keywords": [
+        "jenga online"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/crypt-of-the-last-spark",
       "keywords": [
         "crypt of the last spark"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cash-money-young-money-run",
+      "keywords": [
+        "cash money young money run"
       ]
     },
     {

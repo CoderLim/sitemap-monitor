@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-17",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/obby-escape-from-barrys-house",
+      "keywords": [
+        "obby escape from barrys house"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/murdoku",
+      "keywords": [
+        "murdoku"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cozy-farm-world",
+      "keywords": [
+        "cozy farm world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sonic-3-rebuilt",
+      "keywords": [
+        "sonic 3 rebuilt"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/stickman-warriors-superhero-fight",
+      "keywords": [
+        "stickman warriors superhero fight"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/puppy-paw-match",
+      "keywords": [
+        "puppy paw match"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "obby escape from barrys house",
+    "murdoku",
+    "cozy farm world",
+    "sonic 3 rebuilt",
+    "stickman warriors superhero fight",
+    "puppy paw match"
+  ]
+}

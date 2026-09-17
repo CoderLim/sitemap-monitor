@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-16T19:25:58.964142+00:00",
+  "fetched_at": "2026-09-17T19:36:53.362447+00:00",
   "baseline": false,
   "urls": [
     {
@@ -9161,12 +9161,6 @@
       "url": "https://www.crazygames.com/game/bucket-crusher",
       "keywords": [
         "bucket crusher"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/eraze-that",
-      "keywords": [
-        "eraze that"
       ]
     },
     {
@@ -25760,6 +25754,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/kick-brainrot-balls-online",
+      "keywords": [
+        "kick brainrot balls online"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/underdark-defense",
       "keywords": [
         "underdark defense"
@@ -25850,6 +25850,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/combo-critters",
+      "keywords": [
+        "combo critters"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/ultimate-football-cup",
       "keywords": [
         "ultimate football cup"
@@ -25865,6 +25871,12 @@
       "url": "https://www.crazygames.com/game/color-block-joa",
       "keywords": [
         "color block joa"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/island-cleanup",
+      "keywords": [
+        "island cleanup"
       ]
     },
     {
@@ -26294,6 +26306,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/color-screw-rescue-puzzle-nfb",
+      "keywords": [
+        "color screw rescue puzzle nfb"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/puppet-soccer-2026-football",
       "keywords": [
         "puppet soccer 2026 football"
@@ -26675,6 +26693,24 @@
       "url": "https://www.crazygames.com/game/slime-horde-td",
       "keywords": [
         "slime horde td"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/gyroblade",
+      "keywords": [
+        "gyroblade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spot-the-diff-drama-style-vrn",
+      "keywords": [
+        "spot the diff drama style vrn"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/heist-hop",
+      "keywords": [
+        "heist hop"
       ]
     },
     {
@@ -27173,6 +27209,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/collect/10",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/collect/11",
       "keywords": []
     },
     {
@@ -28275,6 +28315,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/pixel/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/pixel/6",
       "keywords": []
     },
     {
@@ -29383,6 +29427,10 @@
     },
     {
       "url": "https://www.crazygames.com/c/action/12",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/action/13",
       "keywords": []
     },
     {

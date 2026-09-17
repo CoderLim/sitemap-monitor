@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-16T19:25:58.964142+00:00",
+  "fetched_at": "2026-09-17T19:36:53.362447+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/bugs-io",
+      "keywords": [
+        "bugs io"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/crazy-motorcycle-pro",
+      "keywords": [
+        "crazy motorcycle pro"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/catch-a-pet",
+      "keywords": [
+        "catch a pet"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/blockpost-2-0",
       "keywords": [
@@ -184,9 +202,9 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/portal-master",
+      "url": "https://poki.com/en/g/teleport-master",
       "keywords": [
-        "portal master"
+        "teleport master"
       ]
     },
     {
@@ -505,12 +523,6 @@
       "url": "https://poki.com/en/g/moto-trap",
       "keywords": [
         "moto trap"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/catch-a-pet",
-      "keywords": [
-        "catch a pet"
       ]
     },
     {
