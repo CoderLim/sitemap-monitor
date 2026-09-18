@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-17T19:37:01+00:00",
+  "generated_at": "2026-09-18T18:56:21+00:00",
   "anomalies": [
     {
       "severity": "critical",
       "code": "last_run_error",
       "site_id": "gamepix",
-      "message": "Latest report for 'gamepix' (2026-09-17) has an error",
+      "message": "Latest report for 'gamepix' (2026-09-18) has an error",
       "details": {
         "error": "curl fetch failed for https://www.gamepix.com/sitemaps/games-1.xml: curl: (22) The requested URL returned error: 403",
-        "date": "2026-09-17"
+        "date": "2026-09-18"
       },
-      "recorded_at": "2026-09-17T19:37:01+00:00"
+      "recorded_at": "2026-09-18T18:56:21+00:00"
     }
   ]
 }

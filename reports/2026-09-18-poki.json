@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-09-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/backroom-bill",
+      "keywords": [
+        "backroom bill"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/emoji-factory",
+      "keywords": [
+        "emoji factory"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "backroom bill",
+    "emoji factory"
+  ]
+}

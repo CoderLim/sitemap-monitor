@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-17T19:36:53.362447+00:00",
+  "fetched_at": "2026-09-18T18:56:11.320988+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66376,9 +66376,21 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/idle-vlogger-simulator",
+      "keywords": [
+        "idle vlogger simulator"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/cash-money-young-money-run",
       "keywords": [
         "cash money young money run"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/street-race-master",
+      "keywords": [
+        "street race master"
       ]
     },
     {

@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/idle-vlogger-simulator",
+      "keywords": [
+        "idle vlogger simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/street-race-master",
+      "keywords": [
+        "street race master"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "idle vlogger simulator",
+    "street race master"
+  ]
+}

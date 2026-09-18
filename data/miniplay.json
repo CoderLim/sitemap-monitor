@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-17T19:36:53.362447+00:00",
+  "fetched_at": "2026-09-18T18:56:11.320988+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/gta-vice-city",
+      "keywords": [
+        "gta vice city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/paint-my-keyboard",
+      "keywords": [
+        "paint my keyboard"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/become-the-coolest-in-this-school",
+      "keywords": [
+        "become the coolest in this school"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/city-demolition",
+      "keywords": [
+        "city demolition"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/golden-boy-football-career",
+      "keywords": [
+        "golden boy football career"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ocean-bubbles",
+      "keywords": [
+        "ocean bubbles"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/steal-an-egg",
       "keywords": [
