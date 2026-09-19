@@ -1,0 +1,31 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/my-perfect-theme-park-idle-tycoon",
+      "keywords": [
+        "my perfect theme park idle tycoon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-web-swing-escape",
+      "keywords": [
+        "1 web swing escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/librarian",
+      "keywords": [
+        "librarian"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "my perfect theme park idle tycoon",
+    "1 web swing escape",
+    "librarian"
+  ]
+}

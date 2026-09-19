@@ -1,12 +1,30 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-18T18:56:11.320988+00:00",
+  "fetched_at": "2026-09-19T18:29:01.609655+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/gta-vice-city",
       "keywords": [
         "gta vice city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/my-perfect-theme-park-idle-tycoon",
+      "keywords": [
+        "my perfect theme park idle tycoon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-web-swing-escape",
+      "keywords": [
+        "1 web swing escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/librarian",
+      "keywords": [
+        "librarian"
       ]
     },
     {
