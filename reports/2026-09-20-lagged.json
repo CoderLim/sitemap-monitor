@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/towers-505",
+      "keywords": [
+        "towers 505"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-with-pencils--coloring-book",
+      "keywords": [
+        "draw with pencils coloring book"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/farm-click",
+      "keywords": [
+        "farm click"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/soccer-strike",
+      "keywords": [
+        "soccer strike"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/kitty-cash",
+      "keywords": [
+        "kitty cash"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/noob-vs-pro--drift-tag",
+      "keywords": [
+        "noob vs pro drift tag"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "towers 505",
+    "draw with pencils coloring book",
+    "farm click",
+    "soccer strike",
+    "kitty cash",
+    "noob vs pro drift tag"
+  ]
+}

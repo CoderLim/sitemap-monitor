@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-19T18:29:09+00:00",
+  "generated_at": "2026-09-20T18:33:35+00:00",
   "anomalies": [
     {
       "severity": "warning",
       "code": "snapshot_stale",
       "site_id": "gamepix",
-      "message": "Snapshot for 'gamepix' is stale (71h old; interval=1d)",
+      "message": "Snapshot for 'gamepix' is stale (95h old; interval=1d)",
       "details": {
         "fetched_at": "2026-09-16T19:25:58.964142+00:00",
-        "age_seconds": 255790
+        "age_seconds": 342456
       },
-      "recorded_at": "2026-09-19T18:29:09+00:00"
+      "recorded_at": "2026-09-20T18:33:35+00:00"
     },
     {
       "severity": "critical",
       "code": "last_run_error",
       "site_id": "gamepix",
-      "message": "Latest report for 'gamepix' (2026-09-19) has an error",
+      "message": "Latest report for 'gamepix' (2026-09-20) has an error",
       "details": {
         "error": "curl fetch failed for https://www.gamepix.com/sitemaps/games-1.xml: curl: (22) The requested URL returned error: 403",
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
-      "recorded_at": "2026-09-19T18:29:09+00:00"
+      "recorded_at": "2026-09-20T18:33:35+00:00"
     }
   ]
 }

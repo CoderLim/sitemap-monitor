@@ -1,7 +1,7 @@
 {
   "status": "failed",
-  "started_at": "2026-09-19T18:29:01.606617+00:00",
-  "finished_at": "2026-09-19T18:29:09.575686+00:00",
+  "started_at": "2026-09-20T18:33:26.740600+00:00",
+  "finished_at": "2026-09-20T18:33:35.295789+00:00",
   "exit_code": 1,
   "message": "Monitor run finished",
   "site_results": [
@@ -32,16 +32,15 @@
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 7,
-      "new_keyword_count": 7,
+      "new_url_count": 6,
+      "new_keyword_count": 6,
       "new_keywords": [
-        "duo family santa305",
-        "roller coaster obby race",
-        "this is blast",
-        "grill match sort food",
-        "sumsum",
-        "vehicle driving car master",
-        "robby climb and jump tower"
+        "towers 505",
+        "draw with pencils coloring book",
+        "farm click",
+        "soccer strike",
+        "kitty cash",
+        "noob vs pro drift tag"
       ],
       "error": null
     },
@@ -64,50 +63,19 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
-      "new_keywords": [
-        "my perfect theme park idle tycoon",
-        "1 web swing escape",
-        "librarian"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 30,
-      "new_keyword_count": 29,
+      "new_url_count": 2,
+      "new_keyword_count": 2,
       "new_keywords": [
-        "bitva za planety",
-        "runesiege",
-        "restaurant day",
-        "tachka mechty",
-        "jellys adventures",
-        "nightfall spire",
-        "orecraft mining camp",
-        "koschei the immortal battle for rus",
-        "lumberjack simulator from axe to truck",
-        "tokyo night drift",
-        "smash out",
-        "merge castle",
-        "grow a garden for brainrots",
-        "beloved puzzles",
-        "cake sort",
-        "tap away arrow art",
-        "fruktovoe sliianie",
-        "punch master 3d",
-        "unjam the traffic bus stop",
-        "freeze toys",
-        "floatup",
-        "obby steal dinos egg",
-        "obby jump for animals",
-        "cargo and mud",
-        "cars vs tape",
-        "army rush 3d",
-        "relax clean craft",
-        "elektroshchitok kliker",
-        "block sort image classification"
+        "microcontrol",
+        "steal the egg with a friend online"
       ],
       "error": null
     }
