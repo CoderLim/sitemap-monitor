@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/super-dev-quest",
+      "keywords": [
+        "super dev quest"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pinpoint-globe",
+      "keywords": [
+        "pinpoint globe"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/fantasy-creatures-princess-laboratory",
+      "keywords": [
+        "fantasy creatures princess laboratory"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/shikaku-puzzle",
+      "keywords": [
+        "shikaku puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "super dev quest",
+    "pinpoint globe",
+    "fantasy creatures princess laboratory",
+    "shikaku puzzle"
+  ]
+}

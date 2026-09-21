@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/horror-clown--scary-ghost",
+      "keywords": [
+        "horror clown scary ghost"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/panda-food-business",
+      "keywords": [
+        "panda food business"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/paintseek-io-chameleon",
+      "keywords": [
+        "paintseek io chameleon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/automata-protocol-uri",
+      "keywords": [
+        "automata protocol uri"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/akagram",
+      "keywords": [
+        "akagram"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pulseboard-qed",
+      "keywords": [
+        "pulseboard qed"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "horror clown scary ghost",
+    "panda food business",
+    "paintseek io chameleon",
+    "automata protocol uri",
+    "akagram",
+    "pulseboard qed"
+  ]
+}

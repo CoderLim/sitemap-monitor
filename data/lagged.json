@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-20T18:33:26.742982+00:00",
+  "fetched_at": "2026-09-21T20:18:38.294907+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66172,6 +66172,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/super-dev-quest",
+      "keywords": [
+        "super dev quest"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/goose-rescue",
       "keywords": [
         "goose rescue"
@@ -66193,6 +66199,12 @@
       "url": "https://lagged.com/en/g/laser-connect",
       "keywords": [
         "laser connect"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pinpoint-globe",
+      "keywords": [
+        "pinpoint globe"
       ]
     },
     {
@@ -66400,6 +66412,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/fantasy-creatures-princess-laboratory",
+      "keywords": [
+        "fantasy creatures princess laboratory"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/commando-force-2",
       "keywords": [
         "commando force 2"
@@ -66445,6 +66463,12 @@
       "url": "https://lagged.com/en/g/jenga-online",
       "keywords": [
         "jenga online"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/shikaku-puzzle",
+      "keywords": [
+        "shikaku puzzle"
       ]
     },
     {

@@ -1,24 +1,33 @@
 {
   "status": "failed",
-  "started_at": "2026-09-20T18:33:26.740600+00:00",
-  "finished_at": "2026-09-20T18:33:35.295789+00:00",
+  "started_at": "2026-09-21T20:18:38.291766+00:00",
+  "finished_at": "2026-09-21T20:18:47.099288+00:00",
   "exit_code": 1,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "my dream house makeover"
+      ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 6,
+      "new_keyword_count": 6,
+      "new_keywords": [
+        "horror clown scary ghost",
+        "panda food business",
+        "paintseek io chameleon",
+        "automata protocol uri",
+        "akagram",
+        "pulseboard qed"
+      ],
       "error": null
     },
     {
@@ -32,15 +41,13 @@
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 6,
-      "new_keyword_count": 6,
+      "new_url_count": 4,
+      "new_keyword_count": 4,
       "new_keywords": [
-        "towers 505",
-        "draw with pencils coloring book",
-        "farm click",
-        "soccer strike",
-        "kitty cash",
-        "noob vs pro drift tag"
+        "super dev quest",
+        "pinpoint globe",
+        "fantasy creatures princess laboratory",
+        "shikaku puzzle"
       ],
       "error": null
     },
@@ -71,11 +78,16 @@
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 2,
-      "new_keyword_count": 2,
+      "new_url_count": 7,
+      "new_keyword_count": 7,
       "new_keywords": [
-        "microcontrol",
-        "steal the egg with a friend online"
+        "ragdoll monster lab",
+        "pelmennyi dozhd",
+        "bater skvish kliker",
+        "postroi panelku",
+        "super golf",
+        "color shot arrow sorting",
+        "solitaire the collection"
       ],
       "error": null
     }
