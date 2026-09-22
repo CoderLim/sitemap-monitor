@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-09-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/siegeward",
+      "keywords": [
+        "siegeward"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/cafe-merge",
+      "keywords": [
+        "cafe merge"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "siegeward",
+    "cafe merge"
+  ]
+}

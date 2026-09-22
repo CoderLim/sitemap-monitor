@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-21T20:18:38.294907+00:00",
+  "fetched_at": "2026-09-22T19:37:17.874825+00:00",
   "baseline": false,
   "urls": [
     {
@@ -22616,12 +22616,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-escape-from-tsunami-brainrot",
-      "keywords": [
-        "obby escape from tsunami brainrot"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/jurassic-merge-dino-evolution",
       "keywords": [
         "jurassic merge dino evolution"
@@ -23243,12 +23237,6 @@
       "url": "https://www.crazygames.com/game/bus-simulator-evo",
       "keywords": [
         "bus simulator evo"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/escape-tsunami-brainrot",
-      "keywords": [
-        "escape tsunami brainrot"
       ]
     },
     {
@@ -25700,6 +25688,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/paint-hide",
+      "keywords": [
+        "paint hide"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/scratch-card-kingdom-ufr",
       "keywords": [
         "scratch card kingdom ufr"
@@ -26762,6 +26756,24 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/flycraft--crazy-flying-machines",
+      "keywords": [
+        "flycraft crazy flying machines"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mob-farm-tycoon-zqe",
+      "keywords": [
+        "mob farm tycoon zqe"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rocket-fling",
+      "keywords": [
+        "rocket fling"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/akagram",
       "keywords": [
         "akagram"
@@ -26777,6 +26789,12 @@
       "url": "https://www.crazygames.com/game/pulseboard-qed",
       "keywords": [
         "pulseboard qed"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tnt-voxel",
+      "keywords": [
+        "tnt voxel"
       ]
     },
     {
@@ -27847,6 +27865,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/stick/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/stick/4",
       "keywords": []
     },
     {

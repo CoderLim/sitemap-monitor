@@ -1,0 +1,49 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/paint-hide",
+      "keywords": [
+        "paint hide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/flycraft--crazy-flying-machines",
+      "keywords": [
+        "flycraft crazy flying machines"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mob-farm-tycoon-zqe",
+      "keywords": [
+        "mob farm tycoon zqe"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rocket-fling",
+      "keywords": [
+        "rocket fling"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tnt-voxel",
+      "keywords": [
+        "tnt voxel"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/stick/4",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "paint hide",
+    "flycraft crazy flying machines",
+    "mob farm tycoon zqe",
+    "rocket fling",
+    "tnt voxel"
+  ]
+}

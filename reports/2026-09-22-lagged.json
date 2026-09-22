@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/dino-world-3d",
+      "keywords": [
+        "dino world 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/chic-cuts",
+      "keywords": [
+        "chic cuts"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/jelly-tetris",
+      "keywords": [
+        "jelly tetris"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cubes-match-3-quest",
+      "keywords": [
+        "cubes match 3 quest"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/sushi-chef-roll",
+      "keywords": [
+        "sushi chef roll"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dino world 3d",
+    "chic cuts",
+    "jelly tetris",
+    "cubes match 3 quest",
+    "sushi chef roll"
+  ]
+}

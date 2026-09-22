@@ -1,8 +1,38 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-21T20:18:38.294907+00:00",
+  "fetched_at": "2026-09-22T19:37:17.874825+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/faily-brakes-roadtrip",
+      "keywords": [
+        "faily brakes roadtrip"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/gnome-from-hell",
+      "keywords": [
+        "gnome from hell"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/speed-chaos-crazy-race",
+      "keywords": [
+        "speed chaos crazy race"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/orecraft-mining-camp",
+      "keywords": [
+        "orecraft mining camp"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pizza-now",
+      "keywords": [
+        "pizza now"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/gta-vice-city",
       "keywords": [
