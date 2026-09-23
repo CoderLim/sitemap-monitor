@@ -1,8 +1,50 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-22T19:37:17.874825+00:00",
+  "fetched_at": "2026-09-23T19:33:27.926285+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/my-perfect-farm",
+      "keywords": [
+        "my perfect farm"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-a-dinosaur-eggs",
+      "keywords": [
+        "steal a dinosaur eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rush-line",
+      "keywords": [
+        "rush line"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hockey-bros",
+      "keywords": [
+        "hockey bros"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/castlevania-chronicles",
+      "keywords": [
+        "castlevania chronicles"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/turbo-stars",
+      "keywords": [
+        "turbo stars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/monsters-wheels-2",
+      "keywords": [
+        "monsters wheels 2"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/faily-brakes-roadtrip",
       "keywords": [

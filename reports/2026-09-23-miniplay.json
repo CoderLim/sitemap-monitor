@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/my-perfect-farm",
+      "keywords": [
+        "my perfect farm"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-a-dinosaur-eggs",
+      "keywords": [
+        "steal a dinosaur eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rush-line",
+      "keywords": [
+        "rush line"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hockey-bros",
+      "keywords": [
+        "hockey bros"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/castlevania-chronicles",
+      "keywords": [
+        "castlevania chronicles"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/turbo-stars",
+      "keywords": [
+        "turbo stars"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/monsters-wheels-2",
+      "keywords": [
+        "monsters wheels 2"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "my perfect farm",
+    "steal a dinosaur eggs",
+    "rush line",
+    "hockey bros",
+    "castlevania chronicles",
+    "turbo stars",
+    "monsters wheels 2"
+  ]
+}

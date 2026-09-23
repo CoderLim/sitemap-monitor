@@ -1,0 +1,38 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/cannon-chaos-silly-shots",
+      "keywords": [
+        "cannon chaos silly shots"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/banner-brawl",
+      "keywords": [
+        "banner brawl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/delivery-life-yfc",
+      "keywords": [
+        "delivery life yfc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/soccer-orbit-ultimate-space-kick",
+      "keywords": [
+        "soccer orbit ultimate space kick"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cannon chaos silly shots",
+    "banner brawl",
+    "delivery life yfc",
+    "soccer orbit ultimate space kick"
+  ]
+}

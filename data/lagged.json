@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-22T19:37:17.874825+00:00",
+  "fetched_at": "2026-09-23T19:33:27.926285+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66316,6 +66316,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/arrowsoutio",
+      "keywords": [
+        "arrowsoutio"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/this-is-blast",
       "keywords": [
         "this is blast"
@@ -66484,6 +66490,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/trampoline-basketball-3d",
+      "keywords": [
+        "trampoline basketball 3d"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/jenga-online",
       "keywords": [
         "jenga online"
@@ -66505,6 +66517,18 @@
       "url": "https://lagged.com/en/g/idle-vlogger-simulator",
       "keywords": [
         "idle vlogger simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/food-run-and-battle",
+      "keywords": [
+        "food run and battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-castle-merge--story",
+      "keywords": [
+        "my castle merge story"
       ]
     },
     {
