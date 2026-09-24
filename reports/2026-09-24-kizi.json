@@ -1,0 +1,94 @@
+{
+  "site_id": "kizi",
+  "date": "2026-09-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/ram-rush",
+      "keywords": [
+        "ram rush"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/stack-bounce-3d",
+      "keywords": [
+        "stack bounce 3d"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/solitaire-witch",
+      "keywords": [
+        "solitaire witch"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/save-my-human",
+      "keywords": [
+        "save my human"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/sweep-maze",
+      "keywords": [
+        "sweep maze"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/coloring-mosaic-by-symbols",
+      "keywords": [
+        "coloring mosaic by symbols"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/bestie-sleepover-party",
+      "keywords": [
+        "bestie sleepover party"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/landing-hero",
+      "keywords": [
+        "landing hero"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/bubble-rush-2",
+      "keywords": [
+        "bubble rush 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/3d-supermarket-tycoon",
+      "keywords": [
+        "3d supermarket tycoon"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/goose-rescue-screw-sort",
+      "keywords": [
+        "goose rescue screw sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/needle-in-a-haystack",
+      "keywords": [
+        "needle in a haystack"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "ram rush",
+    "stack bounce 3d",
+    "solitaire witch",
+    "save my human",
+    "sweep maze",
+    "coloring mosaic by symbols",
+    "bestie sleepover party",
+    "landing hero",
+    "bubble rush 2",
+    "3d supermarket tycoon",
+    "goose rescue screw sort",
+    "needle in a haystack"
+  ]
+}

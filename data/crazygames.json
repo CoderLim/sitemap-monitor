@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-23T19:33:27.926285+00:00",
+  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
   "baseline": false,
   "urls": [
     {
@@ -878,12 +878,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/cut-the-rope-time-travel",
-      "keywords": [
-        "cut the rope time travel"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/agario",
       "keywords": [
         "agario"
@@ -941,12 +935,6 @@
       "url": "https://www.crazygames.com/game/fleeing-the-complex",
       "keywords": [
         "fleeing the complex"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/cut-the-rope-2",
-      "keywords": [
-        "cut the rope 2"
       ]
     },
     {
@@ -1310,12 +1298,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/cut-the-rope-experiments",
-      "keywords": [
-        "cut the rope experiments"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/ludo-king",
       "keywords": [
         "ludo king"
@@ -1637,12 +1619,6 @@
       "url": "https://www.crazygames.com/game/robot-dog-city-simulator",
       "keywords": [
         "robot dog city simulator"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/cut-the-rope-magic",
-      "keywords": [
-        "cut the rope magic"
       ]
     },
     {
@@ -26600,6 +26576,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/arrow-slide-puzzle",
+      "keywords": [
+        "arrow slide puzzle"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/city-gas-station-simulator",
       "keywords": [
         "city gas station simulator"
@@ -26708,6 +26690,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/one-shot-duel-snipe-hide",
+      "keywords": [
+        "one shot duel snipe hide"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/banner-brawl",
       "keywords": [
         "banner brawl"
@@ -26777,6 +26765,18 @@
       "url": "https://www.crazygames.com/game/rocket-fling",
       "keywords": [
         "rocket fling"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/island-of-madness",
+      "keywords": [
+        "island of madness"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-speed-keyboard-lucky-escape",
+      "keywords": [
+        "1 speed keyboard lucky escape"
       ]
     },
     {
@@ -27088,6 +27088,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/2d/21",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/survive",
       "keywords": [
         "survive"
@@ -27305,10 +27309,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/collect/10",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/collect/11",
       "keywords": []
     },
     {

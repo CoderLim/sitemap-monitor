@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/arrows-relax-game",
+      "keywords": [
+        "arrows relax game"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hockey-brawl",
+      "keywords": [
+        "hockey brawl"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/alt-girls-dating-clicker",
+      "keywords": [
+        "alt girls dating clicker"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "arrows relax game",
+    "hockey brawl",
+    "alt girls dating clicker"
+  ]
+}

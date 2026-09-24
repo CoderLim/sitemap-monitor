@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/animal-hospital-3d-sandbox",
+      "keywords": [
+        "animal hospital 3d sandbox"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/madness-interactive-in-vain",
+      "keywords": [
+        "madness interactive in vain"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/army-simulator-build-and-defend",
+      "keywords": [
+        "army simulator build and defend"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wave-race",
+      "keywords": [
+        "wave race"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/scam-artist",
+      "keywords": [
+        "scam artist"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "animal hospital 3d sandbox",
+    "madness interactive in vain",
+    "army simulator build and defend",
+    "wave race",
+    "scam artist"
+  ]
+}

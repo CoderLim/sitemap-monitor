@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-23T19:33:27.926285+00:00",
+  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/little-steps-big-troubles",
+      "keywords": [
+        "little steps big troubles"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/hatch-your-pets",
+      "keywords": [
+        "hatch your pets"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/pilot-life",
+      "keywords": [
+        "pilot life"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/pro-referee-simulator",
       "keywords": [
@@ -187,12 +205,6 @@
       "url": "https://poki.com/en/g/tnt-sandbox",
       "keywords": [
         "tnt sandbox"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/little-steps-big-troubles",
-      "keywords": [
-        "little steps big troubles"
       ]
     },
     {

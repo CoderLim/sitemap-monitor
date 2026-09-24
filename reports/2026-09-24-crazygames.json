@@ -1,0 +1,42 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/arrow-slide-puzzle",
+      "keywords": [
+        "arrow slide puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/one-shot-duel-snipe-hide",
+      "keywords": [
+        "one shot duel snipe hide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/island-of-madness",
+      "keywords": [
+        "island of madness"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-speed-keyboard-lucky-escape",
+      "keywords": [
+        "1 speed keyboard lucky escape"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/21",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "arrow slide puzzle",
+    "one shot duel snipe hide",
+    "island of madness",
+    "1 speed keyboard lucky escape"
+  ]
+}
