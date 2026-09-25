@@ -1,0 +1,38 @@
+{
+  "site_id": "kizi",
+  "date": "2026-09-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/chainline",
+      "keywords": [
+        "chainline"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hotpot-loop-sort",
+      "keywords": [
+        "hotpot loop sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/supermarket-management-simulator",
+      "keywords": [
+        "supermarket management simulator"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/void-tapper-clicker",
+      "keywords": [
+        "void tapper clicker"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "chainline",
+    "hotpot loop sort",
+    "supermarket management simulator",
+    "void tapper clicker"
+  ]
+}

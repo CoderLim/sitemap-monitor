@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
+  "fetched_at": "2026-09-25T19:54:39.529623+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/reroute",
+      "keywords": [
+        "reroute"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/critters-puzzle",
+      "keywords": [
+        "critters puzzle"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/little-steps-big-troubles",
       "keywords": [
@@ -241,12 +253,6 @@
       "url": "https://poki.com/en/g/no-fault-cup-2026",
       "keywords": [
         "no fault cup 2026"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/critters-puzzle",
-      "keywords": [
-        "critters puzzle"
       ]
     },
     {
@@ -6313,12 +6319,6 @@
       "url": "https://poki.com/en/g/duo-vikings-3",
       "keywords": [
         "duo vikings 3"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/minecraft-classic",
-      "keywords": [
-        "minecraft classic"
       ]
     },
     {

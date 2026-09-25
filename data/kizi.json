@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
+  "fetched_at": "2026-09-25T19:54:39.529623+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36161,6 +36161,30 @@
       "url": "https://kizi.com/games/needle-in-a-haystack",
       "keywords": [
         "needle in a haystack"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/chainline",
+      "keywords": [
+        "chainline"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hotpot-loop-sort",
+      "keywords": [
+        "hotpot loop sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/supermarket-management-simulator",
+      "keywords": [
+        "supermarket management simulator"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/void-tapper-clicker",
+      "keywords": [
+        "void tapper clicker"
       ]
     }
   ]

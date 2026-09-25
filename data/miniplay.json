@@ -1,8 +1,32 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
+  "fetched_at": "2026-09-25T19:54:39.529623+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/search-for-the-needle",
+      "keywords": [
+        "search for the needle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/how-to-fish",
+      "keywords": [
+        "how to fish"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/commando-force-2",
+      "keywords": [
+        "commando force 2"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jump-for-animals",
+      "keywords": [
+        "jump for animals"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/gta-vice-city",
       "keywords": [
@@ -10087,12 +10111,6 @@
       "url": "https://www.miniplay.com/game/stik-vs-zombies-battle",
       "keywords": [
         "stik vs zombies battle"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/commando-force-2",
-      "keywords": [
-        "commando force 2"
       ]
     },
     {

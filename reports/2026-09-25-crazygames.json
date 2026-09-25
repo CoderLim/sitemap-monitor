@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/hyper-fliplation",
+      "keywords": [
+        "hyper fliplation"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/amber-s-airline---high-hopes",
+      "keywords": [
+        "amber s airline high hopes"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spectre-command--ac130-simulator",
+      "keywords": [
+        "spectre command ac130 simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/steal-a-eggs",
+      "keywords": [
+        "steal a eggs"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slime-works-cjj",
+      "keywords": [
+        "slime works cjj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/farm-idle-cut-crop",
+      "keywords": [
+        "farm idle cut crop"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/collect/11",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "hyper fliplation",
+    "amber s airline high hopes",
+    "spectre command ac130 simulator",
+    "steal a eggs",
+    "slime works cjj",
+    "farm idle cut crop"
+  ]
+}

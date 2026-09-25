@@ -1,0 +1,31 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/search-for-the-needle",
+      "keywords": [
+        "search for the needle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/how-to-fish",
+      "keywords": [
+        "how to fish"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jump-for-animals",
+      "keywords": [
+        "jump for animals"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "search for the needle",
+    "how to fish",
+    "jump for animals"
+  ]
+}

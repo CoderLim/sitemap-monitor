@@ -1,31 +1,32 @@
 {
   "status": "failed",
-  "started_at": "2026-09-24T19:52:39.685582+00:00",
-  "finished_at": "2026-09-24T19:52:47.585302+00:00",
+  "started_at": "2026-09-25T19:54:39.527056+00:00",
+  "finished_at": "2026-09-25T19:54:48.541492+00:00",
   "exit_code": 1,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 2,
-      "new_keyword_count": 2,
+      "new_url_count": 1,
+      "new_keyword_count": 1,
       "new_keywords": [
-        "hatch your pets",
-        "pilot life"
+        "reroute"
       ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 5,
-      "new_keyword_count": 4,
+      "new_url_count": 7,
+      "new_keyword_count": 6,
       "new_keywords": [
-        "arrow slide puzzle",
-        "one shot duel snipe hide",
-        "island of madness",
-        "1 speed keyboard lucky escape"
+        "hyper fliplation",
+        "amber s airline high hopes",
+        "spectre command ac130 simulator",
+        "steal a eggs",
+        "slime works cjj",
+        "farm idle cut crop"
       ],
       "error": null
     },
@@ -40,33 +41,24 @@
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 2,
+      "new_keyword_count": 2,
       "new_keywords": [
-        "arrows relax game",
-        "hockey brawl",
-        "alt girls dating clicker"
+        "cop simulator my prison 3d",
+        "robby the speed maze"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 12,
-      "new_keyword_count": 12,
+      "new_url_count": 4,
+      "new_keyword_count": 4,
       "new_keywords": [
-        "ram rush",
-        "stack bounce 3d",
-        "solitaire witch",
-        "save my human",
-        "sweep maze",
-        "coloring mosaic by symbols",
-        "bestie sleepover party",
-        "landing hero",
-        "bubble rush 2",
-        "3d supermarket tycoon",
-        "goose rescue screw sort",
-        "needle in a haystack"
+        "chainline",
+        "hotpot loop sort",
+        "supermarket management simulator",
+        "void tapper clicker"
       ],
       "error": null
     },
@@ -81,50 +73,31 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 5,
-      "new_keyword_count": 5,
+      "new_url_count": 3,
+      "new_keyword_count": 3,
       "new_keywords": [
-        "animal hospital 3d sandbox",
-        "madness interactive in vain",
-        "army simulator build and defend",
-        "wave race",
-        "scam artist"
+        "search for the needle",
+        "how to fish",
+        "jump for animals"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 27,
-      "new_keyword_count": 27,
+      "new_url_count": 10,
+      "new_keyword_count": 10,
       "new_keywords": [
-        "supermarket boss store simulator",
-        "tabs 2 0",
-        "garden flow pipe puzzle",
-        "arrow maze stop the monsters",
-        "item alchemy puzzle and merge",
-        "ants ate my pixels",
-        "makeover studio",
-        "destroy pixels memes and your photos",
-        "swipe and slot",
-        "how to fish",
-        "steal an egg online pets and brainrots",
-        "squid bridge",
-        "ghost in the house",
-        "hazard days survival and shooter",
-        "needle in a haystack online",
-        "blue ball rescue plan",
-        "squishy dumplings asmr unboxing",
-        "container auction simulator",
-        "cube blast legend",
-        "mine merge shovels",
-        "pack it all",
-        "ukradi iaitso i zverei",
-        "cat on a vacuum home cleaning simulator",
-        "veiper simuliator",
-        "bolnitsa dlia zhivotnykh kliker",
-        "pleasant mahjong mama",
-        "muzon drop"
+        "threading match",
+        "obby a shelter for dogs",
+        "mini igry ot boga",
+        "ragdoll trap defense",
+        "schoolboy and granny the multiverse",
+        "tung tung sakhur kachok",
+        "obby dig for animals",
+        "magic blocks secret adventure",
+        "parasomnia",
+        "ralli polnyi gaz"
       ],
       "error": null
     }

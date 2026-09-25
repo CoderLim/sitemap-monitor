@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-24T19:52:39.687230+00:00",
+  "fetched_at": "2026-09-25T19:54:39.529623+00:00",
   "baseline": false,
   "urls": [
     {
@@ -25166,6 +25166,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hyper-fliplation",
+      "keywords": [
+        "hyper fliplation"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/heroes-vs-monsters-idle-rpg",
       "keywords": [
         "heroes vs monsters idle rpg"
@@ -26510,6 +26516,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/amber-s-airline---high-hopes",
+      "keywords": [
+        "amber s airline high hopes"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/table-rush",
       "keywords": [
         "table rush"
@@ -26690,6 +26702,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/spectre-command--ac130-simulator",
+      "keywords": [
+        "spectre command ac130 simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/one-shot-duel-snipe-hide",
       "keywords": [
         "one shot duel snipe hide"
@@ -26786,6 +26804,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/steal-a-eggs",
+      "keywords": [
+        "steal a eggs"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/heist-hop",
       "keywords": [
         "heist hop"
@@ -26807,6 +26831,18 @@
       "url": "https://www.crazygames.com/game/movie-star-dress-up",
       "keywords": [
         "movie star dress up"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slime-works-cjj",
+      "keywords": [
+        "slime works cjj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/farm-idle-cut-crop",
+      "keywords": [
+        "farm idle cut crop"
       ]
     },
     {
@@ -27309,6 +27345,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/collect/10",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/collect/11",
       "keywords": []
     },
     {
@@ -28712,6 +28752,20 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/with-friends",
+      "keywords": [
+        "with friends"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/with-friends/2",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/with-friends/3",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/bubble-shooter",
       "keywords": [
         "bubble shooter"
@@ -28725,20 +28779,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/match-3/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/with-friends",
-      "keywords": [
-        "with friends"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/with-friends/2",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/with-friends/3",
       "keywords": []
     },
     {
