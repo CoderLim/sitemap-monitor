@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/odd-key",
+      "keywords": [
+        "odd key"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/tap-out-3d",
+      "keywords": [
+        "tap out 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-grave-yard",
+      "keywords": [
+        "zombie grave yard"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/shooter-king-ball-throw",
+      "keywords": [
+        "shooter king ball throw"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pistol-showdown",
+      "keywords": [
+        "pistol showdown"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "odd key",
+    "tap out 3d",
+    "zombie grave yard",
+    "shooter king ball throw",
+    "pistol showdown"
+  ]
+}

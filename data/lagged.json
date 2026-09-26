@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-25T19:54:39.529623+00:00",
+  "fetched_at": "2026-09-26T19:06:10.217600+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66379,6 +66379,36 @@
       "url": "https://lagged.com/en/g/kitty-cash",
       "keywords": [
         "kitty cash"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/odd-key",
+      "keywords": [
+        "odd key"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/tap-out-3d",
+      "keywords": [
+        "tap out 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-grave-yard",
+      "keywords": [
+        "zombie grave yard"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/shooter-king-ball-throw",
+      "keywords": [
+        "shooter king ball throw"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pistol-showdown",
+      "keywords": [
+        "pistol showdown"
       ]
     },
     {

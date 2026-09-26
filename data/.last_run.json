@@ -1,33 +1,24 @@
 {
   "status": "failed",
-  "started_at": "2026-09-25T19:54:39.527056+00:00",
-  "finished_at": "2026-09-25T19:54:48.541492+00:00",
+  "started_at": "2026-09-26T19:06:10.214442+00:00",
+  "finished_at": "2026-09-26T19:06:19.100299+00:00",
   "exit_code": 1,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
-      "new_keywords": [
-        "reroute"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 7,
-      "new_keyword_count": 6,
-      "new_keywords": [
-        "hyper fliplation",
-        "amber s airline high hopes",
-        "spectre command ac130 simulator",
-        "steal a eggs",
-        "slime works cjj",
-        "farm idle cut crop"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
@@ -41,25 +32,23 @@
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 2,
-      "new_keyword_count": 2,
+      "new_url_count": 5,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "cop simulator my prison 3d",
-        "robby the speed maze"
+        "odd key",
+        "tap out 3d",
+        "zombie grave yard",
+        "shooter king ball throw",
+        "pistol showdown"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 4,
-      "new_keyword_count": 4,
-      "new_keywords": [
-        "chainline",
-        "hotpot loop sort",
-        "supermarket management simulator",
-        "void tapper clicker"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
@@ -76,28 +65,37 @@
       "new_url_count": 3,
       "new_keyword_count": 3,
       "new_keywords": [
-        "search for the needle",
-        "how to fish",
-        "jump for animals"
+        "turball io",
+        "hook a brainrot",
+        "crossy road"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 10,
-      "new_keyword_count": 10,
+      "new_url_count": 19,
+      "new_keyword_count": 19,
       "new_keywords": [
-        "threading match",
-        "obby a shelter for dogs",
-        "mini igry ot boga",
-        "ragdoll trap defense",
-        "schoolboy and granny the multiverse",
-        "tung tung sakhur kachok",
-        "obby dig for animals",
-        "magic blocks secret adventure",
-        "parasomnia",
-        "ralli polnyi gaz"
+        "collect brainrots on a skateboard online",
+        "pixel match",
+        "football duels champions league",
+        "swing wild web parkour",
+        "tiles match 3",
+        "backpacraft 2",
+        "asmr tower 1 jump",
+        "dizzy planet",
+        "ragdoll duel sword fight",
+        "crazy traffic",
+        "click the button",
+        "obby steal an egg the great escape",
+        "obby 1 web swing",
+        "steal an egg escape animals",
+        "mahjong pair by pair",
+        "brick swarm endless",
+        "svetoch guardian of the tide",
+        "gauntlet",
+        "futbolnyi referi krasnaia kartochka"
       ],
       "error": null
     }
