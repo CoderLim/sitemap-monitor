@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/bacterial-swarm",
+      "keywords": [
+        "bacterial swarm"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/craft-mobs-create-a-monster-and-fight242",
+      "keywords": [
+        "craft mobs create a monster and fight242"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/elemental-monsters-merge",
+      "keywords": [
+        "elemental monsters merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/the-race-of-the-apocalypse-crush-the-zombies",
+      "keywords": [
+        "the race of the apocalypse crush the zombies"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cube-crush-quest",
+      "keywords": [
+        "cube crush quest"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bacterial swarm",
+    "craft mobs create a monster and fight242",
+    "elemental monsters merge",
+    "the race of the apocalypse crush the zombies",
+    "cube crush quest"
+  ]
+}

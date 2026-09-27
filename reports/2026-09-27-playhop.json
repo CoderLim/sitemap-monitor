@@ -1,0 +1,52 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/candy-boom-match-3-541606",
+      "keywords": [
+        "candy boom match 3"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/wash-thung-thung-sahur-555447",
+      "keywords": [
+        "wash thung thung sahur"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/strelki-spasi-lisionka-598500",
+      "keywords": [
+        "strelki spasi lisionka"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tank-battle-classic-603902",
+      "keywords": [
+        "tank battle classic"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/super-ball-adventure-605925",
+      "keywords": [
+        "super ball adventure"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bitva-keisov-612721",
+      "keywords": [
+        "bitva keisov"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "candy boom match 3",
+    "wash thung thung sahur",
+    "strelki spasi lisionka",
+    "tank battle classic",
+    "super ball adventure",
+    "bitva keisov"
+  ]
+}

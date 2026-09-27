@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-26T19:06:10.217600+00:00",
+  "fetched_at": "2026-09-27T19:38:05.515187+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66412,6 +66412,30 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/bacterial-swarm",
+      "keywords": [
+        "bacterial swarm"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/craft-mobs-create-a-monster-and-fight242",
+      "keywords": [
+        "craft mobs create a monster and fight242"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/elemental-monsters-merge",
+      "keywords": [
+        "elemental monsters merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/the-race-of-the-apocalypse-crush-the-zombies",
+      "keywords": [
+        "the race of the apocalypse crush the zombies"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/stacky-lce-cream-theif-runner",
       "keywords": [
         "stacky lce cream theif runner"
@@ -66601,6 +66625,12 @@
       "url": "https://lagged.com/en/g/street-race-master",
       "keywords": [
         "street race master"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cube-crush-quest",
+      "keywords": [
+        "cube crush quest"
       ]
     },
     {
