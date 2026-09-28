@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-09-27T19:38:05.515187+00:00",
+  "fetched_at": "2026-09-28T21:40:46.471999+00:00",
   "baseline": false,
   "urls": [
     {
@@ -14018,12 +14018,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/blocops",
-      "keywords": [
-        "blocops"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/airborne-motocross",
       "keywords": [
         "airborne motocross"
@@ -19136,6 +19130,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/zombie-war-survival",
+      "keywords": [
+        "zombie war survival"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/find-the-pets-cph",
       "keywords": [
         "find the pets cph"
@@ -20393,12 +20393,6 @@
       "url": "https://www.crazygames.com/game/archers-random",
       "keywords": [
         "archers random"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/apoclone-bmv",
-      "keywords": [
-        "apoclone bmv"
       ]
     },
     {
@@ -26522,6 +26516,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/nations-royale",
+      "keywords": [
+        "nations royale"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/table-rush",
       "keywords": [
         "table rush"
@@ -26714,6 +26714,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/car-seller-life-simulator",
+      "keywords": [
+        "car seller life simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/banner-brawl",
       "keywords": [
         "banner brawl"
@@ -26723,6 +26729,12 @@
       "url": "https://www.crazygames.com/game/delivery-life-yfc",
       "keywords": [
         "delivery life yfc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-beach",
+      "keywords": [
+        "merge beach"
       ]
     },
     {
@@ -26792,6 +26804,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/obby-1-digging-power-per-click",
+      "keywords": [
+        "obby 1 digging power per click"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/1-speed-keyboard-lucky-escape",
       "keywords": [
         "1 speed keyboard lucky escape"
@@ -26813,6 +26831,12 @@
       "url": "https://www.crazygames.com/game/heist-hop",
       "keywords": [
         "heist hop"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/matchblast",
+      "keywords": [
+        "matchblast"
       ]
     },
     {
@@ -27225,6 +27249,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/casual/17",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/18",
       "keywords": []
     },
     {

@@ -1,0 +1,45 @@
+{
+  "site_id": "playhop",
+  "date": "2026-09-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/iquiz-586136",
+      "keywords": [
+        "iquiz"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/block-sudoku-woody-puzzle-599444",
+      "keywords": [
+        "block sudoku woody puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/shape-evolution-2048-number-merge-607672",
+      "keywords": [
+        "shape evolution 2048 number merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/ladybug-merge-unlock-100-unique-looks-608820",
+      "keywords": [
+        "ladybug merge unlock 100 unique looks"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tap-away-unlock-gallery-611385",
+      "keywords": [
+        "tap away unlock gallery"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "iquiz",
+    "block sudoku woody puzzle",
+    "shape evolution 2048 number merge",
+    "ladybug merge unlock 100 unique looks",
+    "tap away unlock gallery"
+  ]
+}

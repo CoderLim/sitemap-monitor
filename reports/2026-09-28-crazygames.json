@@ -1,0 +1,56 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/zombie-war-survival",
+      "keywords": [
+        "zombie war survival"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/nations-royale",
+      "keywords": [
+        "nations royale"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/car-seller-life-simulator",
+      "keywords": [
+        "car seller life simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/merge-beach",
+      "keywords": [
+        "merge beach"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-1-digging-power-per-click",
+      "keywords": [
+        "obby 1 digging power per click"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/matchblast",
+      "keywords": [
+        "matchblast"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/18",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "zombie war survival",
+    "nations royale",
+    "car seller life simulator",
+    "merge beach",
+    "obby 1 digging power per click",
+    "matchblast"
+  ]
+}

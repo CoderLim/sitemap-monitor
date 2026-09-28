@@ -1,0 +1,59 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/domino-peak",
+      "keywords": [
+        "domino peak"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/draw-an-obby",
+      "keywords": [
+        "draw an obby"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/driftbound-race-in-the-grip-of-drift",
+      "keywords": [
+        "driftbound race in the grip of drift"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/janggi-checkmate",
+      "keywords": [
+        "janggi checkmate"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/chicken-strike",
+      "keywords": [
+        "chicken strike"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bike-obby-draw-pencil",
+      "keywords": [
+        "bike obby draw pencil"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/plane-evolution-3d",
+      "keywords": [
+        "plane evolution 3d"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "domino peak",
+    "draw an obby",
+    "driftbound race in the grip of drift",
+    "janggi checkmate",
+    "chicken strike",
+    "bike obby draw pencil",
+    "plane evolution 3d"
+  ]
+}
