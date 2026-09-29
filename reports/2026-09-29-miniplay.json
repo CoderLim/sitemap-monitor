@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/demon-slayer-vs-jujutsu-kaisen",
+      "keywords": [
+        "demon slayer vs jujutsu kaisen"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/roller-coaster-obby-race",
+      "keywords": [
+        "roller coaster obby race"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/retakes-io",
+      "keywords": [
+        "retakes io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bike-obby-draw-pencil",
+      "keywords": [
+        "bike obby draw pencil"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/skip-po",
+      "keywords": [
+        "skip po"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/supertuxkart",
+      "keywords": [
+        "supertuxkart"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "demon slayer vs jujutsu kaisen",
+    "roller coaster obby race",
+    "retakes io",
+    "bike obby draw pencil",
+    "skip po",
+    "supertuxkart"
+  ]
+}

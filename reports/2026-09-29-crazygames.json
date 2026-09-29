@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-09-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/stickman-strike-force-online-fps",
+      "keywords": [
+        "stickman strike force online fps"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-steal-an-egg",
+      "keywords": [
+        "obby steal an egg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/the-moo-factory-dzw",
+      "keywords": [
+        "the moo factory dzw"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/orecrusher",
+      "keywords": [
+        "orecrusher"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-speed-keyboard-obby",
+      "keywords": [
+        "1 speed keyboard obby"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rustlight-zqy",
+      "keywords": [
+        "rustlight zqy"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "stickman strike force online fps",
+    "obby steal an egg",
+    "the moo factory dzw",
+    "orecrusher",
+    "1 speed keyboard obby",
+    "rustlight zqy"
+  ]
+}

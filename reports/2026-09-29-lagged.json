@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/island-cleaner-simulator",
+      "keywords": [
+        "island cleaner simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/robby-mini-games",
+      "keywords": [
+        "robby mini games"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hole-foods-3d",
+      "keywords": [
+        "hole foods 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/craft-and-battle",
+      "keywords": [
+        "craft and battle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "island cleaner simulator",
+    "robby mini games",
+    "hole foods 3d",
+    "craft and battle"
+  ]
+}

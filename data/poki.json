@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-28T21:40:46.471999+00:00",
+  "fetched_at": "2026-09-29T20:31:57.150298+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/merge-blast",
+      "keywords": [
+        "merge blast"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/sling-star-kick",
+      "keywords": [
+        "sling star kick"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/jetpack-speed-obby",
       "keywords": [
@@ -307,12 +319,6 @@
       "url": "https://poki.com/en/g/cuboy-adventure",
       "keywords": [
         "cuboy adventure"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/sling-star-kick",
-      "keywords": [
-        "sling star kick"
       ]
     },
     {
