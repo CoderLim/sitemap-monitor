@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-09-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/draw-cat",
+      "keywords": [
+        "draw cat"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/ride-carts",
+      "keywords": [
+        "ride carts"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/ragdoll-bonk",
+      "keywords": [
+        "ragdoll bonk"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "draw cat",
+    "ride carts",
+    "ragdoll bonk"
+  ]
+}

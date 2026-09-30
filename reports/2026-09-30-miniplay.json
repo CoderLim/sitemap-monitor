@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-09-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/tiny-garden-war",
+      "keywords": [
+        "tiny garden war"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/carmania-io",
+      "keywords": [
+        "carmania io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/car-eats-car-3d",
+      "keywords": [
+        "car eats car 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/vex-10",
+      "keywords": [
+        "vex 10"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pets-and-paints-logic-puzzle",
+      "keywords": [
+        "pets and paints logic puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "tiny garden war",
+    "carmania io",
+    "car eats car 3d",
+    "vex 10",
+    "pets and paints logic puzzle"
+  ]
+}

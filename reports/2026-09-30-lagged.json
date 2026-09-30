@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-09-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/feed-the-pick-me-girl",
+      "keywords": [
+        "feed the pick me girl"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/robby-open-world",
+      "keywords": [
+        "robby open world"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/color-slime",
+      "keywords": [
+        "color slime"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "feed the pick me girl",
+    "robby open world",
+    "color slime"
+  ]
+}

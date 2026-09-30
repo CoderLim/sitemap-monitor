@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-09-29T20:31:57.150298+00:00",
+  "fetched_at": "2026-09-30T20:38:51.495545+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66334,6 +66334,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/feed-the-pick-me-girl",
+      "keywords": [
+        "feed the pick me girl"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/this-is-blast",
       "keywords": [
         "this is blast"
@@ -66640,6 +66646,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/robby-open-world",
+      "keywords": [
+        "robby open world"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/crypt-of-the-last-spark",
       "keywords": [
         "crypt of the last spark"
@@ -66667,6 +66679,12 @@
       "url": "https://lagged.com/en/g/craft-and-battle",
       "keywords": [
         "craft and battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/color-slime",
+      "keywords": [
+        "color slime"
       ]
     },
     {
