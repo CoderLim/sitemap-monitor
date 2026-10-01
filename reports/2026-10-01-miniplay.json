@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/bloxity-io",
+      "keywords": [
+        "bloxity io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/open-ttd",
+      "keywords": [
+        "open ttd"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/click-the-button",
+      "keywords": [
+        "click the button"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/murderz-io",
+      "keywords": [
+        "murderz io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/block-city-invasion",
+      "keywords": [
+        "block city invasion"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/zip",
+      "keywords": [
+        "zip"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sudoku-easy",
+      "keywords": [
+        "sudoku easy"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bloxity io",
+    "open ttd",
+    "click the button",
+    "murderz io",
+    "block city invasion",
+    "zip",
+    "sudoku easy"
+  ]
+}

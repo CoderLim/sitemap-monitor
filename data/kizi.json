@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-09-30T20:38:51.495545+00:00",
+  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36185,6 +36185,54 @@
       "url": "https://kizi.com/games/void-tapper-clicker",
       "keywords": [
         "void tapper clicker"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/scraps",
+      "keywords": [
+        "scraps"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/lumen-ruin-runner",
+      "keywords": [
+        "lumen ruin runner"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/vex-10",
+      "keywords": [
+        "vex 10"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/galaxy-tank-battle",
+      "keywords": [
+        "galaxy tank battle"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/pharaoh-runner-ancient-escape",
+      "keywords": [
+        "pharaoh runner ancient escape"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/sea-survivor",
+      "keywords": [
+        "sea survivor"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/farm-triple-match-2",
+      "keywords": [
+        "farm triple match 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/bubble-shooter-fruits",
+      "keywords": [
+        "bubble shooter fruits"
       ]
     }
   ]

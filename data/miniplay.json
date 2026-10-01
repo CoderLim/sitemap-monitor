@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-09-30T20:38:51.495545+00:00",
+  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/bloxity-io",
+      "keywords": [
+        "bloxity io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/gta-vice-city",
+      "keywords": [
+        "gta vice city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/open-ttd",
+      "keywords": [
+        "open ttd"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/click-the-button",
+      "keywords": [
+        "click the button"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/murderz-io",
+      "keywords": [
+        "murderz io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/block-city-invasion",
+      "keywords": [
+        "block city invasion"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/zip",
+      "keywords": [
+        "zip"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sudoku-easy",
+      "keywords": [
+        "sudoku easy"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/tiny-garden-war",
       "keywords": [
@@ -67,12 +115,6 @@
       "url": "https://www.miniplay.com/game/supertuxkart",
       "keywords": [
         "supertuxkart"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/gta-vice-city",
-      "keywords": [
-        "gta vice city"
       ]
     },
     {
@@ -26210,15 +26252,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/super-soccer-noggins",
-      "keywords": [
-        "super soccer noggins"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/obby-jump-and-run",
       "keywords": [
         "obby jump and run"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/super-soccer-noggins",
+      "keywords": [
+        "super soccer noggins"
       ]
     },
     {

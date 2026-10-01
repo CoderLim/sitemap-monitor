@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-09-30T20:38:51.495545+00:00",
+  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/pet-mahjong-3d",
+      "keywords": [
+        "pet mahjong 3d"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/no-fault-cup-2026",
+      "keywords": [
+        "no fault cup 2026"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/swipefruit",
+      "keywords": [
+        "swipefruit"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/build-a-bud",
       "keywords": [
@@ -298,12 +316,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/no-fault-cup-2026",
-      "keywords": [
-        "no fault cup 2026"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/harvest-loop",
       "keywords": [
         "harvest loop"
@@ -433,12 +445,6 @@
       "url": "https://poki.com/en/g/family-sort",
       "keywords": [
         "family sort"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/pet-mahjong-3d",
-      "keywords": [
-        "pet mahjong 3d"
       ]
     },
     {

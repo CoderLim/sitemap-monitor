@@ -1,0 +1,101 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/super-aircraft-shooter",
+      "keywords": [
+        "super aircraft shooter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obstacle-ball",
+      "keywords": [
+        "obstacle ball"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dotty",
+      "keywords": [
+        "dotty"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crown-conquest",
+      "keywords": [
+        "crown conquest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grazing-giraffe",
+      "keywords": [
+        "grazing giraffe"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kestrel-vale",
+      "keywords": [
+        "kestrel vale"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/firewall-merge",
+      "keywords": [
+        "firewall merge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tidewhistle-isle",
+      "keywords": [
+        "tidewhistle isle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kung-fu-little-animals",
+      "keywords": [
+        "kung fu little animals"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-beasts",
+      "keywords": [
+        "merge beasts"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/loop-dashm",
+      "keywords": [
+        "loop dashm"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/overlord-1944",
+      "keywords": [
+        "overlord 1944"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ricochet-shot",
+      "keywords": [
+        "ricochet shot"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "super aircraft shooter",
+    "obstacle ball",
+    "dotty",
+    "crown conquest",
+    "grazing giraffe",
+    "kestrel vale",
+    "firewall merge",
+    "tidewhistle isle",
+    "kung fu little animals",
+    "merge beasts",
+    "loop dashm",
+    "overlord 1944",
+    "ricochet shot"
+  ]
+}
