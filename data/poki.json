@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
+  "fetched_at": "2026-10-02T20:28:58.785700+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/little-planet-lumberjack",
+      "keywords": [
+        "little planet lumberjack"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/aquaparkio",
+      "keywords": [
+        "aquaparkio"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/pet-mahjong-3d",
       "keywords": [
@@ -229,12 +241,6 @@
       "url": "https://poki.com/en/g/build-your-island",
       "keywords": [
         "build your island"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/aquaparkio",
-      "keywords": [
-        "aquaparkio"
       ]
     },
     {
@@ -6493,12 +6499,6 @@
       "url": "https://poki.com/en/g/panda-bubble-shooter",
       "keywords": [
         "panda bubble shooter"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/8bit-fiesta",
-      "keywords": [
-        "8bit fiesta"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": "2026-10-01T20:52:47.207554+00:00",
-  "finished_at": "2026-10-01T20:52:55.961028+00:00",
+  "started_at": "2026-10-02T20:28:58.782751+00:00",
+  "finished_at": "2026-10-02T20:29:06.451808+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -11,75 +11,65 @@
       "new_url_count": 1,
       "new_keyword_count": 1,
       "new_keywords": [
-        "swipefruit"
+        "little planet lumberjack"
       ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 4,
-      "new_keyword_count": 4,
+      "new_url_count": 5,
+      "new_keyword_count": 3,
       "new_keywords": [
-        "flux gp anti gravity racing udh",
-        "real war survival games",
-        "football is life",
-        "sketchi"
+        "combat online 2",
+        "pup pals",
+        "lawn mower idle"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 13,
-      "new_keyword_count": 13,
+      "new_url_count": 15,
+      "new_keyword_count": 15,
       "new_keywords": [
-        "super aircraft shooter",
-        "obstacle ball",
-        "dotty",
-        "crown conquest",
-        "grazing giraffe",
-        "kestrel vale",
-        "firewall merge",
-        "tidewhistle isle",
-        "kung fu little animals",
-        "merge beasts",
-        "loop dashm",
-        "overlord 1944",
-        "ricochet shot"
+        "fishing guy",
+        "doodle run 3d",
+        "frenzy farming",
+        "twisted blocks",
+        "zombie epidemic",
+        "good habits",
+        "retro sprunki",
+        "squid clicker game 2",
+        "food conveyor",
+        "idle game dev simulator",
+        "stickman legion",
+        "panda jewels",
+        "match 3 forest crew",
+        "breakout",
+        "stuntcarcrasher"
       ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 6,
-      "new_keyword_count": 6,
+      "new_url_count": 4,
+      "new_keyword_count": 4,
       "new_keywords": [
-        "steal memerot zoo tycoon",
-        "attack dash",
-        "highway traffic riders",
-        "kalulu tanhulu asmr mukbang",
-        "pizza inc",
-        "pregnant mom simulator family life"
+        "dig gold miner",
+        "dino survival",
+        "gladius school of champions",
+        "offroad jeep driving mountain climb"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 8,
-      "new_keyword_count": 8,
-      "new_keywords": [
-        "scraps",
-        "lumen ruin runner",
-        "vex 10",
-        "galaxy tank battle",
-        "pharaoh runner ancient escape",
-        "sea survivor",
-        "farm triple match 2",
-        "bubble shooter fruits"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
@@ -93,48 +83,50 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 7,
-      "new_keyword_count": 7,
+      "new_url_count": 5,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "bloxity io",
-        "open ttd",
-        "click the button",
-        "murderz io",
-        "block city invasion",
-        "zip",
-        "sudoku easy"
+        "crazy chameleon",
+        "helltower io",
+        "my army base",
+        "snake escape puzzle",
+        "bottle jump 3d"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 23,
-      "new_keyword_count": 23,
+      "new_url_count": 27,
+      "new_keyword_count": 27,
       "new_keywords": [
-        "worlds builder farm and craft",
-        "pushmeow the game",
-        "pixel cup 2026",
-        "city dash",
-        "merge brawlers and win",
-        "bedwars online",
-        "cook the dish",
-        "1 weight loss per step obby",
-        "lines 98 color balls",
-        "sand flasks the alchemists secret",
-        "upgrade the store",
-        "steal an egg together online",
-        "evoliutsiia ot mikroba do dinozavra",
-        "star seal typing survival",
-        "steal the verity monster escape",
-        "dig jackpot",
-        "woodjong",
-        "save the goose",
-        "korpusnye deserty chto vnutri",
-        "queenka avatar makeup beauty salon",
-        "build the pyramid",
-        "my island farm",
-        "hit the stack"
+        "100 voprosov na zasypku",
+        "ride and slape aura online",
+        "playmusic games set to real music",
+        "sprunki virus lab 4",
+        "underground escape",
+        "royal siege 3d",
+        "dumplings who will you get",
+        "paint or hunt",
+        "smash speed",
+        "ragdoll vs knife slow mo 3d",
+        "verity horror mod",
+        "granny vs blogger",
+        "traffic weaving night drive 200 km",
+        "cars jump into the target",
+        "cozy case",
+        "fishing and guns",
+        "1 money roll to get rich",
+        "kick the buddy",
+        "cliff jumper",
+        "yarn tangle 3d",
+        "poiasni za shmot kliker doidi do napapiri",
+        "scrap loop",
+        "veiper pobeg iz tiurmy",
+        "rock scissors board",
+        "lavka volshebnika uuu",
+        "brick boom pixels",
+        "gonochnoe razdole"
       ],
       "error": null
     }

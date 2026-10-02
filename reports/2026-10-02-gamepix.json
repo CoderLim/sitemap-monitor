@@ -1,0 +1,115 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/fishing-guy",
+      "keywords": [
+        "fishing guy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/doodle-run-3d",
+      "keywords": [
+        "doodle run 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/frenzy-farming",
+      "keywords": [
+        "frenzy farming"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/twisted-blocks",
+      "keywords": [
+        "twisted blocks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zombie-epidemic",
+      "keywords": [
+        "zombie epidemic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/good-habits",
+      "keywords": [
+        "good habits"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/retro-sprunki",
+      "keywords": [
+        "retro sprunki"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/squid-clicker-game-2",
+      "keywords": [
+        "squid clicker game 2"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/food-conveyor",
+      "keywords": [
+        "food conveyor"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/idle-game-dev-simulator",
+      "keywords": [
+        "idle game dev simulator"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stickman-legion",
+      "keywords": [
+        "stickman legion"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/panda-jewels",
+      "keywords": [
+        "panda jewels"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/match-3-forest-crew",
+      "keywords": [
+        "match 3 forest crew"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/breakout",
+      "keywords": [
+        "breakout"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stuntcarcrasher",
+      "keywords": [
+        "stuntcarcrasher"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "fishing guy",
+    "doodle run 3d",
+    "frenzy farming",
+    "twisted blocks",
+    "zombie epidemic",
+    "good habits",
+    "retro sprunki",
+    "squid clicker game 2",
+    "food conveyor",
+    "idle game dev simulator",
+    "stickman legion",
+    "panda jewels",
+    "match 3 forest crew",
+    "breakout",
+    "stuntcarcrasher"
+  ]
+}

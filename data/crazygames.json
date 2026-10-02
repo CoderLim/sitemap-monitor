@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
+  "fetched_at": "2026-10-02T20:28:58.785700+00:00",
   "baseline": false,
   "urls": [
     {
@@ -15986,12 +15986,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/apes-fighting-gorilla-game",
-      "keywords": [
-        "apes fighting gorilla game"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/rift-of-hell---demons-war",
       "keywords": [
         "rift of hell demons war"
@@ -26600,6 +26594,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/combat-online-2",
+      "keywords": [
+        "combat online 2"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/bowmasters-archery-shooting",
       "keywords": [
         "bowmasters archery shooting"
@@ -26828,6 +26828,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/pup-pals",
+      "keywords": [
+        "pup pals"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/rustlight-zqy",
       "keywords": [
         "rustlight zqy"
@@ -26837,6 +26843,12 @@
       "url": "https://www.crazygames.com/game/aura-clicker-pld",
       "keywords": [
         "aura clicker pld"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lawn-mower-idle",
+      "keywords": [
+        "lawn mower idle"
       ]
     },
     {
@@ -27013,6 +27025,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mobile/42",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/43",
       "keywords": []
     },
     {
@@ -27221,6 +27237,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/casual/17",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/18",
       "keywords": []
     },
     {

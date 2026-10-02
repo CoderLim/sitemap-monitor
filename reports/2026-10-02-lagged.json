@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/dig-gold-miner",
+      "keywords": [
+        "dig gold miner"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dino-survival",
+      "keywords": [
+        "dino survival"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/gladius-school-of-champions",
+      "keywords": [
+        "gladius school of champions"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/offroad-jeep-driving-mountain-climb",
+      "keywords": [
+        "offroad jeep driving mountain climb"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dig gold miner",
+    "dino survival",
+    "gladius school of champions",
+    "offroad jeep driving mountain climb"
+  ]
+}

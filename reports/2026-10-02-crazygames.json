@@ -1,0 +1,39 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/combat-online-2",
+      "keywords": [
+        "combat online 2"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pup-pals",
+      "keywords": [
+        "pup pals"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lawn-mower-idle",
+      "keywords": [
+        "lawn mower idle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/43",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/casual/18",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "combat online 2",
+    "pup pals",
+    "lawn mower idle"
+  ]
+}

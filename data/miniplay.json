@@ -1,8 +1,38 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-01T20:52:47.209259+00:00",
+  "fetched_at": "2026-10-02T20:28:58.785700+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/crazy-chameleon",
+      "keywords": [
+        "crazy chameleon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/helltower-io",
+      "keywords": [
+        "helltower io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/my-army-base",
+      "keywords": [
+        "my army base"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snake-escape-puzzle",
+      "keywords": [
+        "snake escape puzzle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bottle-jump-3d",
+      "keywords": [
+        "bottle jump 3d"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/bloxity-io",
       "keywords": [
@@ -26252,15 +26282,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/obby-jump-and-run",
-      "keywords": [
-        "obby jump and run"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/super-soccer-noggins",
       "keywords": [
         "super soccer noggins"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-jump-and-run",
+      "keywords": [
+        "obby jump and run"
       ]
     },
     {
