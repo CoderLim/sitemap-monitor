@@ -1,8 +1,62 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-02T20:28:58.785700+00:00",
+  "fetched_at": "2026-10-03T19:05:35.799029+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/gta-vice-city",
+      "keywords": [
+        "gta vice city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/geometry-vibes-2",
+      "keywords": [
+        "geometry vibes 2"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/terradome-3d",
+      "keywords": [
+        "terradome 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/kick-the-buddy",
+      "keywords": [
+        "kick the buddy"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bloxity-io",
+      "keywords": [
+        "bloxity io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-upgrade-chickens-collect-more-eggs",
+      "keywords": [
+        "obby upgrade chickens collect more eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/splash-sliders",
+      "keywords": [
+        "splash sliders"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bouncemasters",
+      "keywords": [
+        "bouncemasters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-legend-of-zelda-ocarina-of-time",
+      "keywords": [
+        "the legend of zelda ocarina of time"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/crazy-chameleon",
       "keywords": [
@@ -31,18 +85,6 @@
       "url": "https://www.miniplay.com/game/bottle-jump-3d",
       "keywords": [
         "bottle jump 3d"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/bloxity-io",
-      "keywords": [
-        "bloxity io"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/gta-vice-city",
-      "keywords": [
-        "gta vice city"
       ]
     },
     {
@@ -9127,12 +9169,6 @@
       "url": "https://www.miniplay.com/game/rooms-of-doom-madness-lab",
       "keywords": [
         "rooms of doom madness lab"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/bouncemasters",
-      "keywords": [
-        "bouncemasters"
       ]
     },
     {

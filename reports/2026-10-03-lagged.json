@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/snake-arrow-escape",
+      "keywords": [
+        "snake arrow escape"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/card-quest",
+      "keywords": [
+        "card quest"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-fruit-monster-defense-tower-defense",
+      "keywords": [
+        "merge fruit monster defense tower defense"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monster-truck-offroad",
+      "keywords": [
+        "monster truck offroad"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/line-control",
+      "keywords": [
+        "line control"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/only-up-parkour-in-apocalypse",
+      "keywords": [
+        "only up parkour in apocalypse"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "snake arrow escape",
+    "card quest",
+    "merge fruit monster defense tower defense",
+    "monster truck offroad",
+    "line control",
+    "only up parkour in apocalypse"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/geometry-vibes-2",
+      "keywords": [
+        "geometry vibes 2"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/terradome-3d",
+      "keywords": [
+        "terradome 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/kick-the-buddy",
+      "keywords": [
+        "kick the buddy"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-upgrade-chickens-collect-more-eggs",
+      "keywords": [
+        "obby upgrade chickens collect more eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/splash-sliders",
+      "keywords": [
+        "splash sliders"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-legend-of-zelda-ocarina-of-time",
+      "keywords": [
+        "the legend of zelda ocarina of time"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "geometry vibes 2",
+    "terradome 3d",
+    "kick the buddy",
+    "obby upgrade chickens collect more eggs",
+    "splash sliders",
+    "the legend of zelda ocarina of time"
+  ]
+}
