@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-03T19:05:35.799029+00:00",
+  "fetched_at": "2026-10-04T19:19:10.412648+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66589,6 +66589,24 @@
       "url": "https://lagged.com/en/g/line-control",
       "keywords": [
         "line control"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-merge",
+      "keywords": [
+        "zombie merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-parkour-escape-prison",
+      "keywords": [
+        "obby parkour escape prison"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/coral-cove-fishing",
+      "keywords": [
+        "coral cove fishing"
       ]
     },
     {

@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/zombie-merge",
+      "keywords": [
+        "zombie merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-parkour-escape-prison",
+      "keywords": [
+        "obby parkour escape prison"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/coral-cove-fishing",
+      "keywords": [
+        "coral cove fishing"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "zombie merge",
+    "obby parkour escape prison",
+    "coral cove fishing"
+  ]
+}
