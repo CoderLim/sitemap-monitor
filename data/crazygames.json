@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-04T19:19:10.412648+00:00",
+  "fetched_at": "2026-10-05T22:22:25.496342+00:00",
   "baseline": false,
   "urls": [
     {
@@ -13976,6 +13976,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/blocops",
+      "keywords": [
+        "blocops"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/airborne-motocross",
       "keywords": [
         "airborne motocross"
@@ -24260,12 +24266,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/chronicles-of-slayer-dmx",
-      "keywords": [
-        "chronicles of slayer dmx"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/redcoats-io-rcr",
       "keywords": [
         "redcoats io rcr"
@@ -25391,6 +25391,12 @@
       "url": "https://www.crazygames.com/game/yeetcat",
       "keywords": [
         "yeetcat"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blocky-tower-defense-2d",
+      "keywords": [
+        "blocky tower defense 2d"
       ]
     },
     {
@@ -26546,6 +26552,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/shadow-knights-kbg",
+      "keywords": [
+        "shadow knights kbg"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flag-painter",
       "keywords": [
         "flag painter"
@@ -26672,6 +26684,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/trick-or-treat-rush",
+      "keywords": [
+        "trick or treat rush"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/gyroblade",
       "keywords": [
         "gyroblade"
@@ -26687,6 +26705,12 @@
       "url": "https://www.crazygames.com/game/spot-the-diff-drama-style-vrn",
       "keywords": [
         "spot the diff drama style vrn"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/boss-stickman---fighting-stick-it",
+      "keywords": [
+        "boss stickman fighting stick it"
       ]
     },
     {
@@ -26837,6 +26861,12 @@
       "url": "https://www.crazygames.com/game/rustlight-zqy",
       "keywords": [
         "rustlight zqy"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pickaxe-3d-idle-miner",
+      "keywords": [
+        "pickaxe 3d idle miner"
       ]
     },
     {
@@ -27137,6 +27167,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/2d/20",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/21",
       "keywords": []
     },
     {
@@ -28389,6 +28423,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/zombie/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/zombie/4",
       "keywords": []
     },
     {

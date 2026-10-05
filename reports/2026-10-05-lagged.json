@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/royal-smash",
+      "keywords": [
+        "royal smash"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ball-shooter-2048",
+      "keywords": [
+        "ball shooter 2048"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/murder-mystery-2-online",
+      "keywords": [
+        "murder mystery 2 online"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/build-and-jump-aura-obby-tower",
+      "keywords": [
+        "build and jump aura obby tower"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/1-brick-escape-obby",
+      "keywords": [
+        "1 brick escape obby"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "royal smash",
+    "ball shooter 2048",
+    "murder mystery 2 online",
+    "build and jump aura obby tower",
+    "1 brick escape obby"
+  ]
+}

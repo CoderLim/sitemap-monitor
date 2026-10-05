@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-04T19:19:10.412648+00:00",
+  "fetched_at": "2026-10-05T22:22:25.496342+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66484,6 +66484,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/royal-smash",
+      "keywords": [
+        "royal smash"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/neon-rolling-ball",
       "keywords": [
         "neon rolling ball"
@@ -66718,6 +66724,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/ball-shooter-2048",
+      "keywords": [
+        "ball shooter 2048"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/crypt-of-the-last-spark",
       "keywords": [
         "crypt of the last spark"
@@ -66766,6 +66778,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/murder-mystery-2-online",
+      "keywords": [
+        "murder mystery 2 online"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/craft-and-battle",
       "keywords": [
         "craft and battle"
@@ -66781,6 +66799,12 @@
       "url": "https://lagged.com/en/g/only-up-parkour-in-apocalypse",
       "keywords": [
         "only up parkour in apocalypse"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/build-and-jump-aura-obby-tower",
+      "keywords": [
+        "build and jump aura obby tower"
       ]
     },
     {
@@ -66835,6 +66859,12 @@
       "url": "https://lagged.com/en/g/sushi-chef-roll",
       "keywords": [
         "sushi chef roll"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/1-brick-escape-obby",
+      "keywords": [
+        "1 brick escape obby"
       ]
     },
     {

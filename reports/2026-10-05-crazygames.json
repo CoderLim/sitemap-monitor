@@ -1,0 +1,60 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/blocops",
+      "keywords": [
+        "blocops"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blocky-tower-defense-2d",
+      "keywords": [
+        "blocky tower defense 2d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/shadow-knights-kbg",
+      "keywords": [
+        "shadow knights kbg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/trick-or-treat-rush",
+      "keywords": [
+        "trick or treat rush"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/boss-stickman---fighting-stick-it",
+      "keywords": [
+        "boss stickman fighting stick it"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pickaxe-3d-idle-miner",
+      "keywords": [
+        "pickaxe 3d idle miner"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/21",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/zombie/4",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "blocops",
+    "blocky tower defense 2d",
+    "shadow knights kbg",
+    "trick or treat rush",
+    "boss stickman fighting stick it",
+    "pickaxe 3d idle miner"
+  ]
+}

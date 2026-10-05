@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-04T19:19:10.412648+00:00",
+  "fetched_at": "2026-10-05T22:22:25.496342+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/anthill-wars",
+      "keywords": [
+        "anthill wars"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/backroom-bill",
+      "keywords": [
+        "backroom bill"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/little-planet-lumberjack",
       "keywords": [
@@ -175,12 +187,6 @@
       "url": "https://poki.com/en/g/dino-merge",
       "keywords": [
         "dino merge"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/backroom-bill",
-      "keywords": [
-        "backroom bill"
       ]
     },
     {
