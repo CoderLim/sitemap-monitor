@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-05T22:22:25.496342+00:00",
+  "fetched_at": "2026-10-06T20:50:38.106434+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/crazy-motorcycle-pro",
+      "keywords": [
+        "crazy motorcycle pro"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/idle-pocket-planet",
+      "keywords": [
+        "idle pocket planet"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/anthill-wars",
       "keywords": [
@@ -199,12 +211,6 @@
       "url": "https://poki.com/en/g/bugs-io",
       "keywords": [
         "bugs io"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/crazy-motorcycle-pro",
-      "keywords": [
-        "crazy motorcycle pro"
       ]
     },
     {

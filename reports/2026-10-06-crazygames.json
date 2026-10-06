@@ -1,0 +1,38 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/catch-lucky-block",
+      "keywords": [
+        "catch lucky block"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/ludus-aeternus-uzh",
+      "keywords": [
+        "ludus aeternus uzh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/gun-maker",
+      "keywords": [
+        "gun maker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tile-clash",
+      "keywords": [
+        "tile clash"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "catch lucky block",
+    "ludus aeternus uzh",
+    "gun maker",
+    "tile clash"
+  ]
+}

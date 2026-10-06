@@ -1,0 +1,52 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/spooky-block-blast",
+      "keywords": [
+        "spooky block blast"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/movie-night-glam-dress-up",
+      "keywords": [
+        "movie night glam dress up"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/jewels-blitz-7",
+      "keywords": [
+        "jewels blitz 7"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/ninja-platformer-rage",
+      "keywords": [
+        "ninja platformer rage"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/heist-crew",
+      "keywords": [
+        "heist crew"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/zipzap",
+      "keywords": [
+        "zipzap"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "spooky block blast",
+    "movie night glam dress up",
+    "jewels blitz 7",
+    "ninja platformer rage",
+    "heist crew",
+    "zipzap"
+  ]
+}
