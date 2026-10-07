@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/backrooms-craft",
+      "keywords": [
+        "backrooms craft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/doodle-god-alchemy-simulator",
+      "keywords": [
+        "doodle god alchemy simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/void-rush",
+      "keywords": [
+        "void rush"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bottle-logic",
+      "keywords": [
+        "bottle logic"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/merge-evolution-idle-clicker",
+      "keywords": [
+        "merge evolution idle clicker"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "backrooms craft",
+    "doodle god alchemy simulator",
+    "void rush",
+    "bottle logic",
+    "merge evolution idle clicker"
+  ]
+}

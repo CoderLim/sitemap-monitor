@@ -1,8 +1,50 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-06T20:50:38.106434+00:00",
+  "fetched_at": "2026-10-07T21:05:38.302329+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/sand-tetris",
+      "keywords": [
+        "sand tetris"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/backrooms-craft",
+      "keywords": [
+        "backrooms craft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wizard-io",
+      "keywords": [
+        "wizard io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/doodle-god-alchemy-simulator",
+      "keywords": [
+        "doodle god alchemy simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/void-rush",
+      "keywords": [
+        "void rush"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bottle-logic",
+      "keywords": [
+        "bottle logic"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/merge-evolution-idle-clicker",
+      "keywords": [
+        "merge evolution idle clicker"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/combat-online-2",
       "keywords": [
@@ -7081,12 +7123,6 @@
       "url": "https://www.miniplay.com/game/stick-create-a-level",
       "keywords": [
         "stick create a level"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/sand-tetris",
-      "keywords": [
-        "sand tetris"
       ]
     },
     {
@@ -22079,12 +22115,6 @@
       "url": "https://www.miniplay.com/game/portal-td-tower-defense",
       "keywords": [
         "portal td tower defense"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/wizard-io",
-      "keywords": [
-        "wizard io"
       ]
     },
     {

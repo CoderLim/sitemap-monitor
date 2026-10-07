@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/deep-drill-run",
+      "keywords": [
+        "deep drill run"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/farm-clear-the-jam",
+      "keywords": [
+        "farm clear the jam"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/help-me-tricky-story-of-puzzles",
+      "keywords": [
+        "help me tricky story of puzzles"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dream-reaper-defense",
+      "keywords": [
+        "dream reaper defense"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/besties-y2k-butterfly-trends",
+      "keywords": [
+        "besties y2k butterfly trends"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "deep drill run",
+    "farm clear the jam",
+    "help me tricky story of puzzles",
+    "dream reaper defense",
+    "besties y2k butterfly trends"
+  ]
+}
