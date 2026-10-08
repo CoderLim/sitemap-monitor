@@ -1,0 +1,710 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/atomic-merge-2048",
+      "keywords": [
+        "atomic merge 2048"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/vowel-vs-consonant",
+      "keywords": [
+        "vowel vs consonant"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/transform-car-battle",
+      "keywords": [
+        "transform car battle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/climb-master-reach-the-top",
+      "keywords": [
+        "climb master reach the top"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/monsters-shooter",
+      "keywords": [
+        "monsters shooter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tralalero-tralala-last-fight",
+      "keywords": [
+        "tralalero tralala last fight"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grenade-hit-stickman",
+      "keywords": [
+        "grenade hit stickman"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/red-and-green-candy-forest",
+      "keywords": [
+        "red and green candy forest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/squad-surge-zombie-horde",
+      "keywords": [
+        "squad surge zombie horde"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ashen-ninja-rust-and-katana",
+      "keywords": [
+        "ashen ninja rust and katana"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/connect-the-pipes-water-puzzle",
+      "keywords": [
+        "connect the pipes water puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/falafel-master",
+      "keywords": [
+        "falafel master"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/island-siege",
+      "keywords": [
+        "island siege"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meow-block-color-collect",
+      "keywords": [
+        "meow block color collect"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/juice-machine",
+      "keywords": [
+        "juice machine"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/keyboard-escape-block-speed",
+      "keywords": [
+        "keyboard escape block speed"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pixzombies",
+      "keywords": [
+        "pixzombies"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/descent",
+      "keywords": [
+        "descent"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mine-blade-online-kitpvp",
+      "keywords": [
+        "mine blade online kitpvp"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spooky-saw-sprint",
+      "keywords": [
+        "spooky saw sprint"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rolling-gravity-sky-ball",
+      "keywords": [
+        "rolling gravity sky ball"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/food-coloring-book-for-kids",
+      "keywords": [
+        "food coloring book for kids"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/raktoo",
+      "keywords": [
+        "raktoo"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/color-strike",
+      "keywords": [
+        "color strike"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/little-uboat",
+      "keywords": [
+        "little uboat"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/colorful-shapes",
+      "keywords": [
+        "colorful shapes"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/aroka",
+      "keywords": [
+        "aroka"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/happy-four-seasons",
+      "keywords": [
+        "happy four seasons"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/math-boy",
+      "keywords": [
+        "math boy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/help-santa-claus",
+      "keywords": [
+        "help santa claus"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/break-the-maze",
+      "keywords": [
+        "break the maze"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/monster-block",
+      "keywords": [
+        "monster block"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/is-it-right",
+      "keywords": [
+        "is it right"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ball-game",
+      "keywords": [
+        "ball game"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/celebrity-face-dance",
+      "keywords": [
+        "celebrity face dance"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bullet-ball",
+      "keywords": [
+        "bullet ball"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/premium-doge-lover",
+      "keywords": [
+        "premium doge lover"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/modern-sudoku",
+      "keywords": [
+        "modern sudoku"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sky-heroes-z",
+      "keywords": [
+        "sky heroes z"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pop-rings",
+      "keywords": [
+        "pop rings"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/space-doodles",
+      "keywords": [
+        "space doodles"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/diamond-compiler",
+      "keywords": [
+        "diamond compiler"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jungle-animals-coloring-book-for-kids",
+      "keywords": [
+        "jungle animals coloring book for kids"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubbly",
+      "keywords": [
+        "bubbly"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/2048-decks",
+      "keywords": [
+        "2048 decks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/numeric-logic",
+      "keywords": [
+        "numeric logic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/littleyellowman",
+      "keywords": [
+        "littleyellowman"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/platformer-war-day",
+      "keywords": [
+        "platformer war day"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/watermelon-destroyer",
+      "keywords": [
+        "watermelon destroyer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zombie-verse",
+      "keywords": [
+        "zombie verse"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zombie-squash",
+      "keywords": [
+        "zombie squash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-vanguard-rogue-defense",
+      "keywords": [
+        "neon vanguard rogue defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crazy-football",
+      "keywords": [
+        "crazy football"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dangerous-circle-online",
+      "keywords": [
+        "dangerous circle online"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ibraword",
+      "keywords": [
+        "ibraword"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/space-plus-invaders",
+      "keywords": [
+        "space plus invaders"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meal-mayhem",
+      "keywords": [
+        "meal mayhem"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cobrix",
+      "keywords": [
+        "cobrix"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-rush",
+      "keywords": [
+        "bubble rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/zombie-horde",
+      "keywords": [
+        "zombie horde"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/scrap-metal",
+      "keywords": [
+        "scrap metal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/paprika-s-big-shot",
+      "keywords": [
+        "paprika s big shot"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rocky-canyon",
+      "keywords": [
+        "rocky canyon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dodge-neon-rush",
+      "keywords": [
+        "dodge neon rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mini-golf-3d-island-course",
+      "keywords": [
+        "mini golf 3d island course"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/d-ops-arcade-zombies",
+      "keywords": [
+        "d ops arcade zombies"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lagos-hustle-dont-drop-the-gala",
+      "keywords": [
+        "lagos hustle dont drop the gala"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sillage",
+      "keywords": [
+        "sillage"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stylish-nail-art",
+      "keywords": [
+        "stylish nail art"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/trucktopolis-cooking-chaos",
+      "keywords": [
+        "trucktopolis cooking chaos"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/thread-torque-bolt-workshop-puzzle",
+      "keywords": [
+        "thread torque bolt workshop puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fashion-makeover-dash",
+      "keywords": [
+        "fashion makeover dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/little-dentist-dash",
+      "keywords": [
+        "little dentist dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/asmr-beauty-clinic",
+      "keywords": [
+        "asmr beauty clinic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stickninja-mission",
+      "keywords": [
+        "stickninja mission"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/veg-burger-shop",
+      "keywords": [
+        "veg burger shop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/voltstorm-pinball",
+      "keywords": [
+        "voltstorm pinball"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-aventine-cipher",
+      "keywords": [
+        "the aventine cipher"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/itto-samurai-garden",
+      "keywords": [
+        "itto samurai garden"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-defence",
+      "keywords": [
+        "neon defence"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/voyage-to-ithaca",
+      "keywords": [
+        "voyage to ithaca"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stacking-blocks",
+      "keywords": [
+        "stacking blocks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tidecaster",
+      "keywords": [
+        "tidecaster"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sky-rings",
+      "keywords": [
+        "sky rings"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/xenogenesis-idle",
+      "keywords": [
+        "xenogenesis idle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/world-s-fastest-game",
+      "keywords": [
+        "world s fastest game"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/feather-frenzy",
+      "keywords": [
+        "feather frenzy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/can-knockdown",
+      "keywords": [
+        "can knockdown"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/row",
+      "keywords": [
+        "row"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/once-upon-a-canter",
+      "keywords": [
+        "once upon a canter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/party-isle",
+      "keywords": [
+        "party isle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/quiet-ikebana",
+      "keywords": [
+        "quiet ikebana"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jelly-cutter",
+      "keywords": [
+        "jelly cutter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/blobslide",
+      "keywords": [
+        "blobslide"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ashengold",
+      "keywords": [
+        "ashengold"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wraithgate",
+      "keywords": [
+        "wraithgate"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kage-no-michi",
+      "keywords": [
+        "kage no michi"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tumble-dungeon",
+      "keywords": [
+        "tumble dungeon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/devil-roulette",
+      "keywords": [
+        "devil roulette"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ai-influencers-boxing",
+      "keywords": [
+        "ai influencers boxing"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "atomic merge 2048",
+    "vowel vs consonant",
+    "transform car battle",
+    "climb master reach the top",
+    "monsters shooter",
+    "tralalero tralala last fight",
+    "grenade hit stickman",
+    "red and green candy forest",
+    "squad surge zombie horde",
+    "ashen ninja rust and katana",
+    "connect the pipes water puzzle",
+    "falafel master",
+    "island siege",
+    "meow block color collect",
+    "juice machine",
+    "keyboard escape block speed",
+    "pixzombies",
+    "descent",
+    "mine blade online kitpvp",
+    "spooky saw sprint",
+    "rolling gravity sky ball",
+    "food coloring book for kids",
+    "raktoo",
+    "color strike",
+    "little uboat",
+    "colorful shapes",
+    "aroka",
+    "happy four seasons",
+    "math boy",
+    "help santa claus",
+    "break the maze",
+    "monster block",
+    "is it right",
+    "ball game",
+    "celebrity face dance",
+    "bullet ball",
+    "premium doge lover",
+    "modern sudoku",
+    "sky heroes z",
+    "pop rings",
+    "space doodles",
+    "diamond compiler",
+    "jungle animals coloring book for kids",
+    "bubbly",
+    "2048 decks",
+    "numeric logic",
+    "littleyellowman",
+    "platformer war day",
+    "watermelon destroyer",
+    "zombie verse",
+    "zombie squash",
+    "neon vanguard rogue defense",
+    "crazy football",
+    "dangerous circle online",
+    "ibraword",
+    "space plus invaders",
+    "meal mayhem",
+    "cobrix",
+    "bubble rush",
+    "zombie horde",
+    "scrap metal",
+    "paprika s big shot",
+    "rocky canyon",
+    "dodge neon rush",
+    "mini golf 3d island course",
+    "d ops arcade zombies",
+    "lagos hustle dont drop the gala",
+    "sillage",
+    "stylish nail art",
+    "trucktopolis cooking chaos",
+    "thread torque bolt workshop puzzle",
+    "fashion makeover dash",
+    "little dentist dash",
+    "asmr beauty clinic",
+    "stickninja mission",
+    "veg burger shop",
+    "voltstorm pinball",
+    "the aventine cipher",
+    "itto samurai garden",
+    "neon defence",
+    "voyage to ithaca",
+    "stacking blocks",
+    "tidecaster",
+    "sky rings",
+    "xenogenesis idle",
+    "world s fastest game",
+    "feather frenzy",
+    "can knockdown",
+    "row",
+    "once upon a canter",
+    "party isle",
+    "quiet ikebana",
+    "jelly cutter",
+    "blobslide",
+    "ashengold",
+    "wraithgate",
+    "kage no michi",
+    "tumble dungeon",
+    "devil roulette",
+    "ai influencers boxing"
+  ]
+}

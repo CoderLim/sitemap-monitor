@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/canyon-drifter",
+      "keywords": [
+        "canyon drifter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/stealth-silent-squid",
+      "keywords": [
+        "stealth silent squid"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "canyon drifter",
+    "stealth silent squid"
+  ]
+}

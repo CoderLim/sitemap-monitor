@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/mini-turbo-karts",
+      "keywords": [
+        "mini turbo karts"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-a-dino-egg",
+      "keywords": [
+        "steal a dino egg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lumberjack-simulator-3d",
+      "keywords": [
+        "lumberjack simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crime-wars-open-world",
+      "keywords": [
+        "crime wars open world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catch-a-brainrot-from-bosses",
+      "keywords": [
+        "catch a brainrot from bosses"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/merge-and-fight",
+      "keywords": [
+        "merge and fight"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/shoot-the-bubbles",
+      "keywords": [
+        "shoot the bubbles"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mini turbo karts",
+    "steal a dino egg",
+    "lumberjack simulator 3d",
+    "crime wars open world",
+    "catch a brainrot from bosses",
+    "merge and fight",
+    "shoot the bubbles"
+  ]
+}

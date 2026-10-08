@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-07T21:05:38.302329+00:00",
+  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/froogoo",
+      "keywords": [
+        "froogoo"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/tnt-sandbox",
+      "keywords": [
+        "tnt sandbox"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/cafe-merge",
+      "keywords": [
+        "cafe merge"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/platypus-coffee",
       "keywords": [
@@ -184,12 +202,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/cafe-merge",
-      "keywords": [
-        "cafe merge"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/my-dream-house-makeover",
       "keywords": [
         "my dream house makeover"
@@ -313,12 +325,6 @@
       "url": "https://poki.com/en/g/clean-the-roof",
       "keywords": [
         "clean the roof"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/tnt-sandbox",
-      "keywords": [
-        "tnt sandbox"
       ]
     },
     {

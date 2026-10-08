@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-07T21:05:38.302329+00:00",
+  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/mini-turbo-karts",
+      "keywords": [
+        "mini turbo karts"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-a-dino-egg",
+      "keywords": [
+        "steal a dino egg"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lumberjack-simulator-3d",
+      "keywords": [
+        "lumberjack simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crime-wars-open-world",
+      "keywords": [
+        "crime wars open world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catch-a-brainrot-from-bosses",
+      "keywords": [
+        "catch a brainrot from bosses"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/merge-and-fight",
+      "keywords": [
+        "merge and fight"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/shoot-the-bubbles",
+      "keywords": [
+        "shoot the bubbles"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/skip-po",
+      "keywords": [
+        "skip po"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/sand-tetris",
       "keywords": [
@@ -265,12 +313,6 @@
       "url": "https://www.miniplay.com/game/bike-obby-draw-pencil",
       "keywords": [
         "bike obby draw pencil"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/skip-po",
-      "keywords": [
-        "skip po"
       ]
     },
     {
@@ -3292,15 +3334,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
-      "keywords": [
-        "penalty europe champions edition multiplayer"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
       "keywords": [
         "mine obby 3d minigame world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
+      "keywords": [
+        "penalty europe champions edition multiplayer"
       ]
     },
     {
