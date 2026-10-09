@@ -1,0 +1,31 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/farm-blast-2",
+      "keywords": [
+        "farm blast 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/k-pop-halloween-dress-up",
+      "keywords": [
+        "k pop halloween dress up"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cursed-gift",
+      "keywords": [
+        "cursed gift"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "farm blast 2",
+    "k pop halloween dress up",
+    "cursed gift"
+  ]
+}

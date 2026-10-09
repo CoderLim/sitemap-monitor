@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/rope-rumble",
+      "keywords": [
+        "rope rumble"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dino-mosaic-build-an-era",
+      "keywords": [
+        "dino mosaic build an era"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pool-blast-merge-balls",
+      "keywords": [
+        "pool blast merge balls"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-grow-a-garden-brainrot",
+      "keywords": [
+        "obby grow a garden brainrot"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "rope rumble",
+    "dino mosaic build an era",
+    "pool blast merge balls",
+    "obby grow a garden brainrot"
+  ]
+}

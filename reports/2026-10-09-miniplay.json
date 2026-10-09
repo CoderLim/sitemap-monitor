@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/duelist-pvp",
+      "keywords": [
+        "duelist pvp"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ride-a-pet",
+      "keywords": [
+        "ride a pet"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dbz-vs-marvel-vs-capcom",
+      "keywords": [
+        "dbz vs marvel vs capcom"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/messcraft",
+      "keywords": [
+        "messcraft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/loopix",
+      "keywords": [
+        "loopix"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/copy-cats",
+      "keywords": [
+        "copy cats"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/find-nemo-fishdoms-story",
+      "keywords": [
+        "find nemo fishdoms story"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "duelist pvp",
+    "ride a pet",
+    "dbz vs marvel vs capcom",
+    "messcraft",
+    "loopix",
+    "copy cats",
+    "find nemo fishdoms story"
+  ]
+}

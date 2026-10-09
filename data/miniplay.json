@@ -1,12 +1,60 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
+  "fetched_at": "2026-10-09T20:39:46.455108+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/duelist-pvp",
+      "keywords": [
+        "duelist pvp"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ride-a-pet",
+      "keywords": [
+        "ride a pet"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dbz-vs-marvel-vs-capcom",
+      "keywords": [
+        "dbz vs marvel vs capcom"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/mini-turbo-karts",
       "keywords": [
         "mini turbo karts"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/messcraft",
+      "keywords": [
+        "messcraft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/loopix",
+      "keywords": [
+        "loopix"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/copy-cats",
+      "keywords": [
+        "copy cats"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/friday-night-funkin-2-players",
+      "keywords": [
+        "friday night funkin 2 players"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/find-nemo-fishdoms-story",
+      "keywords": [
+        "find nemo fishdoms story"
       ]
     },
     {
@@ -3334,15 +3382,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
-      "keywords": [
-        "mine obby 3d minigame world"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
       "keywords": [
         "penalty europe champions edition multiplayer"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
+      "keywords": [
+        "mine obby 3d minigame world"
       ]
     },
     {
@@ -47261,12 +47309,6 @@
       "url": "https://www.miniplay.com/game/friday-night-funkin-vs-eddsworld",
       "keywords": [
         "friday night funkin vs eddsworld"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/friday-night-funkin-2-players",
-      "keywords": [
-        "friday night funkin 2 players"
       ]
     },
     {

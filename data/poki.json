@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
+  "fetched_at": "2026-10-09T20:39:46.455108+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/adopt-merge",
+      "keywords": [
+        "adopt merge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/bugs-io",
+      "keywords": [
+        "bugs io"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/hatch-your-pets",
+      "keywords": [
+        "hatch your pets"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/froogoo",
       "keywords": [
@@ -160,12 +178,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/hatch-your-pets",
-      "keywords": [
-        "hatch your pets"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/pilot-life",
       "keywords": [
         "pilot life"
@@ -229,12 +241,6 @@
       "url": "https://poki.com/en/g/emoji-factory",
       "keywords": [
         "emoji factory"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/bugs-io",
-      "keywords": [
-        "bugs io"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
+  "fetched_at": "2026-10-09T20:39:46.455108+00:00",
   "baseline": false,
   "urls": [
     {
@@ -66754,6 +66754,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/rope-rumble",
+      "keywords": [
+        "rope rumble"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/crypt-of-the-last-spark",
       "keywords": [
         "crypt of the last spark"
@@ -66781,6 +66787,18 @@
       "url": "https://lagged.com/en/g/canyon-drifter",
       "keywords": [
         "canyon drifter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/dino-mosaic-build-an-era",
+      "keywords": [
+        "dino mosaic build an era"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pool-blast-merge-balls",
+      "keywords": [
+        "pool blast merge balls"
       ]
     },
     {
@@ -66865,6 +66883,12 @@
       "url": "https://lagged.com/en/g/cat-box-merge",
       "keywords": [
         "cat box merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-grow-a-garden-brainrot",
+      "keywords": [
+        "obby grow a garden brainrot"
       ]
     },
     {

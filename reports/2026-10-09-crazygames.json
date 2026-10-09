@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-09",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/heatline",
+      "keywords": [
+        "heatline"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stone-skipper-idle-waters",
+      "keywords": [
+        "stone skipper idle waters"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/office-company-tycoon",
+      "keywords": [
+        "office company tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/word-solitaire-qjo",
+      "keywords": [
+        "word solitaire qjo"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rainy-day-bookshop",
+      "keywords": [
+        "rainy day bookshop"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hole-io-uyt",
+      "keywords": [
+        "hole io uyt"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "heatline",
+    "stone skipper idle waters",
+    "office company tycoon",
+    "word solitaire qjo",
+    "rainy day bookshop",
+    "hole io uyt"
+  ]
+}

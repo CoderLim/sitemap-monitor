@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-10-08T21:08:49.625511+00:00",
+  "fetched_at": "2026-10-09T20:39:46.455108+00:00",
   "baseline": false,
   "urls": [
     {
@@ -35945,6 +35945,24 @@
       "url": "https://kizi.com/games/zipzap",
       "keywords": [
         "zipzap"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/farm-blast-2",
+      "keywords": [
+        "farm blast 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/k-pop-halloween-dress-up",
+      "keywords": [
+        "k pop halloween dress up"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/cursed-gift",
+      "keywords": [
+        "cursed gift"
       ]
     }
   ]
