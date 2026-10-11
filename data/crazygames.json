@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-10T19:53:11.717192+00:00",
+  "fetched_at": "2026-10-11T20:01:12.329967+00:00",
   "baseline": false,
   "urls": [
     {
@@ -8033,12 +8033,6 @@
       "url": "https://www.crazygames.com/game/snake-io",
       "keywords": [
         "snake io"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/foundation-kingdom-build-guard",
-      "keywords": [
-        "foundation kingdom build guard"
       ]
     },
     {
@@ -27020,6 +27014,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/kiln-dread",
+      "keywords": [
+        "kiln dread"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/penalty-wild-cards",
       "keywords": [
         "penalty wild cards"
@@ -27050,9 +27050,21 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/real-survival-not-fake",
+      "keywords": [
+        "real survival not fake"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/ninja-tide",
       "keywords": [
         "ninja tide"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/capybara-spa-tycoon",
+      "keywords": [
+        "capybara spa tycoon"
       ]
     },
     {

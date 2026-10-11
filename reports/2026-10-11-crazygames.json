@@ -1,0 +1,31 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-11",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/kiln-dread",
+      "keywords": [
+        "kiln dread"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/real-survival-not-fake",
+      "keywords": [
+        "real survival not fake"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/capybara-spa-tycoon",
+      "keywords": [
+        "capybara spa tycoon"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "kiln dread",
+    "real survival not fake",
+    "capybara spa tycoon"
+  ]
+}
