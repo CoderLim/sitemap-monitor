@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-10-11T20:01:12.329967+00:00",
+  "fetched_at": "2026-10-12T22:47:42.674995+00:00",
   "baseline": false,
   "urls": [
     {
@@ -35960,9 +35960,27 @@
       ]
     },
     {
+      "url": "https://kizi.com/games/train-station-2",
+      "keywords": [
+        "train station 2"
+      ]
+    },
+    {
       "url": "https://kizi.com/games/cursed-gift",
       "keywords": [
         "cursed gift"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/pixel-path-2",
+      "keywords": [
+        "pixel path 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/fall-aesthetics",
+      "keywords": [
+        "fall aesthetics"
       ]
     }
   ]

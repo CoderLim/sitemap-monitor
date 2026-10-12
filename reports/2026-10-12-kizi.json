@@ -1,0 +1,31 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/train-station-2",
+      "keywords": [
+        "train station 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/pixel-path-2",
+      "keywords": [
+        "pixel path 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/fall-aesthetics",
+      "keywords": [
+        "fall aesthetics"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "train station 2",
+    "pixel path 2",
+    "fall aesthetics"
+  ]
+}

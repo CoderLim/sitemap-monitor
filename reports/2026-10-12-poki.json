@@ -1,0 +1,24 @@
+{
+  "site_id": "poki",
+  "date": "2026-10-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/toy-repair-shop",
+      "keywords": [
+        "toy repair shop"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/find-the-needle-in-haystack",
+      "keywords": [
+        "find the needle in haystack"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "toy repair shop",
+    "find the needle in haystack"
+  ]
+}

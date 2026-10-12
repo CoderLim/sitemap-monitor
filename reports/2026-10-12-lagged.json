@@ -1,0 +1,73 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/planet-blast-rockets",
+      "keywords": [
+        "planet blast rockets"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-1-laser-to-break-walls",
+      "keywords": [
+        "obby 1 laser to break walls"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cube-blast-puzzle",
+      "keywords": [
+        "cube blast puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-sniper-hero",
+      "keywords": [
+        "zombie sniper hero"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/blockland-oneblock-skyblock",
+      "keywords": [
+        "blockland oneblock skyblock"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/gun-flip-battle",
+      "keywords": [
+        "gun flip battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/fishing-bay",
+      "keywords": [
+        "fishing bay"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mother-simulator-husband-wife-games",
+      "keywords": [
+        "mother simulator husband wife games"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/toy-smash",
+      "keywords": [
+        "toy smash"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "planet blast rockets",
+    "obby 1 laser to break walls",
+    "cube blast puzzle",
+    "zombie sniper hero",
+    "blockland oneblock skyblock",
+    "gun flip battle",
+    "fishing bay",
+    "mother simulator husband wife games",
+    "toy smash"
+  ]
+}
