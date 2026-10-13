@@ -1,0 +1,24 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/prisma-tide-of-colors",
+      "keywords": [
+        "prisma tide of colors"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/snack-stack",
+      "keywords": [
+        "snack stack"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "prisma tide of colors",
+    "snack stack"
+  ]
+}

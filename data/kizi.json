@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-10-12T22:47:42.674995+00:00",
+  "fetched_at": "2026-10-13T21:02:50.245951+00:00",
   "baseline": false,
   "urls": [
     {
@@ -35981,6 +35981,18 @@
       "url": "https://kizi.com/games/fall-aesthetics",
       "keywords": [
         "fall aesthetics"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/prisma-tide-of-colors",
+      "keywords": [
+        "prisma tide of colors"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/snack-stack",
+      "keywords": [
+        "snack stack"
       ]
     }
   ]

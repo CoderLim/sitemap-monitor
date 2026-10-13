@@ -1,0 +1,584 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/hoparade",
+      "keywords": [
+        "hoparade"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/2048-prisme",
+      "keywords": [
+        "2048 prisme"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/color-cannons",
+      "keywords": [
+        "color cannons"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/anything-goes-stickman-brawl",
+      "keywords": [
+        "anything goes stickman brawl"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/draw-ia",
+      "keywords": [
+        "draw ia"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fossil-hunters",
+      "keywords": [
+        "fossil hunters"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/deep-spear-ragdoll-hunter",
+      "keywords": [
+        "deep spear ragdoll hunter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bounce-shot-3d",
+      "keywords": [
+        "bounce shot 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slippy-splash",
+      "keywords": [
+        "slippy splash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/enemy-zero",
+      "keywords": [
+        "enemy zero"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/legiontide",
+      "keywords": [
+        "legiontide"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/leviathan-haul",
+      "keywords": [
+        "leviathan haul"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dino-arena",
+      "keywords": [
+        "dino arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gravity-hunter",
+      "keywords": [
+        "gravity hunter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mini-football",
+      "keywords": [
+        "mini football"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sky-harvest",
+      "keywords": [
+        "sky harvest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/paint-demolition",
+      "keywords": [
+        "paint demolition"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/perfect-cut",
+      "keywords": [
+        "perfect cut"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/umbra-link",
+      "keywords": [
+        "umbra link"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/planet-pile",
+      "keywords": [
+        "planet pile"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-rampart",
+      "keywords": [
+        "last rampart"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slide-escape",
+      "keywords": [
+        "slide escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/emberhold",
+      "keywords": [
+        "emberhold"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stack-bounce-3d",
+      "keywords": [
+        "stack bounce 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/aegis-circuit",
+      "keywords": [
+        "aegis circuit"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-bus",
+      "keywords": [
+        "last bus"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/halloween-dress-up-party",
+      "keywords": [
+        "halloween dress up party"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ghostlight-nine-nights",
+      "keywords": [
+        "ghostlight nine nights"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/winter-wonderland-solitaire",
+      "keywords": [
+        "winter wonderland solitaire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chest-clicker",
+      "keywords": [
+        "chest clicker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/abyss-muncher",
+      "keywords": [
+        "abyss muncher"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meowtal-strike-neon-halloween",
+      "keywords": [
+        "meowtal strike neon halloween"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rooftop-rush-3d",
+      "keywords": [
+        "rooftop rush 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrow-puzzle-3d-cube-escape",
+      "keywords": [
+        "arrow puzzle 3d cube escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shove-spark",
+      "keywords": [
+        "shove spark"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stamp-the-parcel",
+      "keywords": [
+        "stamp the parcel"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/riot-riders",
+      "keywords": [
+        "riot riders"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gnome-bobsled",
+      "keywords": [
+        "gnome bobsled"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/warband-trail",
+      "keywords": [
+        "warband trail"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/robot-scrap",
+      "keywords": [
+        "robot scrap"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/animal-out-tap-away-puzzle",
+      "keywords": [
+        "animal out tap away puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cyber-arena",
+      "keywords": [
+        "cyber arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-breaker",
+      "keywords": [
+        "neon breaker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chrome-smile",
+      "keywords": [
+        "chrome smile"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chromos",
+      "keywords": [
+        "chromos"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/clashcore",
+      "keywords": [
+        "clashcore"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grapnel-ninja",
+      "keywords": [
+        "grapnel ninja"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brawl-bash",
+      "keywords": [
+        "brawl bash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/just-one-more-endless-rush",
+      "keywords": [
+        "just one more endless rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bullet-bike-rush",
+      "keywords": [
+        "bullet bike rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dice-royal",
+      "keywords": [
+        "dice royal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-fort",
+      "keywords": [
+        "merge fort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mob-rush-crowd-runner",
+      "keywords": [
+        "mob rush crowd runner"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meadowhive",
+      "keywords": [
+        "meadowhive"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-idle-war",
+      "keywords": [
+        "merge idle war"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-light",
+      "keywords": [
+        "last light"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shelf-sort",
+      "keywords": [
+        "shelf sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-survivor-overclock",
+      "keywords": [
+        "neon survivor overclock"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/luminous-garden",
+      "keywords": [
+        "luminous garden"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/myaksy",
+      "keywords": [
+        "myaksy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/octopus-dodge",
+      "keywords": [
+        "octopus dodge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/smile-hunt",
+      "keywords": [
+        "smile hunt"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tiptoe-daily-heist-puzzle",
+      "keywords": [
+        "tiptoe daily heist puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stranded-swarmed",
+      "keywords": [
+        "stranded swarmed"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/starvers-io",
+      "keywords": [
+        "starvers io"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/candlebound-coven",
+      "keywords": [
+        "candlebound coven"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wardfall",
+      "keywords": [
+        "wardfall"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pudge-arena",
+      "keywords": [
+        "pudge arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dino-isle",
+      "keywords": [
+        "dino isle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wordwink",
+      "keywords": [
+        "wordwink"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/deep-delve",
+      "keywords": [
+        "deep delve"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/halloween-dentist-for-kids-2",
+      "keywords": [
+        "halloween dentist for kids 2"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/outrun-yourself",
+      "keywords": [
+        "outrun yourself"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spooky-vending-machine-2",
+      "keywords": [
+        "spooky vending machine 2"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spire-siege",
+      "keywords": [
+        "spire siege"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/carletto-dreams-adventure",
+      "keywords": [
+        "carletto dreams adventure"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fathom-frenzy",
+      "keywords": [
+        "fathom frenzy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sneaky-spikes",
+      "keywords": [
+        "sneaky spikes"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/witchy",
+      "keywords": [
+        "witchy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mochi-merge",
+      "keywords": [
+        "mochi merge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/speed-superhero-obby",
+      "keywords": [
+        "speed superhero obby"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bolt-jam",
+      "keywords": [
+        "bolt jam"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hoparade",
+    "2048 prisme",
+    "color cannons",
+    "anything goes stickman brawl",
+    "draw ia",
+    "fossil hunters",
+    "deep spear ragdoll hunter",
+    "bounce shot 3d",
+    "slippy splash",
+    "enemy zero",
+    "legiontide",
+    "leviathan haul",
+    "dino arena",
+    "gravity hunter",
+    "mini football",
+    "sky harvest",
+    "paint demolition",
+    "perfect cut",
+    "umbra link",
+    "planet pile",
+    "last rampart",
+    "slide escape",
+    "emberhold",
+    "stack bounce 3d",
+    "aegis circuit",
+    "last bus",
+    "halloween dress up party",
+    "ghostlight nine nights",
+    "winter wonderland solitaire",
+    "chest clicker",
+    "abyss muncher",
+    "meowtal strike neon halloween",
+    "rooftop rush 3d",
+    "arrow puzzle 3d cube escape",
+    "shove spark",
+    "stamp the parcel",
+    "riot riders",
+    "gnome bobsled",
+    "warband trail",
+    "robot scrap",
+    "animal out tap away puzzle",
+    "cyber arena",
+    "neon breaker",
+    "chrome smile",
+    "chromos",
+    "clashcore",
+    "grapnel ninja",
+    "brawl bash",
+    "just one more endless rush",
+    "bullet bike rush",
+    "dice royal",
+    "merge fort",
+    "mob rush crowd runner",
+    "meadowhive",
+    "merge idle war",
+    "last light",
+    "shelf sort",
+    "neon survivor overclock",
+    "luminous garden",
+    "myaksy",
+    "octopus dodge",
+    "smile hunt",
+    "tiptoe daily heist puzzle",
+    "stranded swarmed",
+    "starvers io",
+    "candlebound coven",
+    "wardfall",
+    "pudge arena",
+    "dino isle",
+    "wordwink",
+    "deep delve",
+    "halloween dentist for kids 2",
+    "outrun yourself",
+    "spooky vending machine 2",
+    "spire siege",
+    "carletto dreams adventure",
+    "fathom frenzy",
+    "sneaky spikes",
+    "witchy",
+    "mochi merge",
+    "speed superhero obby",
+    "bolt jam"
+  ]
+}

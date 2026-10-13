@@ -1,0 +1,64 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/racers-io",
+      "keywords": [
+        "racers io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/scam-artist-rip",
+      "keywords": [
+        "scam artist rip"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/steal-dino-egg",
+      "keywords": [
+        "steal dino egg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rift-war-merge-evolve-weapons",
+      "keywords": [
+        "rift war merge evolve weapons"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/nana-to-the-moon",
+      "keywords": [
+        "nana to the moon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-fish-every-second",
+      "keywords": [
+        "1 fish every second"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/3d/26",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/multiplayer/7",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/drifting/3",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "racers io",
+    "scam artist rip",
+    "steal dino egg",
+    "rift war merge evolve weapons",
+    "nana to the moon",
+    "1 fish every second"
+  ]
+}
