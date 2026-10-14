@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "keywords": [
+        "pokesurvivor"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/road-rash",
+      "keywords": [
+        "road rash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/skate-3",
+      "keywords": [
+        "skate 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/one-piece-vs-one-punch-man",
+      "keywords": [
+        "one piece vs one punch man"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bo1-zombies",
+      "keywords": [
+        "bo1 zombies"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/super-brawl-3",
+      "keywords": [
+        "super brawl 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/zipzaps-2-fast-furious",
+      "keywords": [
+        "zipzaps 2 fast furious"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/coin-runner",
+      "keywords": [
+        "coin runner"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "pokesurvivor",
+    "road rash",
+    "skate 3",
+    "one piece vs one punch man",
+    "bo1 zombies",
+    "super brawl 3",
+    "zipzaps 2 fast furious",
+    "coin runner"
+  ]
+}

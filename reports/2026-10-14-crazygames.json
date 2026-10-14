@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/dogeminer-2-back-2-the-moon-tm",
+      "keywords": [
+        "dogeminer 2 back 2 the moon tm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bloxity-io",
+      "keywords": [
+        "bloxity io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kitty-cat-burger-restaurant",
+      "keywords": [
+        "kitty cat burger restaurant"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/football-cup-soccer-game",
+      "keywords": [
+        "football cup soccer game"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/yapzle",
+      "keywords": [
+        "yapzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cyberpunk-taxi-driver",
+      "keywords": [
+        "cyberpunk taxi driver"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dogeminer 2 back 2 the moon tm",
+    "bloxity io",
+    "kitty cat burger restaurant",
+    "football cup soccer game",
+    "yapzle",
+    "cyberpunk taxi driver"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/islet",
+      "keywords": [
+        "islet"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/midnight-getaway",
+      "keywords": [
+        "midnight getaway"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/worldbreaker",
+      "keywords": [
+        "worldbreaker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stompdown",
+      "keywords": [
+        "stompdown"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dig-to-the-core",
+      "keywords": [
+        "dig to the core"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/vegetables-tycoon",
+      "keywords": [
+        "vegetables tycoon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/click-and-fish",
+      "keywords": [
+        "click and fish"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rim-rebels-3v3",
+      "keywords": [
+        "rim rebels 3v3"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tumblefluff",
+      "keywords": [
+        "tumblefluff"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nutty-rush",
+      "keywords": [
+        "nutty rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snek-smesh",
+      "keywords": [
+        "snek smesh"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/valet-dash",
+      "keywords": [
+        "valet dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soccer-rebound",
+      "keywords": [
+        "soccer rebound"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/harpoon-hero",
+      "keywords": [
+        "harpoon hero"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/food-stacke",
+      "keywords": [
+        "food stacke"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-last-office-worker",
+      "keywords": [
+        "the last office worker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nations-royale",
+      "keywords": [
+        "nations royale"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/frostbreak",
+      "keywords": [
+        "frostbreak"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/plomp",
+      "keywords": [
+        "plomp"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-squad-3d",
+      "keywords": [
+        "last squad 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/perimeter-emperor-s-testament",
+      "keywords": [
+        "perimeter emperor s testament"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tss-orbit-break",
+      "keywords": [
+        "tss orbit break"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/glidelock",
+      "keywords": [
+        "glidelock"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rising-walls",
+      "keywords": [
+        "rising walls"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/catapult-trip",
+      "keywords": [
+        "catapult trip"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/trifill",
+      "keywords": [
+        "trifill"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fishing-master",
+      "keywords": [
+        "fishing master"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/autumn-cottage-connect",
+      "keywords": [
+        "autumn cottage connect"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cozy-desk-sort-and-collect",
+      "keywords": [
+        "cozy desk sort and collect"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-castle-ate-naomi",
+      "keywords": [
+        "the castle ate naomi"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "islet",
+    "midnight getaway",
+    "worldbreaker",
+    "stompdown",
+    "dig to the core",
+    "vegetables tycoon",
+    "click and fish",
+    "rim rebels 3v3",
+    "tumblefluff",
+    "nutty rush",
+    "snek smesh",
+    "valet dash",
+    "soccer rebound",
+    "harpoon hero",
+    "food stacke",
+    "the last office worker",
+    "nations royale",
+    "frostbreak",
+    "plomp",
+    "last squad 3d",
+    "perimeter emperor s testament",
+    "tss orbit break",
+    "glidelock",
+    "rising walls",
+    "catapult trip",
+    "trifill",
+    "fishing master",
+    "autumn cottage connect",
+    "cozy desk sort and collect",
+    "the castle ate naomi"
+  ]
+}

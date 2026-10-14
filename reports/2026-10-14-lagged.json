@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/ghost-hunt-spirit-scanner",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/swing-obby-for-brainrots",
+      "keywords": [
+        "swing obby for brainrots"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/car-vs-cop",
+      "keywords": [
+        "car vs cop"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/machine-eater",
+      "keywords": [
+        "machine eater"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/happy-orange-glass",
+      "keywords": [
+        "happy orange glass"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "ghost hunt spirit scanner",
+    "swing obby for brainrots",
+    "car vs cop",
+    "machine eater",
+    "happy orange glass"
+  ]
+}

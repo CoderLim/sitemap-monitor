@@ -1,8 +1,74 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-13T21:02:50.245951+00:00",
+  "fetched_at": "2026-10-14T20:02:47.694676+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "keywords": [
+        "pokesurvivor"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/castle-craft",
+      "keywords": [
+        "castle craft"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-amazing-world-of-gumball-darwin-rescue",
+      "keywords": [
+        "the amazing world of gumball darwin rescue"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/road-rash",
+      "keywords": [
+        "road rash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/copy-cats",
+      "keywords": [
+        "copy cats"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/skate-3",
+      "keywords": [
+        "skate 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/one-piece-vs-one-punch-man",
+      "keywords": [
+        "one piece vs one punch man"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bo1-zombies",
+      "keywords": [
+        "bo1 zombies"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/super-brawl-3",
+      "keywords": [
+        "super brawl 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/zipzaps-2-fast-furious",
+      "keywords": [
+        "zipzaps 2 fast furious"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/coin-runner",
+      "keywords": [
+        "coin runner"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/duelist-pvp",
       "keywords": [
@@ -37,12 +103,6 @@
       "url": "https://www.miniplay.com/game/loopix",
       "keywords": [
         "loopix"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/copy-cats",
-      "keywords": [
-        "copy cats"
       ]
     },
     {
@@ -16003,12 +16063,6 @@
       "url": "https://www.miniplay.com/game/e-life-simulation",
       "keywords": [
         "e life simulation"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/castle-craft",
-      "keywords": [
-        "castle craft"
       ]
     },
     {
@@ -36683,12 +36737,6 @@
       "url": "https://www.miniplay.com/game/goalkeeper-wiz",
       "keywords": [
         "goalkeeper wiz"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/the-amazing-world-of-gumball-darwin-rescue",
-      "keywords": [
-        "the amazing world of gumball darwin rescue"
       ]
     },
     {
