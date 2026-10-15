@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-10-14T20:02:47.694676+00:00",
+  "fetched_at": "2026-10-15T19:45:23.641614+00:00",
   "baseline": false,
   "urls": [
     {
@@ -35993,6 +35993,30 @@
       "url": "https://kizi.com/games/snack-stack",
       "keywords": [
         "snack stack"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/merge-and-harvest",
+      "keywords": [
+        "merge and harvest"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/magic-and-wizards-match-2",
+      "keywords": [
+        "magic and wizards match 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/halloween-match",
+      "keywords": [
+        "halloween match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/twilight-mahjong-manor",
+      "keywords": [
+        "twilight mahjong manor"
       ]
     }
   ]

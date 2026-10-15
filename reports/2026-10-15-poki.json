@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-10-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/the-last-living",
+      "keywords": [
+        "the last living"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/i-need-a-fridge",
+      "keywords": [
+        "i need a fridge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/mad-skills-motocross-3",
+      "keywords": [
+        "mad skills motocross 3"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "the last living",
+    "i need a fridge",
+    "mad skills motocross 3"
+  ]
+}

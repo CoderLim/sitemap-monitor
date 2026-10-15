@@ -1,0 +1,66 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/numicolor",
+      "keywords": [
+        "numicolor"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-survive-lava-for-brainrots",
+      "keywords": [
+        "obby survive lava for brainrots"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/warrior-factory",
+      "keywords": [
+        "warrior factory"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/vacation-overload",
+      "keywords": [
+        "vacation overload"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/anime-girl-high-school-simulator",
+      "keywords": [
+        "anime girl high school simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cruel-fable",
+      "keywords": [
+        "cruel fable"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/where-are-the-puffies",
+      "keywords": [
+        "where are the puffies"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cars-vs-zombies566",
+      "keywords": [
+        "cars vs zombies566"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "numicolor",
+    "obby survive lava for brainrots",
+    "warrior factory",
+    "vacation overload",
+    "anime girl high school simulator",
+    "cruel fable",
+    "where are the puffies",
+    "cars vs zombies566"
+  ]
+}

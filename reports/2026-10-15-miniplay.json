@@ -1,0 +1,59 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-stone-skipping",
+      "keywords": [
+        "1 stone skipping"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-money-roll-to-get-rich",
+      "keywords": [
+        "1 money roll to get rich"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/legion-of-zombie-terrors",
+      "keywords": [
+        "legion of zombie terrors"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/vacuum-io",
+      "keywords": [
+        "vacuum io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/clean-all-the-leaves-cleaning-simulator",
+      "keywords": [
+        "clean all the leaves cleaning simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jewel-coloring-crystal-sorting",
+      "keywords": [
+        "jewel coloring crystal sorting"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-crows-path",
+      "keywords": [
+        "the crows path"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 stone skipping",
+    "1 money roll to get rich",
+    "legion of zombie terrors",
+    "vacuum io",
+    "clean all the leaves cleaning simulator",
+    "jewel coloring crystal sorting",
+    "the crows path"
+  ]
+}

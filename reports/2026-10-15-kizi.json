@@ -1,0 +1,38 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/merge-and-harvest",
+      "keywords": [
+        "merge and harvest"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/magic-and-wizards-match-2",
+      "keywords": [
+        "magic and wizards match 2"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/halloween-match",
+      "keywords": [
+        "halloween match"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/twilight-mahjong-manor",
+      "keywords": [
+        "twilight mahjong manor"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "merge and harvest",
+    "magic and wizards match 2",
+    "halloween match",
+    "twilight mahjong manor"
+  ]
+}

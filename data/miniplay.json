@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-14T20:02:47.694676+00:00",
+  "fetched_at": "2026-10-15T19:45:23.641614+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/1-stone-skipping",
+      "keywords": [
+        "1 stone skipping"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/skate-3",
+      "keywords": [
+        "skate 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/1-money-roll-to-get-rich",
+      "keywords": [
+        "1 money roll to get rich"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/legion-of-zombie-terrors",
+      "keywords": [
+        "legion of zombie terrors"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/vacuum-io",
+      "keywords": [
+        "vacuum io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/clean-all-the-leaves-cleaning-simulator",
+      "keywords": [
+        "clean all the leaves cleaning simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jewel-coloring-crystal-sorting",
+      "keywords": [
+        "jewel coloring crystal sorting"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-crows-path",
+      "keywords": [
+        "the crows path"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/pokesurvivor",
       "keywords": [
@@ -31,12 +79,6 @@
       "url": "https://www.miniplay.com/game/copy-cats",
       "keywords": [
         "copy cats"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/skate-3",
-      "keywords": [
-        "skate 3"
       ]
     },
     {
