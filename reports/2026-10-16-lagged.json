@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/jelly-pet-cat",
+      "keywords": [
+        "jelly pet cat"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/sell-lemons-idle",
+      "keywords": [
+        "sell lemons idle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/spooky-halloween-makeover",
+      "keywords": [
+        "spooky halloween makeover"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "jelly pet cat",
+    "sell lemons idle",
+    "spooky halloween makeover"
+  ]
+}

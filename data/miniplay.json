@@ -1,8 +1,20 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-15T19:45:23.641614+00:00",
+  "fetched_at": "2026-10-16T19:26:20.862086+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
+      "keywords": [
+        "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "keywords": [
+        "pokesurvivor"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/1-stone-skipping",
       "keywords": [
@@ -49,12 +61,6 @@
       "url": "https://www.miniplay.com/game/the-crows-path",
       "keywords": [
         "the crows path"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/pokesurvivor",
-      "keywords": [
-        "pokesurvivor"
       ]
     },
     {

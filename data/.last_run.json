@@ -1,101 +1,64 @@
 {
   "status": "completed",
-  "started_at": "2026-10-15T19:45:23.638861+00:00",
-  "finished_at": "2026-10-15T19:45:34.922046+00:00",
+  "started_at": "2026-10-16T19:26:20.859294+00:00",
+  "finished_at": "2026-10-16T19:26:30.492262+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 4,
+      "new_keyword_count": 4,
       "new_keywords": [
-        "the last living",
-        "i need a fridge",
-        "mad skills motocross 3"
+        "chess classic",
+        "solitaire ultimate",
+        "tic tac toe ultimate",
+        "nuke policy"
       ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 8,
+      "new_url_count": 9,
       "new_keyword_count": 6,
       "new_keywords": [
-        "clash of heroes xdz",
-        "my little kingdom",
-        "turball io ghb",
-        "doner boss",
-        "zombie lane",
-        "obby traffic smash"
+        "volleyball championship",
+        "keyboard obby 1 speed",
+        "london padel club",
+        "glam fashion world",
+        "super coupon club origins",
+        "mahjong tap tile sort solitaire"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 27,
-      "new_keyword_count": 27,
-      "new_keywords": [
-        "bright circuit",
-        "zombie core arena",
-        "spooky racing",
-        "rocketman",
-        "4d snake with time travel and quantum physics",
-        "busdriver",
-        "tap defense goblin waves",
-        "vezmoor",
-        "huemony relaxing color sort puzzle",
-        "shape fusion",
-        "pumpkin pop halloween merge",
-        "hotpot loop sort",
-        "scrap arms neo",
-        "midnight heist",
-        "spirit slayer",
-        "rent king",
-        "comet survive the maze",
-        "dispatch panic",
-        "maxwell s demon",
-        "cascade effect",
-        "airtime",
-        "plume dash",
-        "verity catch avoid 3d",
-        "neon gates",
-        "penalty nations",
-        "chroma",
-        "star cube"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 8,
-      "new_keyword_count": 8,
+      "new_url_count": 3,
+      "new_keyword_count": 3,
       "new_keywords": [
-        "numicolor",
-        "obby survive lava for brainrots",
-        "warrior factory",
-        "vacation overload",
-        "anime girl high school simulator",
-        "cruel fable",
-        "where are the puffies",
-        "cars vs zombies566"
+        "jelly pet cat",
+        "sell lemons idle",
+        "spooky halloween makeover"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 4,
-      "new_keyword_count": 4,
-      "new_keywords": [
-        "merge and harvest",
-        "magic and wizards match 2",
-        "halloween match",
-        "twilight mahjong manor"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
@@ -109,25 +72,21 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 7,
-      "new_keyword_count": 7,
+      "new_url_count": 1,
+      "new_keyword_count": 1,
       "new_keywords": [
-        "1 stone skipping",
-        "1 money roll to get rich",
-        "legion of zombie terrors",
-        "vacuum io",
-        "clean all the leaves cleaning simulator",
-        "jewel coloring crystal sorting",
-        "the crows path"
+        "mini turbo karts halloween"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "noobik adventures in a 2d world"
+      ],
       "error": null
     }
   ],

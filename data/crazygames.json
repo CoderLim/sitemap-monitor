@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-15T19:45:23.641614+00:00",
+  "fetched_at": "2026-10-16T19:26:20.862086+00:00",
   "baseline": false,
   "urls": [
     {
@@ -229,6 +229,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/45",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/46",
       "keywords": []
     },
     {
@@ -25616,6 +25620,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/volleyball-championship",
+      "keywords": [
+        "volleyball championship"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/drone-delivery-chaos-fkw",
       "keywords": [
         "drone delivery chaos fkw"
@@ -26630,6 +26640,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/keyboard-obby-1-speed",
+      "keywords": [
+        "keyboard obby 1 speed"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/alien-attack-zad",
       "keywords": [
         "alien attack zad"
@@ -27128,6 +27144,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/london-padel-club",
+      "keywords": [
+        "london padel club"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/zombie-lane",
       "keywords": [
         "zombie lane"
@@ -27209,6 +27231,24 @@
       "url": "https://www.crazygames.com/game/capybara-spa-tycoon",
       "keywords": [
         "capybara spa tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/glam-fashion-world",
+      "keywords": [
+        "glam fashion world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/super-coupon-club-origins",
+      "keywords": [
+        "super coupon club origins"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mahjong-tap---tile-sort-solitaire",
+      "keywords": [
+        "mahjong tap tile sort solitaire"
       ]
     },
     {
@@ -28253,6 +28293,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/mouse/31",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/mouse/32",
       "keywords": []
     },
     {
@@ -29786,6 +29830,10 @@
       "keywords": [
         "parkour"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/parkour/2",
+      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/meme-bloxy",

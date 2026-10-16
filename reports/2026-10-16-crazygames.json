@@ -1,0 +1,64 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/sitemap/games/46",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/game/volleyball-championship",
+      "keywords": [
+        "volleyball championship"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/keyboard-obby-1-speed",
+      "keywords": [
+        "keyboard obby 1 speed"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/london-padel-club",
+      "keywords": [
+        "london padel club"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/glam-fashion-world",
+      "keywords": [
+        "glam fashion world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/super-coupon-club-origins",
+      "keywords": [
+        "super coupon club origins"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mahjong-tap---tile-sort-solitaire",
+      "keywords": [
+        "mahjong tap tile sort solitaire"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mouse/32",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/parkour/2",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "volleyball championship",
+    "keyboard obby 1 speed",
+    "london padel club",
+    "glam fashion world",
+    "super coupon club origins",
+    "mahjong tap tile sort solitaire"
+  ]
+}

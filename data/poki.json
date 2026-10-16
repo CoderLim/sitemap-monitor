@@ -1,8 +1,38 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-15T19:45:23.641614+00:00",
+  "fetched_at": "2026-10-16T19:26:20.862086+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/chess-classic",
+      "keywords": [
+        "chess classic"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/solitaire-ultimate",
+      "keywords": [
+        "solitaire ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/tic-tac-toe-ultimate",
+      "keywords": [
+        "tic tac toe ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/ghost-rush",
+      "keywords": [
+        "ghost rush"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/nuke-policy",
+      "keywords": [
+        "nuke policy"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/the-last-living",
       "keywords": [
@@ -343,12 +373,6 @@
       "url": "https://poki.com/en/g/my-snack-bar",
       "keywords": [
         "my snack bar"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/ghost-rush",
-      "keywords": [
-        "ghost rush"
       ]
     },
     {

@@ -1,0 +1,38 @@
+{
+  "site_id": "poki",
+  "date": "2026-10-16",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/chess-classic",
+      "keywords": [
+        "chess classic"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/solitaire-ultimate",
+      "keywords": [
+        "solitaire ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/tic-tac-toe-ultimate",
+      "keywords": [
+        "tic tac toe ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/nuke-policy",
+      "keywords": [
+        "nuke policy"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "chess classic",
+    "solitaire ultimate",
+    "tic tac toe ultimate",
+    "nuke policy"
+  ]
+}
