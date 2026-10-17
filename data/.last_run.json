@@ -1,40 +1,12 @@
 {
   "status": "completed",
-  "started_at": "2026-10-16T19:26:20.859294+00:00",
-  "finished_at": "2026-10-16T19:26:30.492262+00:00",
+  "started_at": "2026-10-17T18:16:46.729605+00:00",
+  "finished_at": "2026-10-17T18:16:57.504606+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
-      "is_baseline": false,
-      "new_url_count": 4,
-      "new_keyword_count": 4,
-      "new_keywords": [
-        "chess classic",
-        "solitaire ultimate",
-        "tic tac toe ultimate",
-        "nuke policy"
-      ],
-      "error": null
-    },
-    {
-      "site_id": "crazygames",
-      "is_baseline": false,
-      "new_url_count": 9,
-      "new_keyword_count": 6,
-      "new_keywords": [
-        "volleyball championship",
-        "keyboard obby 1 speed",
-        "london padel club",
-        "glam fashion world",
-        "super coupon club origins",
-        "mahjong tap tile sort solitaire"
-      ],
-      "error": null
-    },
-    {
-      "site_id": "gamepix",
       "is_baseline": false,
       "new_url_count": 0,
       "new_keyword_count": 0,
@@ -42,14 +14,103 @@
       "error": null
     },
     {
+      "site_id": "crazygames",
+      "is_baseline": false,
+      "new_url_count": 20,
+      "new_keyword_count": 19,
+      "new_keywords": [
+        "crazy bash yzn",
+        "claw descent fbg",
+        "hungry pit",
+        "hospital 13",
+        "1 weapon evolution online",
+        "dungeon click ogt",
+        "fish nibble",
+        "battle bots arena",
+        "bleihagel ihe",
+        "shred the evidence",
+        "draw melody",
+        "one path dungeon",
+        "crown city",
+        "rental life tenant stories vpe",
+        "reel rich idle fishing",
+        "doodle knights",
+        "mafia rising",
+        "bomb the castle",
+        "honeyworks"
+      ],
+      "error": null
+    },
+    {
+      "site_id": "gamepix",
+      "is_baseline": false,
+      "new_url_count": 44,
+      "new_keyword_count": 44,
+      "new_keywords": [
+        "world of su",
+        "perimeter emperor s testament",
+        "desert highway 3d turbo edition",
+        "active defense",
+        "sea animal coloring book",
+        "santa basket",
+        "shapeshifter",
+        "smashy jack",
+        "highway kiss racer",
+        "cubastik",
+        "the dungeon labyrinth",
+        "zombie attack shooter",
+        "hoop pair",
+        "crazy lemmings",
+        "orange master",
+        "queen of the maze",
+        "grimace wood cutter",
+        "the last war",
+        "hamtube",
+        "fruit memory extravaganza",
+        "blink",
+        "sugarrushpaths",
+        "italian brainrot clicker 3d",
+        "ballblastpals",
+        "slide escape",
+        "plomp",
+        "cosmo hop",
+        "crossword connect pip s journey",
+        "rexorbit",
+        "egg party",
+        "math tables star",
+        "ninja platformer rage",
+        "nightfall z",
+        "funfair champ",
+        "toss ammo",
+        "ghost line defense",
+        "brake racer",
+        "drill diamonds",
+        "chroma pair",
+        "t retrix",
+        "nut sort workshop islands",
+        "cedoq jam",
+        "sdrifter",
+        "the last date 2"
+      ],
+      "error": null
+    },
+    {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 11,
+      "new_keyword_count": 11,
       "new_keywords": [
-        "jelly pet cat",
-        "sell lemons idle",
-        "spooky halloween makeover"
+        "miss robins dream home",
+        "futuristic cars vs trains",
+        "sandbox city",
+        "whatgun",
+        "garage boss",
+        "craft the war",
+        "kick soccer",
+        "obby chameleon paint hide",
+        "jump and run for brainrot",
+        "crazy vikings life",
+        "oh snack"
       ],
       "error": null
     },
@@ -72,21 +133,17 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
-      "new_keywords": [
-        "mini turbo karts halloween"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
-      "new_keywords": [
-        "noobik adventures in a 2d world"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     }
   ],
