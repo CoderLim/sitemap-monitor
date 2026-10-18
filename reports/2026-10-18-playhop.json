@@ -1,0 +1,24 @@
+{
+  "site_id": "playhop",
+  "date": "2026-10-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/nubik-diamond-search-581200",
+      "keywords": [
+        "nubik diamond search"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/skinwheel-622697",
+      "keywords": [
+        "skinwheel"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "nubik diamond search",
+    "skinwheel"
+  ]
+}
