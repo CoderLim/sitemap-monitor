@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-10-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/voxel-wreck",
+      "keywords": [
+        "voxel wreck"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/cat-ghost-hunter",
+      "keywords": [
+        "cat ghost hunter"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/beat-builder",
+      "keywords": [
+        "beat builder"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "voxel wreck",
+    "cat ghost hunter",
+    "beat builder"
+  ]
+}

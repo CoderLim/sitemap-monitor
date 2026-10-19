@@ -1,0 +1,52 @@
+{
+  "site_id": "kizi",
+  "date": "2026-10-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/2048-bubble-shoot",
+      "keywords": [
+        "2048 bubble shoot"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/asmr-halloween-makeover",
+      "keywords": [
+        "asmr halloween makeover"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/vacuumio",
+      "keywords": [
+        "vacuumio"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/pet-fashion-stylist",
+      "keywords": [
+        "pet fashion stylist"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/arrow-go",
+      "keywords": [
+        "arrow go"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/overkill-top-down-arcade-shooter",
+      "keywords": [
+        "overkill top down arcade shooter"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "2048 bubble shoot",
+    "asmr halloween makeover",
+    "vacuumio",
+    "pet fashion stylist",
+    "arrow go",
+    "overkill top down arcade shooter"
+  ]
+}

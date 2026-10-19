@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/knights-arena--castle-defense",
+      "keywords": [
+        "knights arena castle defense"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/duck-family-simulator-animal-games",
+      "keywords": [
+        "duck family simulator animal games"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-little-park-3d",
+      "keywords": [
+        "my little park 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/attack-of-zombies",
+      "keywords": [
+        "attack of zombies"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/printmaster-3d-printing-tycoon",
+      "keywords": [
+        "printmaster 3d printing tycoon"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mahjong-spooky-edition",
+      "keywords": [
+        "mahjong spooky edition"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "knights arena castle defense",
+    "duck family simulator animal games",
+    "my little park 3d",
+    "attack of zombies",
+    "printmaster 3d printing tycoon",
+    "mahjong spooky edition"
+  ]
+}

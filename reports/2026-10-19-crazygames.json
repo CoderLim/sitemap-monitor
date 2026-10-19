@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/mega-jump",
+      "keywords": [
+        "mega jump"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hero-merge-jpc",
+      "keywords": [
+        "hero merge jpc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/coin-run",
+      "keywords": [
+        "coin run"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/draw-fly",
+      "keywords": [
+        "draw fly"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/era-legion-fzc",
+      "keywords": [
+        "era legion fzc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/london-crane-operator",
+      "keywords": [
+        "london crane operator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mega jump",
+    "hero merge jpc",
+    "coin run",
+    "draw fly",
+    "era legion fzc",
+    "london crane operator"
+  ]
+}

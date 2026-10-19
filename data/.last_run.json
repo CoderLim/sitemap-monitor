@@ -1,79 +1,75 @@
 {
   "status": "completed",
-  "started_at": "2026-10-18T18:30:42.748964+00:00",
-  "finished_at": "2026-10-18T18:30:53.411388+00:00",
+  "started_at": "2026-10-19T20:55:11.737770+00:00",
+  "finished_at": "2026-10-19T20:55:20.013651+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 3,
+      "new_keyword_count": 3,
+      "new_keywords": [
+        "voxel wreck",
+        "cat ghost hunter",
+        "beat builder"
+      ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 22,
-      "new_keyword_count": 19,
+      "new_url_count": 6,
+      "new_keyword_count": 6,
       "new_keywords": [
-        "obby find and dig brainrot",
-        "blogger dress up",
-        "makeover cleaning asmr",
-        "break the noob completely",
-        "drama puzzle tricky stories tdl",
-        "world craft dream island",
-        "carjacked",
-        "backroad drift",
-        "asteroid tycoon rvd",
-        "dust bullet",
-        "kaboom kingdoms",
-        "crazy kart",
-        "wobbly cargo",
-        "aozora spike highschool volleyball",
-        "obby fish for egg",
-        "appraiser",
-        "escape from chunga changa",
-        "deep line ozq",
-        "scribble road"
+        "mega jump",
+        "hero merge jpc",
+        "coin run",
+        "draw fly",
+        "era legion fzc",
+        "london crane operator"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "word connect pro"
+      ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 10,
-      "new_keyword_count": 10,
+      "new_url_count": 6,
+      "new_keyword_count": 6,
       "new_keywords": [
-        "salvage corps",
-        "cartoon traffic racing paper derby",
-        "survival island299",
-        "block city rampage",
-        "target shooter arena",
-        "fight club simulator",
-        "zoo elephant simulator city attack",
-        "bts budgie coloring book",
-        "online kitpvp 50vs50",
-        "geometry arrow wave rush"
+        "knights arena castle defense",
+        "duck family simulator animal games",
+        "my little park 3d",
+        "attack of zombies",
+        "printmaster 3d printing tycoon",
+        "mahjong spooky edition"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 6,
+      "new_keyword_count": 6,
+      "new_keywords": [
+        "2048 bubble shoot",
+        "asmr halloween makeover",
+        "vacuumio",
+        "pet fashion stylist",
+        "arrow go",
+        "overkill top down arcade shooter"
+      ],
       "error": null
     },
     {
@@ -95,12 +91,9 @@
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 2,
-      "new_keyword_count": 2,
-      "new_keywords": [
-        "nubik diamond search",
-        "skinwheel"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     }
   ],
