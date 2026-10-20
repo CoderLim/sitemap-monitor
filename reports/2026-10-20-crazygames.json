@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/balance-of-blocks",
+      "keywords": [
+        "balance of blocks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/race-rocket-arena-car-extreme",
+      "keywords": [
+        "race rocket arena car extreme"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lumber-hero-idle-defense",
+      "keywords": [
+        "lumber hero idle defense"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/soccer-football-league-game-whe",
+      "keywords": [
+        "soccer football league game whe"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/robovac-satisfaction-co",
+      "keywords": [
+        "robovac satisfaction co"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/statline-rush",
+      "keywords": [
+        "statline rush"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "balance of blocks",
+    "race rocket arena car extreme",
+    "lumber hero idle defense",
+    "soccer football league game whe",
+    "robovac satisfaction co",
+    "statline rush"
+  ]
+}

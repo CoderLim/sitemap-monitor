@@ -1,0 +1,73 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/pokebonk",
+      "keywords": [
+        "pokebonk"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/swat-squad-tactics",
+      "keywords": [
+        "swat squad tactics"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cod",
+      "keywords": [
+        "cod"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hyper-cars-stunt-racing",
+      "keywords": [
+        "hyper cars stunt racing"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rulehouse",
+      "keywords": [
+        "rulehouse"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lawnmower-driving",
+      "keywords": [
+        "lawnmower driving"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/zombie-battle-royale",
+      "keywords": [
+        "zombie battle royale"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/farm-triple-match-2",
+      "keywords": [
+        "farm triple match 2"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/royal-hero-escape",
+      "keywords": [
+        "royal hero escape"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "pokebonk",
+    "swat squad tactics",
+    "cod",
+    "hyper cars stunt racing",
+    "rulehouse",
+    "lawnmower driving",
+    "zombie battle royale",
+    "farm triple match 2",
+    "royal hero escape"
+  ]
+}

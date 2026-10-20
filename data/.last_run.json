@@ -1,19 +1,17 @@
 {
   "status": "completed",
-  "started_at": "2026-10-19T20:55:11.737770+00:00",
-  "finished_at": "2026-10-19T20:55:20.013651+00:00",
+  "started_at": "2026-10-20T19:54:19.818023+00:00",
+  "finished_at": "2026-10-20T19:54:29.959796+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 1,
+      "new_keyword_count": 1,
       "new_keywords": [
-        "voxel wreck",
-        "cat ghost hunter",
-        "beat builder"
+        "nitro car racing"
       ],
       "error": null
     },
@@ -23,53 +21,64 @@
       "new_url_count": 6,
       "new_keyword_count": 6,
       "new_keywords": [
-        "mega jump",
-        "hero merge jpc",
-        "coin run",
-        "draw fly",
-        "era legion fzc",
-        "london crane operator"
+        "balance of blocks",
+        "race rocket arena car extreme",
+        "lumber hero idle defense",
+        "soccer football league game whe",
+        "robovac satisfaction co",
+        "statline rush"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
+      "new_url_count": 17,
+      "new_keyword_count": 17,
       "new_keywords": [
-        "word connect pro"
+        "bankshot bandit",
+        "one track mind",
+        "too many goblins",
+        "wild trail",
+        "pan ic 2",
+        "cave run",
+        "clack smash",
+        "cart spill",
+        "seven strikes",
+        "mig mayhem jam",
+        "clockwork on credit",
+        "one socket factory",
+        "wordix",
+        "water sort game",
+        "skeleton slayer sky tower",
+        "comet dodger",
+        "boomerang janitor"
       ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 6,
-      "new_keyword_count": 6,
+      "new_url_count": 8,
+      "new_keyword_count": 8,
       "new_keywords": [
-        "knights arena castle defense",
-        "duck family simulator animal games",
-        "my little park 3d",
-        "attack of zombies",
-        "printmaster 3d printing tycoon",
-        "mahjong spooky edition"
+        "cake ready",
+        "obby prison digger",
+        "real war not fake",
+        "stunts 4 cash",
+        "crush hour",
+        "mall goth aesthetic fashion",
+        "draw puzzle complete one part",
+        "car vs tape"
       ],
       "error": null
     },
     {
       "site_id": "kizi",
       "is_baseline": false,
-      "new_url_count": 6,
-      "new_keyword_count": 6,
-      "new_keywords": [
-        "2048 bubble shoot",
-        "asmr halloween makeover",
-        "vacuumio",
-        "pet fashion stylist",
-        "arrow go",
-        "overkill top down arcade shooter"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
@@ -83,17 +92,54 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 9,
+      "new_keyword_count": 9,
+      "new_keywords": [
+        "pokebonk",
+        "swat squad tactics",
+        "cod",
+        "hyper cars stunt racing",
+        "rulehouse",
+        "lawnmower driving",
+        "zombie battle royale",
+        "farm triple match 2",
+        "royal hero escape"
+      ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 26,
+      "new_keyword_count": 26,
+      "new_keywords": [
+        "the gray queen",
+        "mutant rush evolution showdown",
+        "wild west sniper hunt",
+        "deadshot cowboy",
+        "driving exam 2026",
+        "hexa sort 3d hex sorting",
+        "ugadai igru po ikonke i skrinshotu",
+        "minesweeper by sdk",
+        "voxel fishing trophy journey",
+        "frog knight",
+        "towers vs memes",
+        "squishy dumpling trace the path",
+        "squad busters evoliutsiia",
+        "food empire tycoon",
+        "break the lucky block car dealership",
+        "retroos 2001",
+        "drone delivery chaos",
+        "zigvector",
+        "hobo road to success",
+        "piksel vzhukh",
+        "prison escape dig out",
+        "pasians pauk bolotnaia znat",
+        "amr tower obby",
+        "storm the sastle",
+        "robot vacuum cleaner",
+        "1 skip stone"
+      ],
       "error": null
     }
   ],
