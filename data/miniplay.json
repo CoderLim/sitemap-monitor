@@ -1,6 +1,6 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-20T19:54:19.820918+00:00",
+  "fetched_at": "2026-10-21T19:58:04.777373+00:00",
   "baseline": false,
   "urls": [
     {
@@ -10,15 +10,63 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "url": "https://www.miniplay.com/game/assassins-creed-identify",
       "keywords": [
-        "pokesurvivor"
+        "assassins creed identify"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/soccer-orbit",
+      "keywords": [
+        "soccer orbit"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/soccer-kick",
+      "keywords": [
+        "soccer kick"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-supercar-race-on-a-giant-keyboard",
+      "keywords": [
+        "obby supercar race on a giant keyboard"
       ]
     },
     {
       "url": "https://www.miniplay.com/game/pokebonk",
       "keywords": [
         "pokebonk"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rooftop-flip",
+      "keywords": [
+        "rooftop flip"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dead-zone-squad",
+      "keywords": [
+        "dead zone squad"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/veck-io",
+      "keywords": [
+        "veck io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catdoku",
+      "keywords": [
+        "catdoku"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "keywords": [
+        "pokesurvivor"
       ]
     },
     {
@@ -2089,12 +2137,6 @@
       "url": "https://www.miniplay.com/game/break-a-lucky-block",
       "keywords": [
         "break a lucky block"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/obby-supercar-race-on-a-giant-keyboard",
-      "keywords": [
-        "obby supercar race on a giant keyboard"
       ]
     },
     {
@@ -6769,12 +6811,6 @@
       "url": "https://www.miniplay.com/game/card-solitaire-word-game",
       "keywords": [
         "card solitaire word game"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/veck-io",
-      "keywords": [
-        "veck io"
       ]
     },
     {

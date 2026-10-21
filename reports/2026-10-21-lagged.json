@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/1-speed--monkey-parkour-obby",
+      "keywords": [
+        "1 speed monkey parkour obby"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/unscrew-odyssey",
+      "keywords": [
+        "unscrew odyssey"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/idle-warrior-tales",
+      "keywords": [
+        "idle warrior tales"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/stickninja-mission",
+      "keywords": [
+        "stickninja mission"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/night-shift",
+      "keywords": [
+        "night shift"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "1 speed monkey parkour obby",
+    "unscrew odyssey",
+    "idle warrior tales",
+    "stickninja mission",
+    "night shift"
+  ]
+}

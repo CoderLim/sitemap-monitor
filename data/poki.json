@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-20T19:54:19.820918+00:00",
+  "fetched_at": "2026-10-21T19:58:04.777373+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/pro-referee-simulator",
+      "keywords": [
+        "pro referee simulator"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/city-coloring",
+      "keywords": [
+        "city coloring"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/nitro-car-racing",
       "keywords": [
@@ -313,12 +325,6 @@
       "url": "https://poki.com/en/g/little-steps-big-troubles",
       "keywords": [
         "little steps big troubles"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/pro-referee-simulator",
-      "keywords": [
-        "pro referee simulator"
       ]
     },
     {

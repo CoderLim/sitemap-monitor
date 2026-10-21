@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/assassins-creed-identify",
+      "keywords": [
+        "assassins creed identify"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/soccer-orbit",
+      "keywords": [
+        "soccer orbit"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/soccer-kick",
+      "keywords": [
+        "soccer kick"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rooftop-flip",
+      "keywords": [
+        "rooftop flip"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dead-zone-squad",
+      "keywords": [
+        "dead zone squad"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/catdoku",
+      "keywords": [
+        "catdoku"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "assassins creed identify",
+    "soccer orbit",
+    "soccer kick",
+    "rooftop flip",
+    "dead zone squad",
+    "catdoku"
+  ]
+}

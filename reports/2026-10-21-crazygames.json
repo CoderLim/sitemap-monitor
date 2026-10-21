@@ -1,0 +1,52 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/dark-adelita-ecl",
+      "keywords": [
+        "dark adelita ecl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/can-you-land-zzm",
+      "keywords": [
+        "can you land zzm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-island-build",
+      "keywords": [
+        "idle island build"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/matching-moments",
+      "keywords": [
+        "matching moments"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dustpost",
+      "keywords": [
+        "dustpost"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/megminer",
+      "keywords": [
+        "megminer"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dark adelita ecl",
+    "can you land zzm",
+    "idle island build",
+    "matching moments",
+    "dustpost",
+    "megminer"
+  ]
+}

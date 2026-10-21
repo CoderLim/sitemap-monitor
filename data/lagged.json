@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-20T19:54:19.820918+00:00",
+  "fetched_at": "2026-10-21T19:58:04.777373+00:00",
   "baseline": false,
   "urls": [
     {
@@ -67192,6 +67192,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/1-speed--monkey-parkour-obby",
+      "keywords": [
+        "1 speed monkey parkour obby"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/blockland-oneblock-skyblock",
       "keywords": [
         "blockland oneblock skyblock"
@@ -67267,6 +67273,18 @@
       "url": "https://lagged.com/en/g/crush-hour",
       "keywords": [
         "crush hour"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/unscrew-odyssey",
+      "keywords": [
+        "unscrew odyssey"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/idle-warrior-tales",
+      "keywords": [
+        "idle warrior tales"
       ]
     },
     {
@@ -67414,9 +67432,21 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/stickninja-mission",
+      "keywords": [
+        "stickninja mission"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/cars-vs-zombies566",
       "keywords": [
         "cars vs zombies566"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/night-shift",
+      "keywords": [
+        "night shift"
       ]
     },
     {
