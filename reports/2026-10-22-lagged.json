@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/draw-the-road",
+      "keywords": [
+        "draw the road"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/paint-quest-kiddo",
+      "keywords": [
+        "paint quest kiddo"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "draw the road",
+    "paint quest kiddo"
+  ]
+}

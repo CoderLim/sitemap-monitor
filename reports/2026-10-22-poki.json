@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-10-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/chess-pro",
+      "keywords": [
+        "chess pro"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/splat-rumble",
+      "keywords": [
+        "splat rumble"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/forgotten-hill-injustice-chapter-i",
+      "keywords": [
+        "forgotten hill injustice chapter i"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "chess pro",
+    "splat rumble",
+    "forgotten hill injustice chapter i"
+  ]
+}

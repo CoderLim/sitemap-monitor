@@ -1,0 +1,24 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/hollowbell-the-house-that-listens",
+      "keywords": [
+        "hollowbell the house that listens"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/drop-or-don-t",
+      "keywords": [
+        "drop or don t"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hollowbell the house that listens",
+    "drop or don t"
+  ]
+}

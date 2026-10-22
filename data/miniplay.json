@@ -1,12 +1,84 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-21T19:58:04.777373+00:00",
+  "fetched_at": "2026-10-22T19:50:02.087391+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/moncloas-fighter",
+      "keywords": [
+        "moncloas fighter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/roadster-dash",
+      "keywords": [
+        "roadster dash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/stealth-silent-squid",
+      "keywords": [
+        "stealth silent squid"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pokemon-tower-defense",
+      "keywords": [
+        "pokemon tower defense"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/boom-boss",
+      "keywords": [
+        "boom boss"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/destroy-the-planet-planet-destruction-sandbox",
+      "keywords": [
+        "destroy the planet planet destruction sandbox"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/loot-hole",
+      "keywords": [
+        "loot hole"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/asmr-tower",
+      "keywords": [
+        "asmr tower"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/last-light",
+      "keywords": [
+        "last light"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
       "keywords": [
         "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hole-io",
+      "keywords": [
+        "hole io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/interlocked-puzzle-islands",
+      "keywords": [
+        "interlocked puzzle islands"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/robot-vacuum-cleaner",
+      "keywords": [
+        "robot vacuum cleaner"
       ]
     },
     {
@@ -46,6 +118,12 @@
       ]
     },
     {
+      "url": "https://www.miniplay.com/game/pokesurvivor",
+      "keywords": [
+        "pokesurvivor"
+      ]
+    },
+    {
       "url": "https://www.miniplay.com/game/dead-zone-squad",
       "keywords": [
         "dead zone squad"
@@ -61,12 +139,6 @@
       "url": "https://www.miniplay.com/game/catdoku",
       "keywords": [
         "catdoku"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/pokesurvivor",
-      "keywords": [
-        "pokesurvivor"
       ]
     },
     {

@@ -1,0 +1,60 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/hero-invasion-of-hell",
+      "keywords": [
+        "hero invasion of hell"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cooking-rage-cno",
+      "keywords": [
+        "cooking rage cno"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hit-the-stack",
+      "keywords": [
+        "hit the stack"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wacky-flip",
+      "keywords": [
+        "wacky flip"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/shoot-them-off",
+      "keywords": [
+        "shoot them off"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/drive-devil",
+      "keywords": [
+        "drive devil"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/45",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/arcade/13",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "hero invasion of hell",
+    "cooking rage cno",
+    "hit the stack",
+    "wacky flip",
+    "shoot them off",
+    "drive devil"
+  ]
+}
