@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-22T19:50:02.087391+00:00",
+  "fetched_at": "2026-10-23T19:51:07.941063+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/cars-racing-masters",
+      "keywords": [
+        "cars racing masters"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/merge-blast",
+      "keywords": [
+        "merge blast"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/tic-tac-toe-ultimate",
       "keywords": [
@@ -289,12 +301,6 @@
       "url": "https://poki.com/en/g/ride-carts",
       "keywords": [
         "ride carts"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/merge-blast",
-      "keywords": [
-        "merge blast"
       ]
     },
     {

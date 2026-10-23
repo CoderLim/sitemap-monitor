@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/shadow-hunter",
+      "keywords": [
+        "shadow hunter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/extreme-car-driving-simulator",
+      "keywords": [
+        "extreme car driving simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "shadow hunter",
+    "extreme car driving simulator"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-22T19:50:02.087391+00:00",
+  "fetched_at": "2026-10-23T19:51:07.941063+00:00",
   "baseline": false,
   "urls": [
     {
@@ -6573,12 +6573,6 @@
       "url": "https://www.crazygames.com/game/defenders-of-the-realm-an-epic-war",
       "keywords": [
         "defenders of the realm an epic war"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/bricks-breaker",
-      "keywords": [
-        "bricks breaker"
       ]
     },
     {
@@ -27456,6 +27450,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/grand-vegas-police-simulator",
+      "keywords": [
+        "grand vegas police simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/dust-bullet",
       "keywords": [
         "dust bullet"
@@ -27576,6 +27576,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/last-train-iron-horde",
+      "keywords": [
+        "last train iron horde"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/drive-devil",
       "keywords": [
         "drive devil"
@@ -27585,6 +27591,12 @@
       "url": "https://www.crazygames.com/game/scribble-road",
       "keywords": [
         "scribble road"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rob-a-garden",
+      "keywords": [
+        "rob a garden"
       ]
     },
     {
@@ -27600,9 +27612,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/last-lantern",
+      "keywords": [
+        "last lantern"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/toximass",
+      "keywords": [
+        "toximass"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/sprout-king-kmm",
       "keywords": [
         "sprout king kmm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spot-the-difference-myq",
+      "keywords": [
+        "spot the difference myq"
       ]
     },
     {
@@ -29332,6 +29362,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/top-down/6",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/mission",
       "keywords": [
         "mission"
@@ -29409,6 +29443,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/first-person-shooter/3",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/first-person-shooter/4",
       "keywords": []
     },
     {

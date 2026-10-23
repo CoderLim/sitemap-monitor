@@ -1,0 +1,60 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-23",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/grand-vegas-police-simulator",
+      "keywords": [
+        "grand vegas police simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/last-train-iron-horde",
+      "keywords": [
+        "last train iron horde"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rob-a-garden",
+      "keywords": [
+        "rob a garden"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/last-lantern",
+      "keywords": [
+        "last lantern"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/toximass",
+      "keywords": [
+        "toximass"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spot-the-difference-myq",
+      "keywords": [
+        "spot the difference myq"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/top-down/6",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/first-person-shooter/4",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "grand vegas police simulator",
+    "last train iron horde",
+    "rob a garden",
+    "last lantern",
+    "toximass",
+    "spot the difference myq"
+  ]
+}
