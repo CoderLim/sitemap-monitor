@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-23T19:51:07.941063+00:00",
+  "fetched_at": "2026-10-24T18:38:47.889520+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/ride-carts",
+      "keywords": [
+        "ride carts"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/my-snack-bar",
+      "keywords": [
+        "my snack bar"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/cars-racing-masters",
       "keywords": [
@@ -298,12 +310,6 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/ride-carts",
-      "keywords": [
-        "ride carts"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/sling-star-kick",
       "keywords": [
         "sling star kick"
@@ -421,12 +427,6 @@
       "url": "https://poki.com/en/g/build-your-island",
       "keywords": [
         "build your island"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/my-snack-bar",
-      "keywords": [
-        "my snack bar"
       ]
     },
     {

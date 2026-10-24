@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/rainbows-doctor",
+      "keywords": [
+        "rainbows doctor"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/run-from-67",
+      "keywords": [
+        "run from 67"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/wander-wild",
+      "keywords": [
+        "wander wild"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/super-sandbox",
+      "keywords": [
+        "super sandbox"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hogs",
+      "keywords": [
+        "hogs"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "rainbows doctor",
+    "run from 67",
+    "wander wild",
+    "super sandbox",
+    "hogs"
+  ]
+}
