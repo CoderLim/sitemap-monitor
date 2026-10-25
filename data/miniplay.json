@@ -1,6 +1,6 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-24T18:38:47.889520+00:00",
+  "fetched_at": "2026-10-25T18:47:35.886791+00:00",
   "baseline": false,
   "urls": [
     {
@@ -42944,15 +42944,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/golf-clash",
-      "keywords": [
-        "golf clash"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/apple-worm",
       "keywords": [
         "apple worm"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/golf-clash",
+      "keywords": [
+        "golf clash"
       ]
     },
     {
