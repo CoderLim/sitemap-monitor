@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-25T18:47:35.886791+00:00",
+  "fetched_at": "2026-10-26T20:55:40.309349+00:00",
   "baseline": false,
   "urls": [
     {
@@ -67372,6 +67372,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/inkway",
+      "keywords": [
+        "inkway"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/sushi-chef-roll",
       "keywords": [
         "sushi chef roll"
@@ -67474,6 +67480,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/car-stunts-driving",
+      "keywords": [
+        "car stunts driving"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/1-brick-escape-obby",
       "keywords": [
         "1 brick escape obby"
@@ -67504,6 +67516,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/peppa-pigs-halloween-party",
+      "keywords": [
+        "peppa pigs halloween party"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/dumplings-who-will-you-get",
       "keywords": [
         "dumplings who will you get"
@@ -67519,6 +67537,12 @@
       "url": "https://lagged.com/en/g/stickninja-mission",
       "keywords": [
         "stickninja mission"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/wild-wolf-simulator-animal",
+      "keywords": [
+        "wild wolf simulator animal"
       ]
     },
     {
@@ -67540,15 +67564,33 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/boom-brick",
+      "keywords": [
+        "boom brick"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/car-vs-tape",
       "keywords": [
         "car vs tape"
       ]
     },
     {
+      "url": "https://lagged.com/en/g/velin-world-halloween-carnival",
+      "keywords": [
+        "velin world halloween carnival"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/oh-snack",
       "keywords": [
         "oh snack"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/verity-block-survival",
+      "keywords": [
+        "verity block survival"
       ]
     },
     {

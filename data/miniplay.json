@@ -1,18 +1,54 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-25T18:47:35.886791+00:00",
+  "fetched_at": "2026-10-26T20:55:40.309349+00:00",
   "baseline": false,
   "urls": [
     {
-      "url": "https://www.miniplay.com/game/moncloas-fighter",
+      "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
       "keywords": [
-        "moncloas fighter"
+        "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-1jump-with-brainrot",
+      "keywords": [
+        "obby 1jump with brainrot"
       ]
     },
     {
       "url": "https://www.miniplay.com/game/roadster-dash",
       "keywords": [
         "roadster dash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/meowdoku",
+      "keywords": [
+        "meowdoku"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/slowmo-sniper",
+      "keywords": [
+        "slowmo sniper"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/drive-for-speed-simulator",
+      "keywords": [
+        "drive for speed simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ghost-hunt-spirit-scanner",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/moncloas-fighter",
+      "keywords": [
+        "moncloas fighter"
       ]
     },
     {
@@ -55,12 +91,6 @@
       "url": "https://www.miniplay.com/game/last-light",
       "keywords": [
         "last light"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
-      "keywords": [
-        "mini turbo karts halloween"
       ]
     },
     {
@@ -9376,15 +9406,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/archer-ragdoll-masters",
-      "keywords": [
-        "archer ragdoll masters"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/the-secret-of-monkey-island",
       "keywords": [
         "the secret of monkey island"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/archer-ragdoll-masters",
+      "keywords": [
+        "archer ragdoll masters"
       ]
     },
     {

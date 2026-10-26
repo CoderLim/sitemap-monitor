@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/obby-1jump-with-brainrot",
+      "keywords": [
+        "obby 1jump with brainrot"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/meowdoku",
+      "keywords": [
+        "meowdoku"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/slowmo-sniper",
+      "keywords": [
+        "slowmo sniper"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/drive-for-speed-simulator",
+      "keywords": [
+        "drive for speed simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ghost-hunt-spirit-scanner",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "obby 1jump with brainrot",
+    "meowdoku",
+    "slowmo sniper",
+    "drive for speed simulator",
+    "ghost hunt spirit scanner"
+  ]
+}

@@ -1,32 +1,69 @@
 {
   "status": "completed",
-  "started_at": "2026-10-25T18:47:35.884997+00:00",
-  "finished_at": "2026-10-25T18:47:46.359447+00:00",
+  "started_at": "2026-10-26T20:55:40.307545+00:00",
+  "finished_at": "2026-10-26T20:55:48.383403+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "crown hunters"
+      ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 36,
+      "new_keyword_count": 32,
+      "new_keywords": [
+        "mountain car climb 4x4",
+        "farm squad",
+        "1 jump obby escape keyboard",
+        "hex dominion",
+        "airplane flight pilot simulator",
+        "the mafia city gangster game",
+        "root to core",
+        "ridgebound",
+        "laundromania",
+        "power wash town",
+        "swarm sensei",
+        "first touch tjz",
+        "crust crusher",
+        "pizza shop rush",
+        "sea survivor lcj",
+        "realistic car parking",
+        "wish fountain",
+        "busy bites tycoon",
+        "euro car parking simulator ttf",
+        "dragon hoard",
+        "swole clicker ero",
+        "asmr halloween makeover",
+        "hay factory tycoon",
+        "ultimate plane upgrade ies",
+        "crash yard",
+        "thousand strikes",
+        "sitebreak",
+        "london air ambulance",
+        "alchemy sparks",
+        "curve kick free kick master",
+        "farkle",
+        "saltyseas io"
+      ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 1,
+      "new_keyword_count": 1,
+      "new_keywords": [
+        "darkslide"
+      ],
       "error": null
     },
     {
@@ -35,13 +72,13 @@
       "new_url_count": 7,
       "new_keyword_count": 7,
       "new_keywords": [
-        "style queen art makeup",
-        "3d block gladiator sword draw",
-        "merge defense army behind the wall",
-        "mystery dumpling go merge io",
-        "baseball for brainrot",
-        "spray paint coloring games",
-        "the shadow marksman master of kunai"
+        "inkway",
+        "car stunts driving",
+        "peppa pigs halloween party",
+        "wild wolf simulator animal",
+        "boom brick",
+        "velin world halloween carnival",
+        "verity block survival"
       ],
       "error": null
     },
@@ -64,9 +101,15 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 5,
+      "new_keyword_count": 5,
+      "new_keywords": [
+        "obby 1jump with brainrot",
+        "meowdoku",
+        "slowmo sniper",
+        "drive for speed simulator",
+        "ghost hunt spirit scanner"
+      ],
       "error": null
     },
     {

@@ -1,0 +1,59 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/inkway",
+      "keywords": [
+        "inkway"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/car-stunts-driving",
+      "keywords": [
+        "car stunts driving"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/peppa-pigs-halloween-party",
+      "keywords": [
+        "peppa pigs halloween party"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/wild-wolf-simulator-animal",
+      "keywords": [
+        "wild wolf simulator animal"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/boom-brick",
+      "keywords": [
+        "boom brick"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/velin-world-halloween-carnival",
+      "keywords": [
+        "velin world halloween carnival"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/verity-block-survival",
+      "keywords": [
+        "verity block survival"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "inkway",
+    "car stunts driving",
+    "peppa pigs halloween party",
+    "wild wolf simulator animal",
+    "boom brick",
+    "velin world halloween carnival",
+    "verity block survival"
+  ]
+}

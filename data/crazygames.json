@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-25T18:47:35.886791+00:00",
+  "fetched_at": "2026-10-26T20:55:40.309349+00:00",
   "baseline": false,
   "urls": [
     {
@@ -233,6 +233,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/46",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/47",
       "keywords": []
     },
     {
@@ -24120,6 +24124,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/mountain-car-climb-4x4",
+      "keywords": [
+        "mountain car climb 4x4"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/i-am-monkey-school-pranskter",
       "keywords": [
         "i am monkey school pranskter"
@@ -26268,6 +26278,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/farm-squad",
+      "keywords": [
+        "farm squad"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/knife-tower",
       "keywords": [
         "knife tower"
@@ -26670,12 +26686,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/soccer-lat-3d-football-online",
-      "keywords": [
-        "soccer lat 3d football online"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/one-shot-duel-snipe-hide",
       "keywords": [
         "one shot duel snipe hide"
@@ -27000,6 +27010,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/1-jump---obby-escape-keyboard",
+      "keywords": [
+        "1 jump obby escape keyboard"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/hospital-13",
       "keywords": [
         "hospital 13"
@@ -27057,6 +27073,12 @@
       "url": "https://www.crazygames.com/game/sports-store-supermarket-simulator",
       "keywords": [
         "sports store supermarket simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hex-dominion",
+      "keywords": [
+        "hex dominion"
       ]
     },
     {
@@ -27342,6 +27364,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/airplane-flight-pilot-simulator",
+      "keywords": [
+        "airplane flight pilot simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/word-solitaire-qjo",
       "keywords": [
         "word solitaire qjo"
@@ -27351,6 +27379,12 @@
       "url": "https://www.crazygames.com/game/world-craft-dream-island",
       "keywords": [
         "world craft dream island"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/the-mafia-city-gangster-game",
+      "keywords": [
+        "the mafia city gangster game"
       ]
     },
     {
@@ -27432,6 +27466,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/root-to-core",
+      "keywords": [
+        "root to core"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/capybara-spa-tycoon",
       "keywords": [
         "capybara spa tycoon"
@@ -27453,6 +27493,12 @@
       "url": "https://www.crazygames.com/game/rental-life-tenant-stories-vpe",
       "keywords": [
         "rental life tenant stories vpe"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/ridgebound",
+      "keywords": [
+        "ridgebound"
       ]
     },
     {
@@ -27498,6 +27544,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/laundromania",
+      "keywords": [
+        "laundromania"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/kaboom-kingdoms",
       "keywords": [
         "kaboom kingdoms"
@@ -27513,6 +27565,12 @@
       "url": "https://www.crazygames.com/game/robovac-satisfaction-co",
       "keywords": [
         "robovac satisfaction co"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/power-wash-town",
+      "keywords": [
+        "power wash town"
       ]
     },
     {
@@ -27558,6 +27616,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/swarm-sensei",
+      "keywords": [
+        "swarm sensei"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/megminer",
       "keywords": [
         "megminer"
@@ -27600,6 +27664,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/first-touch-tjz",
+      "keywords": [
+        "first touch tjz"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/escape-from-chunga-changa",
       "keywords": [
         "escape from chunga changa"
@@ -27612,9 +27682,21 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/crust-crusher",
+      "keywords": [
+        "crust crusher"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/dream-cake-designer",
       "keywords": [
         "dream cake designer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pizza-shop-rush",
+      "keywords": [
+        "pizza shop rush"
       ]
     },
     {
@@ -27648,6 +27730,18 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/sea-survivor-lcj",
+      "keywords": [
+        "sea survivor lcj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/realistic-car-parking",
+      "keywords": [
+        "realistic car parking"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/rob-a-garden",
       "keywords": [
         "rob a garden"
@@ -27660,9 +27754,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/wish-fountain",
+      "keywords": [
+        "wish fountain"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/busy-bites-tycoon",
+      "keywords": [
+        "busy bites tycoon"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flotsam-io",
       "keywords": [
         "flotsam io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/euro-car-parking-simulator-ttf",
+      "keywords": [
+        "euro car parking simulator ttf"
       ]
     },
     {
@@ -27684,6 +27796,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/dragon-hoard",
+      "keywords": [
+        "dragon hoard"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/last-lantern",
       "keywords": [
         "last lantern"
@@ -27696,15 +27814,39 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/swole-clicker-ero",
+      "keywords": [
+        "swole clicker ero"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/promotion-commotion",
       "keywords": [
         "promotion commotion"
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/asmr-halloween-makeover",
+      "keywords": [
+        "asmr halloween makeover"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/toximass",
       "keywords": [
         "toximass"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hay-factory-tycoon",
+      "keywords": [
+        "hay factory tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/ultimate-plane-upgrade-ies",
+      "keywords": [
+        "ultimate plane upgrade ies"
       ]
     },
     {
@@ -27720,6 +27862,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/crash-yard",
+      "keywords": [
+        "crash yard"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/gorilla-smash",
       "keywords": [
         "gorilla smash"
@@ -27732,9 +27880,33 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/thousand-strikes",
+      "keywords": [
+        "thousand strikes"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sitebreak",
+      "keywords": [
+        "sitebreak"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/london-air-ambulance",
+      "keywords": [
+        "london air ambulance"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/dalkom-cafe-vzm",
       "keywords": [
         "dalkom cafe vzm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/alchemy-sparks",
+      "keywords": [
+        "alchemy sparks"
       ]
     },
     {
@@ -27744,9 +27916,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/curve-kick-free-kick-master",
+      "keywords": [
+        "curve kick free kick master"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/spot-the-difference-myq",
       "keywords": [
         "spot the difference myq"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/farkle",
+      "keywords": [
+        "farkle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/saltyseas-io",
+      "keywords": [
+        "saltyseas io"
       ]
     },
     {
@@ -28167,6 +28357,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/relaxing/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/relaxing/6",
       "keywords": []
     },
     {
@@ -29498,6 +29692,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/mission/5",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/grow",
       "keywords": [
         "grow"
@@ -29621,6 +29819,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/idle/9",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/idle/10",
       "keywords": []
     },
     {
