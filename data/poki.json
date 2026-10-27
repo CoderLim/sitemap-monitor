@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-26T20:55:40.309349+00:00",
+  "fetched_at": "2026-10-27T20:29:48.900746+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/emoji-factory",
+      "keywords": [
+        "emoji factory"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/city-destruction",
+      "keywords": [
+        "city destruction"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/captcha",
+      "keywords": [
+        "captcha"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/siegeward",
       "keywords": [
@@ -397,12 +415,6 @@
       "url": "https://poki.com/en/g/dino-merge",
       "keywords": [
         "dino merge"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/emoji-factory",
-      "keywords": [
-        "emoji factory"
       ]
     },
     {

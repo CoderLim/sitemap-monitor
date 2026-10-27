@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/fresh-garden-mania",
+      "keywords": [
+        "fresh garden mania"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monsters-lab-cooking",
+      "keywords": [
+        "monsters lab cooking"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-forest-survival-shooter",
+      "keywords": [
+        "zombie forest survival shooter"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "fresh garden mania",
+    "monsters lab cooking",
+    "zombie forest survival shooter"
+  ]
+}

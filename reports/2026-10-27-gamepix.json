@@ -1,0 +1,563 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/idle-mining-tycoon",
+      "keywords": [
+        "idle mining tycoon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/iron-dominion",
+      "keywords": [
+        "iron dominion"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gamele",
+      "keywords": [
+        "gamele"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tap-out-block-escape-new",
+      "keywords": [
+        "tap out block escape new"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pitaya-dash",
+      "keywords": [
+        "pitaya dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/margin-meadow",
+      "keywords": [
+        "margin meadow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arctic-pop",
+      "keywords": [
+        "arctic pop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-space-mover",
+      "keywords": [
+        "the space mover"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snake-coil-puzzle-adventure",
+      "keywords": [
+        "snake coil puzzle adventure"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shadow-fist-kung-fu",
+      "keywords": [
+        "shadow fist kung fu"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/car-master-transform-race",
+      "keywords": [
+        "car master transform race"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/parcel-planes",
+      "keywords": [
+        "parcel planes"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/industrial-realms-conglomerate",
+      "keywords": [
+        "industrial realms conglomerate"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/elevator-out-of-order",
+      "keywords": [
+        "elevator out of order"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-tempest",
+      "keywords": [
+        "bubble tempest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-drowned-hoard",
+      "keywords": [
+        "the drowned hoard"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dreamland-survivors",
+      "keywords": [
+        "dreamland survivors"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/guseulchigi",
+      "keywords": [
+        "guseulchigi"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/field-of-steel-alpha-0-1",
+      "keywords": [
+        "field of steel alpha 0 1"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/diggosaur",
+      "keywords": [
+        "diggosaur"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tidepuff",
+      "keywords": [
+        "tidepuff"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/prismhex",
+      "keywords": [
+        "prismhex"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/larder",
+      "keywords": [
+        "larder"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/drople",
+      "keywords": [
+        "drople"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-words-associations",
+      "keywords": [
+        "bubble words associations"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hero-vs-traps",
+      "keywords": [
+        "hero vs traps"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/watchmaker-screw-puzzle",
+      "keywords": [
+        "watchmaker screw puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gravity-gone-wrong",
+      "keywords": [
+        "gravity gone wrong"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-collector",
+      "keywords": [
+        "the collector"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-arrow-escape",
+      "keywords": [
+        "neon arrow escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crash-launch-mayhem",
+      "keywords": [
+        "crash launch mayhem"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fair-blocks",
+      "keywords": [
+        "fair blocks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shadow-relay",
+      "keywords": [
+        "shadow relay"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cat-vs-mice-3d",
+      "keywords": [
+        "cat vs mice 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/miaomiao-cat-hop",
+      "keywords": [
+        "miaomiao cat hop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chrono-spira",
+      "keywords": [
+        "chrono spira"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/berry-pop-merge",
+      "keywords": [
+        "berry pop merge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spirit-gourd",
+      "keywords": [
+        "spirit gourd"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hexa-glow",
+      "keywords": [
+        "hexa glow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soak-squeeze",
+      "keywords": [
+        "soak squeeze"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/space-bugs",
+      "keywords": [
+        "space bugs"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hook-harbor",
+      "keywords": [
+        "hook harbor"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bingo-halloween",
+      "keywords": [
+        "bingo halloween"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snowline-rivals",
+      "keywords": [
+        "snowline rivals"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jelly-drop",
+      "keywords": [
+        "jelly drop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/orbital-pop",
+      "keywords": [
+        "orbital pop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-sky-roll",
+      "keywords": [
+        "neon sky roll"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sort-master-satisfeel-asmr",
+      "keywords": [
+        "sort master satisfeel asmr"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ink-clash",
+      "keywords": [
+        "ink clash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/seleon",
+      "keywords": [
+        "seleon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hang-in-balance",
+      "keywords": [
+        "hang in balance"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-rush-hover-highway",
+      "keywords": [
+        "neon rush hover highway"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/punchy-clicker",
+      "keywords": [
+        "punchy clicker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sausage-flip-game",
+      "keywords": [
+        "sausage flip game"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/say-what-you-see",
+      "keywords": [
+        "say what you see"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-alchemy",
+      "keywords": [
+        "bubble alchemy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ball-keeper",
+      "keywords": [
+        "ball keeper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fling-knights",
+      "keywords": [
+        "fling knights"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/inkblade",
+      "keywords": [
+        "inkblade"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cat-hotel-24-7",
+      "keywords": [
+        "cat hotel 24 7"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-guardian",
+      "keywords": [
+        "bubble guardian"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/daddy-mouse",
+      "keywords": [
+        "daddy mouse"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pulse-disc",
+      "keywords": [
+        "pulse disc"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-light-at-hollowfern",
+      "keywords": [
+        "last light at hollowfern"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/block-warehouse",
+      "keywords": [
+        "block warehouse"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mibs",
+      "keywords": [
+        "mibs"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/quantum-catch",
+      "keywords": [
+        "quantum catch"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wild-wheels",
+      "keywords": [
+        "wild wheels"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/buggy-blast",
+      "keywords": [
+        "buggy blast"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/night-frontier",
+      "keywords": [
+        "night frontier"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fully-booked-hotel",
+      "keywords": [
+        "fully booked hotel"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/moru-friends",
+      "keywords": [
+        "moru friends"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ragdoll-survivor",
+      "keywords": [
+        "ragdoll survivor"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rubber-doodle",
+      "keywords": [
+        "rubber doodle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/street-smart-echoes-of-home",
+      "keywords": [
+        "street smart echoes of home"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/drone-zero",
+      "keywords": [
+        "drone zero"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fast-connect-one-line-blitz",
+      "keywords": [
+        "fast connect one line blitz"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/verity-don-t-look-away",
+      "keywords": [
+        "verity don t look away"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-haven-cafe",
+      "keywords": [
+        "merge haven cafe"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "idle mining tycoon",
+    "iron dominion",
+    "gamele",
+    "tap out block escape new",
+    "pitaya dash",
+    "margin meadow",
+    "arctic pop",
+    "the space mover",
+    "snake coil puzzle adventure",
+    "shadow fist kung fu",
+    "car master transform race",
+    "parcel planes",
+    "industrial realms conglomerate",
+    "elevator out of order",
+    "bubble tempest",
+    "the drowned hoard",
+    "dreamland survivors",
+    "guseulchigi",
+    "field of steel alpha 0 1",
+    "diggosaur",
+    "tidepuff",
+    "prismhex",
+    "larder",
+    "drople",
+    "bubble words associations",
+    "hero vs traps",
+    "watchmaker screw puzzle",
+    "gravity gone wrong",
+    "the collector",
+    "neon arrow escape",
+    "crash launch mayhem",
+    "fair blocks",
+    "shadow relay",
+    "cat vs mice 3d",
+    "miaomiao cat hop",
+    "chrono spira",
+    "berry pop merge",
+    "spirit gourd",
+    "hexa glow",
+    "soak squeeze",
+    "space bugs",
+    "hook harbor",
+    "bingo halloween",
+    "snowline rivals",
+    "jelly drop",
+    "orbital pop",
+    "neon sky roll",
+    "sort master satisfeel asmr",
+    "ink clash",
+    "seleon",
+    "hang in balance",
+    "neon rush hover highway",
+    "punchy clicker",
+    "sausage flip game",
+    "say what you see",
+    "bubble alchemy",
+    "ball keeper",
+    "fling knights",
+    "inkblade",
+    "cat hotel 24 7",
+    "bubble guardian",
+    "daddy mouse",
+    "pulse disc",
+    "last light at hollowfern",
+    "block warehouse",
+    "mibs",
+    "quantum catch",
+    "wild wheels",
+    "buggy blast",
+    "night frontier",
+    "fully booked hotel",
+    "moru friends",
+    "ragdoll survivor",
+    "rubber doodle",
+    "street smart echoes of home",
+    "drone zero",
+    "fast connect one line blitz",
+    "verity don t look away",
+    "merge haven cafe"
+  ]
+}
