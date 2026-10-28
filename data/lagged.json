@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-10-27T20:29:48.900746+00:00",
+  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
   "baseline": false,
   "urls": [
     {
@@ -67600,6 +67600,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/asmr-halloween-makeover",
+      "keywords": [
+        "asmr halloween makeover"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/oh-snack",
       "keywords": [
         "oh snack"
@@ -67621,6 +67627,12 @@
       "url": "https://lagged.com/en/g/mahjong-spooky-edition",
       "keywords": [
         "mahjong spooky edition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/besties-halloween-fashionista",
+      "keywords": [
+        "besties halloween fashionista"
       ]
     },
     {

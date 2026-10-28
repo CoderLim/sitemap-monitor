@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-27T20:29:48.900746+00:00",
+  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/country-balls-world-war",
+      "keywords": [
+        "country balls world war"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/jetpack-speed-obby",
+      "keywords": [
+        "jetpack speed obby"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/emoji-factory",
       "keywords": [
@@ -343,12 +355,6 @@
       "url": "https://poki.com/en/g/sling-star-kick",
       "keywords": [
         "sling star kick"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/jetpack-speed-obby",
-      "keywords": [
-        "jetpack speed obby"
       ]
     },
     {

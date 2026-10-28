@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-27T20:29:48.900746+00:00",
+  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
   "baseline": false,
   "urls": [
     {
@@ -847,12 +847,6 @@
       "url": "https://www.crazygames.com/game/boomerang-chang",
       "keywords": [
         "boomerang chang"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/the-impossible-quiz",
-      "keywords": [
-        "the impossible quiz"
       ]
     },
     {
@@ -26620,6 +26614,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/planet-defense",
+      "keywords": [
+        "planet defense"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/tap-fighter",
       "keywords": [
         "tap fighter"
@@ -26689,6 +26689,12 @@
       "url": "https://www.crazygames.com/game/spectre-command--ac130-simulator",
       "keywords": [
         "spectre command ac130 simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/soccer-lat-3d-football-online",
+      "keywords": [
+        "soccer lat 3d football online"
       ]
     },
     {
@@ -27127,6 +27133,18 @@
       "url": "https://www.crazygames.com/game/revolution-farm-idle",
       "keywords": [
         "revolution farm idle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/doorman-story",
+      "keywords": [
+        "doorman story"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cryptograms",
+      "keywords": [
+        "cryptograms"
       ]
     },
     {
@@ -27694,6 +27712,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/blocky-league",
+      "keywords": [
+        "blocky league"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/era-legion-fzc",
       "keywords": [
         "era legion fzc"
@@ -27856,6 +27880,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/fashion-disaster-fix",
+      "keywords": [
+        "fashion disaster fix"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/toximass",
       "keywords": [
         "toximass"
@@ -27910,9 +27940,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/spin-rivals-nrp",
+      "keywords": [
+        "spin rivals nrp"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hide-shoot",
+      "keywords": [
+        "hide shoot"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/sitebreak",
       "keywords": [
         "sitebreak"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/guess-the-number-gdx",
+      "keywords": [
+        "guess the number gdx"
       ]
     },
     {
@@ -27934,9 +27982,21 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/silent-assassin",
+      "keywords": [
+        "silent assassin"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/alchemy-sparks",
       "keywords": [
         "alchemy sparks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/catch-the-shark",
+      "keywords": [
+        "catch the shark"
       ]
     },
     {
@@ -28437,6 +28497,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/physics/7",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/physics/8",
       "keywords": []
     },
     {
@@ -30034,12 +30098,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/quiz",
-      "keywords": [
-        "quiz"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/t/bike",
       "keywords": [
         "bike"
@@ -30156,6 +30214,12 @@
     {
       "url": "https://www.crazygames.com/t/premium/4",
       "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/quiz",
+      "keywords": [
+        "quiz"
+      ]
     },
     {
       "url": "https://www.crazygames.com/t/boxing",

@@ -1,0 +1,409 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-10-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/apple-math",
+      "keywords": [
+        "apple math"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tower-2048",
+      "keywords": [
+        "tower 2048"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/web-swing",
+      "keywords": [
+        "web swing"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/borrowed-floor",
+      "keywords": [
+        "borrowed floor"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hearthfields",
+      "keywords": [
+        "hearthfields"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/umbrapress",
+      "keywords": [
+        "umbrapress"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/paws-my-pet-shop",
+      "keywords": [
+        "paws my pet shop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snake-puzzle",
+      "keywords": [
+        "snake puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrow-rhythm",
+      "keywords": [
+        "arrow rhythm"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stained-glass-garden",
+      "keywords": [
+        "stained glass garden"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/little-adventure",
+      "keywords": [
+        "little adventure"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sword-smash",
+      "keywords": [
+        "sword smash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sindokus",
+      "keywords": [
+        "sindokus"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shadow-lantern",
+      "keywords": [
+        "shadow lantern"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ricochet-courier",
+      "keywords": [
+        "ricochet courier"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wisphop",
+      "keywords": [
+        "wisphop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kyvlo",
+      "keywords": [
+        "kyvlo"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rulefront",
+      "keywords": [
+        "rulefront"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrow-dash",
+      "keywords": [
+        "arrow dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bag-brawl",
+      "keywords": [
+        "bag brawl"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/loupeway",
+      "keywords": [
+        "loupeway"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soldier-sandbox-3",
+      "keywords": [
+        "soldier sandbox 3"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/word-snake",
+      "keywords": [
+        "word snake"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/creasequest",
+      "keywords": [
+        "creasequest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/after-glow",
+      "keywords": [
+        "after glow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/swingpit",
+      "keywords": [
+        "swingpit"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/smashcue",
+      "keywords": [
+        "smashcue"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/voidrush",
+      "keywords": [
+        "voidrush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jinxed-jump",
+      "keywords": [
+        "jinxed jump"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/escape-the-giant-cat",
+      "keywords": [
+        "escape the giant cat"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crumple-rumble",
+      "keywords": [
+        "crumple rumble"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brick-breaker-boss",
+      "keywords": [
+        "brick breaker boss"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/yesterday-farm",
+      "keywords": [
+        "yesterday farm"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/par-breakers",
+      "keywords": [
+        "par breakers"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jumpybara",
+      "keywords": [
+        "jumpybara"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/vector-warden-swarm-protocol",
+      "keywords": [
+        "vector warden swarm protocol"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lumina-wardens-grove-defense",
+      "keywords": [
+        "lumina wardens grove defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/idle-ramen-empire",
+      "keywords": [
+        "idle ramen empire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hurdle-hounds",
+      "keywords": [
+        "hurdle hounds"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gunshell-assault",
+      "keywords": [
+        "gunshell assault"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/classic-freecell-solitaire",
+      "keywords": [
+        "classic freecell solitaire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rainbow-road-car-jam-escape",
+      "keywords": [
+        "rainbow road car jam escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bramblebound",
+      "keywords": [
+        "bramblebound"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/classic-spider-solitaire",
+      "keywords": [
+        "classic spider solitaire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/classic-tripeaks-solitaire",
+      "keywords": [
+        "classic tripeaks solitaire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/traxis-path",
+      "keywords": [
+        "traxis path"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/starpile",
+      "keywords": [
+        "starpile"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/duck-marsh-70",
+      "keywords": [
+        "duck marsh 70"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snake-pr",
+      "keywords": [
+        "snake pr"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnetic-tide",
+      "keywords": [
+        "magnetic tide"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jollof-saga",
+      "keywords": [
+        "jollof saga"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/space-odyssey",
+      "keywords": [
+        "space odyssey"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/chroma-chime",
+      "keywords": [
+        "chroma chime"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nexora",
+      "keywords": [
+        "nexora"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/balance-scale",
+      "keywords": [
+        "balance scale"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/frog-vs-bugs",
+      "keywords": [
+        "frog vs bugs"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hide-from-chickens",
+      "keywords": [
+        "hide from chickens"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "apple math",
+    "tower 2048",
+    "web swing",
+    "borrowed floor",
+    "hearthfields",
+    "umbrapress",
+    "paws my pet shop",
+    "snake puzzle",
+    "arrow rhythm",
+    "stained glass garden",
+    "little adventure",
+    "sword smash",
+    "sindokus",
+    "shadow lantern",
+    "ricochet courier",
+    "wisphop",
+    "kyvlo",
+    "rulefront",
+    "arrow dash",
+    "bag brawl",
+    "loupeway",
+    "soldier sandbox 3",
+    "word snake",
+    "creasequest",
+    "after glow",
+    "swingpit",
+    "smashcue",
+    "voidrush",
+    "jinxed jump",
+    "escape the giant cat",
+    "crumple rumble",
+    "brick breaker boss",
+    "yesterday farm",
+    "par breakers",
+    "jumpybara",
+    "vector warden swarm protocol",
+    "lumina wardens grove defense",
+    "idle ramen empire",
+    "hurdle hounds",
+    "gunshell assault",
+    "classic freecell solitaire",
+    "rainbow road car jam escape",
+    "bramblebound",
+    "classic spider solitaire",
+    "classic tripeaks solitaire",
+    "traxis path",
+    "starpile",
+    "duck marsh 70",
+    "snake pr",
+    "magnetic tide",
+    "jollof saga",
+    "space odyssey",
+    "chroma chime",
+    "nexora",
+    "balance scale",
+    "frog vs bugs",
+    "hide from chickens"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/race-rocket-arena-car-extreme",
+      "keywords": [
+        "race rocket arena car extreme"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/splash-rivals",
+      "keywords": [
+        "splash rivals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-3",
+      "keywords": [
+        "granny 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-ultimate-doom",
+      "keywords": [
+        "the ultimate doom"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/shell-survivor",
+      "keywords": [
+        "shell survivor"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snack-stack",
+      "keywords": [
+        "snack stack"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "race rocket arena car extreme",
+    "splash rivals",
+    "granny 3",
+    "the ultimate doom",
+    "shell survivor",
+    "snack stack"
+  ]
+}

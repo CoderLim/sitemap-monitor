@@ -1,12 +1,54 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-27T20:29:48.900746+00:00",
+  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
       "keywords": [
         "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/race-rocket-arena-car-extreme",
+      "keywords": [
+        "race rocket arena car extreme"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/splash-rivals",
+      "keywords": [
+        "splash rivals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/granny-3",
+      "keywords": [
+        "granny 3"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-drive-your-car-as-far-as-possible",
+      "keywords": [
+        "obby drive your car as far as possible"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-ultimate-doom",
+      "keywords": [
+        "the ultimate doom"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/shell-survivor",
+      "keywords": [
+        "shell survivor"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snack-stack",
+      "keywords": [
+        "snack stack"
       ]
     },
     {
@@ -13585,12 +13627,6 @@
       "url": "https://www.miniplay.com/game/kart-hooligans",
       "keywords": [
         "kart hooligans"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/obby-drive-your-car-as-far-as-possible",
-      "keywords": [
-        "obby drive your car as far as possible"
       ]
     },
     {

@@ -1,0 +1,24 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-28",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/asmr-halloween-makeover",
+      "keywords": [
+        "asmr halloween makeover"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/besties-halloween-fashionista",
+      "keywords": [
+        "besties halloween fashionista"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "asmr halloween makeover",
+    "besties halloween fashionista"
+  ]
+}
