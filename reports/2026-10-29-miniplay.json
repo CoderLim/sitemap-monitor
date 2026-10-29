@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/fartnership",
+      "keywords": [
+        "fartnership"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pokeghostgrey",
+      "keywords": [
+        "pokeghostgrey"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/swerve-rush",
+      "keywords": [
+        "swerve rush"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/word-run",
+      "keywords": [
+        "word run"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/voxhalla",
+      "keywords": [
+        "voxhalla"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "fartnership",
+    "pokeghostgrey",
+    "swerve rush",
+    "word run",
+    "voxhalla"
+  ]
+}

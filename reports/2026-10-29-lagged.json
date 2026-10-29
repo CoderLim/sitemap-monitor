@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/obby-1-pickaxe-swing-escape",
+      "keywords": [
+        "obby 1 pickaxe swing escape"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-way",
+      "keywords": [
+        "obby way"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/witchs-shop-potion-brewing",
+      "keywords": [
+        "witchs shop potion brewing"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "obby 1 pickaxe swing escape",
+    "obby way",
+    "witchs shop potion brewing"
+  ]
+}

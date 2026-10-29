@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
+  "fetched_at": "2026-10-29T20:56:18.617901+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/reroute",
+      "keywords": [
+        "reroute"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/ninja-slash",
+      "keywords": [
+        "ninja slash"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/cat-ghost-hunter",
+      "keywords": [
+        "cat ghost hunter"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/country-balls-world-war",
       "keywords": [
@@ -145,12 +163,6 @@
       "url": "https://poki.com/en/g/voxel-wreck",
       "keywords": [
         "voxel wreck"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/cat-ghost-hunter",
-      "keywords": [
-        "cat ghost hunter"
       ]
     },
     {
@@ -367,12 +379,6 @@
       "url": "https://poki.com/en/g/mad-stick",
       "keywords": [
         "mad stick"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/reroute",
-      "keywords": [
-        "reroute"
       ]
     },
     {

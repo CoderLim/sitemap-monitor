@@ -1,12 +1,48 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-28T20:51:06.666541+00:00",
+  "fetched_at": "2026-10-29T20:56:18.617901+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
       "keywords": [
         "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fartnership",
+      "keywords": [
+        "fartnership"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pokeghostgrey",
+      "keywords": [
+        "pokeghostgrey"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/swerve-rush",
+      "keywords": [
+        "swerve rush"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/word-run",
+      "keywords": [
+        "word run"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ghost-hunt-spirit-scanner",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/voxhalla",
+      "keywords": [
+        "voxhalla"
       ]
     },
     {
@@ -79,12 +115,6 @@
       "url": "https://www.miniplay.com/game/drive-for-speed-simulator",
       "keywords": [
         "drive for speed simulator"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/ghost-hunt-spirit-scanner",
-      "keywords": [
-        "ghost hunt spirit scanner"
       ]
     },
     {
@@ -2212,15 +2242,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/prison-pump",
-      "keywords": [
-        "prison pump"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/goal-gang",
       "keywords": [
         "goal gang"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/prison-pump",
+      "keywords": [
+        "prison pump"
       ]
     },
     {
@@ -43010,15 +43040,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/apple-worm",
-      "keywords": [
-        "apple worm"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/golf-clash",
       "keywords": [
         "golf clash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/apple-worm",
+      "keywords": [
+        "apple worm"
       ]
     },
     {

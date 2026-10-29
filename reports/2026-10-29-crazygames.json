@@ -1,0 +1,88 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-29",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/chicken-battle-simulator",
+      "keywords": [
+        "chicken battle simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/needle-in-a-haystack",
+      "keywords": [
+        "needle in a haystack"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/clean-slate-pnn",
+      "keywords": [
+        "clean slate pnn"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/london-street-football",
+      "keywords": [
+        "london street football"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wingworks-flight-lab-dwm",
+      "keywords": [
+        "wingworks flight lab dwm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blockshot-dqv",
+      "keywords": [
+        "blockshot dqv"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/driftwood-isles",
+      "keywords": [
+        "driftwood isles"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/velin-world-puffy-morning",
+      "keywords": [
+        "velin world puffy morning"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rising-star",
+      "keywords": [
+        "rising star"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kaboom-town",
+      "keywords": [
+        "kaboom town"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/3d/27",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/destroy/6",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "chicken battle simulator",
+    "needle in a haystack",
+    "clean slate pnn",
+    "london street football",
+    "wingworks flight lab dwm",
+    "blockshot dqv",
+    "driftwood isles",
+    "velin world puffy morning",
+    "rising star",
+    "kaboom town"
+  ]
+}
