@@ -1,0 +1,95 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-10-30",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/bricks-breaker",
+      "keywords": [
+        "bricks breaker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/fashion-makeover-spa-dress-up",
+      "keywords": [
+        "fashion makeover spa dress up"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cooking-blast",
+      "keywords": [
+        "cooking blast"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hordewalkers",
+      "keywords": [
+        "hordewalkers"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/london-black-cab-driver",
+      "keywords": [
+        "london black cab driver"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/skyfang-dragon-hunters",
+      "keywords": [
+        "skyfang dragon hunters"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/runespire-idle-tower-defense",
+      "keywords": [
+        "runespire idle tower defense"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/miami-rideout-edt",
+      "keywords": [
+        "miami rideout edt"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stickman-death-fight",
+      "keywords": [
+        "stickman death fight"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/egg-o-matic-factory-tycoon",
+      "keywords": [
+        "egg o matic factory tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/nightz-io-jtj",
+      "keywords": [
+        "nightz io jtj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/22",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/animal/5",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "bricks breaker",
+    "fashion makeover spa dress up",
+    "cooking blast",
+    "hordewalkers",
+    "london black cab driver",
+    "skyfang dragon hunters",
+    "runespire idle tower defense",
+    "miami rideout edt",
+    "stickman death fight",
+    "egg o matic factory tycoon",
+    "nightz io jtj"
+  ]
+}

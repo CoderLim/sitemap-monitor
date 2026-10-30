@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-10-29T20:56:18.617901+00:00",
+  "fetched_at": "2026-10-30T20:31:51.680265+00:00",
   "baseline": false,
   "urls": [
     {
@@ -6571,6 +6571,12 @@
       "url": "https://www.crazygames.com/game/defenders-of-the-realm-an-epic-war",
       "keywords": [
         "defenders of the realm an epic war"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bricks-breaker",
+      "keywords": [
+        "bricks breaker"
       ]
     },
     {
@@ -26680,6 +26686,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/fashion-makeover-spa-dress-up",
+      "keywords": [
+        "fashion makeover spa dress up"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/bowmasters-archery-shooting",
       "keywords": [
         "bowmasters archery shooting"
@@ -27964,6 +27976,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/cooking-blast",
+      "keywords": [
+        "cooking blast"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/wingworks-flight-lab-dwm",
       "keywords": [
         "wingworks flight lab dwm"
@@ -27979,6 +27997,12 @@
       "url": "https://www.crazygames.com/game/blockshot-dqv",
       "keywords": [
         "blockshot dqv"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hordewalkers",
+      "keywords": [
+        "hordewalkers"
       ]
     },
     {
@@ -28030,6 +28054,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/london-black-cab-driver",
+      "keywords": [
+        "london black cab driver"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/silent-assassin",
       "keywords": [
         "silent assassin"
@@ -28039,6 +28069,12 @@
       "url": "https://www.crazygames.com/game/alchemy-sparks",
       "keywords": [
         "alchemy sparks"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/skyfang-dragon-hunters",
+      "keywords": [
+        "skyfang dragon hunters"
       ]
     },
     {
@@ -28084,6 +28120,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/runespire-idle-tower-defense",
+      "keywords": [
+        "runespire idle tower defense"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/saltyseas-io",
       "keywords": [
         "saltyseas io"
@@ -28096,9 +28138,33 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/miami-rideout-edt",
+      "keywords": [
+        "miami rideout edt"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stickman-death-fight",
+      "keywords": [
+        "stickman death fight"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/egg-o-matic-factory-tycoon",
+      "keywords": [
+        "egg o matic factory tycoon"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/escape-master",
       "keywords": [
         "escape master"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/nightz-io-jtj",
+      "keywords": [
+        "nightz io jtj"
       ]
     },
     {
@@ -28397,6 +28463,10 @@
     },
     {
       "url": "https://www.crazygames.com/t/2d/21",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/2d/22",
       "keywords": []
     },
     {
@@ -29378,6 +29448,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/t/animal/5",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/turn-based",
       "keywords": [
         "turn based"
@@ -30348,16 +30422,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/play-and-upgrade",
-      "keywords": [
-        "play and upgrade"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
-      "keywords": []
-    },
-    {
       "url": "https://www.crazygames.com/t/battle-royale",
       "keywords": [
         "battle royale"
@@ -30644,6 +30708,16 @@
       "keywords": [
         "5 minute fun"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade",
+      "keywords": [
+        "play and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
+      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/cricket",

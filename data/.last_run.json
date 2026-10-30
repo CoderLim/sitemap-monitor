@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": "2026-10-29T20:56:18.614808+00:00",
-  "finished_at": "2026-10-29T20:56:27.593315+00:00",
+  "started_at": "2026-10-30T20:31:51.677068+00:00",
+  "finished_at": "2026-10-30T20:32:02.720562+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -11,90 +11,45 @@
       "new_url_count": 1,
       "new_keyword_count": 1,
       "new_keywords": [
-        "ninja slash"
+        "butterfly catch"
       ],
       "error": null
     },
     {
       "site_id": "crazygames",
       "is_baseline": false,
-      "new_url_count": 12,
-      "new_keyword_count": 10,
+      "new_url_count": 13,
+      "new_keyword_count": 11,
       "new_keywords": [
-        "chicken battle simulator",
-        "needle in a haystack",
-        "clean slate pnn",
-        "london street football",
-        "wingworks flight lab dwm",
-        "blockshot dqv",
-        "driftwood isles",
-        "velin world puffy morning",
-        "rising star",
-        "kaboom town"
+        "bricks breaker",
+        "fashion makeover spa dress up",
+        "cooking blast",
+        "hordewalkers",
+        "london black cab driver",
+        "skyfang dragon hunters",
+        "runespire idle tower defense",
+        "miami rideout edt",
+        "stickman death fight",
+        "egg o matic factory tycoon",
+        "nightz io jtj"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 43,
-      "new_keyword_count": 43,
-      "new_keywords": [
-        "slide cover",
-        "fragments",
-        "punch through",
-        "bunny runner",
-        "alien translator",
-        "bunny barrage",
-        "carpet move",
-        "override",
-        "trashcrusher",
-        "planet creation incremental",
-        "island mayhem",
-        "jelly panic",
-        "cosmic atlas arrow puzzle",
-        "cubes",
-        "nitro",
-        "crack",
-        "null orbit",
-        "road renegade",
-        "purrking lot",
-        "trophy wife",
-        "liquidated",
-        "monster cafe idle tycoon",
-        "flappy pix",
-        "it is what it is",
-        "there is a hippo in my house",
-        "freekick clash football cup",
-        "sphereforge",
-        "bloom blocks garden quest",
-        "one left",
-        "wobble yard tower balance",
-        "relic putt",
-        "one line candy pop",
-        "beamzag",
-        "traffic knot",
-        "kindori",
-        "aero hook",
-        "timber slide",
-        "rat rush",
-        "royal impostor",
-        "jump rally",
-        "klondike patience",
-        "pocketgolf",
-        "matchstick master"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
+      "new_url_count": 1,
+      "new_keyword_count": 1,
       "new_keywords": [
-        "obby 1 pickaxe swing escape",
-        "obby way",
-        "witchs shop potion brewing"
+        "halloween beats"
       ],
       "error": null
     },
@@ -117,23 +72,31 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 5,
-      "new_keyword_count": 5,
+      "new_url_count": 1,
+      "new_keyword_count": 1,
       "new_keywords": [
-        "fartnership",
-        "pokeghostgrey",
-        "swerve rush",
-        "word run",
-        "voxhalla"
+        "escape the giant cat"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 11,
+      "new_keyword_count": 11,
+      "new_keywords": [
+        "poker na kubikakh so vzroslymi devushkami",
+        "poker online",
+        "block waves night of the dead",
+        "destroy the two from the diary",
+        "war and peace penguins 3d",
+        "mahjong super connect find pairs and connect tiles",
+        "i mog you looksmaxing evolution",
+        "kaser",
+        "find a cat search for cats",
+        "bus n ball jam",
+        "coffee merge"
+      ],
       "error": null
     }
   ],

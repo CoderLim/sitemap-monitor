@@ -1,12 +1,18 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-29T20:56:18.617901+00:00",
+  "fetched_at": "2026-10-30T20:31:51.680265+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/mini-turbo-karts-halloween",
       "keywords": [
         "mini turbo karts halloween"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/escape-the-giant-cat",
+      "keywords": [
+        "escape the giant cat"
       ]
     },
     {
@@ -2242,15 +2248,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/goal-gang",
-      "keywords": [
-        "goal gang"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/prison-pump",
       "keywords": [
         "prison pump"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/goal-gang",
+      "keywords": [
+        "goal gang"
       ]
     },
     {
@@ -3760,15 +3766,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
-      "keywords": [
-        "penalty europe champions edition multiplayer"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
       "keywords": [
         "mine obby 3d minigame world"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
+      "keywords": [
+        "penalty europe champions edition multiplayer"
       ]
     },
     {
