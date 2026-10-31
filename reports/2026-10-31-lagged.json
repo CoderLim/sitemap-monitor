@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-10-31",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/easy-halloween-coloring-quest",
+      "keywords": [
+        "easy halloween coloring quest"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/halloween-monsters-merge",
+      "keywords": [
+        "halloween monsters merge"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-tanks-city",
+      "keywords": [
+        "merge tanks city"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/postal-cipher",
+      "keywords": [
+        "postal cipher"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/funny-gummy-characters",
+      "keywords": [
+        "funny gummy characters"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "easy halloween coloring quest",
+    "halloween monsters merge",
+    "merge tanks city",
+    "postal cipher",
+    "funny gummy characters"
+  ]
+}

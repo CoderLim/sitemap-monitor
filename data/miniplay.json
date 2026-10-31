@@ -1,6 +1,6 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-10-30T20:31:51.680265+00:00",
+  "fetched_at": "2026-10-31T19:46:31.909201+00:00",
   "baseline": false,
   "urls": [
     {
@@ -13,6 +13,18 @@
       "url": "https://www.miniplay.com/game/escape-the-giant-cat",
       "keywords": [
         "escape the giant cat"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/twilight-onet-connect",
+      "keywords": [
+        "twilight onet connect"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/spooky-halloween-makeover",
+      "keywords": [
+        "spooky halloween makeover"
       ]
     },
     {
@@ -3766,15 +3778,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
-      "keywords": [
-        "mine obby 3d minigame world"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/penalty-europe-champions-edition-multiplayer",
       "keywords": [
         "penalty europe champions edition multiplayer"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/mine-obby-3d-minigame-world",
+      "keywords": [
+        "mine obby 3d minigame world"
       ]
     },
     {
@@ -43046,15 +43058,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/golf-clash",
-      "keywords": [
-        "golf clash"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/apple-worm",
       "keywords": [
         "apple worm"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/golf-clash",
+      "keywords": [
+        "golf clash"
       ]
     },
     {

@@ -1,0 +1,24 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-10-31",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/twilight-onet-connect",
+      "keywords": [
+        "twilight onet connect"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/spooky-halloween-makeover",
+      "keywords": [
+        "spooky halloween makeover"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "twilight onet connect",
+    "spooky halloween makeover"
+  ]
+}

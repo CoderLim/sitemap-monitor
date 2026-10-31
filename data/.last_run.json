@@ -1,42 +1,12 @@
 {
   "status": "completed",
-  "started_at": "2026-10-30T20:31:51.677068+00:00",
-  "finished_at": "2026-10-30T20:32:02.720562+00:00",
+  "started_at": "2026-10-31T19:46:31.906908+00:00",
+  "finished_at": "2026-10-31T19:46:41.709966+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
     {
       "site_id": "poki",
-      "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
-      "new_keywords": [
-        "butterfly catch"
-      ],
-      "error": null
-    },
-    {
-      "site_id": "crazygames",
-      "is_baseline": false,
-      "new_url_count": 13,
-      "new_keyword_count": 11,
-      "new_keywords": [
-        "bricks breaker",
-        "fashion makeover spa dress up",
-        "cooking blast",
-        "hordewalkers",
-        "london black cab driver",
-        "skyfang dragon hunters",
-        "runespire idle tower defense",
-        "miami rideout edt",
-        "stickman death fight",
-        "egg o matic factory tycoon",
-        "nightz io jtj"
-      ],
-      "error": null
-    },
-    {
-      "site_id": "gamepix",
       "is_baseline": false,
       "new_url_count": 0,
       "new_keyword_count": 0,
@@ -44,12 +14,79 @@
       "error": null
     },
     {
+      "site_id": "crazygames",
+      "is_baseline": false,
+      "new_url_count": 11,
+      "new_keyword_count": 8,
+      "new_keywords": [
+        "sort em quacks qlu",
+        "sky isles flight sim 3d",
+        "glow up gym",
+        "pet fashion stylist",
+        "sky haulers mau",
+        "snowball rush tcp",
+        "dragon rider",
+        "dualforce idle 2"
+      ],
+      "error": null
+    },
+    {
+      "site_id": "gamepix",
+      "is_baseline": false,
+      "new_url_count": 37,
+      "new_keyword_count": 37,
+      "new_keywords": [
+        "trick your brain puzzle",
+        "antfall",
+        "mosquito smash",
+        "paint escape",
+        "runeheart",
+        "lantern drift",
+        "little monsters click merge battle",
+        "lumawild",
+        "glow sort",
+        "rodents chess",
+        "the orange emperor",
+        "ember moth",
+        "ghost lasso",
+        "larrikin s leap",
+        "woolloop color puzzle",
+        "sticker stack match",
+        "mahjong solitaire",
+        "underground circuit",
+        "lumen bastion",
+        "pixel carousel",
+        "pourline",
+        "pulse shot",
+        "asmr girl livestream mukbang",
+        "mix match",
+        "supermarket tycoon",
+        "workplace warfare",
+        "fieldpost",
+        "bloom circuit",
+        "color block escape",
+        "kiki world",
+        "grill party",
+        "anime couple avatar maker",
+        "sand color match",
+        "grove merge",
+        "mobile phone case design diy",
+        "tailspin",
+        "pack the bag"
+      ],
+      "error": null
+    },
+    {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
+      "new_url_count": 5,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "halloween beats"
+        "easy halloween coloring quest",
+        "halloween monsters merge",
+        "merge tanks city",
+        "postal cipher",
+        "funny gummy characters"
       ],
       "error": null
     },
@@ -72,31 +109,20 @@
     {
       "site_id": "miniplay",
       "is_baseline": false,
-      "new_url_count": 1,
-      "new_keyword_count": 1,
+      "new_url_count": 2,
+      "new_keyword_count": 2,
       "new_keywords": [
-        "escape the giant cat"
+        "twilight onet connect",
+        "spooky halloween makeover"
       ],
       "error": null
     },
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 11,
-      "new_keyword_count": 11,
-      "new_keywords": [
-        "poker na kubikakh so vzroslymi devushkami",
-        "poker online",
-        "block waves night of the dead",
-        "destroy the two from the diary",
-        "war and peace penguins 3d",
-        "mahjong super connect find pairs and connect tiles",
-        "i mog you looksmaxing evolution",
-        "kaser",
-        "find a cat search for cats",
-        "bus n ball jam",
-        "coffee merge"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     }
   ],
