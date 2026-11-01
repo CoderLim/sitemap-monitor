@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/cozy-hole",
+      "keywords": [
+        "cozy hole"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-1-digging-power-per-click",
+      "keywords": [
+        "obby 1 digging power per click"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/traffic-rush-online",
+      "keywords": [
+        "traffic rush online"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cubetown",
+      "keywords": [
+        "cubetown"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/run-clicker-tap-muscle-up",
+      "keywords": [
+        "run clicker tap muscle up"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cozy hole",
+    "obby 1 digging power per click",
+    "traffic rush online",
+    "cubetown",
+    "run clicker tap muscle up"
+  ]
+}

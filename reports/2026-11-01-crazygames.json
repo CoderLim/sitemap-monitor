@@ -1,0 +1,42 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-01",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/toy-soccer-cup-jhl",
+      "keywords": [
+        "toy soccer cup jhl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/beauty-makeover-clinic",
+      "keywords": [
+        "beauty makeover clinic"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/canteen-rush",
+      "keywords": [
+        "canteen rush"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rift-expedition",
+      "keywords": [
+        "rift expedition"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/beauty/3",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "toy soccer cup jhl",
+    "beauty makeover clinic",
+    "canteen rush",
+    "rift expedition"
+  ]
+}
