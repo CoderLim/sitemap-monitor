@@ -1,0 +1,59 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/draw-crash-race",
+      "keywords": [
+        "draw crash race"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/tide--powder",
+      "keywords": [
+        "tide powder"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/1-cut-grass-adventure",
+      "keywords": [
+        "1 cut grass adventure"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-escape-gym-arm-wrestling",
+      "keywords": [
+        "obby escape gym arm wrestling"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bucket-sort-3d",
+      "keywords": [
+        "bucket sort 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/paper-arena-shooter",
+      "keywords": [
+        "paper arena shooter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/expandio",
+      "keywords": [
+        "expandio"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "draw crash race",
+    "tide powder",
+    "1 cut grass adventure",
+    "obby escape gym arm wrestling",
+    "bucket sort 3d",
+    "paper arena shooter",
+    "expandio"
+  ]
+}

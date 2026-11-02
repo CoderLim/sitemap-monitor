@@ -1,0 +1,94 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-02",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/meow-sudoku",
+      "keywords": [
+        "meow sudoku"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pulsefront",
+      "keywords": [
+        "pulsefront"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-mob-war",
+      "keywords": [
+        "last mob war"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pumpkin-tower-night-edition",
+      "keywords": [
+        "pumpkin tower night edition"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nine-men-s-morris",
+      "keywords": [
+        "nine men s morris"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/king-of-boxer",
+      "keywords": [
+        "king of boxer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sand-vault",
+      "keywords": [
+        "sand vault"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/switch-tracks",
+      "keywords": [
+        "switch tracks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/broodfall",
+      "keywords": [
+        "broodfall"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hadal-signal",
+      "keywords": [
+        "hadal signal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/anti-spider-run",
+      "keywords": [
+        "anti spider run"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meowdoku-brain-puzzle",
+      "keywords": [
+        "meowdoku brain puzzle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "meow sudoku",
+    "pulsefront",
+    "last mob war",
+    "pumpkin tower night edition",
+    "nine men s morris",
+    "king of boxer",
+    "sand vault",
+    "switch tracks",
+    "broodfall",
+    "hadal signal",
+    "anti spider run",
+    "meowdoku brain puzzle"
+  ]
+}
