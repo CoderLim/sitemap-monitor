@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": "2026-11-02T23:21:09.305187+00:00",
-  "finished_at": "2026-11-02T23:21:17.428332+00:00",
+  "started_at": "2026-11-03T21:36:06.816213+00:00",
+  "finished_at": "2026-11-03T21:36:15.931209+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -11,7 +11,7 @@
       "new_url_count": 1,
       "new_keyword_count": 1,
       "new_keywords": [
-        "ragdoll shooter"
+        "police vs thief"
       ],
       "error": null
     },
@@ -21,53 +21,45 @@
       "new_url_count": 11,
       "new_keyword_count": 10,
       "new_keywords": [
-        "the great warlords ugz",
-        "retakes io zhd",
-        "cricket red",
-        "pole to flag bgq",
-        "nothing2lose",
-        "sunrise mall tycoon",
-        "little sushi port",
-        "streamer rise",
-        "break a wall mining tycoon lkg",
-        "snake showdown ojq"
+        "angels pact reversal world kps",
+        "drift car racing game",
+        "whack strike sling slam",
+        "voidrush erc",
+        "boxing tycoon",
+        "wordquarium sort merge",
+        "banana infinity grow a banana",
+        "internet cafe tycoon vjb",
+        "scia",
+        "european basketball championship"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 12,
-      "new_keyword_count": 12,
+      "new_url_count": 2,
+      "new_keyword_count": 2,
       "new_keywords": [
-        "meow sudoku",
-        "pulsefront",
-        "last mob war",
-        "pumpkin tower night edition",
-        "nine men s morris",
-        "king of boxer",
-        "sand vault",
-        "switch tracks",
-        "broodfall",
-        "hadal signal",
-        "anti spider run",
-        "meowdoku brain puzzle"
+        "cinderline",
+        "echo vault threads of the unwritten"
       ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 7,
-      "new_keyword_count": 7,
+      "new_url_count": 9,
+      "new_keyword_count": 9,
       "new_keywords": [
-        "draw crash race",
-        "tide powder",
-        "1 cut grass adventure",
-        "obby escape gym arm wrestling",
-        "bucket sort 3d",
-        "paper arena shooter",
-        "expandio"
+        "trop beach eightball",
+        "fps block strike dust2",
+        "keyboard obby 1 speed",
+        "open city suv car stunts",
+        "pixel color quest",
+        "prison guard",
+        "my little spa saloon tycoon",
+        "terradome 3d revive the planet",
+        "perfect cake slice 3d"
       ],
       "error": null
     },
@@ -98,9 +90,37 @@
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 0,
-      "new_keyword_count": 0,
-      "new_keywords": [],
+      "new_url_count": 27,
+      "new_keyword_count": 27,
+      "new_keywords": [
+        "fish a new home",
+        "planety merdzh",
+        "domostroitel kliker",
+        "scent cipher",
+        "khoziain tovara",
+        "word search word hunt",
+        "cozy town",
+        "no brakes downhill",
+        "car fishing mechanics reborn",
+        "steal an egg grow a pet",
+        "classical solitaire klondike 1 or 3 cards patience",
+        "toy factory sorting",
+        "animal evolution 100 forms",
+        "obby hell tower online",
+        "slide fifteen",
+        "terrarium",
+        "bazooka hands magic",
+        "lost crystal",
+        "slap aura king of the city",
+        "bubble mill",
+        "king of the bite",
+        "sportmarket ot prodavtsa do magnata",
+        "arrow tiles merge three",
+        "preferans russkii klassicheskii",
+        "a matter of logic detective puzzles",
+        "colorful crab",
+        "mers racing"
+      ],
       "error": null
     }
   ],

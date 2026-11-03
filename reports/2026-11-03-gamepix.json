@@ -1,0 +1,24 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/cinderline",
+      "keywords": [
+        "cinderline"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-vault-threads-of-the-unwritten",
+      "keywords": [
+        "echo vault threads of the unwritten"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cinderline",
+    "echo vault threads of the unwritten"
+  ]
+}

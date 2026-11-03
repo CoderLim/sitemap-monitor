@@ -1,0 +1,73 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-03",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/trop-beach-eightball",
+      "keywords": [
+        "trop beach eightball"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/fps-block-strike-dust2",
+      "keywords": [
+        "fps block strike dust2"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/keyboard-obby-1-speed",
+      "keywords": [
+        "keyboard obby 1 speed"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/open-city-suv-car-stunts",
+      "keywords": [
+        "open city suv car stunts"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/pixel-color-quest",
+      "keywords": [
+        "pixel color quest"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/prison-guard",
+      "keywords": [
+        "prison guard"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-little-spa--saloon-tycoon",
+      "keywords": [
+        "my little spa saloon tycoon"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/terradome-3d--revive-the-planet",
+      "keywords": [
+        "terradome 3d revive the planet"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/perfect-cake-slice-3d",
+      "keywords": [
+        "perfect cake slice 3d"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "trop beach eightball",
+    "fps block strike dust2",
+    "keyboard obby 1 speed",
+    "open city suv car stunts",
+    "pixel color quest",
+    "prison guard",
+    "my little spa saloon tycoon",
+    "terradome 3d revive the planet",
+    "perfect cake slice 3d"
+  ]
+}
