@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/splash-sliders",
+      "keywords": [
+        "splash sliders"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/build-your-waterslide",
+      "keywords": [
+        "build your waterslide"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/noob-vs-brainrot-rpg-slasher",
+      "keywords": [
+        "noob vs brainrot rpg slasher"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/army-simulator-build-and-defend",
+      "keywords": [
+        "army simulator build and defend"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-vs-gorilla",
+      "keywords": [
+        "zombie vs gorilla"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/escape-from-playtime",
+      "keywords": [
+        "escape from playtime"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "splash sliders",
+    "build your waterslide",
+    "noob vs brainrot rpg slasher",
+    "army simulator build and defend",
+    "zombie vs gorilla",
+    "escape from playtime"
+  ]
+}

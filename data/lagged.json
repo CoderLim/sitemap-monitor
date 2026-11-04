@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-11-03T21:36:06.818987+00:00",
+  "fetched_at": "2026-11-04T21:45:08.026566+00:00",
   "baseline": false,
   "urls": [
     {
@@ -67588,6 +67588,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/splash-sliders",
+      "keywords": [
+        "splash sliders"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/1-brick-escape-obby",
       "keywords": [
         "1 brick escape obby"
@@ -67708,6 +67714,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/build-your-waterslide",
+      "keywords": [
+        "build your waterslide"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/car-vs-tape",
       "keywords": [
         "car vs tape"
@@ -67774,6 +67786,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/noob-vs-brainrot-rpg-slasher",
+      "keywords": [
+        "noob vs brainrot rpg slasher"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/spooky-halloween-makeover",
       "keywords": [
         "spooky halloween makeover"
@@ -67789,6 +67807,12 @@
       "url": "https://lagged.com/en/g/besties-halloween-fashionista",
       "keywords": [
         "besties halloween fashionista"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/army-simulator-build-and-defend",
+      "keywords": [
+        "army simulator build and defend"
       ]
     },
     {
@@ -67813,6 +67837,18 @@
       "url": "https://lagged.com/en/g/perfect-cake-slice-3d",
       "keywords": [
         "perfect cake slice 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/zombie-vs-gorilla",
+      "keywords": [
+        "zombie vs gorilla"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/escape-from-playtime",
+      "keywords": [
+        "escape from playtime"
       ]
     },
     {

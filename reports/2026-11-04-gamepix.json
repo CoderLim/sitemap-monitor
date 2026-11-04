@@ -1,0 +1,409 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/virel",
+      "keywords": [
+        "virel"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nivora",
+      "keywords": [
+        "nivora"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/thistlewick",
+      "keywords": [
+        "thistlewick"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hexa-stack",
+      "keywords": [
+        "hexa stack"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bubble-crest",
+      "keywords": [
+        "bubble crest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/beneath-the-roses",
+      "keywords": [
+        "beneath the roses"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/strike-night-bowling",
+      "keywords": [
+        "strike night bowling"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/inaudible",
+      "keywords": [
+        "inaudible"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/what-i-did-not-see",
+      "keywords": [
+        "what i did not see"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crownfold",
+      "keywords": [
+        "crownfold"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-heart-of-the-mountain",
+      "keywords": [
+        "the heart of the mountain"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sky-marble",
+      "keywords": [
+        "sky marble"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bardbeat",
+      "keywords": [
+        "bardbeat"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/badminton-arena",
+      "keywords": [
+        "badminton arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cindersow",
+      "keywords": [
+        "cindersow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-march",
+      "keywords": [
+        "echo march"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-child-of-tomorrow",
+      "keywords": [
+        "the child of tomorrow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tiny-heroes-vs-the-horde",
+      "keywords": [
+        "tiny heroes vs the horde"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-garden-beyond-mars",
+      "keywords": [
+        "the garden beyond mars"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-03-17-train",
+      "keywords": [
+        "the 03 17 train"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cairnslip",
+      "keywords": [
+        "cairnslip"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/primordial-pool",
+      "keywords": [
+        "primordial pool"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/filler-episode",
+      "keywords": [
+        "filler episode"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/red-ink",
+      "keywords": [
+        "red ink"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/air-for-six",
+      "keywords": [
+        "air for six"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mini-soccer-3d",
+      "keywords": [
+        "mini soccer 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/six-stations",
+      "keywords": [
+        "six stations"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/antfrontier",
+      "keywords": [
+        "antfrontier"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/angry-mob",
+      "keywords": [
+        "angry mob"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-invisible-heiress",
+      "keywords": [
+        "the invisible heiress"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gloamprint",
+      "keywords": [
+        "gloamprint"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/strata-relay",
+      "keywords": [
+        "strata relay"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sneaky-santa-gift-heist",
+      "keywords": [
+        "sneaky santa gift heist"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/eat-evolve",
+      "keywords": [
+        "eat evolve"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fruitrushjam",
+      "keywords": [
+        "fruitrushjam"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rune-lock",
+      "keywords": [
+        "rune lock"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/peak-racer",
+      "keywords": [
+        "peak racer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/genesis-forge",
+      "keywords": [
+        "genesis forge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gem-voyage",
+      "keywords": [
+        "gem voyage"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lantern-drift-caves",
+      "keywords": [
+        "lantern drift caves"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hexi-trap",
+      "keywords": [
+        "hexi trap"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mirror",
+      "keywords": [
+        "mirror"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/scrapshot",
+      "keywords": [
+        "scrapshot"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brick-bane",
+      "keywords": [
+        "brick bane"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slime-merge",
+      "keywords": [
+        "slime merge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hexa-drop",
+      "keywords": [
+        "hexa drop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wash-factory",
+      "keywords": [
+        "wash factory"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/orb-runner",
+      "keywords": [
+        "orb runner"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-tanks",
+      "keywords": [
+        "neon tanks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stick-fix-matchstick-puzzle",
+      "keywords": [
+        "stick fix matchstick puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/monster-front",
+      "keywords": [
+        "monster front"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/terrace",
+      "keywords": [
+        "terrace"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pondito",
+      "keywords": [
+        "pondito"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-cartographer-of-the-tides",
+      "keywords": [
+        "the cartographer of the tides"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-vac-standing",
+      "keywords": [
+        "last vac standing"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-cook-of-the-salt-palace",
+      "keywords": [
+        "the cook of the salt palace"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/the-last-memory-shop",
+      "keywords": [
+        "the last memory shop"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "virel",
+    "nivora",
+    "thistlewick",
+    "hexa stack",
+    "bubble crest",
+    "beneath the roses",
+    "strike night bowling",
+    "inaudible",
+    "what i did not see",
+    "crownfold",
+    "the heart of the mountain",
+    "sky marble",
+    "bardbeat",
+    "badminton arena",
+    "cindersow",
+    "echo march",
+    "the child of tomorrow",
+    "tiny heroes vs the horde",
+    "the garden beyond mars",
+    "the 03 17 train",
+    "cairnslip",
+    "primordial pool",
+    "filler episode",
+    "red ink",
+    "air for six",
+    "mini soccer 3d",
+    "six stations",
+    "antfrontier",
+    "angry mob",
+    "the invisible heiress",
+    "gloamprint",
+    "strata relay",
+    "sneaky santa gift heist",
+    "eat evolve",
+    "fruitrushjam",
+    "rune lock",
+    "peak racer",
+    "genesis forge",
+    "gem voyage",
+    "lantern drift caves",
+    "hexi trap",
+    "mirror",
+    "scrapshot",
+    "brick bane",
+    "slime merge",
+    "hexa drop",
+    "wash factory",
+    "orb runner",
+    "neon tanks",
+    "stick fix matchstick puzzle",
+    "monster front",
+    "terrace",
+    "pondito",
+    "the cartographer of the tides",
+    "last vac standing",
+    "the cook of the salt palace",
+    "the last memory shop"
+  ]
+}

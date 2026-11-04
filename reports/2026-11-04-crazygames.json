@@ -1,0 +1,80 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-04",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/go-kart-racing-game",
+      "keywords": [
+        "go kart racing game"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/treasure-hunter-mqc",
+      "keywords": [
+        "treasure hunter mqc"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/avatarstar-web",
+      "keywords": [
+        "avatarstar web"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/eko-elemental-knock-out",
+      "keywords": [
+        "eko elemental knock out"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/nuke-evolution",
+      "keywords": [
+        "nuke evolution"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/endless-gunner",
+      "keywords": [
+        "endless gunner"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/canyon-dozer",
+      "keywords": [
+        "canyon dozer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/simple-merge",
+      "keywords": [
+        "simple merge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sports-car-championship",
+      "keywords": [
+        "sports car championship"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-resistance-demo",
+      "keywords": [
+        "idle resistance demo"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "go kart racing game",
+    "treasure hunter mqc",
+    "avatarstar web",
+    "eko elemental knock out",
+    "nuke evolution",
+    "endless gunner",
+    "canyon dozer",
+    "simple merge",
+    "sports car championship",
+    "idle resistance demo"
+  ]
+}
