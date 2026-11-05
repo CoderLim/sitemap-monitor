@@ -1,0 +1,136 @@
+{
+  "site_id": "kizi",
+  "date": "2026-11-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/sweet-cakes",
+      "keywords": [
+        "sweet cakes"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hose-down",
+      "keywords": [
+        "hose down"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hot-pot-chef",
+      "keywords": [
+        "hot pot chef"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/geometry-vibes-2-online",
+      "keywords": [
+        "geometry vibes 2 online"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/looking-for-aliens",
+      "keywords": [
+        "looking for aliens"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/wheelie-spooky",
+      "keywords": [
+        "wheelie spooky"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/firefly-night",
+      "keywords": [
+        "firefly night"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/candlebound-coven",
+      "keywords": [
+        "candlebound coven"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/twilight-onet-connect",
+      "keywords": [
+        "twilight onet connect"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/halloween-dress-up-party",
+      "keywords": [
+        "halloween dress up party"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/ghost-hunt-spirit-scanner",
+      "keywords": [
+        "ghost hunt spirit scanner"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/adopt-a-monster",
+      "keywords": [
+        "adopt a monster"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/parkour-block-maker",
+      "keywords": [
+        "parkour block maker"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/solitaire-story-tripeaks-7",
+      "keywords": [
+        "solitaire story tripeaks 7"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hyper-cars-stunt-racing",
+      "keywords": [
+        "hyper cars stunt racing"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/fruity-2048",
+      "keywords": [
+        "fruity 2048"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/diamond-blast-egypt",
+      "keywords": [
+        "diamond blast egypt"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/paint-or-hunt",
+      "keywords": [
+        "paint or hunt"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "sweet cakes",
+    "hose down",
+    "hot pot chef",
+    "geometry vibes 2 online",
+    "looking for aliens",
+    "wheelie spooky",
+    "firefly night",
+    "candlebound coven",
+    "twilight onet connect",
+    "halloween dress up party",
+    "ghost hunt spirit scanner",
+    "adopt a monster",
+    "parkour block maker",
+    "solitaire story tripeaks 7",
+    "hyper cars stunt racing",
+    "fruity 2048",
+    "diamond blast egypt",
+    "paint or hunt"
+  ]
+}

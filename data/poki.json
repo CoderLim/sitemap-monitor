@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-04T21:45:08.026566+00:00",
+  "fetched_at": "2026-11-05T21:49:16.604631+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/swipefruit",
+      "keywords": [
+        "swipefruit"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/connect-2-balls",
+      "keywords": [
+        "connect 2 balls"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/adopt-merge",
       "keywords": [
@@ -379,12 +391,6 @@
       "url": "https://poki.com/en/g/no-fault-cup-2026",
       "keywords": [
         "no fault cup 2026"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/swipefruit",
-      "keywords": [
-        "swipefruit"
       ]
     },
     {

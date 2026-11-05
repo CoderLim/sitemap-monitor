@@ -1,0 +1,38 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-05",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/prisonescapeio",
+      "keywords": [
+        "prisonescapeio"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/crash-test--a-chance-for-survival",
+      "keywords": [
+        "crash test a chance for survival"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/highspeed-turn",
+      "keywords": [
+        "highspeed turn"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/summer-vacations-picnic-party",
+      "keywords": [
+        "summer vacations picnic party"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "prisonescapeio",
+    "crash test a chance for survival",
+    "highspeed turn",
+    "summer vacations picnic party"
+  ]
+}
