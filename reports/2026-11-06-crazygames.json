@@ -1,0 +1,87 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/cubes-2048-royale",
+      "keywords": [
+        "cubes 2048 royale"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/critters-merge",
+      "keywords": [
+        "critters merge"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/modern-commando-strike-shooter",
+      "keywords": [
+        "modern commando strike shooter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/smash-heirs",
+      "keywords": [
+        "smash heirs"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/breach-ibh",
+      "keywords": [
+        "breach ibh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rivals-shooter",
+      "keywords": [
+        "rivals shooter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/european-futsal-championship",
+      "keywords": [
+        "european futsal championship"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/potato-peeler-tycoon",
+      "keywords": [
+        "potato peeler tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/state-io---conquer-the-world",
+      "keywords": [
+        "state io conquer the world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/messy-mart",
+      "keywords": [
+        "messy mart"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tap-road-2-hni",
+      "keywords": [
+        "tap road 2 hni"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cubes 2048 royale",
+    "critters merge",
+    "modern commando strike shooter",
+    "smash heirs",
+    "breach ibh",
+    "rivals shooter",
+    "european futsal championship",
+    "potato peeler tycoon",
+    "state io conquer the world",
+    "messy mart",
+    "tap road 2 hni"
+  ]
+}

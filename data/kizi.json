@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-11-05T21:49:16.604631+00:00",
+  "fetched_at": "2026-11-06T21:22:15.396512+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36083,6 +36083,18 @@
       "url": "https://kizi.com/games/paint-or-hunt",
       "keywords": [
         "paint or hunt"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/hidden-shop-hunt",
+      "keywords": [
+        "hidden shop hunt"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/ninja-sword-dash",
+      "keywords": [
+        "ninja sword dash"
       ]
     }
   ]

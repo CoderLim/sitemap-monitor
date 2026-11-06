@@ -1,0 +1,24 @@
+{
+  "site_id": "kizi",
+  "date": "2026-11-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/hidden-shop-hunt",
+      "keywords": [
+        "hidden shop hunt"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/ninja-sword-dash",
+      "keywords": [
+        "ninja sword dash"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "hidden shop hunt",
+    "ninja sword dash"
+  ]
+}

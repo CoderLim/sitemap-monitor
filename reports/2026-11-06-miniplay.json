@@ -1,0 +1,45 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-06",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/needle-quest-haystack-secrets",
+      "keywords": [
+        "needle quest haystack secrets"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dx-ball",
+      "keywords": [
+        "dx ball"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/krillion-io",
+      "keywords": [
+        "krillion io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/smartphone-legends",
+      "keywords": [
+        "smartphone legends"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rektangle",
+      "keywords": [
+        "rektangle"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "needle quest haystack secrets",
+    "dx ball",
+    "krillion io",
+    "smartphone legends",
+    "rektangle"
+  ]
+}

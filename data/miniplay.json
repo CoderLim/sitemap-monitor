@@ -1,8 +1,44 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-05T21:49:16.604631+00:00",
+  "fetched_at": "2026-11-06T21:22:15.396512+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/needle-quest-haystack-secrets",
+      "keywords": [
+        "needle quest haystack secrets"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dx-ball",
+      "keywords": [
+        "dx ball"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/krillion-io",
+      "keywords": [
+        "krillion io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/smartphone-legends",
+      "keywords": [
+        "smartphone legends"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-legend-of-zelda-ocarina-of-time",
+      "keywords": [
+        "the legend of zelda ocarina of time"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rektangle",
+      "keywords": [
+        "rektangle"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/obby-plane-power-challenge-fly",
       "keywords": [
@@ -733,12 +769,6 @@
       "url": "https://www.miniplay.com/game/bouncemasters",
       "keywords": [
         "bouncemasters"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/the-legend-of-zelda-ocarina-of-time",
-      "keywords": [
-        "the legend of zelda ocarina of time"
       ]
     },
     {
