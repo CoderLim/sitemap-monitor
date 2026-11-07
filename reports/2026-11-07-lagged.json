@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-07",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/steal-an-egg",
+      "keywords": [
+        "steal an egg"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/capitalist-hunter",
+      "keywords": [
+        "capitalist hunter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/purland",
+      "keywords": [
+        "purland"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ruthless-merciless-cards",
+      "keywords": [
+        "ruthless merciless cards"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hill-ride-3d",
+      "keywords": [
+        "hill ride 3d"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/avocado-yard-ragdoll-sandbox",
+      "keywords": [
+        "avocado yard ragdoll sandbox"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "steal an egg",
+    "capitalist hunter",
+    "purland",
+    "ruthless merciless cards",
+    "hill ride 3d",
+    "avocado yard ragdoll sandbox"
+  ]
+}

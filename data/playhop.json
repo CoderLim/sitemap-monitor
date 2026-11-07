@@ -1,6 +1,6 @@
 {
   "site_id": "playhop",
-  "fetched_at": "2026-11-06T21:22:15.396512+00:00",
+  "fetched_at": "2026-11-07T19:59:12.309067+00:00",
   "baseline": false,
   "urls": [
     {
@@ -31047,6 +31047,12 @@
       "url": "https://playhop.com/app/coffee-runner-278939",
       "keywords": [
         "coffee runner"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/777-empire-of-luck-278953",
+      "keywords": [
+        "777 empire of luck"
       ]
     },
     {
@@ -115794,6 +115800,12 @@
       ]
     },
     {
+      "url": "https://playhop.com/app/honest-war-rts-strategy-576780",
+      "keywords": [
+        "honest war rts strategy"
+      ]
+    },
+    {
       "url": "https://playhop.com/app/microcontrol-576833",
       "keywords": [
         "microcontrol"
@@ -124218,6 +124230,12 @@
       ]
     },
     {
+      "url": "https://playhop.com/app/black-prospector-627658",
+      "keywords": [
+        "black prospector"
+      ]
+    },
+    {
       "url": "https://playhop.com/app/a-matter-of-logic-detective-puzzles-627831",
       "keywords": [
         "a matter of logic detective puzzles"
@@ -124251,6 +124269,12 @@
       "url": "https://playhop.com/app/mers-racing-629060",
       "keywords": [
         "mers racing"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/barbershop-simulator-631452",
+      "keywords": [
+        "barbershop simulator"
       ]
     }
   ]
