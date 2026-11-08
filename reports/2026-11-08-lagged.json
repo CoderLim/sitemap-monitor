@@ -1,0 +1,66 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/build-your-backrooms",
+      "keywords": [
+        "build your backrooms"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mosquito-fight-number-battle",
+      "keywords": [
+        "mosquito fight number battle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/skyway-drift",
+      "keywords": [
+        "skyway drift"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/microgic-89",
+      "keywords": [
+        "microgic 89"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/fragen",
+      "keywords": [
+        "fragen"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/kubzio",
+      "keywords": [
+        "kubzio"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/build-a-karting-track",
+      "keywords": [
+        "build a karting track"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/emoji-archer--shooting-emoji",
+      "keywords": [
+        "emoji archer shooting emoji"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "build your backrooms",
+    "mosquito fight number battle",
+    "skyway drift",
+    "microgic 89",
+    "fragen",
+    "kubzio",
+    "build a karting track",
+    "emoji archer shooting emoji"
+  ]
+}

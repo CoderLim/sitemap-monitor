@@ -1,0 +1,74 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-08",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/ragdoll-fight-arena",
+      "keywords": [
+        "ragdoll fight arena"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bat-bonkers",
+      "keywords": [
+        "bat bonkers"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/build-a-keyboard-pyramid-1",
+      "keywords": [
+        "build a keyboard pyramid 1"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/swanny-s-grocery",
+      "keywords": [
+        "swanny s grocery"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/jet-pilot-simulator-3d",
+      "keywords": [
+        "jet pilot simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/god-mode-city-destroyer",
+      "keywords": [
+        "god mode city destroyer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/coin-drop-factory-tvh",
+      "keywords": [
+        "coin drop factory tvh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/safe-trip",
+      "keywords": [
+        "safe trip"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mouse/33",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/management/5",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "ragdoll fight arena",
+    "bat bonkers",
+    "build a keyboard pyramid 1",
+    "swanny s grocery",
+    "jet pilot simulator 3d",
+    "god mode city destroyer",
+    "coin drop factory tvh",
+    "safe trip"
+  ]
+}
