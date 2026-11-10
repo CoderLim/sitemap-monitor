@@ -1,0 +1,17 @@
+{
+  "site_id": "poki",
+  "date": "2026-11-10",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/mahjong-collection",
+      "keywords": [
+        "mahjong collection"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mahjong collection"
+  ]
+}

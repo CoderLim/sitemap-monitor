@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-11-08T20:16:46.248829+00:00",
+  "fetched_at": "2026-11-10T00:00:21.989176+00:00",
   "baseline": false,
   "urls": [
     {
@@ -67654,6 +67654,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/sophies-farm",
+      "keywords": [
+        "sophies farm"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/toy-smash",
       "keywords": [
         "toy smash"
@@ -67798,6 +67804,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/word-pearls",
+      "keywords": [
+        "word pearls"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/witchs-shop-potion-brewing",
       "keywords": [
         "witchs shop potion brewing"
@@ -67849,6 +67861,12 @@
       "url": "https://lagged.com/en/g/avocado-yard-ragdoll-sandbox",
       "keywords": [
         "avocado yard ragdoll sandbox"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/carnival-cannon-smash",
+      "keywords": [
+        "carnival cannon smash"
       ]
     },
     {
@@ -67945,6 +67963,18 @@
       "url": "https://lagged.com/en/g/zombie-vs-gorilla",
       "keywords": [
         "zombie vs gorilla"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ragdoll-sumo",
+      "keywords": [
+        "ragdoll sumo"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/vexi-world",
+      "keywords": [
+        "vexi world"
       ]
     },
     {
