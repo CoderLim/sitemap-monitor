@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-10T00:00:21.989176+00:00",
+  "fetched_at": "2026-11-10T21:41:49.499083+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/tap-away-arrows",
+      "keywords": [
+        "tap away arrows"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/idle-pocket-planet",
+      "keywords": [
+        "idle pocket planet"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/platypus-coffee",
       "keywords": [
@@ -379,12 +391,6 @@
       "url": "https://poki.com/en/g/crazy-motorcycle-pro",
       "keywords": [
         "crazy motorcycle pro"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/idle-pocket-planet",
-      "keywords": [
-        "idle pocket planet"
       ]
     },
     {

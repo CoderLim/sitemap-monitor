@@ -5,70 +5,69 @@
   "is_baseline": false,
   "new_urls": [
     {
-      "url": "https://www.crazygames.com/game/ragdoll-racing-extreme-downhill",
+      "url": "https://www.crazygames.com/game/clutch-soccer",
       "keywords": [
-        "ragdoll racing extreme downhill"
+        "clutch soccer"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/tnt-simulator-gtb",
+      "url": "https://www.crazygames.com/game/slime-miner",
       "keywords": [
-        "tnt simulator gtb"
+        "slime miner"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/piano-keyboard-escape-1-speed-obby",
+      "url": "https://www.crazygames.com/game/merge-wizards-td",
       "keywords": [
-        "piano keyboard escape 1 speed obby"
+        "merge wizards td"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/heatfield",
+      "url": "https://www.crazygames.com/game/knockabout-golf",
       "keywords": [
-        "heatfield"
+        "knockabout golf"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/boost-ball-arena",
+      "url": "https://www.crazygames.com/game/hexa-arrow-jam",
       "keywords": [
-        "boost ball arena"
+        "hexa arrow jam"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/coconut-tycoon",
+      "url": "https://www.crazygames.com/game/mouse-vs-stick",
       "keywords": [
-        "coconut tycoon"
+        "mouse vs stick"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/overtake-challenge-3d",
+      "url": "https://www.crazygames.com/game/obby-build-a-car-farm",
       "keywords": [
-        "overtake challenge 3d"
+        "obby build a car farm"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/smash-speed",
+      "url": "https://www.crazygames.com/game/tidebound-salvage",
       "keywords": [
-        "smash speed"
+        "tidebound salvage"
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/car/8",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/skill/6",
-      "keywords": []
+      "url": "https://www.crazygames.com/game/snow-plow-tycoon-ewm",
+      "keywords": [
+        "snow plow tycoon ewm"
+      ]
     }
   ],
   "new_keywords": [
-    "ragdoll racing extreme downhill",
-    "tnt simulator gtb",
-    "piano keyboard escape 1 speed obby",
-    "heatfield",
-    "boost ball arena",
-    "coconut tycoon",
-    "overtake challenge 3d",
-    "smash speed"
+    "clutch soccer",
+    "slime miner",
+    "merge wizards td",
+    "knockabout golf",
+    "hexa arrow jam",
+    "mouse vs stick",
+    "obby build a car farm",
+    "tidebound salvage",
+    "snow plow tycoon ewm"
   ]
 }

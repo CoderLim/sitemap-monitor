@@ -3,6 +3,35 @@
   "date": "2026-11-10",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/candy-charm-maker-diy-asmr-534243",
+      "keywords": [
+        "candy charm maker diy asmr"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zumas-revenge-original-619809",
+      "keywords": [
+        "zumas revenge original"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/hidden-objects-627096",
+      "keywords": [
+        "hidden objects"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/miss-hot-mess-show-636063",
+      "keywords": [
+        "miss hot mess show"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "candy charm maker diy asmr",
+    "zumas revenge original",
+    "miss hot mess show"
+  ]
 }
