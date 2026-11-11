@@ -1,0 +1,409 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-11",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/zombie-mart",
+      "keywords": [
+        "zombie mart"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnet-rescue",
+      "keywords": [
+        "magnet rescue"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fireline-defense",
+      "keywords": [
+        "fireline defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wallwave",
+      "keywords": [
+        "wallwave"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pocket-factory",
+      "keywords": [
+        "pocket factory"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ring-rush",
+      "keywords": [
+        "ring rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cash-chase",
+      "keywords": [
+        "cash chase"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obby-roll-ice-cream",
+      "keywords": [
+        "obby roll ice cream"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pixel-party-flow",
+      "keywords": [
+        "pixel party flow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kitty-string",
+      "keywords": [
+        "kitty string"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/star-triangles",
+      "keywords": [
+        "star triangles"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/doodle-road",
+      "keywords": [
+        "doodle road"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/grabkeepwin",
+      "keywords": [
+        "grabkeepwin"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gogghins",
+      "keywords": [
+        "gogghins"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/solo-survivor",
+      "keywords": [
+        "solo survivor"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/vinyl-sort",
+      "keywords": [
+        "vinyl sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/emberhold-kingdom-defense",
+      "keywords": [
+        "emberhold kingdom defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/magnetic-wing",
+      "keywords": [
+        "magnetic wing"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dicey-paws-idle",
+      "keywords": [
+        "dicey paws idle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hydro-rush",
+      "keywords": [
+        "hydro rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fizzwick-s-flask-lab",
+      "keywords": [
+        "fizzwick s flask lab"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rocket-roadster",
+      "keywords": [
+        "rocket roadster"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/glowvane",
+      "keywords": [
+        "glowvane"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/diy-interior-consultant",
+      "keywords": [
+        "diy interior consultant"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jungle-vine-swing",
+      "keywords": [
+        "jungle vine swing"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sword-balance",
+      "keywords": [
+        "sword balance"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fashion-world-tour",
+      "keywords": [
+        "fashion world tour"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obby-sail-for-egg",
+      "keywords": [
+        "obby sail for egg"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pacenote-rally",
+      "keywords": [
+        "pacenote rally"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/petrol-station-manager-simulator",
+      "keywords": [
+        "petrol station manager simulator"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obby-cut-the-grass-for-egg",
+      "keywords": [
+        "obby cut the grass for egg"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wings-keyboard-speed",
+      "keywords": [
+        "wings keyboard speed"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obby-swim-for-egg",
+      "keywords": [
+        "obby swim for egg"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/canyon-climb",
+      "keywords": [
+        "canyon climb"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/emoji-alchemy",
+      "keywords": [
+        "emoji alchemy"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/boat-race",
+      "keywords": [
+        "boat race"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/juggly-seal",
+      "keywords": [
+        "juggly seal"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spot-the-diff",
+      "keywords": [
+        "spot the diff"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fall-forward",
+      "keywords": [
+        "fall forward"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/redline-rush",
+      "keywords": [
+        "redline rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nacre",
+      "keywords": [
+        "nacre"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mind-the-doors",
+      "keywords": [
+        "mind the doors"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sudoku-master-classic-logic-puzzle",
+      "keywords": [
+        "sudoku master classic logic puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/jigsaw-sort-puzzle",
+      "keywords": [
+        "jigsaw sort puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/night-checkpoint",
+      "keywords": [
+        "night checkpoint"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pop-arrow",
+      "keywords": [
+        "pop arrow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bloom-blocks",
+      "keywords": [
+        "bloom blocks"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dino-bubble-pop",
+      "keywords": [
+        "dino bubble pop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-courier",
+      "keywords": [
+        "echo courier"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrows-postcards-swipe-puzzle",
+      "keywords": [
+        "arrows postcards swipe puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/just-right",
+      "keywords": [
+        "just right"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/polar-pull",
+      "keywords": [
+        "polar pull"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/my-spot-neon-parking-defense",
+      "keywords": [
+        "my spot neon parking defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/car-wash-simulator",
+      "keywords": [
+        "car wash simulator"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/night-plow",
+      "keywords": [
+        "night plow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/obby-snow-shoveling",
+      "keywords": [
+        "obby snow shoveling"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/poodle-glam-rescue",
+      "keywords": [
+        "poodle glam rescue"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "zombie mart",
+    "magnet rescue",
+    "fireline defense",
+    "wallwave",
+    "pocket factory",
+    "ring rush",
+    "cash chase",
+    "obby roll ice cream",
+    "pixel party flow",
+    "kitty string",
+    "star triangles",
+    "doodle road",
+    "grabkeepwin",
+    "gogghins",
+    "solo survivor",
+    "vinyl sort",
+    "emberhold kingdom defense",
+    "magnetic wing",
+    "dicey paws idle",
+    "hydro rush",
+    "fizzwick s flask lab",
+    "rocket roadster",
+    "glowvane",
+    "diy interior consultant",
+    "jungle vine swing",
+    "sword balance",
+    "fashion world tour",
+    "obby sail for egg",
+    "pacenote rally",
+    "petrol station manager simulator",
+    "obby cut the grass for egg",
+    "wings keyboard speed",
+    "obby swim for egg",
+    "canyon climb",
+    "emoji alchemy",
+    "boat race",
+    "juggly seal",
+    "spot the diff",
+    "fall forward",
+    "redline rush",
+    "nacre",
+    "mind the doors",
+    "sudoku master classic logic puzzle",
+    "jigsaw sort puzzle",
+    "night checkpoint",
+    "pop arrow",
+    "bloom blocks",
+    "dino bubble pop",
+    "echo courier",
+    "arrows postcards swipe puzzle",
+    "just right",
+    "polar pull",
+    "my spot neon parking defense",
+    "car wash simulator",
+    "night plow",
+    "obby snow shoveling",
+    "poodle glam rescue"
+  ]
+}

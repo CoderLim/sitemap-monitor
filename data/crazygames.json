@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-11-10T21:41:49.499083+00:00",
+  "fetched_at": "2026-11-11T22:32:08.964576+00:00",
   "baseline": false,
   "urls": [
     {
@@ -237,6 +237,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/47",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/48",
       "keywords": []
     },
     {
@@ -21976,12 +21980,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/void-drift",
-      "keywords": [
-        "void drift"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/join-clash-3d",
       "keywords": [
         "join clash 3d"
@@ -27202,6 +27200,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/jelly-run-2048",
+      "keywords": [
+        "jelly run 2048"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/rainy-day-bookshop",
       "keywords": [
         "rainy day bookshop"
@@ -27319,6 +27323,12 @@
       "url": "https://www.crazygames.com/game/glam-fashion-world",
       "keywords": [
         "glam fashion world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/my-dream-bank",
+      "keywords": [
+        "my dream bank"
       ]
     },
     {
@@ -28366,6 +28376,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/catch-the-schoolkid",
+      "keywords": [
+        "catch the schoolkid"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/gap-run",
       "keywords": [
         "gap run"
@@ -28381,6 +28397,18 @@
       "url": "https://www.crazygames.com/game/tidebound-salvage",
       "keywords": [
         "tidebound salvage"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blockfall-jte",
+      "keywords": [
+        "blockfall jte"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/moon-rabbit-qfv",
+      "keywords": [
+        "moon rabbit qfv"
       ]
     },
     {
@@ -28414,9 +28442,21 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/atv-downhill-racer",
+      "keywords": [
+        "atv downhill racer"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/idle-resistance-demo",
       "keywords": [
         "idle resistance demo"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mog-clicker-har",
+      "keywords": [
+        "mog clicker har"
       ]
     },
     {

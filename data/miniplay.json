@@ -1,8 +1,86 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-10T21:41:49.499083+00:00",
+  "fetched_at": "2026-11-11T22:32:08.964576+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/splash-rivals",
+      "keywords": [
+        "splash rivals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hex-crash-racing",
+      "keywords": [
+        "hex crash racing"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/real-surgeon-simulator-game",
+      "keywords": [
+        "real surgeon simulator game"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/chase-road",
+      "keywords": [
+        "chase road"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/gun-spin",
+      "keywords": [
+        "gun spin"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/car-wash-simulator",
+      "keywords": [
+        "car wash simulator"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/plants-vs-zombies-fusion",
+      "keywords": [
+        "plants vs zombies fusion"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snakearea-io",
+      "keywords": [
+        "snakearea io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/stealth-shooter",
+      "keywords": [
+        "stealth shooter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-world-squid-escape",
+      "keywords": [
+        "obby world squid escape"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/battlecross",
+      "keywords": [
+        "battlecross"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/stackapult",
+      "keywords": [
+        "stackapult"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/troll-the-king",
+      "keywords": [
+        "troll the king"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/needle-quest-haystack-secrets",
       "keywords": [
@@ -199,12 +277,6 @@
       "url": "https://www.miniplay.com/game/race-rocket-arena-car-extreme",
       "keywords": [
         "race rocket arena car extreme"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/splash-rivals",
-      "keywords": [
-        "splash rivals"
       ]
     },
     {
@@ -4783,12 +4855,6 @@
       "url": "https://www.miniplay.com/game/super-mario-galaxy",
       "keywords": [
         "super mario galaxy"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/plants-vs-zombies-fusion",
-      "keywords": [
-        "plants vs zombies fusion"
       ]
     },
     {

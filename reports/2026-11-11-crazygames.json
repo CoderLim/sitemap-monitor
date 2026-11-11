@@ -1,0 +1,63 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-11",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/sitemap/games/48",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/game/jelly-run-2048",
+      "keywords": [
+        "jelly run 2048"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/my-dream-bank",
+      "keywords": [
+        "my dream bank"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/catch-the-schoolkid",
+      "keywords": [
+        "catch the schoolkid"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/blockfall-jte",
+      "keywords": [
+        "blockfall jte"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/moon-rabbit-qfv",
+      "keywords": [
+        "moon rabbit qfv"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/atv-downhill-racer",
+      "keywords": [
+        "atv downhill racer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mog-clicker-har",
+      "keywords": [
+        "mog clicker har"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "jelly run 2048",
+    "my dream bank",
+    "catch the schoolkid",
+    "blockfall jte",
+    "moon rabbit qfv",
+    "atv downhill racer",
+    "mog clicker har"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-11",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/washing-toilets",
+      "keywords": [
+        "washing toilets"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-dream-room-design--decor",
+      "keywords": [
+        "my dream room design decor"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/police-mom-simulator",
+      "keywords": [
+        "police mom simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/rollercoaster-craze",
+      "keywords": [
+        "rollercoaster craze"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hooked-panya",
+      "keywords": [
+        "hooked panya"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/obby-1-pickaxe-mining",
+      "keywords": [
+        "obby 1 pickaxe mining"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/babylife",
+      "keywords": [
+        "babylife"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "washing toilets",
+    "my dream room design decor",
+    "police mom simulator",
+    "rollercoaster craze",
+    "hooked panya",
+    "obby 1 pickaxe mining",
+    "babylife"
+  ]
+}
