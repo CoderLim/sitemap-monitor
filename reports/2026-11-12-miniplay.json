@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/plants-vs-zombies-fusion-67-hybrid",
+      "keywords": [
+        "plants vs zombies fusion 67 hybrid"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/drift-n-nitro",
+      "keywords": [
+        "drift n nitro"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/idle-diner",
+      "keywords": [
+        "idle diner"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/escape-from-school-angry-teacher",
+      "keywords": [
+        "escape from school angry teacher"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sand-drop-loop-puzzle",
+      "keywords": [
+        "sand drop loop puzzle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/city-gas-station-simulator",
+      "keywords": [
+        "city gas station simulator"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "plants vs zombies fusion 67 hybrid",
+    "drift n nitro",
+    "idle diner",
+    "escape from school angry teacher",
+    "sand drop loop puzzle",
+    "city gas station simulator"
+  ]
+}

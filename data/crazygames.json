@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-11-11T22:32:08.964576+00:00",
+  "fetched_at": "2026-11-12T22:07:34.502542+00:00",
   "baseline": false,
   "urls": [
     {
@@ -6245,6 +6245,12 @@
       "url": "https://www.crazygames.com/game/madness-deathwish",
       "keywords": [
         "madness deathwish"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/duo-with-friends",
+      "keywords": [
+        "duo with friends"
       ]
     },
     {
@@ -27920,6 +27926,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/hotel-manager-business",
+      "keywords": [
+        "hotel manager business"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/bat-bonkers",
       "keywords": [
         "bat bonkers"
@@ -28388,6 +28400,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/wobble-1v1-lnp",
+      "keywords": [
+        "wobble 1v1 lnp"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/coin-drop-factory-tvh",
       "keywords": [
         "coin drop factory tvh"
@@ -28397,6 +28415,12 @@
       "url": "https://www.crazygames.com/game/tidebound-salvage",
       "keywords": [
         "tidebound salvage"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/car-crash-descent",
+      "keywords": [
+        "car crash descent"
       ]
     },
     {
@@ -28448,9 +28472,45 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/octagon-hype-arena",
+      "keywords": [
+        "octagon hype arena"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/heat-city-police-chase-yzr",
+      "keywords": [
+        "heat city police chase yzr"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/element-rag",
+      "keywords": [
+        "element rag"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/idle-resistance-demo",
       "keywords": [
         "idle resistance demo"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/another-sausage-incident",
+      "keywords": [
+        "another sausage incident"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/capybara-merge-rkn",
+      "keywords": [
+        "capybara merge rkn"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bring-back-the-lake",
+      "keywords": [
+        "bring back the lake"
       ]
     },
     {
@@ -28463,6 +28523,12 @@
       "url": "https://www.crazygames.com/game/smash-speed",
       "keywords": [
         "smash speed"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/stealth-ninja-skz",
+      "keywords": [
+        "stealth ninja skz"
       ]
     },
     {
@@ -30758,6 +30824,16 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/t/play-and-upgrade",
+      "keywords": [
+        "play and upgrade"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/battle-royale",
       "keywords": [
         "battle royale"
@@ -31046,16 +31122,6 @@
       "keywords": [
         "5 minute fun"
       ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade",
-      "keywords": [
-        "play and upgrade"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/t/play-and-upgrade/2",
-      "keywords": []
     },
     {
       "url": "https://www.crazygames.com/t/cricket",

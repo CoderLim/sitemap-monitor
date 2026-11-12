@@ -1,0 +1,31 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/funcraft-online-games-623096",
+      "keywords": [
+        "funcraft online games"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/vector-630929",
+      "keywords": [
+        "vector"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/waste-to-wow-632162",
+      "keywords": [
+        "waste to wow"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "funcraft online games",
+    "vector",
+    "waste to wow"
+  ]
+}

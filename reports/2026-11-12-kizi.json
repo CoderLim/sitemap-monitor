@@ -1,0 +1,80 @@
+{
+  "site_id": "kizi",
+  "date": "2026-11-12",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/sortica",
+      "keywords": [
+        "sortica"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/clawbeard-cove",
+      "keywords": [
+        "clawbeard cove"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/garden-tales-5",
+      "keywords": [
+        "garden tales 5"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/trap-the-bear",
+      "keywords": [
+        "trap the bear"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/frozen-lake-ice-fishing-empire",
+      "keywords": [
+        "frozen lake ice fishing empire"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/keyboard-rush",
+      "keywords": [
+        "keyboard rush"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/black-friday-mystery-sale",
+      "keywords": [
+        "black friday mystery sale"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/not-the-hero",
+      "keywords": [
+        "not the hero"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/macaron-sort",
+      "keywords": [
+        "macaron sort"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/trending-aesthetic-fashion-wheels",
+      "keywords": [
+        "trending aesthetic fashion wheels"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "sortica",
+    "clawbeard cove",
+    "garden tales 5",
+    "trap the bear",
+    "frozen lake ice fishing empire",
+    "keyboard rush",
+    "black friday mystery sale",
+    "not the hero",
+    "macaron sort",
+    "trending aesthetic fashion wheels"
+  ]
+}
