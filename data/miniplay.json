@@ -1,8 +1,62 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-12T22:07:34.502542+00:00",
+  "fetched_at": "2026-11-13T21:50:13.353771+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/mother-bird-is-here",
+      "keywords": [
+        "mother bird is here"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/toca-life-city",
+      "keywords": [
+        "toca life city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/retro-football",
+      "keywords": [
+        "retro football"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/block-sudoku-woody-puzzle",
+      "keywords": [
+        "block sudoku woody puzzle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sand-color-loop",
+      "keywords": [
+        "sand color loop"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-butler-didnt-do-it",
+      "keywords": [
+        "the butler didnt do it"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hex-crash-racing",
+      "keywords": [
+        "hex crash racing"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/scopa",
+      "keywords": [
+        "scopa"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/panic-roll",
+      "keywords": [
+        "panic roll"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/plants-vs-zombies-fusion-67-hybrid",
       "keywords": [
@@ -55,12 +109,6 @@
       "url": "https://www.miniplay.com/game/splash-rivals",
       "keywords": [
         "splash rivals"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/hex-crash-racing",
-      "keywords": [
-        "hex crash racing"
       ]
     },
     {

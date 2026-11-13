@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/escape-from-chunga-changa",
+      "keywords": [
+        "escape from chunga changa"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/toybox-pixel-world-sandbox",
+      "keywords": [
+        "toybox pixel world sandbox"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ashens-domain",
+      "keywords": [
+        "ashens domain"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "escape from chunga changa",
+    "toybox pixel world sandbox",
+    "ashens domain"
+  ]
+}

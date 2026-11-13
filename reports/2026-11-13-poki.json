@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-11-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/nailfluencer-studio",
+      "keywords": [
+        "nailfluencer studio"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/blocky-puzzle-f7ea0386",
+      "keywords": [
+        "blocky puzzle f7ea0386"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/critters-evolution",
+      "keywords": [
+        "critters evolution"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "nailfluencer studio",
+    "blocky puzzle f7ea0386",
+    "critters evolution"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "site_id": "playhop",
-  "fetched_at": "2026-11-12T22:07:34.502542+00:00",
+  "fetched_at": "2026-11-13T21:50:13.353771+00:00",
   "baseline": false,
   "urls": [
     {
@@ -123468,6 +123468,12 @@
       ]
     },
     {
+      "url": "https://playhop.com/app/prison-ball-619860",
+      "keywords": [
+        "prison ball"
+      ]
+    },
+    {
       "url": "https://playhop.com/app/iaitsa-sudby-619916",
       "keywords": [
         "iaitsa sudby"
@@ -124266,9 +124272,21 @@
       ]
     },
     {
+      "url": "https://playhop.com/app/witchs-shop-potion-sorting-634846",
+      "keywords": [
+        "witchs shop potion sorting"
+      ]
+    },
+    {
       "url": "https://playhop.com/app/miss-hot-mess-show-636063",
       "keywords": [
         "miss hot mess show"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pandamania-slots-and-luck-647172",
+      "keywords": [
+        "pandamania slots and luck"
       ]
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/prison-ball-619860",
+      "keywords": [
+        "prison ball"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/witchs-shop-potion-sorting-634846",
+      "keywords": [
+        "witchs shop potion sorting"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pandamania-slots-and-luck-647172",
+      "keywords": [
+        "pandamania slots and luck"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "prison ball",
+    "witchs shop potion sorting",
+    "pandamania slots and luck"
+  ]
+}

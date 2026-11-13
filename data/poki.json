@@ -1,8 +1,32 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-12T22:07:34.502542+00:00",
+  "fetched_at": "2026-11-13T21:50:13.353771+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/nailfluencer-studio",
+      "keywords": [
+        "nailfluencer studio"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/blocky-puzzle-f7ea0386",
+      "keywords": [
+        "blocky puzzle f7ea0386"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/city-destruction",
+      "keywords": [
+        "city destruction"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/critters-evolution",
+      "keywords": [
+        "critters evolution"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/city-coloring",
       "keywords": [
@@ -199,12 +223,6 @@
       "url": "https://poki.com/en/g/emoji-factory",
       "keywords": [
         "emoji factory"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/city-destruction",
-      "keywords": [
-        "city destruction"
       ]
     },
     {

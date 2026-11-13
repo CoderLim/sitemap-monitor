@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/mother-bird-is-here",
+      "keywords": [
+        "mother bird is here"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/toca-life-city",
+      "keywords": [
+        "toca life city"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/retro-football",
+      "keywords": [
+        "retro football"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/block-sudoku-woody-puzzle",
+      "keywords": [
+        "block sudoku woody puzzle"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/sand-color-loop",
+      "keywords": [
+        "sand color loop"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/the-butler-didnt-do-it",
+      "keywords": [
+        "the butler didnt do it"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/scopa",
+      "keywords": [
+        "scopa"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/panic-roll",
+      "keywords": [
+        "panic roll"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mother bird is here",
+    "toca life city",
+    "retro football",
+    "block sudoku woody puzzle",
+    "sand color loop",
+    "the butler didnt do it",
+    "scopa",
+    "panic roll"
+  ]
+}

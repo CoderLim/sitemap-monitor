@@ -1,0 +1,584 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-13",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/the-boy-with-the-jagged-tongue",
+      "keywords": [
+        "the boy with the jagged tongue"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ring-clash",
+      "keywords": [
+        "ring clash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/diy-sticker-dream-house",
+      "keywords": [
+        "diy sticker dream house"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-cat-defense",
+      "keywords": [
+        "merge cat defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/drift-plow",
+      "keywords": [
+        "drift plow"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mossleap",
+      "keywords": [
+        "mossleap"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wendspire",
+      "keywords": [
+        "wendspire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/color-step",
+      "keywords": [
+        "color step"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/black-dial",
+      "keywords": [
+        "black dial"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dead-air-seven-messages",
+      "keywords": [
+        "dead air seven messages"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-maze-one-move",
+      "keywords": [
+        "echo maze one move"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/morph-shape-runner",
+      "keywords": [
+        "morph shape runner"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/santa-wood-cutter-3",
+      "keywords": [
+        "santa wood cutter 3"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/animals-kart",
+      "keywords": [
+        "animals kart"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/loot-button",
+      "keywords": [
+        "loot button"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/noobik-mission-to-mars",
+      "keywords": [
+        "noobik mission to mars"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/milk-rider",
+      "keywords": [
+        "milk rider"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soup-er-swing",
+      "keywords": [
+        "soup er swing"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slide-merge",
+      "keywords": [
+        "slide merge"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/motocross-rush",
+      "keywords": [
+        "motocross rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pour-sort",
+      "keywords": [
+        "pour sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kids-cooking-shop",
+      "keywords": [
+        "kids cooking shop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/football-fiasco",
+      "keywords": [
+        "football fiasco"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/build-it-up",
+      "keywords": [
+        "build it up"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/regolith",
+      "keywords": [
+        "regolith"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/glow-lanes",
+      "keywords": [
+        "glow lanes"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tidekeep",
+      "keywords": [
+        "tidekeep"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/toy-kart",
+      "keywords": [
+        "toy kart"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/merge-tank-city-battle",
+      "keywords": [
+        "merge tank city battle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hampermoon-merge-picnic",
+      "keywords": [
+        "hampermoon merge picnic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/randomlights",
+      "keywords": [
+        "randomlights"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/help-me-brain-tricky-story",
+      "keywords": [
+        "help me brain tricky story"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/highrise",
+      "keywords": [
+        "highrise"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-worm-race",
+      "keywords": [
+        "neon worm race"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pixel-quack-food-puzzle",
+      "keywords": [
+        "pixel quack food puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/orbit-hop",
+      "keywords": [
+        "orbit hop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/out-of-place",
+      "keywords": [
+        "out of place"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/aftertrace",
+      "keywords": [
+        "aftertrace"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cozy-games-dreamy-room",
+      "keywords": [
+        "cozy games dreamy room"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snake-pong",
+      "keywords": [
+        "snake pong"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cozy-emoji-sort",
+      "keywords": [
+        "cozy emoji sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ghost-arena-3d-fighting-duel",
+      "keywords": [
+        "ghost arena 3d fighting duel"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/halvewick",
+      "keywords": [
+        "halvewick"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dunefall",
+      "keywords": [
+        "dunefall"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tug-and-treasure",
+      "keywords": [
+        "tug and treasure"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/neon-ocean-explorer",
+      "keywords": [
+        "neon ocean explorer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/quellmote",
+      "keywords": [
+        "quellmote"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/worm-clash",
+      "keywords": [
+        "worm clash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bloom-pour",
+      "keywords": [
+        "bloom pour"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/asmr-otter-treatment",
+      "keywords": [
+        "asmr otter treatment"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pet-block-blast",
+      "keywords": [
+        "pet block blast"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dead-shot-gulch",
+      "keywords": [
+        "dead shot gulch"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/toss-the-toast",
+      "keywords": [
+        "toss the toast"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dodge-one-life",
+      "keywords": [
+        "dodge one life"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/spawngroundsurvival",
+      "keywords": [
+        "spawngroundsurvival"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/melon-craft-ragdoll",
+      "keywords": [
+        "melon craft ragdoll"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/furious-street",
+      "keywords": [
+        "furious street"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/padel-z",
+      "keywords": [
+        "padel z"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rail-nook",
+      "keywords": [
+        "rail nook"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/aeromaster-island-flights",
+      "keywords": [
+        "aeromaster island flights"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gates-of-chaos",
+      "keywords": [
+        "gates of chaos"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/granny-vs-the-bugs",
+      "keywords": [
+        "granny vs the bugs"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/moonlight-bakery",
+      "keywords": [
+        "moonlight bakery"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/orbit-out",
+      "keywords": [
+        "orbit out"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/sort-the-toys",
+      "keywords": [
+        "sort the toys"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/elena-s-echoes",
+      "keywords": [
+        "elena s echoes"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/montana-miller",
+      "keywords": [
+        "montana miller"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/orbit-reaper",
+      "keywords": [
+        "orbit reaper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/yarn-o-matic-factory-tycoon",
+      "keywords": [
+        "yarn o matic factory tycoon"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gull-heist",
+      "keywords": [
+        "gull heist"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/debt-every-failure-stays",
+      "keywords": [
+        "debt every failure stays"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/don-t-mess-with-the-trapkins-1",
+      "keywords": [
+        "don t mess with the trapkins 1"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/otto-s-factory",
+      "keywords": [
+        "otto s factory"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/split-bounce",
+      "keywords": [
+        "split bounce"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hq-holdout",
+      "keywords": [
+        "hq holdout"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/truck-art-rush",
+      "keywords": [
+        "truck art rush"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slurp-jam",
+      "keywords": [
+        "slurp jam"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/parcelgeist",
+      "keywords": [
+        "parcelgeist"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pasty-diggers",
+      "keywords": [
+        "pasty diggers"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/crystal-foundry",
+      "keywords": [
+        "crystal foundry"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dogdoku",
+      "keywords": [
+        "dogdoku"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/archer-duels",
+      "keywords": [
+        "archer duels"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "the boy with the jagged tongue",
+    "ring clash",
+    "diy sticker dream house",
+    "merge cat defense",
+    "drift plow",
+    "mossleap",
+    "wendspire",
+    "color step",
+    "black dial",
+    "dead air seven messages",
+    "echo maze one move",
+    "morph shape runner",
+    "santa wood cutter 3",
+    "animals kart",
+    "loot button",
+    "noobik mission to mars",
+    "milk rider",
+    "soup er swing",
+    "slide merge",
+    "motocross rush",
+    "pour sort",
+    "kids cooking shop",
+    "football fiasco",
+    "build it up",
+    "regolith",
+    "glow lanes",
+    "tidekeep",
+    "toy kart",
+    "merge tank city battle",
+    "hampermoon merge picnic",
+    "randomlights",
+    "help me brain tricky story",
+    "highrise",
+    "neon worm race",
+    "pixel quack food puzzle",
+    "orbit hop",
+    "out of place",
+    "aftertrace",
+    "cozy games dreamy room",
+    "snake pong",
+    "cozy emoji sort",
+    "ghost arena 3d fighting duel",
+    "halvewick",
+    "dunefall",
+    "tug and treasure",
+    "neon ocean explorer",
+    "quellmote",
+    "worm clash",
+    "bloom pour",
+    "asmr otter treatment",
+    "pet block blast",
+    "dead shot gulch",
+    "toss the toast",
+    "dodge one life",
+    "spawngroundsurvival",
+    "melon craft ragdoll",
+    "furious street",
+    "padel z",
+    "rail nook",
+    "aeromaster island flights",
+    "gates of chaos",
+    "granny vs the bugs",
+    "moonlight bakery",
+    "orbit out",
+    "sort the toys",
+    "elena s echoes",
+    "montana miller",
+    "orbit reaper",
+    "yarn o matic factory tycoon",
+    "gull heist",
+    "debt every failure stays",
+    "don t mess with the trapkins 1",
+    "otto s factory",
+    "split bounce",
+    "hq holdout",
+    "truck art rush",
+    "slurp jam",
+    "parcelgeist",
+    "pasty diggers",
+    "crystal foundry",
+    "dogdoku",
+    "archer duels"
+  ]
+}
