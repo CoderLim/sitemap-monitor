@@ -1,0 +1,31 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-14",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/obby-zoo-560109",
+      "keywords": [
+        "obby zoo"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/chess-quiet-move-626278",
+      "keywords": [
+        "chess quiet move"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/broth-express-hot-pot-rush-629740",
+      "keywords": [
+        "broth express hot pot rush"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "obby zoo",
+    "chess quiet move",
+    "broth express hot pot rush"
+  ]
+}
