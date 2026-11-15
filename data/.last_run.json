@@ -1,7 +1,7 @@
 {
   "status": "completed",
-  "started_at": "2026-11-14T20:30:06.942485+00:00",
-  "finished_at": "2026-11-14T20:30:14.173468+00:00",
+  "started_at": "2026-11-15T20:53:24.978865+00:00",
+  "finished_at": "2026-11-15T20:53:32.903907+00:00",
   "exit_code": 0,
   "message": "Monitor run finished",
   "site_results": [
@@ -11,7 +11,7 @@
       "new_url_count": 1,
       "new_keyword_count": 1,
       "new_keywords": [
-        "dirtnap sandbox"
+        "nick parkour 3d"
       ],
       "error": null
     },
@@ -19,60 +19,50 @@
       "site_id": "crazygames",
       "is_baseline": false,
       "new_url_count": 8,
-      "new_keyword_count": 8,
+      "new_keyword_count": 7,
       "new_keywords": [
-        "train simulator steel express",
-        "cube strike ofh",
-        "formula racing championship",
-        "collateral hero",
-        "scope showdown",
-        "stack shop",
-        "kaiju rampage obx",
-        "pocket fishing"
+        "in the army rp",
+        "speedboy crazy chase at recess",
+        "anime brawl heros",
+        "rocket prospector",
+        "trust me kpu",
+        "setup tycoon",
+        "flip merge throw"
       ],
       "error": null
     },
     {
       "site_id": "gamepix",
       "is_baseline": false,
-      "new_url_count": 14,
-      "new_keyword_count": 14,
+      "new_url_count": 12,
+      "new_keyword_count": 12,
       "new_keywords": [
-        "shinobi chronicles",
-        "mecha core 3d",
-        "stained glass garden",
-        "slime rancher 2 steam key",
-        "demonschool steam key",
-        "victoria 3 steam key",
-        "potion parlor",
-        "don t starve together steam key",
-        "glowbat flip",
-        "one line candy pop",
-        "my spot neon parking defense",
-        "obby snow shoveling",
-        "starglint sky match",
-        "forza horizon 5 premium edition steam key"
+        "dodge one life",
+        "slide merge",
+        "bloom blocks",
+        "helldivers 2 steam key",
+        "manor lords steam key",
+        "wwe 2k25 steam key",
+        "ghost shift the last night",
+        "g switch",
+        "total war rome ii emperor edition steam key",
+        "slay the spire steam key",
+        "obby roll ice cream",
+        "fall forward"
       ],
       "error": null
     },
     {
       "site_id": "lagged",
       "is_baseline": false,
-      "new_url_count": 12,
-      "new_keyword_count": 12,
+      "new_url_count": 5,
+      "new_keyword_count": 5,
       "new_keywords": [
-        "bullet loop",
-        "obby 1 shrink for running",
-        "super basketball",
-        "kitten rescue",
-        "wild manager",
-        "abyss ragdoll descent",
-        "bike hill 3d",
-        "break the noob completely",
-        "popsortica",
-        "mycothreememo",
-        "beam crash polygon",
-        "hidden sniper camo hunter 3d"
+        "racerocket arena car extreme",
+        "monsters wheels 2",
+        "taiga expedition",
+        "highway moto rush traffic",
+        "lava turbo mode"
       ],
       "error": null
     },
@@ -103,13 +93,9 @@
     {
       "site_id": "playhop",
       "is_baseline": false,
-      "new_url_count": 3,
-      "new_keyword_count": 3,
-      "new_keywords": [
-        "obby zoo",
-        "chess quiet move",
-        "broth express hot pot rush"
-      ],
+      "new_url_count": 0,
+      "new_keyword_count": 0,
+      "new_keywords": [],
       "error": null
     }
   ],

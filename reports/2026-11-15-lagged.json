@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/racerocket-arena-car-extreme",
+      "keywords": [
+        "racerocket arena car extreme"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monsters-wheels-2",
+      "keywords": [
+        "monsters wheels 2"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/taiga-expedition",
+      "keywords": [
+        "taiga expedition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/highway-moto-rush-traffic",
+      "keywords": [
+        "highway moto rush traffic"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/lava--turbo-mode",
+      "keywords": [
+        "lava turbo mode"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "racerocket arena car extreme",
+    "monsters wheels 2",
+    "taiga expedition",
+    "highway moto rush traffic",
+    "lava turbo mode"
+  ]
+}

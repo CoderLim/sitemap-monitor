@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-11-14T20:30:06.947029+00:00",
+  "fetched_at": "2026-11-15T20:53:24.982026+00:00",
   "baseline": false,
   "urls": [
     {
@@ -68110,6 +68110,18 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/racerocket-arena-car-extreme",
+      "keywords": [
+        "racerocket arena car extreme"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/monsters-wheels-2",
+      "keywords": [
+        "monsters wheels 2"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/zombie-vs-gorilla",
       "keywords": [
         "zombie vs gorilla"
@@ -68143,6 +68155,24 @@
       "url": "https://lagged.com/en/g/obby-1-pickaxe-mining",
       "keywords": [
         "obby 1 pickaxe mining"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/taiga-expedition",
+      "keywords": [
+        "taiga expedition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/highway-moto-rush-traffic",
+      "keywords": [
+        "highway moto rush traffic"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/lava--turbo-mode",
+      "keywords": [
+        "lava turbo mode"
       ]
     },
     {

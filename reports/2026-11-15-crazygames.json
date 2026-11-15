@@ -1,0 +1,63 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-15",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/in-the-army-rp",
+      "keywords": [
+        "in the army rp"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/speedboy-crazy-chase-at-recess",
+      "keywords": [
+        "speedboy crazy chase at recess"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/anime-brawl-heros",
+      "keywords": [
+        "anime brawl heros"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rocket-prospector",
+      "keywords": [
+        "rocket prospector"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/trust-me-kpu",
+      "keywords": [
+        "trust me kpu"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/setup-tycoon",
+      "keywords": [
+        "setup tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/flip-merge-throw",
+      "keywords": [
+        "flip merge throw"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/3d/28",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "in the army rp",
+    "speedboy crazy chase at recess",
+    "anime brawl heros",
+    "rocket prospector",
+    "trust me kpu",
+    "setup tycoon",
+    "flip merge throw"
+  ]
+}
