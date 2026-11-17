@@ -1,6 +1,6 @@
 {
   "site_id": "kizi",
-  "fetched_at": "2026-11-17T00:03:31.549269+00:00",
+  "fetched_at": "2026-11-17T23:24:01.042969+00:00",
   "baseline": false,
   "urls": [
     {
@@ -36155,6 +36155,30 @@
       "url": "https://kizi.com/games/trending-aesthetic-fashion-wheels",
       "keywords": [
         "trending aesthetic fashion wheels"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/mycelium",
+      "keywords": [
+        "mycelium"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/crowded-sky",
+      "keywords": [
+        "crowded sky"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/flower-sort-adventure",
+      "keywords": [
+        "flower sort adventure"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/block-masters",
+      "keywords": [
+        "block masters"
       ]
     }
   ]

@@ -5,62 +5,84 @@
   "is_baseline": false,
   "new_urls": [
     {
-      "url": "https://www.crazygames.com/game/my-farm",
+      "url": "https://www.crazygames.com/game/swat-ops-body-camera",
       "keywords": [
-        "my farm"
+        "swat ops body camera"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/totally-legal-driving",
+      "url": "https://www.crazygames.com/game/style-battle-dress-up",
       "keywords": [
-        "totally legal driving"
+        "style battle dress up"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/blockforge-ypb",
+      "url": "https://www.crazygames.com/game/hair-stylist-live",
       "keywords": [
-        "blockforge ypb"
+        "hair stylist live"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-cut-trees",
+      "url": "https://www.crazygames.com/game/zero-gravity-battleground",
       "keywords": [
-        "obby cut trees"
+        "zero gravity battleground"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/destroy-stickman-city",
+      "url": "https://www.crazygames.com/game/winter-loop",
       "keywords": [
-        "destroy stickman city"
+        "winter loop"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/hoard-sweeper",
+      "url": "https://www.crazygames.com/game/slowmo-sniper",
       "keywords": [
-        "hoard sweeper"
+        "slowmo sniper"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-fly-for-egg",
+      "url": "https://www.crazygames.com/game/dead-don-t-stop",
       "keywords": [
-        "obby fly for egg"
+        "dead don t stop"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/your-military",
+      "url": "https://www.crazygames.com/game/the-king-lqh",
       "keywords": [
-        "your military"
+        "the king lqh"
       ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kart-racing-championship",
+      "keywords": [
+        "kart racing championship"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/catdoku-meow-brain-puzzle",
+      "keywords": [
+        "catdoku meow brain puzzle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/puzzle/12",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/beauty/3",
+      "keywords": []
     }
   ],
   "new_keywords": [
-    "my farm",
-    "totally legal driving",
-    "blockforge ypb",
-    "obby cut trees",
-    "destroy stickman city",
-    "hoard sweeper",
-    "obby fly for egg",
-    "your military"
+    "swat ops body camera",
+    "style battle dress up",
+    "hair stylist live",
+    "zero gravity battleground",
+    "winter loop",
+    "slowmo sniper",
+    "dead don t stop",
+    "the king lqh",
+    "kart racing championship",
+    "catdoku meow brain puzzle"
   ]
 }

@@ -3,6 +3,36 @@
   "date": "2026-11-17",
   "error": null,
   "is_baseline": false,
-  "new_urls": [],
-  "new_keywords": []
+  "new_urls": [
+    {
+      "url": "https://kizi.com/games/mycelium",
+      "keywords": [
+        "mycelium"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/crowded-sky",
+      "keywords": [
+        "crowded sky"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/flower-sort-adventure",
+      "keywords": [
+        "flower sort adventure"
+      ]
+    },
+    {
+      "url": "https://kizi.com/games/block-masters",
+      "keywords": [
+        "block masters"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "mycelium",
+    "crowded sky",
+    "flower sort adventure",
+    "block masters"
+  ]
 }

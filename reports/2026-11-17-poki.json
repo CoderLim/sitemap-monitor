@@ -3,22 +3,6 @@
   "date": "2026-11-17",
   "error": null,
   "is_baseline": false,
-  "new_urls": [
-    {
-      "url": "https://poki.com/en/g/diva-dream-horse",
-      "keywords": [
-        "diva dream horse"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/cola-simulator",
-      "keywords": [
-        "cola simulator"
-      ]
-    }
-  ],
-  "new_keywords": [
-    "diva dream horse",
-    "cola simulator"
-  ]
+  "new_urls": [],
+  "new_keywords": []
 }
