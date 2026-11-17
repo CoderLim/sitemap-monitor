@@ -1,0 +1,51 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-17",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/bones-of-fate-601432",
+      "keywords": [
+        "bones of fate"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/farm-tycoon-for-obby-609228",
+      "keywords": [
+        "farm tycoon for obby"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/sorting-express-623440",
+      "keywords": [
+        "sorting express"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/obby-make-a-giant-sandwich-626033",
+      "keywords": [
+        "obby make a giant sandwich"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bugloop-633978",
+      "keywords": [
+        "bugloop"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/apex-mahjong-636759",
+      "keywords": [
+        "apex mahjong"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bones of fate",
+    "sorting express",
+    "obby make a giant sandwich",
+    "bugloop",
+    "apex mahjong"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-17",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/poodle-glam-rescue",
+      "keywords": [
+        "poodle glam rescue"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/corporate-capital",
+      "keywords": [
+        "corporate capital"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/adventure-miner-capybaras-edition",
+      "keywords": [
+        "adventure miner capybaras edition"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/furniture-master-idle-tycoon",
+      "keywords": [
+        "furniture master idle tycoon"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/noob-rolling-balls",
+      "keywords": [
+        "noob rolling balls"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "poodle glam rescue",
+    "corporate capital",
+    "adventure miner capybaras edition",
+    "furniture master idle tycoon",
+    "noob rolling balls"
+  ]
+}

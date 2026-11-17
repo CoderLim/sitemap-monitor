@@ -1,8 +1,500 @@
 {
   "site_id": "y8",
-  "fetched_at": "2026-11-15T20:53:24.982026+00:00",
+  "fetched_at": "2026-11-17T00:03:31.549269+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.y8.com/games/lucky_snake",
+      "keywords": [
+        "lucky snake"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/army_sink",
+      "keywords": [
+        "army sink"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/magical_archer",
+      "keywords": [
+        "magical archer"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/witch_s_hats",
+      "keywords": [
+        "witch s hats"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/night_ninja",
+      "keywords": [
+        "night ninja"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tower_of_fall",
+      "keywords": [
+        "tower of fall"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/kitty_s_world",
+      "keywords": [
+        "kitty s world"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/that_s_a_warp",
+      "keywords": [
+        "that s a warp"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/inside_the_basement",
+      "keywords": [
+        "inside the basement"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/funny_snake",
+      "keywords": [
+        "funny snake"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dino_digg",
+      "keywords": [
+        "dino digg"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/2048_billiards",
+      "keywords": [
+        "2048 billiards"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zombcopter",
+      "keywords": [
+        "zombcopter"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/get_the_star",
+      "keywords": [
+        "get the star"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/purple_rectangle",
+      "keywords": [
+        "purple rectangle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tower_shooter_game",
+      "keywords": [
+        "tower shooter game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/the_cool_merge",
+      "keywords": [
+        "the cool merge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/express_delivery_puzzle",
+      "keywords": [
+        "express delivery puzzle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/western_fight",
+      "keywords": [
+        "western fight"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/rally_championship",
+      "keywords": [
+        "rally championship"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lows_adventures_3",
+      "keywords": [
+        "lows adventures 3"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/parking_order",
+      "keywords": [
+        "parking order"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/home_rush_the_fish_war",
+      "keywords": [
+        "home rush the fish war"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/iq_test_exercise_your_brain_",
+      "keywords": [
+        "iq test exercise your brain"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/rescue_the_dwarf_from_the_room",
+      "keywords": [
+        "rescue the dwarf from the room"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/car_racing_3d_drive_mad",
+      "keywords": [
+        "car racing 3d drive mad"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/boxing_gang_stars",
+      "keywords": [
+        "boxing gang stars"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/the_pipeline",
+      "keywords": [
+        "the pipeline"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/roxie_s_kitchen_japanese_curry",
+      "keywords": [
+        "roxie s kitchen japanese curry"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/toddie_mousie_cute",
+      "keywords": [
+        "toddie mousie cute"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/decor_bedroom",
+      "keywords": [
+        "decor bedroom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/battle_island_2",
+      "keywords": [
+        "battle island 2"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/egg_farm",
+      "keywords": [
+        "egg farm"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/skibidi_bus_driver",
+      "keywords": [
+        "skibidi bus driver"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/makeup_art_salon",
+      "keywords": [
+        "makeup art salon"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/granny_2_asylum_horror_house",
+      "keywords": [
+        "granny 2 asylum horror house"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/decipher",
+      "keywords": [
+        "decipher"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/motocross_jumper",
+      "keywords": [
+        "motocross jumper"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/noob_vs_bacon_jumping",
+      "keywords": [
+        "noob vs bacon jumping"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/paint_it",
+      "keywords": [
+        "paint it"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/firefrost",
+      "keywords": [
+        "firefrost"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cooking_festival",
+      "keywords": [
+        "cooking festival"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/yes_or_no_challenge_run",
+      "keywords": [
+        "yes or no challenge run"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/life_clicker",
+      "keywords": [
+        "life clicker"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tro_choi_xep_gach",
+      "keywords": [
+        "tro choi xep gach"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sniper_shooter_2_",
+      "keywords": [
+        "sniper shooter 2"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/craft_drill",
+      "keywords": [
+        "craft drill"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/color_brain_test",
+      "keywords": [
+        "color brain test"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/plush_eggs_vending_machine",
+      "keywords": [
+        "plush eggs vending machine"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/master_solitaire",
+      "keywords": [
+        "master solitaire"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sisters_ice_vs_flame",
+      "keywords": [
+        "sisters ice vs flame"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/huggy_jet_ski_racer",
+      "keywords": [
+        "huggy jet ski racer"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cute_snake_html5",
+      "keywords": [
+        "cute snake html5"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cars_find_the_differences",
+      "keywords": [
+        "cars find the differences"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mystic_object_hunt",
+      "keywords": [
+        "mystic object hunt"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/coinclicker_mayhem_regenerated_",
+      "keywords": [
+        "coinclicker mayhem regenerated"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/goober",
+      "keywords": [
+        "goober"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/falling_party",
+      "keywords": [
+        "falling party"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bakery_chef_s_shop",
+      "keywords": [
+        "bakery chef s shop"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/steve_and_alex_vs_fnaf",
+      "keywords": [
+        "steve and alex vs fnaf"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/stickman_angle_fight",
+      "keywords": [
+        "stickman angle fight"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/word_slide",
+      "keywords": [
+        "word slide"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/balls_bricks_breaker",
+      "keywords": [
+        "balls bricks breaker"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gladiators_merge_and_fight",
+      "keywords": [
+        "gladiators merge and fight"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/baby_taylor_homecoming_day",
+      "keywords": [
+        "baby taylor homecoming day"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/emoji_make_up",
+      "keywords": [
+        "emoji make up"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/my_winter_knit_fashion",
+      "keywords": [
+        "my winter knit fashion"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/skeleton_knight_game",
+      "keywords": [
+        "skeleton knight game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ambulance_driver_3d",
+      "keywords": [
+        "ambulance driver 3d"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/traffic_rush_hour",
+      "keywords": [
+        "traffic rush hour"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mystic_mahjongg",
+      "keywords": [
+        "mystic mahjongg"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/solitaire_collection",
+      "keywords": [
+        "solitaire collection"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/prison_business",
+      "keywords": [
+        "prison business"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/legends_arena",
+      "keywords": [
+        "legends arena"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/stickman_defender",
+      "keywords": [
+        "stickman defender"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/little_wizard",
+      "keywords": [
+        "little wizard"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/drinks_link",
+      "keywords": [
+        "drinks link"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/grate_mom_kitchen_cutter",
+      "keywords": [
+        "grate mom kitchen cutter"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/devil_flip",
+      "keywords": [
+        "devil flip"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hopeless_island",
+      "keywords": [
+        "hopeless island"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/omg_word_rainbow",
+      "keywords": [
+        "omg word rainbow"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/scary_escape",
+      "keywords": [
+        "scary escape"
+      ]
+    },
     {
       "url": "https://www.y8.com/games/hippo_hair_salon",
       "keywords": [
@@ -37834,12 +38326,6 @@
       ]
     },
     {
-      "url": "https://www.y8.com/games/grass_defense",
-      "keywords": [
-        "grass defense"
-      ]
-    },
-    {
       "url": "https://www.y8.com/games/nubiks_build_a_defense_vs_zombies_original",
       "keywords": [
         "nubiks build a defense vs zombies original"
@@ -53506,12 +53992,6 @@
       ]
     },
     {
-      "url": "https://www.y8.com/games/planets_game",
-      "keywords": [
-        "planets game"
-      ]
-    },
-    {
       "url": "https://www.y8.com/games/xoraxarox",
       "keywords": [
         "xoraxarox"
@@ -53851,6 +54331,12 @@
       "url": "https://www.y8.com/games/toca_coloring_book",
       "keywords": [
         "toca coloring book"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/injection_doctor",
+      "keywords": [
+        "injection doctor"
       ]
     },
     {
@@ -54895,6 +55381,12 @@
       "url": "https://www.y8.com/games/silkbound_-_a_card_roguelike",
       "keywords": [
         "silkbound a card roguelike"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/block_farm",
+      "keywords": [
+        "block farm"
       ]
     },
     {
@@ -56227,6 +56719,12 @@
       "url": "https://www.y8.com/games/gunsmith_lab",
       "keywords": [
         "gunsmith lab"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bubble_sort_html5",
+      "keywords": [
+        "bubble sort html5"
       ]
     },
     {
@@ -58546,6 +59044,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/find_the_liar_",
+      "keywords": [
+        "find the liar"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/anime_girl_high_school_simulator",
       "keywords": [
         "anime girl high school simulator"
@@ -58618,6 +59122,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/number_puzzle_classic",
+      "keywords": [
+        "number puzzle classic"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/bus_n_ball_jam",
       "keywords": [
         "bus n ball jam"
@@ -58681,12 +59191,6 @@
       "url": "https://www.y8.com/games/night_lake",
       "keywords": [
         "night lake"
-      ]
-    },
-    {
-      "url": "https://www.y8.com/games/red_planet_spaceport",
-      "keywords": [
-        "red planet spaceport"
       ]
     },
     {
@@ -58756,9 +59260,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/bike_hill_3d",
+      "keywords": [
+        "bike hill 3d"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/extreme_car_driving_stunts",
       "keywords": [
         "extreme car driving stunts"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/the_shadow_marksman_master_of_kunai",
+      "keywords": [
+        "the shadow marksman master of kunai"
       ]
     },
     {
@@ -59050,6 +59566,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/don_t_touch_that_",
+      "keywords": [
+        "don t touch that"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/lufish_magnet_fishing",
       "keywords": [
         "lufish magnet fishing"
@@ -59131,6 +59653,12 @@
       "url": "https://www.y8.com/games/gunship_rotary_wing_combat",
       "keywords": [
         "gunship rotary wing combat"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fruit_lane_cafe",
+      "keywords": [
+        "fruit lane cafe"
       ]
     },
     {
@@ -59236,6 +59764,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/strandtrace",
+      "keywords": [
+        "strandtrace"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/cake_ready",
       "keywords": [
         "cake ready"
@@ -59302,6 +59836,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/first_aid_driver_medical_help",
+      "keywords": [
+        "first aid driver medical help"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bmg_ragdoll_car_race",
+      "keywords": [
+        "bmg ragdoll car race"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/only_up_parkour_in_apocalypse",
       "keywords": [
         "only up parkour in apocalypse"
@@ -59311,6 +59857,12 @@
       "url": "https://www.y8.com/games/pip",
       "keywords": [
         "pip"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bomber_pengu",
+      "keywords": [
+        "bomber pengu"
       ]
     },
     {
@@ -59425,6 +59977,12 @@
       "url": "https://www.y8.com/games/pieces_of_escape",
       "keywords": [
         "pieces of escape"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fashion_world_tour",
+      "keywords": [
+        "fashion world tour"
       ]
     },
     {
@@ -59614,6 +60172,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/truck_jam_puzzle",
+      "keywords": [
+        "truck jam puzzle"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/heist_idle",
       "keywords": [
         "heist idle"
@@ -59659,6 +60223,12 @@
       "url": "https://www.y8.com/games/pregnant_mom_simulator_family_life",
       "keywords": [
         "pregnant mom simulator family life"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/billionaire_oil_race",
+      "keywords": [
+        "billionaire oil race"
       ]
     },
     {
@@ -59914,6 +60484,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/astraball_boundless_space",
+      "keywords": [
+        "astraball boundless space"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/stellazip",
       "keywords": [
         "stellazip"
@@ -60022,6 +60598,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/grid_twist_2048",
+      "keywords": [
+        "grid twist 2048"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/mini_golf_3d_-_island_course",
       "keywords": [
         "mini golf 3d island course"
@@ -60103,12 +60685,6 @@
       "url": "https://www.y8.com/games/braveward",
       "keywords": [
         "braveward"
-      ]
-    },
-    {
-      "url": "https://www.y8.com/games/steal_an_egg_-_grow_animals",
-      "keywords": [
-        "steal an egg grow animals"
       ]
     },
     {
@@ -60232,6 +60808,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/prehistoric_blocks",
+      "keywords": [
+        "prehistoric blocks"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/knight_bolts_merge_edition",
       "keywords": [
         "knight bolts merge edition"
@@ -60241,6 +60823,12 @@
       "url": "https://www.y8.com/games/slide_the_blocks_build_the_pictures_",
       "keywords": [
         "slide the blocks build the pictures"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/spellbound_orbs",
+      "keywords": [
+        "spellbound orbs"
       ]
     },
     {
@@ -60385,6 +60973,12 @@
       "url": "https://www.y8.com/games/6-snooker-game",
       "keywords": [
         "6 snooker game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/block_blast_elements",
+      "keywords": [
+        "block blast elements"
       ]
     },
     {
@@ -60598,6 +61192,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/ball_dash_3d",
+      "keywords": [
+        "ball dash 3d"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/leaf_blower_yards",
       "keywords": [
         "leaf blower yards"
@@ -60709,6 +61309,12 @@
       "url": "https://www.y8.com/games/spark_path",
       "keywords": [
         "spark path"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dashot_io",
+      "keywords": [
+        "dashot io"
       ]
     },
     {
@@ -60913,6 +61519,12 @@
       "url": "https://www.y8.com/games/egg_wars_battle_arena_3d",
       "keywords": [
         "egg wars battle arena 3d"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/nebula_marshal",
+      "keywords": [
+        "nebula marshal"
       ]
     },
     {
@@ -61180,9 +61792,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/army_simulator_build_and_defend",
+      "keywords": [
+        "army simulator build and defend"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/gnome_deep",
       "keywords": [
         "gnome deep"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/swingpit",
+      "keywords": [
+        "swingpit"
       ]
     },
     {
@@ -61246,6 +61870,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/cauldron_rumble_merge_battle",
+      "keywords": [
+        "cauldron rumble merge battle"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/tss_orbit_break",
       "keywords": [
         "tss orbit break"
@@ -61279,6 +61909,24 @@
       "url": "https://www.y8.com/games/slashbeat",
       "keywords": [
         "slashbeat"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/h_o_g_s_",
+      "keywords": [
+        "h o g s"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/craft_mobs_create_a_monster_and_fight_",
+      "keywords": [
+        "craft mobs create a monster and fight"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/up_up_and_oops",
+      "keywords": [
+        "up up and oops"
       ]
     },
     {
@@ -61318,6 +61966,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/slide_by_simplyshapedgames",
+      "keywords": [
+        "slide by simplyshapedgames"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/shape_dash",
+      "keywords": [
+        "shape dash"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/pupstronaut",
       "keywords": [
         "pupstronaut"
@@ -61333,6 +61993,12 @@
       "url": "https://www.y8.com/games/deep_salvage",
       "keywords": [
         "deep salvage"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/aberiel_church_jigsaws",
+      "keywords": [
+        "aberiel church jigsaws"
       ]
     },
     {
@@ -61390,6 +62056,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/planet_hockey",
+      "keywords": [
+        "planet hockey"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/neon_zip",
       "keywords": [
         "neon zip"
@@ -61399,6 +62071,12 @@
       "url": "https://www.y8.com/games/zombie_school_survival",
       "keywords": [
         "zombie school survival"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/brawl_street",
+      "keywords": [
+        "brawl street"
       ]
     },
     {
@@ -61429,6 +62107,12 @@
       "url": "https://www.y8.com/games/flip_run",
       "keywords": [
         "flip run"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/xfps",
+      "keywords": [
+        "xfps"
       ]
     },
     {
@@ -61582,6 +62266,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/mayan_marble_quest_",
+      "keywords": [
+        "mayan marble quest"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/rooftop_rescue",
       "keywords": [
         "rooftop rescue"
@@ -61594,9 +62284,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/snake_surge_neon_edition",
+      "keywords": [
+        "snake surge neon edition"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/sky_strike_",
       "keywords": [
         "sky strike"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/preferans_by_farber",
+      "keywords": [
+        "preferans by farber"
       ]
     },
     {
@@ -61639,6 +62341,12 @@
       "url": "https://www.y8.com/games/octogrid",
       "keywords": [
         "octogrid"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/flag_quest_2_color_conquer",
+      "keywords": [
+        "flag quest 2 color conquer"
       ]
     },
     {
@@ -61852,6 +62560,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/stack_to_space",
+      "keywords": [
+        "stack to space"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dotworm",
+      "keywords": [
+        "dotworm"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/vivienne_s_lifestyle_alpine_retreat",
       "keywords": [
         "vivienne s lifestyle alpine retreat"
@@ -61882,9 +62602,33 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/drill_of_death",
+      "keywords": [
+        "drill of death"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/plop_fruit_merge",
       "keywords": [
         "plop fruit merge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/critter_pop",
+      "keywords": [
+        "critter pop"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/elevator_out_of_order",
+      "keywords": [
+        "elevator out of order"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/poop_man",
+      "keywords": [
+        "poop man"
       ]
     },
     {
@@ -61894,9 +62638,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/goblox_grow_your_empire",
+      "keywords": [
+        "goblox grow your empire"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/flavor_lab",
       "keywords": [
         "flavor lab"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/funny_gummy_characters",
+      "keywords": [
+        "funny gummy characters"
       ]
     },
     {
@@ -61978,9 +62734,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/football_free_kick",
+      "keywords": [
+        "football free kick"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/paws_claws_animal_hospital",
       "keywords": [
         "paws claws animal hospital"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sky_stack_tower_tap",
+      "keywords": [
+        "sky stack tower tap"
       ]
     },
     {
@@ -62020,6 +62788,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/merge_mushrooms_cooking_it",
+      "keywords": [
+        "merge mushrooms cooking it"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/bullet_foundry",
       "keywords": [
         "bullet foundry"
@@ -62032,6 +62806,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/web_swing",
+      "keywords": [
+        "web swing"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hurdle_hounds",
+      "keywords": [
+        "hurdle hounds"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/yeet_city_ragdoll_launch",
       "keywords": [
         "yeet city ragdoll launch"
@@ -62041,6 +62827,12 @@
       "url": "https://www.y8.com/games/tidepuff",
       "keywords": [
         "tidepuff"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mibs_io",
+      "keywords": [
+        "mibs io"
       ]
     },
     {
@@ -62068,6 +62860,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/hexaglow",
+      "keywords": [
+        "hexaglow"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/backstock_3d",
       "keywords": [
         "backstock 3d"
@@ -62083,6 +62881,12 @@
       "url": "https://www.y8.com/games/ringelimination",
       "keywords": [
         "ringelimination"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/8_ball_pool_elite",
+      "keywords": [
+        "8 ball pool elite"
       ]
     },
     {
@@ -62110,6 +62914,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/elite_table_tennis",
+      "keywords": [
+        "elite table tennis"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/planet_annihilator_pro",
       "keywords": [
         "planet annihilator pro"
@@ -62125,6 +62935,24 @@
       "url": "https://www.y8.com/games/flux_dash",
       "keywords": [
         "flux dash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/recoil_force",
+      "keywords": [
+        "recoil force"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/royal_chess_",
+      "keywords": [
+        "royal chess"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/snake_pong",
+      "keywords": [
+        "snake pong"
       ]
     },
     {
@@ -62158,6 +62986,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/tidy_whim",
+      "keywords": [
+        "tidy whim"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/arrows_puzzle_neon_escape",
       "keywords": [
         "arrows puzzle neon escape"
@@ -62167,6 +63001,18 @@
       "url": "https://www.y8.com/games/b-movie_brawlers",
       "keywords": [
         "b movie brawlers"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/find_the_diffs_birds",
+      "keywords": [
+        "find the diffs birds"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/crownrush",
+      "keywords": [
+        "crownrush"
       ]
     },
     {
@@ -62218,6 +63064,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/cake_cooking_shop",
+      "keywords": [
+        "cake cooking shop"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/pumpkin_strike",
       "keywords": [
         "pumpkin strike"
@@ -62248,6 +63100,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/fully_booked_hotel",
+      "keywords": [
+        "fully booked hotel"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/neon_sige",
+      "keywords": [
+        "neon sige"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/eon_planet_evolution",
       "keywords": [
         "eon planet evolution"
@@ -62260,9 +63124,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/void_break_suit_up_break_containment",
+      "keywords": [
+        "void break suit up break containment"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/magnado",
       "keywords": [
         "magnado"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/prismhex",
+      "keywords": [
+        "prismhex"
       ]
     },
     {
@@ -62302,6 +63178,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/shadow_fist_-_kung_fu",
+      "keywords": [
+        "shadow fist kung fu"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/magicball",
       "keywords": [
         "magicball"
@@ -62311,6 +63193,12 @@
       "url": "https://www.y8.com/games/firefly_swarm",
       "keywords": [
         "firefly swarm"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/doll_maker_salon",
+      "keywords": [
+        "doll maker salon"
       ]
     },
     {
@@ -62332,6 +63220,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/orbit_golf_solar_championship",
+      "keywords": [
+        "orbit golf solar championship"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/arrow_mosaic",
       "keywords": [
         "arrow mosaic"
@@ -62347,6 +63241,18 @@
       "url": "https://www.y8.com/games/zombie_2048",
       "keywords": [
         "zombie 2048"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gopcat_a_warm_place",
+      "keywords": [
+        "gopcat a warm place"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cloud_bluster",
+      "keywords": [
+        "cloud bluster"
       ]
     },
     {
@@ -62380,6 +63286,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/inkblade_pencil_hero",
+      "keywords": [
+        "inkblade pencil hero"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/hang_in_balance",
       "keywords": [
         "hang in balance"
@@ -62389,6 +63301,12 @@
       "url": "https://www.y8.com/games/chop_chop_halloween",
       "keywords": [
         "chop chop halloween"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/conqora",
+      "keywords": [
+        "conqora"
       ]
     },
     {
@@ -62458,9 +63376,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/bike_idle_tycoon",
+      "keywords": [
+        "bike idle tycoon"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/hlbina",
       "keywords": [
         "hlbina"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/besties_halloween_fashionista",
+      "keywords": [
+        "besties halloween fashionista"
       ]
     },
     {
@@ -62470,15 +63400,45 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/astral_command",
+      "keywords": [
+        "astral command"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/quiz_jungle",
+      "keywords": [
+        "quiz jungle"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/clawbeard_cove",
       "keywords": [
         "clawbeard cove"
       ]
     },
     {
+      "url": "https://www.y8.com/games/eclipse_forge",
+      "keywords": [
+        "eclipse forge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/animal_card_war",
+      "keywords": [
+        "animal card war"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/ironbloom",
       "keywords": [
         "ironbloom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/merge_haven_cafe",
+      "keywords": [
+        "merge haven cafe"
       ]
     },
     {
@@ -62506,9 +63466,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/pixelgram",
+      "keywords": [
+        "pixelgram"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/dusk_dash",
       "keywords": [
         "dusk dash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/summit_solitaire",
+      "keywords": [
+        "summit solitaire"
       ]
     },
     {
@@ -62542,9 +63514,21 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/scrap_brawl_",
+      "keywords": [
+        "scrap brawl"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/gnome_bobsled",
       "keywords": [
         "gnome bobsled"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/starpile",
+      "keywords": [
+        "starpile"
       ]
     },
     {
@@ -62560,6 +63544,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/world_cup_2026_-_football_game",
+      "keywords": [
+        "world cup 2026 football game"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/zombie_barrage",
       "keywords": [
         "zombie barrage"
@@ -62572,15 +63562,45 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/venom_snake",
+      "keywords": [
+        "venom snake"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/number_merge_deluxe",
+      "keywords": [
+        "number merge deluxe"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/flappy_wings_deluxe",
+      "keywords": [
+        "flappy wings deluxe"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/ten_second_band",
       "keywords": [
         "ten second band"
       ]
     },
     {
+      "url": "https://www.y8.com/games/chain_buddies",
+      "keywords": [
+        "chain buddies"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/food_street",
       "keywords": [
         "food street"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/wisphop",
+      "keywords": [
+        "wisphop"
       ]
     },
     {
@@ -62596,6 +63616,16 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/f",
+      "keywords": []
+    },
+    {
+      "url": "https://www.y8.com/games/saucer_fall",
+      "keywords": [
+        "saucer fall"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/scary_merge_halloween_game_",
       "keywords": [
         "scary merge halloween game"
@@ -62605,6 +63635,12 @@
       "url": "https://www.y8.com/games/cave_keepers_td",
       "keywords": [
         "cave keepers td"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/slalomissimo_",
+      "keywords": [
+        "slalomissimo"
       ]
     },
     {
@@ -62620,6 +63656,18 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/block_rally",
+      "keywords": [
+        "block rally"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lostville_hidden_objects",
+      "keywords": [
+        "lostville hidden objects"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/monster_cafe_idle_tycoon",
       "keywords": [
         "monster cafe idle tycoon"
@@ -62629,6 +63677,24 @@
       "url": "https://www.y8.com/games/market_dash",
       "keywords": [
         "market dash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sword_smash",
+      "keywords": [
+        "sword smash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/glow_sort",
+      "keywords": [
+        "glow sort"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ember_moth",
+      "keywords": [
+        "ember moth"
       ]
     },
     {
@@ -62644,9 +63710,57 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/shadowlings",
+      "keywords": [
+        "shadowlings"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hotel_valet_car",
+      "keywords": [
+        "hotel valet car"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/minigolf_challenge",
+      "keywords": [
+        "minigolf challenge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/storky_survivors",
+      "keywords": [
+        "storky survivors"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/barnyard_survivors",
       "keywords": [
         "barnyard survivors"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/billiard_8",
+      "keywords": [
+        "billiard 8"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fruit_slice_frenzy",
+      "keywords": [
+        "fruit slice frenzy"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/neon_tunnel_runner",
+      "keywords": [
+        "neon tunnel runner"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/road_hopper",
+      "keywords": [
+        "road hopper"
       ]
     },
     {
@@ -62656,9 +63770,45 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/brick_breaker_worlds",
+      "keywords": [
+        "brick breaker worlds"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tide_pool_treasures",
+      "keywords": [
+        "tide pool treasures"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sky_marble",
+      "keywords": [
+        "sky marble"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/turbo_pinball",
+      "keywords": [
+        "turbo pinball"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/rhythm_tiles",
+      "keywords": [
+        "rhythm tiles"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/zombie_guard_defense",
       "keywords": [
         "zombie guard defense"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/shhh_don_t_wake_the_cat",
+      "keywords": [
+        "shhh don t wake the cat"
       ]
     },
     {
@@ -62674,6 +63824,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/netherton_volleyball",
+      "keywords": [
+        "netherton volleyball"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/zombie_swarm_survivor",
       "keywords": [
         "zombie swarm survivor"
@@ -62686,9 +63842,69 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/nightwick_remastered",
+      "keywords": [
+        "nightwick remastered"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/pourline",
       "keywords": [
         "pourline"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fieldpost",
+      "keywords": [
+        "fieldpost"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/trigger_drift",
+      "keywords": [
+        "trigger drift"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dawn_islands",
+      "keywords": [
+        "dawn islands"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/honeyslam",
+      "keywords": [
+        "honeyslam"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pondito",
+      "keywords": [
+        "pondito"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/royal_pin_kingdom_puzzles",
+      "keywords": [
+        "royal pin kingdom puzzles"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pixel_voyager",
+      "keywords": [
+        "pixel voyager"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/plush_merge",
+      "keywords": [
+        "plush merge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cubeling_defense",
+      "keywords": [
+        "cubeling defense"
       ]
     },
     {
@@ -62710,6 +63926,12 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/space_survivors_bug_swarm",
+      "keywords": [
+        "space survivors bug swarm"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/eirwald",
       "keywords": [
         "eirwald"
@@ -62722,15 +63944,63 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/lantern_drift_html5",
+      "keywords": [
+        "lantern drift html5"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/eggnappers",
+      "keywords": [
+        "eggnappers"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/punch_through_",
       "keywords": [
         "punch through"
       ]
     },
     {
+      "url": "https://www.y8.com/games/idle_boxer_cat",
+      "keywords": [
+        "idle boxer cat"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/gem_voyage",
       "keywords": [
         "gem voyage"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mosaica",
+      "keywords": [
+        "mosaica"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/genesis_forge",
+      "keywords": [
+        "genesis forge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sproutguard",
+      "keywords": [
+        "sproutguard"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/badminton_arena",
+      "keywords": [
+        "badminton arena"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/meow_hat_shop",
+      "keywords": [
+        "meow hat shop"
       ]
     },
     {
@@ -62746,9 +64016,81 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/water_sort_ocean_puzzle",
+      "keywords": [
+        "water sort ocean puzzle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/color_caos_",
+      "keywords": [
+        "color caos"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tide_haul",
+      "keywords": [
+        "tide haul"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/slime_merge_",
+      "keywords": [
+        "slime merge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/getaway_driver_police_chase",
+      "keywords": [
+        "getaway driver police chase"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gin_rummy_journey",
+      "keywords": [
+        "gin rummy journey"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/ride_a_pet_egg_hunt",
       "keywords": [
         "ride a pet egg hunt"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/abyss_pinball",
+      "keywords": [
+        "abyss pinball"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/snowboard_legends",
+      "keywords": [
+        "snowboard legends"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/daily_deal_solitaire",
+      "keywords": [
+        "daily deal solitaire"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/find_treasure",
+      "keywords": [
+        "find treasure"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/nom_nom_escape",
+      "keywords": [
+        "nom nom escape"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/daily_groups_puzzle",
+      "keywords": [
+        "daily groups puzzle"
       ]
     },
     {
@@ -62758,9 +64100,93 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/skyfall_rush",
+      "keywords": [
+        "skyfall rush"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tiny_kingdom_endless_survival",
+      "keywords": [
+        "tiny kingdom endless survival"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/sigil_siege",
       "keywords": [
         "sigil siege"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/countertide",
+      "keywords": [
+        "countertide"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gun_blank_2027",
+      "keywords": [
+        "gun blank 2027"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/flow_connect",
+      "keywords": [
+        "flow connect"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/huethread",
+      "keywords": [
+        "huethread"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/slidebreak",
+      "keywords": [
+        "slidebreak"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/elixir_merge",
+      "keywords": [
+        "elixir merge"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sword_glide",
+      "keywords": [
+        "sword glide"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/snoozy_quest",
+      "keywords": [
+        "snoozy quest"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lantern_lane",
+      "keywords": [
+        "lantern lane"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/summitsolitaire",
+      "keywords": [
+        "summitsolitaire"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hearthfields",
+      "keywords": [
+        "hearthfields"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/kite_gust_grab",
+      "keywords": [
+        "kite gust grab"
       ]
     },
     {
@@ -62776,9 +64202,99 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/cooking_sushi_maker",
+      "keywords": [
+        "cooking sushi maker"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/crowd_city_io",
+      "keywords": [
+        "crowd city io"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/nightshift_rush",
+      "keywords": [
+        "nightshift rush"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/grandma_pina",
+      "keywords": [
+        "grandma pina"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/stormcache_voxel_royale",
+      "keywords": [
+        "stormcache voxel royale"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/solitaire_lite",
+      "keywords": [
+        "solitaire lite"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/chichi_camp",
+      "keywords": [
+        "chichi camp"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/matchstick_master",
       "keywords": [
         "matchstick master"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/liquidated",
+      "keywords": [
+        "liquidated"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/moru_friends",
+      "keywords": [
+        "moru friends"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ricochet_cove",
+      "keywords": [
+        "ricochet cove"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/soccer_shoot_star_",
+      "keywords": [
+        "soccer shoot star"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/neon_blade_runner",
+      "keywords": [
+        "neon blade runner"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/duck_duck_alien_",
+      "keywords": [
+        "duck duck alien"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bounce_bloom",
+      "keywords": [
+        "bounce bloom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/slime_stack_merge",
+      "keywords": [
+        "slime stack merge"
       ]
     },
     {
@@ -62788,9 +64304,99 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/chef_mama",
+      "keywords": [
+        "chef mama"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/chain_pop_lab",
+      "keywords": [
+        "chain pop lab"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/apex_mahjong",
+      "keywords": [
+        "apex mahjong"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cozy_cafe",
+      "keywords": [
+        "cozy cafe"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/anthill_city",
+      "keywords": [
+        "anthill city"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/recoils",
+      "keywords": [
+        "recoils"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/pin_spin_wheel_shooter",
       "keywords": [
         "pin spin wheel shooter"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/wildbound",
+      "keywords": [
+        "wildbound"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/blind_box_shop_simulator",
+      "keywords": [
+        "blind box shop simulator"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/candy_keeper",
+      "keywords": [
+        "candy keeper"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lasso_valley",
+      "keywords": [
+        "lasso valley"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mage_castle_idle_defense",
+      "keywords": [
+        "mage castle idle defense"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/the_butler_didn_t_do_it",
+      "keywords": [
+        "the butler didn t do it"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/flush_command",
+      "keywords": [
+        "flush command"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cosmic_atlas_arrow_puzzle",
+      "keywords": [
+        "cosmic atlas arrow puzzle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/traffic_knot",
+      "keywords": [
+        "traffic knot"
       ]
     },
     {
@@ -62800,9 +64406,27 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/hex_hamlet",
+      "keywords": [
+        "hex hamlet"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/draw_drive",
       "keywords": [
         "draw drive"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cabo_vieira_selva_command",
+      "keywords": [
+        "cabo vieira selva command"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mozza_pizza_puzzle",
+      "keywords": [
+        "mozza pizza puzzle"
       ]
     },
     {
@@ -62824,9 +64448,81 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/dino_incubator",
+      "keywords": [
+        "dino incubator"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lighthouse_keeper_1903",
+      "keywords": [
+        "lighthouse keeper 1903"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/skate_1_speed",
+      "keywords": [
+        "skate 1 speed"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/plank_runner",
       "keywords": [
         "plank runner"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sky_daredevil",
+      "keywords": [
+        "sky daredevil"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/swarmwave",
+      "keywords": [
+        "swarmwave"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/anvil_army",
+      "keywords": [
+        "anvil army"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zoo_elephant_simulator_city_attack",
+      "keywords": [
+        "zoo elephant simulator city attack"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tetherfall",
+      "keywords": [
+        "tetherfall"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/villadash",
+      "keywords": [
+        "villadash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/crown_escort",
+      "keywords": [
+        "crown escort"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/margin_doodle",
+      "keywords": [
+        "margin doodle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/meow_and_merge",
+      "keywords": [
+        "meow and merge"
       ]
     },
     {
@@ -62836,9 +64532,39 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/foxglove_manor_a_hidden_objects_mystery",
+      "keywords": [
+        "foxglove manor a hidden objects mystery"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/block_isle",
+      "keywords": [
+        "block isle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dozer_zone",
+      "keywords": [
+        "dozer zone"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/waveflyer",
+      "keywords": [
+        "waveflyer"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/duneride",
       "keywords": [
         "duneride"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/postcard_drift",
+      "keywords": [
+        "postcard drift"
       ]
     },
     {
@@ -62848,15 +64574,87 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/dynamo",
+      "keywords": [
+        "dynamo"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/four_drop_duel",
+      "keywords": [
+        "four drop duel"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/farm_vs_ufo",
+      "keywords": [
+        "farm vs ufo"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/bucket_sort_3d",
       "keywords": [
         "bucket sort 3d"
       ]
     },
     {
+      "url": "https://www.y8.com/games/kings_row",
+      "keywords": [
+        "kings row"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ludo_breeze",
+      "keywords": [
+        "ludo breeze"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/silk_spider_solitaire",
+      "keywords": [
+        "silk spider solitaire"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/letter_loom",
+      "keywords": [
+        "letter loom"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/wordtide",
       "keywords": [
         "wordtide"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mosaic_logic",
+      "keywords": [
+        "mosaic logic"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/word_search_safari",
+      "keywords": [
+        "word search safari"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hilltop_haul",
+      "keywords": [
+        "hilltop haul"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hidden_shop_hunt",
+      "keywords": [
+        "hidden shop hunt"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/echo_dash",
+      "keywords": [
+        "echo dash"
       ]
     },
     {
@@ -62872,15 +64670,33 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/lost_found_night_shift",
+      "keywords": [
+        "lost found night shift"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/paddleverse",
       "keywords": [
         "paddleverse"
       ]
     },
     {
+      "url": "https://www.y8.com/games/drag_sim_2_tune_race",
+      "keywords": [
+        "drag sim 2 tune race"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/voidshaft",
       "keywords": [
         "voidshaft"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/redline_circuit",
+      "keywords": [
+        "redline circuit"
       ]
     },
     {
@@ -62896,15 +64712,81 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/echo_abyss",
+      "keywords": [
+        "echo abyss"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/peg_lords",
+      "keywords": [
+        "peg lords"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lumina_grove",
+      "keywords": [
+        "lumina grove"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/orbit_hop_space_jumper",
+      "keywords": [
+        "orbit hop space jumper"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/song_of_the_sunstone",
       "keywords": [
         "song of the sunstone"
       ]
     },
     {
+      "url": "https://www.y8.com/games/merge_drop_orbit_docks",
+      "keywords": [
+        "merge drop orbit docks"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dodge_one_life",
+      "keywords": [
+        "dodge one life"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/counterpoise",
+      "keywords": [
+        "counterpoise"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/nitrovenant_2",
+      "keywords": [
+        "nitrovenant 2"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/equipoise_balance_puzzle",
       "keywords": [
         "equipoise balance puzzle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mutant_evolution",
+      "keywords": [
+        "mutant evolution"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/majhchina",
+      "keywords": [
+        "majhchina"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/beat_dive",
+      "keywords": [
+        "beat dive"
       ]
     },
     {
@@ -62917,6 +64799,42 @@
       "url": "https://www.y8.com/games/junkyard_mech",
       "keywords": [
         "junkyard mech"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/eat_evolve",
+      "keywords": [
+        "eat evolve"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/trio_tiles",
+      "keywords": [
+        "trio tiles"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/crate_courier",
+      "keywords": [
+        "crate courier"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fountain_idle_tycoon",
+      "keywords": [
+        "fountain idle tycoon"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fling_knights",
+      "keywords": [
+        "fling knights"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mosslight_groveguard",
+      "keywords": [
+        "mosslight groveguard"
       ]
     },
     {
@@ -62938,6 +64856,30 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/monster_steps",
+      "keywords": [
+        "monster steps"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/erase_the_extra_part",
+      "keywords": [
+        "erase the extra part"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zoober",
+      "keywords": [
+        "zoober"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gran_zoorismo",
+      "keywords": [
+        "gran zoorismo"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/kingmoon",
       "keywords": [
         "kingmoon"
@@ -62950,9 +64892,45 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/delta_loot",
+      "keywords": [
+        "delta loot"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/petal_pull",
+      "keywords": [
+        "petal pull"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sprout_duel",
+      "keywords": [
+        "sprout duel"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/banana_rush",
       "keywords": [
         "banana rush"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/hedgehold",
+      "keywords": [
+        "hedgehold"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/petalcraft",
+      "keywords": [
+        "petalcraft"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mint_pui_games",
+      "keywords": [
+        "mint pui games"
       ]
     },
     {
@@ -62962,9 +64940,207 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/stormwake",
+      "keywords": [
+        "stormwake"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/word_odyssey_crossword",
+      "keywords": [
+        "word odyssey crossword"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/city_taxigo",
+      "keywords": [
+        "city taxigo"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/chop_up_",
+      "keywords": [
+        "chop up"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/glowkeep",
+      "keywords": [
+        "glowkeep"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/six_of_one",
       "keywords": [
         "six of one"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/oxy_arena",
+      "keywords": [
+        "oxy arena"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/duck_dock",
+      "keywords": [
+        "duck dock"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sky_lantern_mahjong",
+      "keywords": [
+        "sky lantern mahjong"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/homicidy",
+      "keywords": [
+        "homicidy"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/aerial_war",
+      "keywords": [
+        "aerial war"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/alien_bloom",
+      "keywords": [
+        "alien bloom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/brain_trio",
+      "keywords": [
+        "brain trio"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gridlock_iq",
+      "keywords": [
+        "gridlock iq"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cosmic_chain",
+      "keywords": [
+        "cosmic chain"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pocket_putt",
+      "keywords": [
+        "pocket putt"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tabish_runner",
+      "keywords": [
+        "tabish runner"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pitaya_dash",
+      "keywords": [
+        "pitaya dash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dicey_paws_idle",
+      "keywords": [
+        "dicey paws idle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lucky_bastion_merge_tower_defense",
+      "keywords": [
+        "lucky bastion merge tower defense"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/merge_dice_arena",
+      "keywords": [
+        "merge dice arena"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/knightfall_rescue",
+      "keywords": [
+        "knightfall rescue"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/who_is_lying_who_is_lying_mystery_cases",
+      "keywords": [
+        "who is lying who is lying mystery cases"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/still_sulking",
+      "keywords": [
+        "still sulking"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cloudbay",
+      "keywords": [
+        "cloudbay"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pregnant_twins_newborn_care",
+      "keywords": [
+        "pregnant twins newborn care"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/house_design_decorate_your_home",
+      "keywords": [
+        "house design decorate your home"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bestie_sleepover_party",
+      "keywords": [
+        "bestie sleepover party"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/color_carve_3d",
+      "keywords": [
+        "color carve 3d"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lastlight",
+      "keywords": [
+        "lastlight"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/chroma",
+      "keywords": [
+        "chroma"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/_echo_maze",
+      "keywords": [
+        "echo maze"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/one_line_courier",
+      "keywords": [
+        "one line courier"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ball_merge",
+      "keywords": [
+        "ball merge"
       ]
     },
     {
@@ -62974,9 +65150,135 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/highwayhavoc",
+      "keywords": [
+        "highwayhavoc"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/gravrail",
+      "keywords": [
+        "gravrail"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/necromancer_idle_defense",
+      "keywords": [
+        "necromancer idle defense"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/edgy_fox",
+      "keywords": [
+        "edgy fox"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/last_limb_standing",
+      "keywords": [
+        "last limb standing"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/snacky_bees",
+      "keywords": [
+        "snacky bees"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/watermelon_combination",
+      "keywords": [
+        "watermelon combination"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/mermaid_spa_makeover",
       "keywords": [
         "mermaid spa makeover"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/moonfall",
+      "keywords": [
+        "moonfall"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zombie_stampede",
+      "keywords": [
+        "zombie stampede"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/jelly_dye_color_flow",
+      "keywords": [
+        "jelly dye color flow"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/needle_rush",
+      "keywords": [
+        "needle rush"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/yarn_trail",
+      "keywords": [
+        "yarn trail"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/presidents_arena",
+      "keywords": [
+        "presidents arena"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/candy_ring_unhook",
+      "keywords": [
+        "candy ring unhook"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bramble_rush",
+      "keywords": [
+        "bramble rush"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/monster_tile_feast",
+      "keywords": [
+        "monster tile feast"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ant_empire_colony_clash",
+      "keywords": [
+        "ant empire colony clash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/critter_garden_merge_harvest",
+      "keywords": [
+        "critter garden merge harvest"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/shellforge_defense",
+      "keywords": [
+        "shellforge defense"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bagel_store_superstar",
+      "keywords": [
+        "bagel store superstar"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lucky_ticket_collector",
+      "keywords": [
+        "lucky ticket collector"
       ]
     },
     {
@@ -62986,15 +65288,477 @@
       ]
     },
     {
+      "url": "https://www.y8.com/games/lumen_s_paths",
+      "keywords": [
+        "lumen s paths"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sacred_breaker",
+      "keywords": [
+        "sacred breaker"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/light_serpent",
+      "keywords": [
+        "light serpent"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/lumen_rain",
+      "keywords": [
+        "lumen rain"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mandala_echo",
+      "keywords": [
+        "mandala echo"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/scoops_in_the_shade",
+      "keywords": [
+        "scoops in the shade"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/stained_glass_garden",
+      "keywords": [
+        "stained glass garden"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/dead-throttle",
+      "keywords": [
+        "dead throttle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fast_food_universe_webgl",
+      "keywords": [
+        "fast food universe webgl"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/wake_chase",
+      "keywords": [
+        "wake chase"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bogatyrs_battle_for_the_thrice-nine_kingdom",
+      "keywords": [
+        "bogatyrs battle for the thrice nine kingdom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/wall_digger",
+      "keywords": [
+        "wall digger"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bone_citadel_eclipse_of_malakor",
+      "keywords": [
+        "bone citadel eclipse of malakor"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/car_master_transform_race",
+      "keywords": [
+        "car master transform race"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/infinigon",
+      "keywords": [
+        "infinigon"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sumo_pets",
+      "keywords": [
+        "sumo pets"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/timber_beaver",
+      "keywords": [
+        "timber beaver"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/flying_ants_quest",
+      "keywords": [
+        "flying ants quest"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ship_smash_simulator",
+      "keywords": [
+        "ship smash simulator"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/emberhold",
+      "keywords": [
+        "emberhold"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/breach_ops",
+      "keywords": [
+        "breach ops"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/arrows_flows",
+      "keywords": [
+        "arrows flows"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/stellar_atlas_reborn",
+      "keywords": [
+        "stellar atlas reborn"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/crown_chess",
+      "keywords": [
+        "crown chess"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tnt_sandbox",
+      "keywords": [
+        "tnt sandbox"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/helicopter_flight_simulator",
+      "keywords": [
+        "helicopter flight simulator"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/cometgate",
+      "keywords": [
+        "cometgate"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pop_pals_",
+      "keywords": [
+        "pop pals"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/voxelium_block_crafting_3d",
+      "keywords": [
+        "voxelium block crafting 3d"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/block_escape_-_color_puzzle_",
+      "keywords": [
+        "block escape color puzzle"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ragdoll_fighting_simulator",
+      "keywords": [
+        "ragdoll fighting simulator"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/sixshot",
+      "keywords": [
+        "sixshot"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/letravio_word_connect_game",
+      "keywords": [
+        "letravio word connect game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/robot_merge",
+      "keywords": [
+        "robot merge"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/halloween_style_fit",
       "keywords": [
         "halloween style fit"
       ]
     },
     {
+      "url": "https://www.y8.com/games/zombie_survival_blackout",
+      "keywords": [
+        "zombie survival blackout"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/magnetic_wing",
+      "keywords": [
+        "magnetic wing"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/bubble_blast_master",
+      "keywords": [
+        "bubble blast master"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/brainrot_fusion_lab",
+      "keywords": [
+        "brainrot fusion lab"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/mahjong_bloom",
+      "keywords": [
+        "mahjong bloom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/orbit_67",
+      "keywords": [
+        "orbit 67"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/needle_in_a_haystack",
+      "keywords": [
+        "needle in a haystack"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ika_survivor",
+      "keywords": [
+        "ika survivor"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/patchwork_tiles_triple_match",
+      "keywords": [
+        "patchwork tiles triple match"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/toolbox_tilt",
+      "keywords": [
+        "toolbox tilt"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zombie_mart_survival",
+      "keywords": [
+        "zombie mart survival"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/night_pier",
+      "keywords": [
+        "night pier"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/fart_chaos",
+      "keywords": [
+        "fart chaos"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/tinyracers_io",
+      "keywords": [
+        "tinyracers io"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/neon_bubble_shooter",
+      "keywords": [
+        "neon bubble shooter"
+      ]
+    },
+    {
       "url": "https://www.y8.com/games/newbz_io",
       "keywords": [
         "newbz io"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/empire_chess_",
+      "keywords": [
+        "empire chess"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/card_sort_solitaire",
+      "keywords": [
+        "card sort solitaire"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/yeet_the_elf",
+      "keywords": [
+        "yeet the elf"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/vanguard_fps_shooting_game",
+      "keywords": [
+        "vanguard fps shooting game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/wiggle_wave",
+      "keywords": [
+        "wiggle wave"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pandaniel_san",
+      "keywords": [
+        "pandaniel san"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/million_coin_vault",
+      "keywords": [
+        "million coin vault"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/holdout_-_zombie_survival",
+      "keywords": [
+        "holdout zombie survival"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/monsters_pay_the_bill",
+      "keywords": [
+        "monsters pay the bill"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pusher_monsters",
+      "keywords": [
+        "pusher monsters"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/pirate_checkers",
+      "keywords": [
+        "pirate checkers"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/blame_the_dog",
+      "keywords": [
+        "blame the dog"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/kakuro_cat",
+      "keywords": [
+        "kakuro cat"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/good_or_bad_god",
+      "keywords": [
+        "good or bad god"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/zoo_bloom",
+      "keywords": [
+        "zoo bloom"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/speed_asmr_keyboard_escape",
+      "keywords": [
+        "speed asmr keyboard escape"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/rooksola_chess",
+      "keywords": [
+        "rooksola chess"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/paint_flags",
+      "keywords": [
+        "paint flags"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/ninja_gomoku",
+      "keywords": [
+        "ninja gomoku"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/deep_core",
+      "keywords": [
+        "deep core"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/deed_dice_property_trading_game",
+      "keywords": [
+        "deed dice property trading game"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/three_kingdoms_clash",
+      "keywords": [
+        "three kingdoms clash"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/slime_world",
+      "keywords": [
+        "slime world"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/blockfront",
+      "keywords": [
+        "blockfront"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/vivienne_lifestyle_royal_polo",
+      "keywords": [
+        "vivienne lifestyle royal polo"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/doll_nursing_hospital",
+      "keywords": [
+        "doll nursing hospital"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/snake_rush_3d",
+      "keywords": [
+        "snake rush 3d"
+      ]
+    },
+    {
+      "url": "https://www.y8.com/games/vivienne_s_lifestyle_elite_academy",
+      "keywords": [
+        "vivienne s lifestyle elite academy"
       ]
     },
     {
