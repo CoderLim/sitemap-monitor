@@ -1,0 +1,84 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/tower-craft-oyo",
+      "keywords": [
+        "tower craft oyo"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hellspike",
+      "keywords": [
+        "hellspike"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/brainrot-king",
+      "keywords": [
+        "brainrot king"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tinytornado",
+      "keywords": [
+        "tinytornado"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/glowchain-idle-factory",
+      "keywords": [
+        "glowchain idle factory"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hordecraft",
+      "keywords": [
+        "hordecraft"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/heavy-contact",
+      "keywords": [
+        "heavy contact"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/traffic-town",
+      "keywords": [
+        "traffic town"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/find-the-diamond-tkd",
+      "keywords": [
+        "find the diamond tkd"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/mega-plane-evolution",
+      "keywords": [
+        "mega plane evolution"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/49",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "tower craft oyo",
+    "hellspike",
+    "brainrot king",
+    "tinytornado",
+    "glowchain idle factory",
+    "hordecraft",
+    "heavy contact",
+    "traffic town",
+    "find the diamond tkd",
+    "mega plane evolution"
+  ]
+}

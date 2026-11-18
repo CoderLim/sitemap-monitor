@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/makeover-cleaning-asmr",
+      "keywords": [
+        "makeover cleaning asmr"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/rich-mom-family-simulator-luxury-life",
+      "keywords": [
+        "rich mom family simulator luxury life"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/happy-woods",
+      "keywords": [
+        "happy woods"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "makeover cleaning asmr",
+    "rich mom family simulator luxury life",
+    "happy woods"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-18",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/project-igi-im-going-in",
+      "keywords": [
+        "project igi im going in"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pinata-masters",
+      "keywords": [
+        "pinata masters"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snipers-war-fps-strike",
+      "keywords": [
+        "snipers war fps strike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wolf-arena",
+      "keywords": [
+        "wolf arena"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rummicombo",
+      "keywords": [
+        "rummicombo"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snake-2-nokia-3310",
+      "keywords": [
+        "snake 2 nokia 3310"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "project igi im going in",
+    "pinata masters",
+    "snipers war fps strike",
+    "wolf arena",
+    "rummicombo",
+    "snake 2 nokia 3310"
+  ]
+}

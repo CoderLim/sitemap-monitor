@@ -1,8 +1,26 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-17T23:24:01.042969+00:00",
+  "fetched_at": "2026-11-18T22:52:28.154359+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/sudoku-hanko",
+      "keywords": [
+        "sudoku hanko"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/cars-racing-masters",
+      "keywords": [
+        "cars racing masters"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/market-mahjong",
+      "keywords": [
+        "market mahjong"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/ragdoll-shooter",
       "keywords": [
@@ -289,12 +307,6 @@
       "url": "https://poki.com/en/g/my-snack-bar",
       "keywords": [
         "my snack bar"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/cars-racing-masters",
-      "keywords": [
-        "cars racing masters"
       ]
     },
     {
