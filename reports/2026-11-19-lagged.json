@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/where-is-my-dog",
+      "keywords": [
+        "where is my dog"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mergemma",
+      "keywords": [
+        "mergemma"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/lumberjack-run",
+      "keywords": [
+        "lumberjack run"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "where is my dog",
+    "mergemma",
+    "lumberjack run"
+  ]
+}

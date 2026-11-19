@@ -1,0 +1,92 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/terraspace",
+      "keywords": [
+        "terraspace"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spiner-io",
+      "keywords": [
+        "spiner io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rim-republic",
+      "keywords": [
+        "rim republic"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kart-prodigy",
+      "keywords": [
+        "kart prodigy"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/aerolinea-tycoon",
+      "keywords": [
+        "aerolinea tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/needle",
+      "keywords": [
+        "needle"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/coin-cracker",
+      "keywords": [
+        "coin cracker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/fishing-trip",
+      "keywords": [
+        "fishing trip"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/spider-brawler-city-fighter",
+      "keywords": [
+        "spider brawler city fighter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/toll-road-empire",
+      "keywords": [
+        "toll road empire"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/2-player/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/clicker/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/multiplayer/5?tab=2-player",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "terraspace",
+    "spiner io",
+    "rim republic",
+    "kart prodigy",
+    "aerolinea tycoon",
+    "needle",
+    "coin cracker",
+    "fishing trip",
+    "spider brawler city fighter",
+    "toll road empire"
+  ]
+}

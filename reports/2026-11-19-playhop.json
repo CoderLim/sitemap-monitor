@@ -1,0 +1,31 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/road-king-simulator-502715",
+      "keywords": [
+        "road king simulator"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/tapdoku-logic-puzzle-593066",
+      "keywords": [
+        "tapdoku logic puzzle"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/throw-food-for-animals-644034",
+      "keywords": [
+        "throw food for animals"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "road king simulator",
+    "tapdoku logic puzzle",
+    "throw food for animals"
+  ]
+}

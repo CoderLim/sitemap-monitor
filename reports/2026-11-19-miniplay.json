@@ -1,0 +1,66 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-19",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/suzy-says",
+      "keywords": [
+        "suzy says"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-scrap-a-car",
+      "keywords": [
+        "obby scrap a car"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snake-clash",
+      "keywords": [
+        "snake clash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dreader",
+      "keywords": [
+        "dreader"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fnf-verity",
+      "keywords": [
+        "fnf verity"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rhythmic-dash",
+      "keywords": [
+        "rhythmic dash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/funny-wheels",
+      "keywords": [
+        "funny wheels"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crazy-plinko",
+      "keywords": [
+        "crazy plinko"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "suzy says",
+    "obby scrap a car",
+    "snake clash",
+    "dreader",
+    "fnf verity",
+    "rhythmic dash",
+    "funny wheels",
+    "crazy plinko"
+  ]
+}

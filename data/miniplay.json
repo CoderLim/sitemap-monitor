@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-18T22:52:28.154359+00:00",
+  "fetched_at": "2026-11-19T22:56:55.332328+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/suzy-says",
+      "keywords": [
+        "suzy says"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/obby-scrap-a-car",
+      "keywords": [
+        "obby scrap a car"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/snake-clash",
+      "keywords": [
+        "snake clash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/dreader",
+      "keywords": [
+        "dreader"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fnf-verity",
+      "keywords": [
+        "fnf verity"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rhythmic-dash",
+      "keywords": [
+        "rhythmic dash"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/funny-wheels",
+      "keywords": [
+        "funny wheels"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/crazy-plinko",
+      "keywords": [
+        "crazy plinko"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/project-igi-im-going-in",
       "keywords": [
