@@ -1,0 +1,91 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/bubble-shooter-tournament",
+      "keywords": [
+        "bubble shooter tournament"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/act-casual-pfl",
+      "keywords": [
+        "act casual pfl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sizzle-street-burger-simulator",
+      "keywords": [
+        "sizzle street burger simulator"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slime-tower-heist",
+      "keywords": [
+        "slime tower heist"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rogue-soccer",
+      "keywords": [
+        "rogue soccer"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rift-trooper",
+      "keywords": [
+        "rift trooper"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/driving-test-simulator-3d",
+      "keywords": [
+        "driving test simulator 3d"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/cliff-crash",
+      "keywords": [
+        "cliff crash"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/chameleon-sniper",
+      "keywords": [
+        "chameleon sniper"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hearthfrost-rcn",
+      "keywords": [
+        "hearthfrost rcn"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/plowzilla",
+      "keywords": [
+        "plowzilla"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/c/shooting/5",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "bubble shooter tournament",
+    "act casual pfl",
+    "sizzle street burger simulator",
+    "slime tower heist",
+    "rogue soccer",
+    "rift trooper",
+    "driving test simulator 3d",
+    "cliff crash",
+    "chameleon sniper",
+    "hearthfrost rcn",
+    "plowzilla"
+  ]
+}

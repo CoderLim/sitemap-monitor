@@ -1,8 +1,38 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-19T22:56:55.332328+00:00",
+  "fetched_at": "2026-11-20T22:31:51.861270+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/sniper-vs-99-players",
+      "keywords": [
+        "sniper vs 99 players"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wolf-arena",
+      "keywords": [
+        "wolf arena"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fnf-playground-studio",
+      "keywords": [
+        "fnf playground studio"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bounce-blast",
+      "keywords": [
+        "bounce blast"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/block-blast",
+      "keywords": [
+        "block blast"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/suzy-says",
       "keywords": [
@@ -67,12 +97,6 @@
       "url": "https://www.miniplay.com/game/snipers-war-fps-strike",
       "keywords": [
         "snipers war fps strike"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/wolf-arena",
-      "keywords": [
-        "wolf arena"
       ]
     },
     {
@@ -31943,12 +31967,6 @@
       "url": "https://www.miniplay.com/game/matches-puzzle-game",
       "keywords": [
         "matches puzzle game"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/block-blast",
-      "keywords": [
-        "block blast"
       ]
     },
     {

@@ -1,0 +1,31 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-20",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/sniper-vs-99-players",
+      "keywords": [
+        "sniper vs 99 players"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/fnf-playground-studio",
+      "keywords": [
+        "fnf playground studio"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bounce-blast",
+      "keywords": [
+        "bounce blast"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "sniper vs 99 players",
+    "fnf playground studio",
+    "bounce blast"
+  ]
+}

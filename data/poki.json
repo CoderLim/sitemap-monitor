@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-19T22:56:55.332328+00:00",
+  "fetched_at": "2026-11-20T22:31:51.861270+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/my-little-cafe-tycoon",
+      "keywords": [
+        "my little cafe tycoon"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/captcha",
+      "keywords": [
+        "captcha"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/windlings",
       "keywords": [
@@ -289,12 +301,6 @@
       "url": "https://poki.com/en/g/emoji-factory",
       "keywords": [
         "emoji factory"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/captcha",
-      "keywords": [
-        "captcha"
       ]
     },
     {

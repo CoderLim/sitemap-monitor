@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-11-19T22:56:55.332328+00:00",
+  "fetched_at": "2026-11-20T22:31:51.861270+00:00",
   "baseline": false,
   "urls": [
     {
@@ -16664,12 +16664,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/timewarriors",
-      "keywords": [
-        "timewarriors"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/office-brawl---room-smash",
       "keywords": [
         "office brawl room smash"
@@ -25286,6 +25280,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/bubble-shooter-tournament",
+      "keywords": [
+        "bubble shooter tournament"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/plunder-2d---online-pirate-battle-brp",
       "keywords": [
         "plunder 2d online pirate battle brp"
@@ -25739,6 +25739,12 @@
       "url": "https://www.crazygames.com/game/obby-climb-slide-minecarts",
       "keywords": [
         "obby climb slide minecarts"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/act-casual-pfl",
+      "keywords": [
+        "act casual pfl"
       ]
     },
     {
@@ -28148,6 +28154,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/sizzle-street-burger-simulator",
+      "keywords": [
+        "sizzle street burger simulator"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/saltyseas-io",
       "keywords": [
         "saltyseas io"
@@ -28205,12 +28217,6 @@
       "url": "https://www.crazygames.com/game/miami-rideout-edt",
       "keywords": [
         "miami rideout edt"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/tnt-simulator-gtb",
-      "keywords": [
-        "tnt simulator gtb"
       ]
     },
     {
@@ -28574,6 +28580,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/slime-tower-heist",
+      "keywords": [
+        "slime tower heist"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/zero-gravity-battleground",
       "keywords": [
         "zero gravity battleground"
@@ -28778,6 +28790,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/rogue-soccer",
+      "keywords": [
+        "rogue soccer"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/stack-shop",
       "keywords": [
         "stack shop"
@@ -28838,6 +28856,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/rift-trooper",
+      "keywords": [
+        "rift trooper"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flip-merge-throw",
       "keywords": [
         "flip merge throw"
@@ -28853,6 +28877,12 @@
       "url": "https://www.crazygames.com/game/traffic-town",
       "keywords": [
         "traffic town"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/driving-test-simulator-3d",
+      "keywords": [
+        "driving test simulator 3d"
       ]
     },
     {
@@ -28874,9 +28904,27 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/cliff-crash",
+      "keywords": [
+        "cliff crash"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/coin-cracker",
       "keywords": [
         "coin cracker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/chameleon-sniper",
+      "keywords": [
+        "chameleon sniper"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/hearthfrost-rcn",
+      "keywords": [
+        "hearthfrost rcn"
       ]
     },
     {
@@ -28889,6 +28937,12 @@
       "url": "https://www.crazygames.com/game/spider-brawler-city-fighter",
       "keywords": [
         "spider brawler city fighter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/plowzilla",
+      "keywords": [
+        "plowzilla"
       ]
     },
     {
@@ -31842,6 +31896,10 @@
       "keywords": []
     },
     {
+      "url": "https://www.crazygames.com/c/shooting/5",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/c/strategy",
       "keywords": [
         "strategy"
@@ -31857,10 +31915,6 @@
     },
     {
       "url": "https://www.crazygames.com/c/strategy/4",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/c/strategy/5",
       "keywords": []
     },
     {
