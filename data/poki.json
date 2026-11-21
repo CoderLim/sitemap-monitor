@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-20T22:31:51.861270+00:00",
+  "fetched_at": "2026-11-21T21:29:48.927585+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/power-line-tycoon",
+      "keywords": [
+        "power line tycoon"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/crazy-kaiju-3d",
+      "keywords": [
+        "crazy kaiju 3d"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/my-little-cafe-tycoon",
       "keywords": [

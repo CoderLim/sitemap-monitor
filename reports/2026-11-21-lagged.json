@@ -1,0 +1,66 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/camo-sniper-3d-color-shooter",
+      "keywords": [
+        "camo sniper 3d color shooter"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/secret-hall-hidden-objects",
+      "keywords": [
+        "secret hall hidden objects"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/galaxy-shoot",
+      "keywords": [
+        "galaxy shoot"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/hotbath-simulator",
+      "keywords": [
+        "hotbath simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/race-through-traffic",
+      "keywords": [
+        "race through traffic"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/undercrown",
+      "keywords": [
+        "undercrown"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/morphzio",
+      "keywords": [
+        "morphzio"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/prison-escape",
+      "keywords": [
+        "prison escape"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "camo sniper 3d color shooter",
+    "secret hall hidden objects",
+    "galaxy shoot",
+    "hotbath simulator",
+    "race through traffic",
+    "undercrown",
+    "morphzio",
+    "prison escape"
+  ]
+}

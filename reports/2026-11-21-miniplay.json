@@ -1,0 +1,24 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-21",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/bayday-io",
+      "keywords": [
+        "bayday io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/road-brawl",
+      "keywords": [
+        "road brawl"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bayday io",
+    "road brawl"
+  ]
+}
