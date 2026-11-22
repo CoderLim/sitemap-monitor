@@ -1,0 +1,59 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/delivery-driver-simulator",
+      "keywords": [
+        "delivery driver simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/my-little-kingdom",
+      "keywords": [
+        "my little kingdom"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/slap-battle-arena-online",
+      "keywords": [
+        "slap battle arena online"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/age-arena",
+      "keywords": [
+        "age arena"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/vials-asmr-sand-sort-puzzle",
+      "keywords": [
+        "vials asmr sand sort puzzle"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mosaicat",
+      "keywords": [
+        "mosaicat"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/halloween-snake",
+      "keywords": [
+        "halloween snake"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "delivery driver simulator",
+    "my little kingdom",
+    "slap battle arena online",
+    "age arena",
+    "vials asmr sand sort puzzle",
+    "mosaicat",
+    "halloween snake"
+  ]
+}

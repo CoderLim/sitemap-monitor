@@ -1,6 +1,6 @@
 {
   "site_id": "playhop",
-  "fetched_at": "2026-11-21T21:29:48.927585+00:00",
+  "fetched_at": "2026-11-22T21:37:12.235324+00:00",
   "baseline": false,
   "urls": [
     {
@@ -63798,6 +63798,12 @@
       ]
     },
     {
+      "url": "https://playhop.com/app/balloon-jam-420914",
+      "keywords": [
+        "balloon jam"
+      ]
+    },
+    {
       "url": "https://playhop.com/app/obby-easy-parkour-420927",
       "keywords": [
         "obby easy parkour"
@@ -71227,6 +71233,12 @@
       "url": "https://playhop.com/app/quiz-game-general-knowledge-445897",
       "keywords": [
         "quiz game general knowledge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poppy-puzzle-merge-445902",
+      "keywords": [
+        "poppy puzzle merge"
       ]
     },
     {
@@ -86629,6 +86641,12 @@
       "url": "https://playhop.com/app/playground-defeat-the-meme-501321",
       "keywords": [
         "playground defeat the meme"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/water-trap-escape-501332",
+      "keywords": [
+        "water trap escape"
       ]
     },
     {
@@ -121659,12 +121677,6 @@
       "url": "https://playhop.com/app/spider-solitaire-grand-classic-606605",
       "keywords": [
         "spider solitaire grand classic"
-      ]
-    },
-    {
-      "url": "https://playhop.com/app/cat-savior-606638",
-      "keywords": [
-        "cat savior"
       ]
     },
     {

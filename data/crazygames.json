@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-11-21T21:29:48.927585+00:00",
+  "fetched_at": "2026-11-22T21:37:12.235324+00:00",
   "baseline": false,
   "urls": [
     {
@@ -241,6 +241,10 @@
     },
     {
       "url": "https://www.crazygames.com/sitemap/games/48",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/sitemap/games/49",
       "keywords": []
     },
     {
@@ -27638,6 +27642,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/dress-up-duel",
+      "keywords": [
+        "dress up duel"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/drive-devil",
       "keywords": [
         "drive devil"
@@ -28670,6 +28680,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/march-io",
+      "keywords": [
+        "march io"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/feed-the-fire-kgr",
       "keywords": [
         "feed the fire kgr"
@@ -28820,6 +28836,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/rig-of-the-dead",
+      "keywords": [
+        "rig of the dead"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/hordecraft",
       "keywords": [
         "hordecraft"
@@ -28904,9 +28926,39 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/swarm-overload",
+      "keywords": [
+        "swarm overload"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/flip-merge-throw",
       "keywords": [
         "flip merge throw"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bullseye-brawl",
+      "keywords": [
+        "bullseye brawl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/creature-roll",
+      "keywords": [
+        "creature roll"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-gun-dmg",
+      "keywords": [
+        "1 gun dmg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/beach-soccer-championship",
+      "keywords": [
+        "beach soccer championship"
       ]
     },
     {
@@ -28994,6 +29046,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/slime-mine-heist",
+      "keywords": [
+        "slime mine heist"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/spider-brawler-city-fighter",
       "keywords": [
         "spider brawler city fighter"
@@ -29009,6 +29067,12 @@
       "url": "https://www.crazygames.com/game/toll-road-empire",
       "keywords": [
         "toll road empire"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wrecking-launch-tic",
+      "keywords": [
+        "wrecking launch tic"
       ]
     },
     {

@@ -1,0 +1,84 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/sitemap/games/49",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/game/dress-up-duel",
+      "keywords": [
+        "dress up duel"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/march-io",
+      "keywords": [
+        "march io"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/rig-of-the-dead",
+      "keywords": [
+        "rig of the dead"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/swarm-overload",
+      "keywords": [
+        "swarm overload"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/bullseye-brawl",
+      "keywords": [
+        "bullseye brawl"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/creature-roll",
+      "keywords": [
+        "creature roll"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/1-gun-dmg",
+      "keywords": [
+        "1 gun dmg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/beach-soccer-championship",
+      "keywords": [
+        "beach soccer championship"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/slime-mine-heist",
+      "keywords": [
+        "slime mine heist"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wrecking-launch-tic",
+      "keywords": [
+        "wrecking launch tic"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "dress up duel",
+    "march io",
+    "rig of the dead",
+    "swarm overload",
+    "bullseye brawl",
+    "creature roll",
+    "1 gun dmg",
+    "beach soccer championship",
+    "slime mine heist",
+    "wrecking launch tic"
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "site_id": "gamepix",
+  "date": "2026-11-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.gamepix.com/play/matchday-striker",
+      "keywords": [
+        "matchday striker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/supercar",
+      "keywords": [
+        "supercar"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/barber-simulator-asmr-haircut",
+      "keywords": [
+        "barber simulator asmr haircut"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/santa-s-christmas-gift",
+      "keywords": [
+        "santa s christmas gift"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/egg-heist-steal-the-nest",
+      "keywords": [
+        "egg heist steal the nest"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gleam-orbit",
+      "keywords": [
+        "gleam orbit"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/arrows-ruins-tower-archers",
+      "keywords": [
+        "arrows ruins tower archers"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/blockade-board-offline",
+      "keywords": [
+        "blockade board offline"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/echo-lantern",
+      "keywords": [
+        "echo lantern"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mochi-road",
+      "keywords": [
+        "mochi road"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/shatterwake",
+      "keywords": [
+        "shatterwake"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ember3-3d-minesweeper",
+      "keywords": [
+        "ember3 3d minesweeper"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/last-circle",
+      "keywords": [
+        "last circle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tiny-wizard",
+      "keywords": [
+        "tiny wizard"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/block-puzzle-classic",
+      "keywords": [
+        "block puzzle classic"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mutant-arena",
+      "keywords": [
+        "mutant arena"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/boost-breaker",
+      "keywords": [
+        "boost breaker"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/gran-zoorismo",
+      "keywords": [
+        "gran zoorismo"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/desi-chai-stall-sort",
+      "keywords": [
+        "desi chai stall sort"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/tris-xo",
+      "keywords": [
+        "tris xo"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/nitro-rush-3d",
+      "keywords": [
+        "nitro rush 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cursed-outfitters-no-refunds",
+      "keywords": [
+        "cursed outfitters no refunds"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/core-rush-deep-drill-miner",
+      "keywords": [
+        "core rush deep drill miner"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/where-s-gloop",
+      "keywords": [
+        "where s gloop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/illegal-soccer-ball",
+      "keywords": [
+        "illegal soccer ball"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lobo-archer",
+      "keywords": [
+        "lobo archer"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/logia-lautaro",
+      "keywords": [
+        "logia lautaro"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/wiggle-out",
+      "keywords": [
+        "wiggle out"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/brainrot-fighting",
+      "keywords": [
+        "brainrot fighting"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/counterweight",
+      "keywords": [
+        "counterweight"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/meatball-run",
+      "keywords": [
+        "meatball run"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/ghost-shift-the-last-night",
+      "keywords": [
+        "ghost shift the last night"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/haunted-haveli-night-escape",
+      "keywords": [
+        "haunted haveli night escape"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bowling-strike",
+      "keywords": [
+        "bowling strike"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/kingdom-defense-last-stand",
+      "keywords": [
+        "kingdom defense last stand"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/one-wrong-step",
+      "keywords": [
+        "one wrong step"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/unbolt-run",
+      "keywords": [
+        "unbolt run"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/oddygons",
+      "keywords": [
+        "oddygons"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/monster-rampage-3d",
+      "keywords": [
+        "monster rampage 3d"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cafe-de-ensueno",
+      "keywords": [
+        "cafe de ensueno"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/frost-fair",
+      "keywords": [
+        "frost fair"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/plush-tower",
+      "keywords": [
+        "plush tower"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/veggie-pop",
+      "keywords": [
+        "veggie pop"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/hq-holdout",
+      "keywords": [
+        "hq holdout"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/penalty-shoot",
+      "keywords": [
+        "penalty shoot"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/snackdown",
+      "keywords": [
+        "snackdown"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pink-slip-kings",
+      "keywords": [
+        "pink slip kings"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/lintball-io",
+      "keywords": [
+        "lintball io"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/bonacaud-the-last-summoning",
+      "keywords": [
+        "bonacaud the last summoning"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/cubie-guys",
+      "keywords": [
+        "cubie guys"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/couch-sumo",
+      "keywords": [
+        "couch sumo"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/flailstorm",
+      "keywords": [
+        "flailstorm"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/dart-ranger",
+      "keywords": [
+        "dart ranger"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/starlit-words",
+      "keywords": [
+        "starlit words"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/stack-tower-2027",
+      "keywords": [
+        "stack tower 2027"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/soul-hunter",
+      "keywords": [
+        "soul hunter"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/thistledown-market",
+      "keywords": [
+        "thistledown market"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pip-dash",
+      "keywords": [
+        "pip dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/typing-speed-master",
+      "keywords": [
+        "typing speed master"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/slime-factory-defense",
+      "keywords": [
+        "slime factory defense"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/rockonaut",
+      "keywords": [
+        "rockonaut"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/whiskfire",
+      "keywords": [
+        "whiskfire"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/demolition-dash",
+      "keywords": [
+        "demolition dash"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/word-quest-daily",
+      "keywords": [
+        "word quest daily"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/mouse-trap-hero",
+      "keywords": [
+        "mouse trap hero"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/flow-connect-puzzle",
+      "keywords": [
+        "flow connect puzzle"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/fly-bird-again",
+      "keywords": [
+        "fly bird again"
+      ]
+    },
+    {
+      "url": "https://www.gamepix.com/play/pawtisserie-idle-bakery",
+      "keywords": [
+        "pawtisserie idle bakery"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "matchday striker",
+    "supercar",
+    "barber simulator asmr haircut",
+    "santa s christmas gift",
+    "egg heist steal the nest",
+    "gleam orbit",
+    "arrows ruins tower archers",
+    "blockade board offline",
+    "echo lantern",
+    "mochi road",
+    "shatterwake",
+    "ember3 3d minesweeper",
+    "last circle",
+    "tiny wizard",
+    "block puzzle classic",
+    "mutant arena",
+    "boost breaker",
+    "gran zoorismo",
+    "desi chai stall sort",
+    "tris xo",
+    "nitro rush 3d",
+    "cursed outfitters no refunds",
+    "core rush deep drill miner",
+    "where s gloop",
+    "illegal soccer ball",
+    "lobo archer",
+    "logia lautaro",
+    "wiggle out",
+    "brainrot fighting",
+    "counterweight",
+    "meatball run",
+    "ghost shift the last night",
+    "haunted haveli night escape",
+    "bowling strike",
+    "kingdom defense last stand",
+    "one wrong step",
+    "unbolt run",
+    "oddygons",
+    "monster rampage 3d",
+    "cafe de ensueno",
+    "frost fair",
+    "plush tower",
+    "veggie pop",
+    "hq holdout",
+    "penalty shoot",
+    "snackdown",
+    "pink slip kings",
+    "lintball io",
+    "bonacaud the last summoning",
+    "cubie guys",
+    "couch sumo",
+    "flailstorm",
+    "dart ranger",
+    "starlit words",
+    "stack tower 2027",
+    "soul hunter",
+    "thistledown market",
+    "pip dash",
+    "typing speed master",
+    "slime factory defense",
+    "rockonaut",
+    "whiskfire",
+    "demolition dash",
+    "word quest daily",
+    "mouse trap hero",
+    "flow connect puzzle",
+    "fly bird again",
+    "pawtisserie idle bakery"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-22",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/balloon-jam-420914",
+      "keywords": [
+        "balloon jam"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/poppy-puzzle-merge-445902",
+      "keywords": [
+        "poppy puzzle merge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/water-trap-escape-501332",
+      "keywords": [
+        "water trap escape"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "balloon jam",
+    "poppy puzzle merge",
+    "water trap escape"
+  ]
+}

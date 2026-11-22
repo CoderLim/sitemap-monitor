@@ -1,8 +1,20 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-21T21:29:48.927585+00:00",
+  "fetched_at": "2026-11-22T21:37:12.235324+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/draw-cat",
+      "keywords": [
+        "draw cat"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/goose-taxi",
+      "keywords": [
+        "goose taxi"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/power-line-tycoon",
       "keywords": [
@@ -523,12 +535,6 @@
       "url": "https://poki.com/en/g/build-a-bud",
       "keywords": [
         "build a bud"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/draw-cat",
-      "keywords": [
-        "draw cat"
       ]
     },
     {
