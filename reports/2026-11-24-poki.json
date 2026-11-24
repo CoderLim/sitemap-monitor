@@ -1,0 +1,31 @@
+{
+  "site_id": "poki",
+  "date": "2026-11-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/sprint-bridge",
+      "keywords": [
+        "sprint bridge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/mahjong-ultimate",
+      "keywords": [
+        "mahjong ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/kaiju-rumble",
+      "keywords": [
+        "kaiju rumble"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "sprint bridge",
+    "mahjong ultimate",
+    "kaiju rumble"
+  ]
+}

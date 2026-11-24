@@ -1,8 +1,38 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-22T21:37:12.235324+00:00",
+  "fetched_at": "2026-11-24T02:47:17.650735+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/star-chase-clicker",
+      "keywords": [
+        "star chase clicker"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/sprint-bridge",
+      "keywords": [
+        "sprint bridge"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/mahjong-ultimate",
+      "keywords": [
+        "mahjong ultimate"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/connect-2-balls",
+      "keywords": [
+        "connect 2 balls"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/kaiju-rumble",
+      "keywords": [
+        "kaiju rumble"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/draw-cat",
       "keywords": [
@@ -244,21 +274,9 @@
       ]
     },
     {
-      "url": "https://poki.com/en/g/connect-2-balls",
-      "keywords": [
-        "connect 2 balls"
-      ]
-    },
-    {
       "url": "https://poki.com/en/g/adopt-merge",
       "keywords": [
         "adopt merge"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/star-chase-clicker",
-      "keywords": [
-        "star chase clicker"
       ]
     },
     {

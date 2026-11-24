@@ -1,0 +1,51 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/cozy-toss",
+      "keywords": [
+        "cozy toss"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ss-car-parking",
+      "keywords": [
+        "ss car parking"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bubble-realms",
+      "keywords": [
+        "bubble realms"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-hexagon",
+      "keywords": [
+        "merge hexagon"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mini-golf",
+      "keywords": [
+        "mini golf"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/megamini",
+      "keywords": [
+        "megamini"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "cozy toss",
+    "ss car parking",
+    "bubble realms",
+    "merge hexagon",
+    "megamini"
+  ]
+}

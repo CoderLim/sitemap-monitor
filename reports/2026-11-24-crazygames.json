@@ -1,0 +1,81 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-24",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/letter-minute",
+      "keywords": [
+        "letter minute"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wild-west-city-building-sim",
+      "keywords": [
+        "wild west city building sim"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/dig-for-the-lost-drive",
+      "keywords": [
+        "dig for the lost drive"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/king-of-spin",
+      "keywords": [
+        "king of spin"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/banana-banh-mi",
+      "keywords": [
+        "banana banh mi"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/clean-the-moon-spd",
+      "keywords": [
+        "clean the moon spd"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/krater",
+      "keywords": [
+        "krater"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/crack-the-egg",
+      "keywords": [
+        "crack the egg"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/train-simulator-3d-rvh",
+      "keywords": [
+        "train simulator 3d rvh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/with-friends/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/multiplayer/5",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "letter minute",
+    "wild west city building sim",
+    "dig for the lost drive",
+    "king of spin",
+    "banana banh mi",
+    "clean the moon spd",
+    "krater",
+    "crack the egg",
+    "train simulator 3d rvh"
+  ]
+}

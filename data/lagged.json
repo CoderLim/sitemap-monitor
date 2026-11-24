@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-11-22T21:37:12.235324+00:00",
+  "fetched_at": "2026-11-24T02:47:17.650735+00:00",
   "baseline": false,
   "urls": [
     {
@@ -68338,6 +68338,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/cozy-toss",
+      "keywords": [
+        "cozy toss"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/noob-rolling-balls",
       "keywords": [
         "noob rolling balls"
@@ -68428,9 +68434,33 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/ss-car-parking",
+      "keywords": [
+        "ss car parking"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/bubble-realms",
+      "keywords": [
+        "bubble realms"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/escape-from-playtime",
       "keywords": [
         "escape from playtime"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/merge-hexagon",
+      "keywords": [
+        "merge hexagon"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mini-golf",
+      "keywords": [
+        "mini golf"
       ]
     },
     {
@@ -68443,6 +68473,12 @@
       "url": "https://lagged.com/en/g/prison-escape",
       "keywords": [
         "prison escape"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/megamini",
+      "keywords": [
+        "megamini"
       ]
     },
     {
