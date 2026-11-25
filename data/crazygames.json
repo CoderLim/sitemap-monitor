@@ -1,6 +1,6 @@
 {
   "site_id": "crazygames",
-  "fetched_at": "2026-11-24T02:47:17.650735+00:00",
+  "fetched_at": "2026-11-25T00:27:14.609140+00:00",
   "baseline": false,
   "urls": [
     {
@@ -6507,6 +6507,12 @@
       "url": "https://www.crazygames.com/game/big-flappy-tower-vs-tiny-square",
       "keywords": [
         "big flappy tower vs tiny square"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pool-bubbles",
+      "keywords": [
+        "pool bubbles"
       ]
     },
     {
@@ -16320,6 +16326,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/underwater-heist-wrm",
+      "keywords": [
+        "underwater heist wrm"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/country-hopper",
       "keywords": [
         "country hopper"
@@ -16749,12 +16761,6 @@
       "url": "https://www.crazygames.com/game/tracesoccer-ubc",
       "keywords": [
         "tracesoccer ubc"
-      ]
-    },
-    {
-      "url": "https://www.crazygames.com/game/survival-rush",
-      "keywords": [
-        "survival rush"
       ]
     },
     {
@@ -27042,12 +27048,6 @@
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/yapzle",
-      "keywords": [
-        "yapzle"
-      ]
-    },
-    {
       "url": "https://www.crazygames.com/game/dungeon-click-ogt",
       "keywords": [
         "dungeon click ogt"
@@ -28170,6 +28170,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/lucky-block-dino-fight",
+      "keywords": [
+        "lucky block dino fight"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/saltyseas-io",
       "keywords": [
         "saltyseas io"
@@ -28380,6 +28386,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/tnt-boom-world",
+      "keywords": [
+        "tnt boom world"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/cube-strike-ofh",
       "keywords": [
         "cube strike ofh"
@@ -28542,6 +28554,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/fidget-spinner-idle-mtd",
+      "keywords": [
+        "fidget spinner idle mtd"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/knuckle-breakout",
       "keywords": [
         "knuckle breakout"
@@ -28692,6 +28710,12 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/game/escape-the-giant-cat-mco",
+      "keywords": [
+        "escape the giant cat mco"
+      ]
+    },
+    {
       "url": "https://www.crazygames.com/game/feed-the-fire-kgr",
       "keywords": [
         "feed the fire kgr"
@@ -28827,6 +28851,12 @@
       "url": "https://www.crazygames.com/game/the-king-lqh",
       "keywords": [
         "the king lqh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-bakery-cafe",
+      "keywords": [
+        "idle bakery cafe"
       ]
     },
     {
@@ -29115,6 +29145,24 @@
       "url": "https://www.crazygames.com/game/train-simulator-3d-rvh",
       "keywords": [
         "train simulator 3d rvh"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/eggcavation",
+      "keywords": [
+        "eggcavation"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/last-lift-ytv",
+      "keywords": [
+        "last lift ytv"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/asmr-relaxing-mini-games",
+      "keywords": [
+        "asmr relaxing mini games"
       ]
     },
     {
@@ -31034,6 +31082,10 @@
       ]
     },
     {
+      "url": "https://www.crazygames.com/t/cat/2",
+      "keywords": []
+    },
+    {
       "url": "https://www.crazygames.com/t/solitaire",
       "keywords": [
         "solitaire"
@@ -31193,10 +31245,6 @@
     },
     {
       "url": "https://www.crazygames.com/t/with-friends/4",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/t/with-friends/5",
       "keywords": []
     },
     {
@@ -32285,10 +32333,6 @@
     },
     {
       "url": "https://www.crazygames.com/multiplayer/4",
-      "keywords": []
-    },
-    {
-      "url": "https://www.crazygames.com/multiplayer/5",
       "keywords": []
     },
     {

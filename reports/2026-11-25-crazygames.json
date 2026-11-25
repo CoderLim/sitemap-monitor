@@ -1,0 +1,84 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/pool-bubbles",
+      "keywords": [
+        "pool bubbles"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/underwater-heist-wrm",
+      "keywords": [
+        "underwater heist wrm"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/lucky-block-dino-fight",
+      "keywords": [
+        "lucky block dino fight"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/tnt-boom-world",
+      "keywords": [
+        "tnt boom world"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/fidget-spinner-idle-mtd",
+      "keywords": [
+        "fidget spinner idle mtd"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/escape-the-giant-cat-mco",
+      "keywords": [
+        "escape the giant cat mco"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/idle-bakery-cafe",
+      "keywords": [
+        "idle bakery cafe"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/eggcavation",
+      "keywords": [
+        "eggcavation"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/last-lift-ytv",
+      "keywords": [
+        "last lift ytv"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/asmr-relaxing-mini-games",
+      "keywords": [
+        "asmr relaxing mini games"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/cat/2",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "pool bubbles",
+    "underwater heist wrm",
+    "lucky block dino fight",
+    "tnt boom world",
+    "fidget spinner idle mtd",
+    "escape the giant cat mco",
+    "idle bakery cafe",
+    "eggcavation",
+    "last lift ytv",
+    "asmr relaxing mini games"
+  ]
+}

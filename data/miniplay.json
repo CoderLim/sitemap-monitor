@@ -1,8 +1,74 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-24T02:47:17.650735+00:00",
+  "fetched_at": "2026-11-25T00:27:14.609140+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/road-brawl",
+      "keywords": [
+        "road brawl"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/throw-food-for-animals",
+      "keywords": [
+        "throw food for animals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jojo-vs-street-fighter",
+      "keywords": [
+        "jojo vs street fighter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/k-pop-hunters-rumi-huntrix-vs-demons",
+      "keywords": [
+        "k pop hunters rumi huntrix vs demons"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/nock-nock-loose",
+      "keywords": [
+        "nock nock loose"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-all-eggs",
+      "keywords": [
+        "steal all eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/xfps",
+      "keywords": [
+        "xfps"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/swat-ops-bodycamera",
+      "keywords": [
+        "swat ops bodycamera"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/pickle-rally",
+      "keywords": [
+        "pickle rally"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/space-wars-battleground",
+      "keywords": [
+        "space wars battleground"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hyperspin",
+      "keywords": [
+        "hyperspin"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/bayday-io",
       "keywords": [
@@ -181,12 +247,6 @@
       "url": "https://www.miniplay.com/game/edwins-misadventure",
       "keywords": [
         "edwins misadventure"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/pickle-rally",
-      "keywords": [
-        "pickle rally"
       ]
     },
     {
@@ -22595,12 +22655,6 @@
       "url": "https://www.miniplay.com/game/cartoon-moto-stunt",
       "keywords": [
         "cartoon moto stunt"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/space-wars-battleground",
-      "keywords": [
-        "space wars battleground"
       ]
     },
     {

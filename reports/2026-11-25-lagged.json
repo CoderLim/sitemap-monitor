@@ -1,0 +1,52 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/treasure-hunting-simulator",
+      "keywords": [
+        "treasure hunting simulator"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/jelly-pet-puppy",
+      "keywords": [
+        "jelly pet puppy"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/broken-computer",
+      "keywords": [
+        "broken computer"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/gravity-drift",
+      "keywords": [
+        "gravity drift"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/splash-rivals",
+      "keywords": [
+        "splash rivals"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/little-ninja-dash",
+      "keywords": [
+        "little ninja dash"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "treasure hunting simulator",
+    "jelly pet puppy",
+    "broken computer",
+    "gravity drift",
+    "splash rivals",
+    "little ninja dash"
+  ]
+}

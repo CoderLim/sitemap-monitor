@@ -1,0 +1,73 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-25",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/road-brawl",
+      "keywords": [
+        "road brawl"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/throw-food-for-animals",
+      "keywords": [
+        "throw food for animals"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/jojo-vs-street-fighter",
+      "keywords": [
+        "jojo vs street fighter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/k-pop-hunters-rumi-huntrix-vs-demons",
+      "keywords": [
+        "k pop hunters rumi huntrix vs demons"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/nock-nock-loose",
+      "keywords": [
+        "nock nock loose"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/steal-all-eggs",
+      "keywords": [
+        "steal all eggs"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/xfps",
+      "keywords": [
+        "xfps"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/swat-ops-bodycamera",
+      "keywords": [
+        "swat ops bodycamera"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hyperspin",
+      "keywords": [
+        "hyperspin"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "road brawl",
+    "throw food for animals",
+    "jojo vs street fighter",
+    "k pop hunters rumi huntrix vs demons",
+    "nock nock loose",
+    "steal all eggs",
+    "xfps",
+    "swat ops bodycamera",
+    "hyperspin"
+  ]
+}
