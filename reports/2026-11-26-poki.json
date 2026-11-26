@@ -1,0 +1,17 @@
+{
+  "site_id": "poki",
+  "date": "2026-11-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/bufo-jump",
+      "keywords": [
+        "bufo jump"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "bufo jump"
+  ]
+}

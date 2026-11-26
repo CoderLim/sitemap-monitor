@@ -1,0 +1,96 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/elf-factory-tycoon",
+      "keywords": [
+        "elf factory tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/fish-story-rkj",
+      "keywords": [
+        "fish story rkj"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pop-the-bubble",
+      "keywords": [
+        "pop the bubble"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/wild-trial",
+      "keywords": [
+        "wild trial"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/block-blitz-rby",
+      "keywords": [
+        "block blitz rby"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/evolution-simulator-jzs",
+      "keywords": [
+        "evolution simulator jzs"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/beach-party-life",
+      "keywords": [
+        "beach party life"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/pocket-dino-world-clicker",
+      "keywords": [
+        "pocket dino world clicker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/kingdoms-chaos-sandbox",
+      "keywords": [
+        "kingdoms chaos sandbox"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/galaxy-chaos-sandbox",
+      "keywords": [
+        "galaxy chaos sandbox"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/mobile/50",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/t/with-friends/5",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/c/arcade/14",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/multiplayer/5",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "elf factory tycoon",
+    "fish story rkj",
+    "pop the bubble",
+    "wild trial",
+    "block blitz rby",
+    "evolution simulator jzs",
+    "beach party life",
+    "pocket dino world clicker",
+    "kingdoms chaos sandbox",
+    "galaxy chaos sandbox"
+  ]
+}

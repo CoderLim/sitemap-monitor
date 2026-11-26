@@ -1,0 +1,45 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/vesper-survival-mod",
+      "keywords": [
+        "vesper survival mod"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/aroeira-night-of-cordel",
+      "keywords": [
+        "aroeira night of cordel"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/cozy-gnomes",
+      "keywords": [
+        "cozy gnomes"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ant-rush",
+      "keywords": [
+        "ant rush"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/ellies-thanksgiving-feast-party",
+      "keywords": [
+        "ellies thanksgiving feast party"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "vesper survival mod",
+    "aroeira night of cordel",
+    "cozy gnomes",
+    "ant rush",
+    "ellies thanksgiving feast party"
+  ]
+}

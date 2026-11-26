@@ -1,12 +1,72 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-25T00:27:14.609140+00:00",
+  "fetched_at": "2026-11-26T00:02:17.171397+00:00",
   "baseline": false,
   "urls": [
     {
       "url": "https://www.miniplay.com/game/road-brawl",
       "keywords": [
         "road brawl"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/panic-roll",
+      "keywords": [
+        "panic roll"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/bayday-io",
+      "keywords": [
+        "bayday io"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/car-fishing-mechanics-reborn",
+      "keywords": [
+        "car fishing mechanics reborn"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/my-giant-sandwich",
+      "keywords": [
+        "my giant sandwich"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/army-simulator-build-and-defend",
+      "keywords": [
+        "army simulator build and defend"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/street-fighter",
+      "keywords": [
+        "street fighter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lambs-apart",
+      "keywords": [
+        "lambs apart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/204snake",
+      "keywords": [
+        "204snake"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/soccer-bros",
+      "keywords": [
+        "soccer bros"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/juggle-stars",
+      "keywords": [
+        "juggle stars"
       ]
     },
     {
@@ -67,12 +127,6 @@
       "url": "https://www.miniplay.com/game/hyperspin",
       "keywords": [
         "hyperspin"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/bayday-io",
-      "keywords": [
-        "bayday io"
       ]
     },
     {
@@ -295,12 +349,6 @@
       "url": "https://www.miniplay.com/game/scopa",
       "keywords": [
         "scopa"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/panic-roll",
-      "keywords": [
-        "panic roll"
       ]
     },
     {
@@ -1357,12 +1405,6 @@
       "url": "https://www.miniplay.com/game/bowmasters",
       "keywords": [
         "bowmasters"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/army-simulator-build-and-defend",
-      "keywords": [
-        "army simulator build and defend"
       ]
     },
     {
@@ -3907,12 +3949,6 @@
       "url": "https://www.miniplay.com/game/drift-idle-drift-earn-upgrade",
       "keywords": [
         "drift idle drift earn upgrade"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/soccer-bros",
-      "keywords": [
-        "soccer bros"
       ]
     },
     {
@@ -56150,15 +56186,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/klondike",
-      "keywords": [
-        "klondike"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/hexa-puzzle-deluxe",
       "keywords": [
         "hexa puzzle deluxe"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/klondike",
+      "keywords": [
+        "klondike"
       ]
     },
     {

@@ -1,0 +1,52 @@
+{
+  "site_id": "miniplay",
+  "date": "2026-11-26",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.miniplay.com/game/car-fishing-mechanics-reborn",
+      "keywords": [
+        "car fishing mechanics reborn"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/my-giant-sandwich",
+      "keywords": [
+        "my giant sandwich"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/street-fighter",
+      "keywords": [
+        "street fighter"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/lambs-apart",
+      "keywords": [
+        "lambs apart"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/204snake",
+      "keywords": [
+        "204snake"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/juggle-stars",
+      "keywords": [
+        "juggle stars"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "car fishing mechanics reborn",
+    "my giant sandwich",
+    "street fighter",
+    "lambs apart",
+    "204snake",
+    "juggle stars"
+  ]
+}
