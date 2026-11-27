@@ -1,8 +1,38 @@
 {
   "site_id": "poki",
-  "fetched_at": "2026-11-26T00:02:17.171397+00:00",
+  "fetched_at": "2026-11-27T00:23:28.122370+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://poki.com/en/g/machine-eater",
+      "keywords": [
+        "machine eater"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/boba-please",
+      "keywords": [
+        "boba please"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/loopers",
+      "keywords": [
+        "loopers"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/fish-to-survive",
+      "keywords": [
+        "fish to survive"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/rope-man",
+      "keywords": [
+        "rope man"
+      ]
+    },
     {
       "url": "https://poki.com/en/g/bufo-jump",
       "keywords": [
@@ -265,12 +295,6 @@
       "url": "https://poki.com/en/g/crown-hunters",
       "keywords": [
         "crown hunters"
-      ]
-    },
-    {
-      "url": "https://poki.com/en/g/fish-to-survive",
-      "keywords": [
-        "fish to survive"
       ]
     },
     {

@@ -1,0 +1,45 @@
+{
+  "site_id": "playhop",
+  "date": "2026-11-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://playhop.com/app/tatu-salon-nubika-371142",
+      "keywords": [
+        "tatu salon nubika"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/bow-master-476677",
+      "keywords": [
+        "bow master"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/zombie-blast-survivor-521016",
+      "keywords": [
+        "zombie blast survivor"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/pocket-master-ultimate-pool-challenge-521022",
+      "keywords": [
+        "pocket master ultimate pool challenge"
+      ]
+    },
+    {
+      "url": "https://playhop.com/app/begi-i-sobirai-monety-543270",
+      "keywords": [
+        "begi i sobirai monety"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "tatu salon nubika",
+    "bow master",
+    "zombie blast survivor",
+    "pocket master ultimate pool challenge",
+    "begi i sobirai monety"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "site_id": "poki",
+  "date": "2026-11-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://poki.com/en/g/machine-eater",
+      "keywords": [
+        "machine eater"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/boba-please",
+      "keywords": [
+        "boba please"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/loopers",
+      "keywords": [
+        "loopers"
+      ]
+    },
+    {
+      "url": "https://poki.com/en/g/rope-man",
+      "keywords": [
+        "rope man"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "machine eater",
+    "boba please",
+    "loopers",
+    "rope man"
+  ]
+}

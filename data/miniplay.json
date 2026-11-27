@@ -1,8 +1,56 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-26T00:02:17.171397+00:00",
+  "fetched_at": "2026-11-27T00:23:28.122370+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/paint-my-keyboard",
+      "keywords": [
+        "paint my keyboard"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/five-nights-at-frickbears-3-four-layers-down",
+      "keywords": [
+        "five nights at frickbears 3 four layers down"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/paper-bike-race-motocross",
+      "keywords": [
+        "paper bike race motocross"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/rhythm-dash-2-inferno",
+      "keywords": [
+        "rhythm dash 2 inferno"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/shift-parkour",
+      "keywords": [
+        "shift parkour"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/wreckbox",
+      "keywords": [
+        "wreckbox"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/kirby-soft-wet",
+      "keywords": [
+        "kirby soft wet"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/koma",
+      "keywords": [
+        "koma"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/road-brawl",
       "keywords": [
@@ -1507,12 +1555,6 @@
       "url": "https://www.miniplay.com/game/librarian",
       "keywords": [
         "librarian"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/paint-my-keyboard",
-      "keywords": [
-        "paint my keyboard"
       ]
     },
     {
@@ -31448,12 +31490,6 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/incredibox",
-      "keywords": [
-        "incredibox"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/hit-boxing-3d",
       "keywords": [
         "hit boxing 3d"
@@ -56186,15 +56222,15 @@
       ]
     },
     {
-      "url": "https://www.miniplay.com/game/hexa-puzzle-deluxe",
-      "keywords": [
-        "hexa puzzle deluxe"
-      ]
-    },
-    {
       "url": "https://www.miniplay.com/game/klondike",
       "keywords": [
         "klondike"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/hexa-puzzle-deluxe",
+      "keywords": [
+        "hexa puzzle deluxe"
       ]
     },
     {

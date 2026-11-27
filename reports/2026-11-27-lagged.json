@@ -1,0 +1,31 @@
+{
+  "site_id": "lagged",
+  "date": "2026-11-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://lagged.com/en/g/kuron-ren-findy-journey",
+      "keywords": [
+        "kuron ren findy journey"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/celebrity-thanksgiving-prep",
+      "keywords": [
+        "celebrity thanksgiving prep"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/grandma-saw-that",
+      "keywords": [
+        "grandma saw that"
+      ]
+    }
+  ],
+  "new_keywords": [
+    "kuron ren findy journey",
+    "celebrity thanksgiving prep",
+    "grandma saw that"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "site_id": "crazygames",
+  "date": "2026-11-27",
+  "error": null,
+  "is_baseline": false,
+  "new_urls": [
+    {
+      "url": "https://www.crazygames.com/game/gear-defense",
+      "keywords": [
+        "gear defense"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/volleyball-king",
+      "keywords": [
+        "volleyball king"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sea-of-pirates-wgp",
+      "keywords": [
+        "sea of pirates wgp"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sea-rush-wgd",
+      "keywords": [
+        "sea rush wgd"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-sneeze-escape-1",
+      "keywords": [
+        "obby sneeze escape 1"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/gownmaker",
+      "keywords": [
+        "gownmaker"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/fly-up",
+      "keywords": [
+        "fly up"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sky-carrier-jet-fighter",
+      "keywords": [
+        "sky carrier jet fighter"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/sunrise-hospital-tycoon",
+      "keywords": [
+        "sunrise hospital tycoon"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/game/obby-swim-for-egg-rdf",
+      "keywords": [
+        "obby swim for egg rdf"
+      ]
+    },
+    {
+      "url": "https://www.crazygames.com/t/multiplayer/8",
+      "keywords": []
+    },
+    {
+      "url": "https://www.crazygames.com/multiplayer/8?tab=multiplayer",
+      "keywords": []
+    }
+  ],
+  "new_keywords": [
+    "gear defense",
+    "volleyball king",
+    "sea of pirates wgp",
+    "sea rush wgd",
+    "obby sneeze escape 1",
+    "gownmaker",
+    "fly up",
+    "sky carrier jet fighter",
+    "sunrise hospital tycoon",
+    "obby swim for egg rdf"
+  ]
+}
