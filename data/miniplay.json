@@ -1,8 +1,38 @@
 {
   "site_id": "miniplay",
-  "fetched_at": "2026-11-27T00:23:28.122370+00:00",
+  "fetched_at": "2026-11-27T23:56:33.943562+00:00",
   "baseline": false,
   "urls": [
+    {
+      "url": "https://www.miniplay.com/game/road-brawl",
+      "keywords": [
+        "road brawl"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/ride-a-pet",
+      "keywords": [
+        "ride a pet"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/cartoon-network-vs-nickelodeon",
+      "keywords": [
+        "cartoon network vs nickelodeon"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/idle-fantasy",
+      "keywords": [
+        "idle fantasy"
+      ]
+    },
+    {
+      "url": "https://www.miniplay.com/game/capy-cafe",
+      "keywords": [
+        "capy cafe"
+      ]
+    },
     {
       "url": "https://www.miniplay.com/game/paint-my-keyboard",
       "keywords": [
@@ -49,12 +79,6 @@
       "url": "https://www.miniplay.com/game/koma",
       "keywords": [
         "koma"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/road-brawl",
-      "keywords": [
-        "road brawl"
       ]
     },
     {
@@ -1051,12 +1075,6 @@
       "url": "https://www.miniplay.com/game/duelist-pvp",
       "keywords": [
         "duelist pvp"
-      ]
-    },
-    {
-      "url": "https://www.miniplay.com/game/ride-a-pet",
-      "keywords": [
-        "ride a pet"
       ]
     },
     {

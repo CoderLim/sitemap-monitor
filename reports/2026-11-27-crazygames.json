@@ -5,84 +5,87 @@
   "is_baseline": false,
   "new_urls": [
     {
-      "url": "https://www.crazygames.com/game/gear-defense",
+      "url": "https://www.crazygames.com/game/state-connect",
       "keywords": [
-        "gear defense"
+        "state connect"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/volleyball-king",
+      "url": "https://www.crazygames.com/game/animal-warfare",
       "keywords": [
-        "volleyball king"
+        "animal warfare"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/sea-of-pirates-wgp",
+      "url": "https://www.crazygames.com/game/king-and-socery",
       "keywords": [
-        "sea of pirates wgp"
+        "king and socery"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/sea-rush-wgd",
+      "url": "https://www.crazygames.com/game/penalty-clash-mdg",
       "keywords": [
-        "sea rush wgd"
+        "penalty clash mdg"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-sneeze-escape-1",
+      "url": "https://www.crazygames.com/game/army-battalion-zombie-defense-fao",
       "keywords": [
-        "obby sneeze escape 1"
+        "army battalion zombie defense fao"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/gownmaker",
+      "url": "https://www.crazygames.com/game/city-tycoon-2-0",
       "keywords": [
-        "gownmaker"
+        "city tycoon 2 0"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/fly-up",
+      "url": "https://www.crazygames.com/game/stick-arsenal-qqq",
       "keywords": [
-        "fly up"
+        "stick arsenal qqq"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/sky-carrier-jet-fighter",
+      "url": "https://www.crazygames.com/game/keycap-cats",
       "keywords": [
-        "sky carrier jet fighter"
+        "keycap cats"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/sunrise-hospital-tycoon",
+      "url": "https://www.crazygames.com/game/nail-art-asmr-manicure-salon",
       "keywords": [
-        "sunrise hospital tycoon"
+        "nail art asmr manicure salon"
       ]
     },
     {
-      "url": "https://www.crazygames.com/game/obby-swim-for-egg-rdf",
+      "url": "https://www.crazygames.com/game/dig-to-china-vny",
       "keywords": [
-        "obby swim for egg rdf"
+        "dig to china vny"
       ]
     },
     {
-      "url": "https://www.crazygames.com/t/multiplayer/8",
-      "keywords": []
+      "url": "https://www.crazygames.com/game/mechamagnet-io-jby",
+      "keywords": [
+        "mechamagnet io jby"
+      ]
     },
     {
-      "url": "https://www.crazygames.com/multiplayer/8?tab=multiplayer",
+      "url": "https://www.crazygames.com/t/robot/2",
       "keywords": []
     }
   ],
   "new_keywords": [
-    "gear defense",
-    "volleyball king",
-    "sea of pirates wgp",
-    "sea rush wgd",
-    "obby sneeze escape 1",
-    "gownmaker",
-    "fly up",
-    "sky carrier jet fighter",
-    "sunrise hospital tycoon",
-    "obby swim for egg rdf"
+    "state connect",
+    "animal warfare",
+    "king and socery",
+    "penalty clash mdg",
+    "army battalion zombie defense fao",
+    "city tycoon 2 0",
+    "stick arsenal qqq",
+    "keycap cats",
+    "nail art asmr manicure salon",
+    "dig to china vny",
+    "mechamagnet io jby"
   ]
 }

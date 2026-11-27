@@ -1,6 +1,6 @@
 {
   "site_id": "lagged",
-  "fetched_at": "2026-11-27T00:23:28.122370+00:00",
+  "fetched_at": "2026-11-27T23:56:33.943562+00:00",
   "baseline": false,
   "urls": [
     {
@@ -68416,6 +68416,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/army-evolution-merge--tactics",
+      "keywords": [
+        "army evolution merge tactics"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/akagram",
       "keywords": [
         "akagram"
@@ -68482,6 +68488,12 @@
       ]
     },
     {
+      "url": "https://lagged.com/en/g/bullseye-idle",
+      "keywords": [
+        "bullseye idle"
+      ]
+    },
+    {
       "url": "https://lagged.com/en/g/bubble-realms",
       "keywords": [
         "bubble realms"
@@ -68539,6 +68551,12 @@
       "url": "https://lagged.com/en/g/ant-rush",
       "keywords": [
         "ant rush"
+      ]
+    },
+    {
+      "url": "https://lagged.com/en/g/mine-way",
+      "keywords": [
+        "mine way"
       ]
     },
     {
